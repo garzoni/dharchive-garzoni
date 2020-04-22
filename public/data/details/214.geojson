@@ -1,0 +1,1032 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/214.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "11803114-f519-404a-bd62-475b6d8490b6",
+    "contract_date": "1575-01-16",
+    "workshop_parish": "San Felice",
+    "master_name": "Andrea",
+    "apprentice_name": "Francesco Santa Iustina, quondam Zuane",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ccb0cb3b-0ad7-4d6d-9906-c3550cea6b3d",
+    "contract_date": "1575-02-15",
+    "workshop_parish": "San Felice",
+    "master_name": "Andrea, di Zuane",
+    "apprentice_name": "Santto, quondam Bernardo",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5ff0680a-8be7-4078-9f23-0ee9591a9c18",
+    "contract_date": "1575-06-16",
+    "workshop_parish": "San Felice",
+    "master_name": "Bortholo, di Zuane",
+    "apprentice_name": "Michiel Della Pertega, quondam Iacomo (di Baldin)",
+    "apprentice_origin_name": "Udine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "00b57234-fdb1-4411-92c3-5517089f3fc5",
+    "contract_date": "1575-08-08",
+    "workshop_parish": "San Felice",
+    "master_name": "Battista Frachassin",
+    "apprentice_name": "Bortholo Corso, quondam Zuane",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "73a20a6d-9dfd-4a52-a4b9-b0d3e4090fbc",
+    "contract_date": "1575-08-08",
+    "workshop_parish": "San Felice",
+    "master_name": "Domenego, di Marco? (di Nadal)",
+    "apprentice_name": "Domenego, di Ludovico",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c684277e-a474-4ac3-a5a9-394d9ef6734c",
+    "contract_date": "1575-09-10",
+    "workshop_parish": "San Felice",
+    "master_name": "Iacomo Bonaf\u00e8, quondam Augustin",
+    "apprentice_name": "Milan, quondam Antonio",
+    "apprentice_origin_name": "Nago-Torbole"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7c0445dd-1066-4ddf-8ea5-787c28753b9c",
+    "contract_date": "1582-01-18",
+    "workshop_parish": "San Felice",
+    "master_name": "Anzollo",
+    "apprentice_name": "Bertolamio Viviani, di Gerolamo",
+    "apprentice_origin_name": "Calvagese della Riviera"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6b36517e-011f-4e49-9cba-6eb7354b0191",
+    "contract_date": "1582-08-25",
+    "workshop_parish": "San Felice",
+    "master_name": "Francesco ",
+    "apprentice_name": "Lorenzo, di Menegin",
+    "apprentice_origin_name": "Mira"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b2573821-b89d-4e9c-8bf4-ff27df17ae73",
+    "contract_date": "1582-09-03",
+    "workshop_parish": "San Felice",
+    "master_name": "Marco",
+    "apprentice_name": "Donao Naracio?, di Vielmo",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7b9c8ca4-039e-4497-96ad-e65ef5bc0e12",
+    "contract_date": "1582-12-22",
+    "workshop_parish": "San Felice",
+    "master_name": "Isepo Basello",
+    "apprentice_name": "Francesco Cader, di Antonio",
+    "apprentice_origin_name": "Palazzolo sull'Oglio"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9411ed43-fde3-4f50-af1a-69971cb691a1",
+    "contract_date": "1583-04-13",
+    "workshop_parish": "San Felice",
+    "master_name": "Gasparo",
+    "apprentice_name": "Zuane, di Marco Antonio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5b2e3d44-065d-4b50-87b3-ee9f168ecf7c",
+    "contract_date": "1583-04-14",
+    "workshop_parish": "San Felice",
+    "master_name": "Anzollo",
+    "apprentice_name": "Francesco, di Nicollo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0999956e-6384-40d3-8dfd-b80a6270476c",
+    "contract_date": "1583-06-27",
+    "workshop_parish": "San Felice",
+    "master_name": "Spieraindio",
+    "apprentice_name": "Stefano, di Francesco",
+    "apprentice_origin_name": "Cologna Veneta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ef9271a1-f7cf-42d7-9abc-eacc2228766f",
+    "contract_date": "1583-12-05",
+    "workshop_parish": "San Felice",
+    "master_name": "Zaccaria",
+    "apprentice_name": "Piero, quondam Donna",
+    "apprentice_origin_name": "Asolo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "76b86e15-b3d8-440d-907f-4f9599713393",
+    "contract_date": "1584-03-16",
+    "workshop_parish": "San Felice",
+    "master_name": "Spieraindio",
+    "apprentice_name": "Piero, di Piero",
+    "apprentice_origin_name": "Riva del Garda"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "165d4358-c8f8-487b-a40f-95b79cc5219b",
+    "contract_date": "1584-04-19",
+    "workshop_parish": "San Felice",
+    "master_name": "Anzollo",
+    "apprentice_name": "Michiel, quondam Zorzi",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cc3b4f09-9dad-4be2-a1e3-9f5563a3887b",
+    "contract_date": "1584-06-04",
+    "workshop_parish": "San Felice",
+    "master_name": "Antonio",
+    "apprentice_name": "Francesco, quondam Antonio",
+    "apprentice_origin_name": "Trento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d4197b16-1794-4415-9dc7-ed322982f29b",
+    "contract_date": "1584-07-27",
+    "workshop_parish": "San Felice",
+    "master_name": "Sperendio",
+    "apprentice_name": "Zuane Schena, quondam Zamaria",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fbcedac8-2397-4748-8a03-e2dfa39c5773",
+    "contract_date": "1591-02-19",
+    "workshop_parish": "San Felice",
+    "master_name": "Ciprian",
+    "apprentice_name": "Zuane, quondam Antonio",
+    "apprentice_origin_name": "Vallagarina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2b9d50b2-9ff8-4363-8a1b-0534e296f5bb",
+    "contract_date": "1592-01-07",
+    "workshop_parish": "San Felice",
+    "master_name": "Pasin, di Antonio",
+    "apprentice_name": "Bastian, di Zuane",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "abf5bee9-3914-4a24-92d1-6915036e8e59",
+    "contract_date": "1592-03-06",
+    "workshop_parish": "San Felice",
+    "master_name": "Bernardo",
+    "apprentice_name": "Giacomo, di Dionise",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b03daef5-ed59-4f42-b73e-9aea79ae5ed6",
+    "contract_date": "1592-04-11",
+    "workshop_parish": "San Felice",
+    "master_name": "Piero Di Antonini",
+    "apprentice_name": "Matio, quondam Bastian",
+    "apprentice_origin_name": "Cortina D'Ampezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b95ec59d-89dc-4bc0-9da4-772e59c1b8b8",
+    "contract_date": "1592-10-02",
+    "workshop_parish": "San Felice",
+    "master_name": "Antonio, di Zorzi",
+    "apprentice_name": "Antonio Cavarzan, di Menegho",
+    "apprentice_origin_name": "Este"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ef860a6f-35e4-44f2-ad20-0a7bca50465d",
+    "contract_date": "1592-12-04",
+    "workshop_parish": "San Felice",
+    "master_name": "Bernardo",
+    "apprentice_name": "Isepo Tavreti, di Bernardin",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eeac2c94-3192-4687-a558-cf8623211d6d",
+    "contract_date": "1594-07-07",
+    "workshop_parish": "San Felice",
+    "master_name": "Simon",
+    "apprentice_name": "Francesco, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d1e2b475-43b7-47ba-97a8-2ef2bb76065c",
+    "contract_date": "1594-09-06",
+    "workshop_parish": "San Felice",
+    "master_name": "Francesco",
+    "apprentice_name": "Paulo, quondam Battista",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e2cf8d56-d19a-47fa-9917-26712299ce97",
+    "contract_date": "1595-05-30",
+    "workshop_parish": "San Felice",
+    "master_name": "Valerio",
+    "apprentice_name": "Bortolo , quondam Giacomo",
+    "apprentice_origin_name": "Ampezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3f719a2f-e461-43b1-9d17-e8d810ee8f9c",
+    "contract_date": "1596-09-05",
+    "workshop_parish": "San Felice",
+    "master_name": "Antonio",
+    "apprentice_name": "Isabella, di Domenico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "385c33a8-99ed-4af2-9bf0-e4b6102ba714",
+    "contract_date": "1596-10-22",
+    "workshop_parish": "San Felice",
+    "master_name": "Dorigo",
+    "apprentice_name": "Antonia, di Antonio",
+    "apprentice_origin_name": "Castelfranco Veneto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b336c9e9-9b89-4d01-8c17-b2567b840af1",
+    "contract_date": "1596-11-12",
+    "workshop_parish": "San Felice",
+    "master_name": "Cristofollo, di Cristofollo",
+    "apprentice_name": "Chiara, quondam Zuane (di Graciadio)",
+    "apprentice_origin_name": "Muggia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a62a47e1-83fe-4c81-8b54-c889490e6dd9",
+    "contract_date": "1597-06-06",
+    "workshop_parish": "San Felice",
+    "master_name": "Cristofollo",
+    "apprentice_name": "Zuane Di Gaeni, di Bortolamio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d4378529-a888-40f4-9fbe-4b36f4283a78",
+    "contract_date": "1597-09-12",
+    "workshop_parish": "San Felice",
+    "master_name": "Regulo",
+    "apprentice_name": "Fedrigo, quondam Ferigo",
+    "apprentice_origin_name": "Oderzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6b0f54f1-10be-43d2-8d5d-0243014a624a",
+    "contract_date": "1598-07-20",
+    "workshop_parish": "San Felice",
+    "master_name": "Regulo Di Reguli",
+    "apprentice_name": "Francesco Chiocha, di Giulio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3078efa0-4544-4875-961e-dc14f65079b5",
+    "contract_date": "1598-08-26",
+    "workshop_parish": "San Felice",
+    "master_name": "Gicamo",
+    "apprentice_name": "Piero Di Calegeri, di Zamaria",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0151be35-6628-4f54-a1c0-5e407106b15e",
+    "contract_date": "1598-10-19",
+    "workshop_parish": "San Felice",
+    "master_name": "Zanetto, quondam Zorzi; Antonio, quondam Zorzi",
+    "apprentice_name": "Boldo Perra, di Gierolamo (quondam Giacomo)",
+    "apprentice_origin_name": "Portobuffol\u00e9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "45ba02b2-9a84-494d-a07e-f9a6f1c5ecf5",
+    "contract_date": "1598-11-10",
+    "workshop_parish": "San Felice",
+    "master_name": "Valerio",
+    "apprentice_name": "Bortollo, quondam Cristan",
+    "apprentice_origin_name": "Rocca Pietore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2ed89d11-f0ab-4840-a412-e9b80edc7493",
+    "contract_date": "1598-12-19",
+    "workshop_parish": "San Felice",
+    "master_name": "Carlo",
+    "apprentice_name": "Lucio Falreti, quondam Tomaso",
+    "apprentice_origin_name": "Bologna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8269d30b-ab92-470c-a34d-af8c39a86c51",
+    "contract_date": "1607-03-06",
+    "workshop_parish": "San Felice",
+    "master_name": "Valerio",
+    "apprentice_name": "Martin, di Piero",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d70bdf26-d11b-4064-8cb7-60d42ae124d4",
+    "contract_date": "1609-11-16",
+    "workshop_parish": "San Felice",
+    "master_name": "Bertollo",
+    "apprentice_name": "Antonio, quondam Nicol\u00f2",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "41620229-91fd-477e-982c-7c5efcb1091d",
+    "contract_date": "1610-05-21",
+    "workshop_parish": "San Felice",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Zuane  Dall'Anzolo, quondam Luca",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a2f12d00-d4bd-4e1e-91a2-74b4b1e55a55",
+    "contract_date": "1610-06-02",
+    "workshop_parish": "San Felice",
+    "master_name": "Menego ",
+    "apprentice_name": "Giacomo, quondam Domenico",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "da83ca8f-0167-4bad-9c0f-f5dd6410d902",
+    "contract_date": "1620-01-02",
+    "workshop_parish": "San Felice",
+    "master_name": "Domenico",
+    "apprentice_name": "Battista, di Simon",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4c9496b5-bf1b-4c0d-ac46-6c2f63dc84dc",
+    "contract_date": "1620-07-15",
+    "workshop_parish": "San Felice",
+    "master_name": "Flaminio Scala",
+    "apprentice_name": "Antonio Cardoni, quondam Riccardo",
+    "apprentice_origin_name": "Bologna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0bf48bb2-651f-46eb-803b-6a49988ba286",
+    "contract_date": "1620-08-07",
+    "workshop_parish": "San Felice",
+    "master_name": "Pietro Girardi",
+    "apprentice_name": "Zuane Colletti, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fd86f713-87ce-4e10-85c2-92ac1b66d22e",
+    "contract_date": "1621-01-05",
+    "workshop_parish": "San Felice",
+    "master_name": "Francesco Fugaza",
+    "apprentice_name": "Bortolo Lanceta, di Antonio",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "42c958b7-55f6-4d68-a51c-7103fb6fa0d3",
+    "contract_date": "1621-05-25",
+    "workshop_parish": "San Felice",
+    "master_name": "Marco",
+    "apprentice_name": "Gierolamo, quondam Palo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "97ea1b21-356b-408f-aabe-bae2641f5b2f",
+    "contract_date": "1621-06-03",
+    "workshop_parish": "San Felice",
+    "master_name": "Francesco Rizzo",
+    "apprentice_name": "Gierolamo, di Zuane (di Alesandro)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "80cb45ea-f957-41ed-9b71-d0cfdafb1437",
+    "contract_date": "1621-07-10",
+    "workshop_parish": "San Felice",
+    "master_name": "Pietro Girardi",
+    "apprentice_name": "Giacomo Girardi, di Cristofolo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ea97635f-04b4-4c25-ab2f-d50e3d6ac016",
+    "contract_date": "1621-11-03",
+    "workshop_parish": "San Felice",
+    "master_name": "Giovan Battista, di Flavio",
+    "apprentice_name": "Battista Bevilaqua, di Nadalin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e7a76971-4d64-4b85-8759-92230d20c650",
+    "contract_date": "1622-06-08",
+    "workshop_parish": "San Felice",
+    "master_name": "Zuane Rizzo",
+    "apprentice_name": "Camillo di Calvani, quondam Francesco",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5dfa7d59-6f2c-4d5e-a71f-25aea78612ac",
+    "contract_date": "1622-07-20",
+    "workshop_parish": "San Felice",
+    "master_name": "Domenicho",
+    "apprentice_name": "Battista, quondam Martin",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d016d5e1-bb35-42e1-8278-3f4c385f3255",
+    "contract_date": "1626-05-27",
+    "workshop_parish": "San Felice",
+    "master_name": "Francesco Fugazza",
+    "apprentice_name": "Antonio Cantoni, di Bortolo",
+    "apprentice_origin_name": "Val Trompia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "12ba95c8-0968-40de-8e1c-1f1356b4849f",
+    "contract_date": "1626-06-26",
+    "workshop_parish": "San Felice",
+    "master_name": "Antonio Marinoni",
+    "apprentice_name": "Angiolo Benaglia, quondam Horatio",
+    "apprentice_origin_name": "Riviera di Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a62a3502-1065-42f4-be8a-58e662be7da6",
+    "contract_date": "1626-08-19",
+    "workshop_parish": "San Felice",
+    "master_name": "?",
+    "apprentice_name": "Antonio Fedrigozzi, di Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "927f1fed-8f54-4ed5-b74d-419b4319adf9",
+    "contract_date": "1626-11-19",
+    "workshop_parish": "San Felice",
+    "master_name": "Giacomo di Allegri",
+    "apprentice_name": "Vettor Stetti, di Domenico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "79414ce3-5542-4bf5-967f-c603d0217908",
+    "contract_date": "1626-12-16",
+    "workshop_parish": "San Felice",
+    "master_name": "Antonio, quondam Comin",
+    "apprentice_name": "Gioani Covelli, quondam Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3b926c3a-87b7-42d1-a2ef-6084dcbb177d",
+    "contract_date": "1627-03-02",
+    "workshop_parish": "San Felice",
+    "master_name": "Domenico",
+    "apprentice_name": "Giovanni Beslanzo, di Domenico",
+    "apprentice_origin_name": "Badia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e7f4559f-7d50-4a59-b3d9-3e1856414e5a",
+    "contract_date": "1632-05-11",
+    "workshop_parish": "San Felice",
+    "master_name": "Domenico, quondam Valerio",
+    "apprentice_name": "Giacomo Dalla Costa, di Giovanni Paolo",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e48c23a3-8914-4af7-aaa4-7cdd35402c0b",
+    "contract_date": "1644-02-01",
+    "workshop_parish": "San Felice",
+    "master_name": "Giacomo Barcariol, di Dorigo",
+    "apprentice_name": "Zuane Ranizza, di Antonio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cf77404b-8dd3-4e2d-8a92-ebf3379b687c",
+    "contract_date": "1644-08-05",
+    "workshop_parish": "San Felice",
+    "master_name": "Ippolito Gasparini",
+    "apprentice_name": "Antonio Bortoletto, di Alvise",
+    "apprentice_origin_name": "Murano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "84b59f28-2fbc-43b6-87cc-ec1a32d24f92",
+    "contract_date": "1644-11-29",
+    "workshop_parish": "San Felice",
+    "master_name": "Zuane Maria Allegri",
+    "apprentice_name": "Francesco Moreschi, di Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5a49dd76-8ded-4b40-9d1f-1e385376254d",
+    "contract_date": "1645-02-19",
+    "workshop_parish": "San Felice",
+    "master_name": "Iseppo Finardi",
+    "apprentice_name": "Marco Cornazza, di Andrea",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0a749ac5-356c-4255-ae22-b17d3cc094fd",
+    "contract_date": "1645-07-24",
+    "workshop_parish": "San Felice",
+    "master_name": "Nicolo Tonatti",
+    "apprentice_name": "Nicolo Bingran, quondam Pasqual",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f547b603-266d-45c1-a739-027896438877",
+    "contract_date": "1645-12-15",
+    "workshop_parish": "San Felice",
+    "master_name": "Giacomo, quondam Dorigo",
+    "apprentice_name": "Menego Rando, quondam Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ffc09a3-5e36-4859-9c85-e4beb1ce7c74",
+    "contract_date": "1646-05-17",
+    "workshop_parish": "San Felice",
+    "master_name": "Gasparo Gattin",
+    "apprentice_name": "Gabriel Saminiati, quondam Antonio",
+    "apprentice_origin_name": "Murano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "faf83f96-e72e-4253-9e2c-5ca0b7debfe7",
+    "contract_date": "1646-05-17",
+    "workshop_parish": "San Felice",
+    "master_name": "Bortolo",
+    "apprentice_name": "Marchio, di Simon",
+    "apprentice_origin_name": "Rocca Pietore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e4d67fcd-3ce5-49af-8934-ed9acd45181a",
+    "contract_date": "1647-11-13",
+    "workshop_parish": "San Felice",
+    "master_name": "Nicolo, di Zuane",
+    "apprentice_name": "Domenegho Talo, di Fiorin",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "34f560e4-7fdc-413f-80af-95d1cd4b21a6",
+    "contract_date": "1653-02-21",
+    "workshop_parish": "San Felice",
+    "master_name": "Bortolo",
+    "apprentice_name": "Nadalin Dalla Rocha, di Andrea",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c871cd70-1c3c-4f5b-a1ca-059dea65629d",
+    "contract_date": "1653-03-17",
+    "workshop_parish": "San Felice",
+    "master_name": "Francesco Siboldi",
+    "apprentice_name": "Bastian, di Piero",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "47778700-0763-4547-92cd-644405a4379b",
+    "contract_date": "1656-06-02",
+    "workshop_parish": "San Felice",
+    "master_name": "Zuane  Brutico",
+    "apprentice_name": "Antonio Lanfranchi, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "347e8f35-f13b-4155-953e-a83dba5f5583",
+    "contract_date": "1658-05-02",
+    "workshop_parish": "San Felice",
+    "master_name": "Giacomo Marinoni",
+    "apprentice_name": "Battista  Galon, di Benedetto",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ee1f37ce-11be-4391-a2d6-aa479792bd10",
+    "contract_date": "1658-05-02",
+    "workshop_parish": "San Felice",
+    "master_name": "Antonio Marinoni",
+    "apprentice_name": "Giacomo Motto, di Mattio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e9c17342-a0e2-4743-b9a1-d491ca498123",
+    "contract_date": "1658-06-04",
+    "workshop_parish": "San Felice",
+    "master_name": "Antonio, di Battista",
+    "apprentice_name": "Catarina  Zanetin, di Zuane",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2dd07261-80f6-469d-a2bd-7959645e01bb",
+    "contract_date": "1659-01-10",
+    "workshop_parish": "San Felice",
+    "master_name": "Zuanne de Boticho",
+    "apprentice_name": "Zuan Maria Bottaro, quondam Zuane",
+    "apprentice_origin_name": "Colle"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dfb4d653-db3d-4b49-8561-d33340a04fb4",
+    "contract_date": "1659-07-29",
+    "workshop_parish": "San Felice",
+    "master_name": "Zuane de Botticho",
+    "apprentice_name": "Steffano dall'Anzolo, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "759bc52f-78ad-4018-b59f-c903e9c901d3",
+    "contract_date": "1659-10-20",
+    "workshop_parish": "San Felice",
+    "master_name": "Lunardo Bighetti",
+    "apprentice_name": "Ferigo Odorici, quondam Marco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e136e6d4-90b9-43f7-a7d6-31353d6f502c",
+    "contract_date": "1659-11-24",
+    "workshop_parish": "San Felice",
+    "master_name": "Nicolo Tonato",
+    "apprentice_name": "Andrea Balbi, quondam Paulo",
+    "apprentice_origin_name": "Mira"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "59d05772-e838-4ba2-8d79-8309864438ec",
+    "contract_date": "1662-11-17",
+    "workshop_parish": "San Felice",
+    "master_name": "Battista, quondam Antonio",
+    "apprentice_name": "Andrea  Castelan, quondam Zuane",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1c6c41b9-17c0-44b2-8007-b8bc13aa5994",
+    "contract_date": "1670-04-30",
+    "workshop_parish": "San Felice",
+    "master_name": "Vicenzo Valenti",
+    "apprentice_name": "Marco Menici, di Andrea",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1556530c-add7-4a8f-93a9-c66c3218129f",
+    "contract_date": "1670-11-19",
+    "workshop_parish": "San Felice",
+    "master_name": "Valerio",
+    "apprentice_name": "Bortolo Pizzini, quondam Zuan Giacomo",
+    "apprentice_origin_name": "Austria"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dfb4dc8a-13ff-4cb0-8864-9ee388222a29",
+    "contract_date": "1670-12-04",
+    "workshop_parish": "San Felice",
+    "master_name": "Zuan Battista Matazzini",
+    "apprentice_name": "Antonio Vecchiarelli, di Zuanne Maria",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7e9df2ca-2ca3-43a0-af62-809a049a752e",
+    "contract_date": "1681-04-28",
+    "workshop_parish": "San Felice",
+    "master_name": "Piero Agron",
+    "apprentice_name": "Adamo Marifroi, quondam Domenico",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "db2bb323-da68-4a47-8df4-1e538532e0a9",
+    "contract_date": "1681-08-09",
+    "workshop_parish": "San Felice",
+    "master_name": "Nicolo Pellasi",
+    "apprentice_name": "Tomaso Pellasi, di Nicol\u00f2",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c01079bf-4d5d-4fc7-91b6-5921c43b75cd",
+    "contract_date": "1712-01-07",
+    "workshop_parish": "San Felice",
+    "master_name": "Giacomo Maroni, quondam Antonio",
+    "apprentice_name": "Antonio Fabris, di Zuan Battista",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "de1ef0b7-2954-4ccb-a675-60c1caa353df",
+    "contract_date": "1741-08-01",
+    "workshop_parish": "San Felice",
+    "master_name": "Giovanni Maria  Pasiai, quondam Cesare",
+    "apprentice_name": "Zuane Sechato, di Antonio",
+    "apprentice_origin_name": "Mirano"
+   }
+  }
+ ]
+}

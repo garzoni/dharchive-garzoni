@@ -1,0 +1,193 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "name": {
+            "label": {
+                "en": "Name"
+            },
+            "type": "object",
+            "properties": {
+                "forename": {
+                    "label": {
+                        "en": "Forename"
+                    },
+                    "type": "string"
+                },
+                "surname": {
+                    "label": {
+                        "en": "Surname"
+                    },
+                    "type": "string"
+                },
+                "patronymic1": {
+                    "label": {
+                        "en": "Patronymic 1"
+                    },
+                    "type": "string"
+                },
+                "quondam1": {
+                    "label": {
+                        "en": "Quondam 1"
+                    },
+                    "type": "boolean"
+                },
+                "patronymic2": {
+                    "label": {
+                        "en": "Patronymic 2"
+                    },
+                    "type": "string"
+                },
+                "quondam2": {
+                    "label": {
+                        "en": "Quondam 2"
+                    },
+                    "type": "boolean"
+                },
+                "collectiveName": {
+                    "label": {
+                        "en": "Collective Name"
+                    },
+                    "type": "string"
+                }
+            },
+            "additionalProperties": false,
+            "required": ["forename", "quondam1", "quondam2"]
+        },
+        "age": {
+            "label": {
+                "en": "Age"
+            },
+            "type": "string"
+        },
+        "gender": {
+            "label": {
+                "en": "Gender"
+            },
+            "default": "grz:Male",
+            "@grzGender": {}
+        },
+        "geoOrigin": {
+            "label": {
+                "en": "Geographical Origin"
+            },
+            "type": "object",
+            "properties": {
+                "@grzLocation": {},
+                "type": "@grzLocationType"
+            },
+            "options": {
+                "collapsed": true
+            },
+            "additionalProperties": false
+        },
+        "professions": {
+            "label": {
+                "en": "Professions"
+            },
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "transcript": "@grzTranscript",
+                    "standardForm": "@grzStandardForm",
+                    "worksFor": {
+                        "label": {
+                            "en": "Works for"
+                        },
+                        "type": "string"
+                    }
+                },
+                "additionalProperties": false
+            },
+            "options": {
+                "collapsed": false
+            },
+            "uniqueItems": true
+        },
+        "workshop": {
+            "label": {
+                "en": "Workshop"
+            },
+            "type": "object",
+            "properties": {
+                "insigna": {
+                    "label": {
+                        "en": "Insigna"
+                    },
+                    "type": "string"
+                },
+                "site": {
+                    "label": {
+                        "en": "Site"
+                    },
+                    "type": "string"
+                },
+                "sestiere": "@grzSestriere",
+                "parish": "@grzParish"
+            },
+            "options": {
+                "collapsed": true
+            },
+            "additionalProperties": false
+        },
+        "charge": {
+            "label": {
+                "en": "Charge"
+            },
+            "type": "string"
+        },
+        "chargeLocation": {
+            "label": {
+                "en": "Charge Location"
+            },
+            "type": "object",
+            "properties": {
+                "@grzLocation": {}
+            },
+            "options": {
+                "collapsed": true
+            },
+            "additionalProperties": false
+        },
+        "residence": {
+            "label": {
+                "en": "Residence"
+            },
+            "type": "object",
+            "properties": {
+                "@grzLocation": {}
+            },
+            "options": {
+                "collapsed": true
+            },
+            "additionalProperties": false
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["name", "gender"],
+    "annotationRules": {
+        "entities": {
+            "allowMultiple": false,
+            "allowAdditions": true,
+            "types": [
+                "grz:Person"
+            ]
+        },
+        "semanticTags": {
+            "allowMultiple": false,
+            "allowAdditions": false,
+            "lists": [{
+                "qualifiedName": "grz:PersonMentionTagList",
+                "itemType": "dhc:SemanticTag"
+            }]
+        }
+    }
+}

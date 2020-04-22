@@ -1,0 +1,468 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/156.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f430b3a6-45a2-472a-bba5-e03faf1de540",
+    "contract_date": "1575-02-10",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Iulio, di Francesco",
+    "apprentice_name": "Anselmo, quondam Antonio",
+    "apprentice_origin_name": "Svizzera"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c0049e26-c4a1-44dc-ba88-342136dba613",
+    "contract_date": "1575-12-14",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Iulio, di Francesco",
+    "apprentice_name": "Anzolo, quondam Perin",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "71c81cf8-c31f-44a1-94ab-6d4bfe026534",
+    "contract_date": "1575-12-30",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Zuane, di Bernardin",
+    "apprentice_name": "Zuane, di Peregrin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ca93c283-0d5c-4785-953b-49f8a27a56cd",
+    "contract_date": "1582-10-03",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Paulo Zardinato",
+    "apprentice_name": "Vitor de monte, quondam Bertollo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "93561188-ec0b-4c92-9934-d15bfb350d91",
+    "contract_date": "1584-07-21",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Santo, quondam Domenico",
+    "apprentice_name": "Tomio Taschetta, quondam Nicol\u00f2",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cf8ca3f2-fcf2-4f89-9841-9b07f0f683fa",
+    "contract_date": "1584-07-23",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Vizenzo",
+    "apprentice_name": "Giacomo Calauresso, quondam Matteo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4178b991-9542-4b79-8362-a92d71594c10",
+    "contract_date": "1592-10-09",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Martin",
+    "apprentice_name": "Francesco di Toneti, di Zuan Piero",
+    "apprentice_origin_name": "Andena"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ebff2152-32a7-4969-9a2b-aa4a490527f6",
+    "contract_date": "1595-03-09",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Zuane",
+    "apprentice_name": "Paolo, di Zuane",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "95b8d30f-484e-4dbf-b97b-d7690e4d5d25",
+    "contract_date": "1598-06-19",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Zuane",
+    "apprentice_name": "Cristofollo, di Valerio",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b11f03ae-af90-4282-90b8-3ad65263149a",
+    "contract_date": "1598-12-10",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Martin",
+    "apprentice_name": "Cabriel, quondam Giacomo (quondam Marco)",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3b2619a6-7a93-4cce-9a48-787a2c822053",
+    "contract_date": "1606-07-24",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Bertollo",
+    "apprentice_name": "Andrea Galvan, quondam Nicollo",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a3656113-f2cc-408f-a1e5-f7a697449e38",
+    "contract_date": "1606-08-02",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Bortolo",
+    "apprentice_name": "Zuanne Maria Arigoni, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "512523c3-bc88-4aae-9da9-7aba2235dd70",
+    "contract_date": "1621-03-23",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Cristian",
+    "apprentice_name": "Bortollo, di Simon",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "69df9088-4542-4c0a-b66e-739fc3e786e7",
+    "contract_date": "1621-07-31",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Liberal da Cordial",
+    "apprentice_name": "Bortolamio de Solivo, di Bernardin",
+    "apprentice_origin_name": "Alleghe"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8e3636ba-6a3b-4b6e-9199-8145878472a4",
+    "contract_date": "1621-09-07",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Giacomo dalla Maestra, quondam Antonio",
+    "apprentice_name": "Mattio Vechin, di Andrea",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "58a8575a-ca8d-4512-a608-c73514ec9fee",
+    "contract_date": "1621-09-11",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Zanetto Saracini",
+    "apprentice_name": "Francesco, di Lunardo",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4f790aeb-dd0c-45b8-aeae-e16b4b5dc1c7",
+    "contract_date": "1621-09-16",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Alvise, quondam Mattio",
+    "apprentice_name": "Antonio Ipocher, di Ottavio",
+    "apprentice_origin_name": "Sacile"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "504a87ce-0533-4e6f-87c5-a89b82420e51",
+    "contract_date": "1621-09-18",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Francesco Romani",
+    "apprentice_name": "Giacomo Costantini, di Francesco",
+    "apprentice_origin_name": "Ampezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cc9e7b10-5f64-4542-a0c0-f2dbe8b7a89e",
+    "contract_date": "1621-10-29",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Floriano, quondam Andrea",
+    "apprentice_name": "Matteo Alborante, quondam Battista",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4a54b72f-4d22-4889-bced-3fc8a69c2286",
+    "contract_date": "1621-11-08",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Bastian, di Francescho",
+    "apprentice_name": "Giovan Maria, di Battista (di Giovan Giacomo)",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "df70721d-c990-455f-b7e2-4de4d0c2d671",
+    "contract_date": "1622-03-01",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Gracioso Ragnesino",
+    "apprentice_name": "Girronimo Bertolotto, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5f09df08-f034-49c8-80ca-e1235922154d",
+    "contract_date": "1622-04-28",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Tomaso Tarabin",
+    "apprentice_name": "Domenico, di Bastian (di Lorenzo)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "39583263-4828-4bef-a784-ea3a1a3bec25",
+    "contract_date": "1622-05-02",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Livio",
+    "apprentice_name": "Pietro di Naloni, di Terentio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cb1838bb-7aef-4d18-9cbb-e7cb53efca66",
+    "contract_date": "1622-11-23",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Antonio",
+    "apprentice_name": "Moritio, di Paulo (quondam Antonio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dbbc67fb-1051-4062-a669-445df1b88cfa",
+    "contract_date": "1625-10-22",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Vicenzo, quondam Bastian",
+    "apprentice_name": "Vicenzo Trivisan, quondam Dominico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5626312b-16c8-42d9-825d-6465d8ea792f",
+    "contract_date": "1625-11-06",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Alvise Girardi",
+    "apprentice_name": "Domenico Rizzardo, quondam Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "072437f4-bdc6-429f-8a4a-adbbd9d4b4fa",
+    "contract_date": "1626-01-30",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Vicenzo, quondam Sebastian",
+    "apprentice_name": "Domenico de Seno, quondam Pascalin",
+    "apprentice_origin_name": "Burano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "02a9ff6b-a356-4fda-9d8f-413dad72ddef",
+    "contract_date": "1626-04-29",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Cristan",
+    "apprentice_name": "Pietro",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b602ff0e-8c34-45bf-936a-9211c79c005e",
+    "contract_date": "1627-04-27",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Zuane Di Rossi, quondam Pietro",
+    "apprentice_name": "Fabio Ruoppel, di Gioseffo",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d2f5b570-af44-47d6-b11e-daee9f7ad3fa",
+    "contract_date": "1646-03-07",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Francesco, quondam Biasio",
+    "apprentice_name": "Maffio, di Allesandro",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e24020c7-5e19-4509-810a-94ff6d199902",
+    "contract_date": "1647-01-04",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Zuane",
+    "apprentice_name": "Bastian de Col, di Valerio",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a751b45e-12d7-45ce-8875-8f21407a8676",
+    "contract_date": "1647-10-26",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Nadalin, quondam Iseppo",
+    "apprentice_name": "Zuan Maria, quondam Zuane (di Zuan Maria)",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8347376f-42c0-4fc5-80b3-116e54aebd42",
+    "contract_date": "1657-07-18",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Zuane",
+    "apprentice_name": "Giacomo, quondam Vicenzo",
+    "apprentice_origin_name": "Monza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "22b000ff-5535-4f9a-8631-5c071431724a",
+    "contract_date": "1657-12-17",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Zuane",
+    "apprentice_name": "Zuane ?, di Valerio",
+    "apprentice_origin_name": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "18155ecb-0102-487d-b2c9-f1f274797fee",
+    "contract_date": "1658-02-28",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Carlo Arigoni",
+    "apprentice_name": "Allessandro Ruffin, quondam Vicenzo",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "81224326-6de2-4187-8408-a9f70616dd7e",
+    "contract_date": "1659-01-09",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Battista Pasin, quondam Marco",
+    "apprentice_name": "Menego Baracho, quondam Antonio",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0628159b-29d2-4a31-9349-bfff8b2fd469",
+    "contract_date": "1659-08-11",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Battista Aradi",
+    "apprentice_name": "Biasio Frizo, di Bortolomio",
+    "apprentice_origin_name": "Arzignano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ef6fe5d5-60f1-4898-9443-65328a88bccf",
+    "contract_date": "1664-03-03",
+    "workshop_parish": "San Marcuola",
+    "master_name": "Nicol\u00f2 , di Zuane",
+    "apprentice_name": "Piero De Col, di Nicol\u00f2",
+    "apprentice_origin_name": "Belluno"
+   }
+  }
+ ]
+}

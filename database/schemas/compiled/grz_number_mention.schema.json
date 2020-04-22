@@ -1,0 +1,29 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        }
+    },
+    "additionalProperties": false,
+    "annotationRules": {
+        "semanticTags": {
+            "allowMultiple": false,
+            "allowAdditions": false,
+            "lists": [
+                {
+                    "qualifiedName": "grz:NumberMentionTagList",
+                    "itemType": "dhc:SemanticTag"
+                }
+            ]
+        }
+    }
+}

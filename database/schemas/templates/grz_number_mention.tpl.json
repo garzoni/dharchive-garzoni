@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName"
+    },
+    "additionalProperties": false,
+    "annotationRules": {
+        "semanticTags": {
+            "allowMultiple": false,
+            "allowAdditions": false,
+            "lists": [{
+                "qualifiedName": "grz:NumberMentionTagList",
+                "itemType": "dhc:SemanticTag"
+            }]
+        }
+    }
+}

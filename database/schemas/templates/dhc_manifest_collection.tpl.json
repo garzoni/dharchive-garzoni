@@ -1,0 +1,20 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "code": "@code",
+        "label": "@multilingualLabel",
+        "description": "@multilingualDescription",
+        "viewingHint": "@viewingHint",
+        "logo": "@iiifLogo",
+        "thumbnail": "@iiifThumbnail",
+        "attribution": "@multilingualAttribution",
+        "license": "@iiifLicense",
+        "service": "@iiifService[]",
+        "seeAlso": "@iiifSeeAlso[]",
+        "related": "@iiifRelatedResource[]",
+        "metadata": {"type": "object"}
+    },
+    "additionalProperties": false,
+    "required": ["code", "label"]
+}

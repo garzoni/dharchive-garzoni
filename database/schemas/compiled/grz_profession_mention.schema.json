@@ -1,0 +1,40 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "professionOf": {
+            "label": {
+                "en": "Profession of"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "_choiceList": {
+                "listQName": "grz:RoleTypeList",
+                "keyProperty": "qualified_name"
+            },
+            "propertyOrder": 2
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea",
+            "propertyOrder": 3
+        }
+    },
+    "required": [
+        "professionOf"
+    ],
+    "additionalProperties": false
+}

@@ -1,0 +1,900 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/101.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4a004671-e427-439f-8f20-a83931d74829",
+    "contract_date": "1575-07-26",
+    "workshop_parish": "San Angelo",
+    "master_name": "Thomaso",
+    "apprentice_name": "Marcantonio, quondam Agnolo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "24f5b56c-f846-47c1-9ca0-4367938bde55",
+    "contract_date": "1575-09-26",
+    "workshop_parish": "San Angelo",
+    "master_name": "Iacomo",
+    "apprentice_name": "Zanpaulo, quondam Piero (di Zorzi)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f4142c62-3591-472c-a3f3-dde340f09821",
+    "contract_date": "1575-11-24",
+    "workshop_parish": "San Angelo",
+    "master_name": "Antonio",
+    "apprentice_name": "Gasparo Di Ribedin, quondam Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2cf7dff7-b0d0-4a2d-9493-6164b2a03940",
+    "contract_date": "1575-11-28",
+    "workshop_parish": "San Angelo",
+    "master_name": "Andrea",
+    "apprentice_name": "Lorenzo De Agnelina, quondam Zuane",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7d25569c-a51d-470c-a66d-ca3032040732",
+    "contract_date": "1582-01-13",
+    "workshop_parish": "San Angelo",
+    "master_name": "Gerolamo Mareo",
+    "apprentice_name": "Lisandro, di Antonio",
+    "apprentice_origin_name": "San Daniele del Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ae38bccc-818a-4042-86eb-ffb9924d8bc0",
+    "contract_date": "1582-02-28",
+    "workshop_parish": "San Angelo",
+    "master_name": "Giacomo",
+    "apprentice_name": "Furian, quondam Fedrigo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e819fcff-196d-4258-b50a-1591669ee0ba",
+    "contract_date": "1582-11-12",
+    "workshop_parish": "San Angelo",
+    "master_name": "Gasparo, quondam Giacomo",
+    "apprentice_name": "Menego, di Crostofollo",
+    "apprentice_origin_name": "Germania"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "87bd9134-474b-40fc-a006-ca74ae4de765",
+    "contract_date": "1582-11-26",
+    "workshop_parish": "San Angelo",
+    "master_name": "Vicenzo",
+    "apprentice_name": "Camillo  (quondam Gerolamo)",
+    "apprentice_origin_name": "San Pietro in Gu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6372fa90-d525-47f3-8572-678832af5213",
+    "contract_date": "1582-12-15",
+    "workshop_parish": "San Angelo",
+    "master_name": "Bernardo",
+    "apprentice_name": "Lunardo, di Pelegrin",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0db9b61a-4dac-4807-9450-bf4e67cd29b0",
+    "contract_date": "1583-01-30",
+    "workshop_parish": "San Angelo",
+    "master_name": "Paulo",
+    "apprentice_name": "Cabriel, quondam Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "18645ca2-8fef-488d-a387-ca66c61a2b75",
+    "contract_date": "1584-03-23",
+    "workshop_parish": "San Angelo",
+    "master_name": "Giacomo",
+    "apprentice_name": "Fabrizio Tirabosco, quondam Geremia",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6a96d771-22f5-4bcb-98ea-0429a47391e7",
+    "contract_date": "1584-11-20",
+    "workshop_parish": "San Angelo",
+    "master_name": "Felipo Romano",
+    "apprentice_name": "Andrea, quondam Oler",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "31b22bd1-2e16-4e2e-8714-da0adcd7d604",
+    "contract_date": "1584-12-17",
+    "workshop_parish": "San Angelo",
+    "master_name": "Battista",
+    "apprentice_name": "Domenego de Monte, di Simon",
+    "apprentice_origin_name": "Buja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7ef2cf83-eef6-4b1d-886c-27616a24cd4b",
+    "contract_date": "1591-01-27",
+    "workshop_parish": "San Angelo",
+    "master_name": "Zuane",
+    "apprentice_name": "Piero Antonio, quondam Daniel",
+    "apprentice_origin_name": "Padula"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "65a68726-6f3d-4557-8809-5d185866210c",
+    "contract_date": "1591-05-02",
+    "workshop_parish": "San Angelo",
+    "master_name": "Niccol\u00f2",
+    "apprentice_name": "Constantin, di Zuanne",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2d844d20-da07-4fa5-a35b-23a76c27cc0f",
+    "contract_date": "1591-08-30",
+    "workshop_parish": "San Angelo",
+    "master_name": "Fioran",
+    "apprentice_name": "Lunardo Fantin?, di Tomaso",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b582388b-bdd6-48d2-9513-b2fc2cbff6a9",
+    "contract_date": "1591-10-17",
+    "workshop_parish": "San Angelo",
+    "master_name": "Bernardo, quondam Zuane",
+    "apprentice_name": "Bertolomio, di Andrea",
+    "apprentice_origin_name": "Clusone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9208a2ea-0f67-4e8d-85a1-b18a26e11e41",
+    "contract_date": "1592-03-11",
+    "workshop_parish": "San Angelo",
+    "master_name": "Zamaria Gropo",
+    "apprentice_name": "Bertollo Balocho, di Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d90a7edf-8361-406e-a97f-dd423ae24254",
+    "contract_date": "1592-06-09",
+    "workshop_parish": "San Angelo",
+    "master_name": "Cristofollo",
+    "apprentice_name": "Antonio, di Sarafin",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1c424a0b-4638-4f82-910d-2115455f6cfe",
+    "contract_date": "1592-10-19",
+    "workshop_parish": "San Angelo",
+    "master_name": "Bertollo di Malfati",
+    "apprentice_name": "Antonio Berto, quondam Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "668fba80-75c6-4c1c-80b1-6e6b9b5597c3",
+    "contract_date": "1592-12-22",
+    "workshop_parish": "San Angelo",
+    "master_name": "Valentin",
+    "apprentice_name": "Zuane, quondam Domenico",
+    "apprentice_origin_name": "Udine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9267e59e-3f38-4c98-b857-da9255cbe896",
+    "contract_date": "1593-03-11",
+    "workshop_parish": "San Angelo",
+    "master_name": "Giacomo",
+    "apprentice_name": "Zuane, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "51dabc6b-69de-4aa7-9253-f101f2fbc561",
+    "contract_date": "1596-07-13",
+    "workshop_parish": "San Angelo",
+    "master_name": "Zuanne Antonio",
+    "apprentice_name": "Giacomo Zoto, quondam Marco",
+    "apprentice_origin_name": "Giudecca"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fe586b14-c422-4897-85de-f1b89b275f06",
+    "contract_date": "1596-10-10",
+    "workshop_parish": "San Angelo",
+    "master_name": "Tranquilo",
+    "apprentice_name": "Antonio, quondam Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a700ff42-16f7-46a2-a84b-32429353584c",
+    "contract_date": "1596-10-29",
+    "workshop_parish": "San Angelo",
+    "master_name": "Forian",
+    "apprentice_name": "Agustin Freza, di Andrea",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "563f25b5-19fb-44cd-9272-6b56a6c9ef7b",
+    "contract_date": "1596-10-30",
+    "workshop_parish": "San Angelo",
+    "master_name": "Tranquilo",
+    "apprentice_name": "Calumer, quondam Fidel",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dd8149fe-0c55-415d-aa9b-3cbb0838ec36",
+    "contract_date": "1597-02-14",
+    "workshop_parish": "San Angelo",
+    "master_name": "Giacomo Riveri",
+    "apprentice_name": "Francesco Stella, di Tedoldo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d2863f91-cf53-419c-88e4-0d568c5b5e89",
+    "contract_date": "1597-03-31",
+    "workshop_parish": "San Angelo",
+    "master_name": "Piero",
+    "apprentice_name": "Zuane De Grosso, di Giacomo",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6a08061c-7335-4682-acd7-7522556c9c5c",
+    "contract_date": "1597-04-28",
+    "workshop_parish": "San Angelo",
+    "master_name": "Paulo Graseli",
+    "apprentice_name": "Zuane Furia, di Piero",
+    "apprentice_origin_name": "Oneta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6ae58e1f-c4cb-4834-8e70-2e98a923ec55",
+    "contract_date": "1597-07-08",
+    "workshop_parish": "San Angelo",
+    "master_name": "Christopholo, quondam Alvise",
+    "apprentice_name": "Zamaria Scussel, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ba962a86-7d94-4a19-8f2b-e2f48d891acb",
+    "contract_date": "1597-08-13",
+    "workshop_parish": "San Angelo",
+    "master_name": "Giacomo",
+    "apprentice_name": "Matio, di Pelegrin",
+    "apprentice_origin_name": "Trieste"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d2d8ee55-4ca8-41df-b9d0-080f3f2e2eae",
+    "contract_date": "1606-05-23",
+    "workshop_parish": "San Angelo",
+    "master_name": "Antonio, di Bonadio",
+    "apprentice_name": "Battista, di Agustin",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b358c6a0-5944-466b-8ce9-4ce88c9cea72",
+    "contract_date": "1606-10-11",
+    "workshop_parish": "San Angelo",
+    "master_name": "Zuane",
+    "apprentice_name": "Lorenzo Dal Bin, quondam Martio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "64eccbbe-b8af-4f7a-a09e-b957363dd3a1",
+    "contract_date": "1609-07-03",
+    "workshop_parish": "San Angelo",
+    "master_name": "Piero Di Boni, di Venturin",
+    "apprentice_name": "Valentin Trifon, di Gierolimo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ece9526c-a98f-4870-a808-9cd57ab9c7e7",
+    "contract_date": "1609-07-03",
+    "workshop_parish": "San Angelo",
+    "master_name": "Zuane Terzi",
+    "apprentice_name": "Lelio",
+    "apprentice_origin_name": "Valle Sabbia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f50cce03-4aeb-4be4-a0e8-f86a9aae9e36",
+    "contract_date": "1621-02-21",
+    "workshop_parish": "San Angelo",
+    "master_name": "Tranquilio Sandrin",
+    "apprentice_name": "Zuan Antonio Arigoni, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3f34f77f-61d7-4453-ad6d-b069ab890380",
+    "contract_date": "1621-08-12",
+    "workshop_parish": "San Angelo",
+    "master_name": "Francesco",
+    "apprentice_name": "Zuane, di Francesco, Rombo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0208a0bc-def7-47dd-a91a-0e866a125351",
+    "contract_date": "1621-09-06",
+    "workshop_parish": "San Angelo",
+    "master_name": "Francesco Stella",
+    "apprentice_name": "Mattio de Pauli, di Felippo",
+    "apprentice_origin_name": "Motta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "561cdfb2-7db5-4621-ab9e-a186a723bf7c",
+    "contract_date": "1621-11-08",
+    "workshop_parish": "San Angelo",
+    "master_name": "Orfeo",
+    "apprentice_name": "Giovan Battista Gaidoni, di Giovan Pietro",
+    "apprentice_origin_name": "Odolo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8ad9ed78-11b9-4776-bd82-6ff85ffc0ff5",
+    "contract_date": "1622-03-08",
+    "workshop_parish": "San Angelo",
+    "master_name": "Antonio Praserti",
+    "apprentice_name": "Rinaldo Paggin, quondam Bernardo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5904ffc1-fb4e-47ba-9e84-9c44cd7eb384",
+    "contract_date": "1622-04-05",
+    "workshop_parish": "San Angelo",
+    "master_name": "Pietro Bachi",
+    "apprentice_name": "Battista Baru, di Zuan Antonio",
+    "apprentice_origin_name": "Collio"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a23d5ef9-a010-47bf-8506-b50c5c472c9c",
+    "contract_date": "1625-07-21",
+    "workshop_parish": "San Angelo",
+    "master_name": "Piero Bachi",
+    "apprentice_name": "Piero Scolari, di Antonio",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5371518c-775d-4087-9308-37aac62133f2",
+    "contract_date": "1632-05-10",
+    "workshop_parish": "San Angelo",
+    "master_name": "Vicenzzo di Valenti",
+    "apprentice_name": "Francesco di Ghirardi, quondam Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f12d5c81-1728-4e03-ac7e-7f311101964c",
+    "contract_date": "1644-02-15",
+    "workshop_parish": "San Angelo",
+    "master_name": "Battista Tanso, quondam Piero",
+    "apprentice_name": "Bortolamio Sporetto, di Polo",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ff28ea26-9d90-4713-92f8-c1f0a0a447dc",
+    "contract_date": "1644-02-20",
+    "workshop_parish": "San Angelo",
+    "master_name": "Paolo Agnoloti",
+    "apprentice_name": "Martin Zanardini, di Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f7339f0f-5b9a-4623-8f8b-d12f74a881cc",
+    "contract_date": "1645-07-12",
+    "workshop_parish": "San Angelo",
+    "master_name": "Battista Barto",
+    "apprentice_name": "Piero Bruella, di Nadalin",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5b051e4c-4aea-47e0-9888-86b15f8472b9",
+    "contract_date": "1646-04-30",
+    "workshop_parish": "San Angelo",
+    "master_name": "Piero",
+    "apprentice_name": "Daniel Peron, di Domenego",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ba11a30b-2796-417d-a9f2-bf046e6310d3",
+    "contract_date": "1646-10-09",
+    "workshop_parish": "San Angelo",
+    "master_name": "Cristoforo",
+    "apprentice_name": "Francesco Rugantin, quondam Zuane",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "101bbd4a-2d73-40d2-84f1-afb85fc7fc2d",
+    "contract_date": "1647-02-03",
+    "workshop_parish": "San Angelo",
+    "master_name": "Christopholo Mentor",
+    "apprentice_name": "Massimilian Stainlefener, di Stainlefener",
+    "apprentice_origin_name": "Germania"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "406dd9cb-2283-4220-b1f5-b8e962a097ea",
+    "contract_date": "1647-10-29",
+    "workshop_parish": "San Angelo",
+    "master_name": "Iseppo Miozzo",
+    "apprentice_name": "Giusto Alborante, di Lucio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6511699a-aeb4-45d9-9655-0b075aa523fa",
+    "contract_date": "1652-02-06",
+    "workshop_parish": "San Angelo",
+    "master_name": "Iseppo Milesi",
+    "apprentice_name": "Marin Giovannin, quondam Mario",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "02280860-1dc5-4fe2-be5c-ac1abf1f5957",
+    "contract_date": "1653-03-13",
+    "workshop_parish": "San Angelo",
+    "master_name": "Daniel Paulini",
+    "apprentice_name": "Antonio Grasso, quondam Nicolo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "536ddb58-8a09-4b9f-a9e4-a9618d163bb3",
+    "contract_date": "1653-04-29",
+    "workshop_parish": "San Angelo",
+    "master_name": "Giovanna Maria Righi",
+    "apprentice_name": "Bartolo Fileto, di Salvadori",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ae7acc9f-b4bd-43d6-aa6b-60274d71c680",
+    "contract_date": "1656-02-15",
+    "workshop_parish": "San Angelo",
+    "master_name": "Battista Zanchi",
+    "apprentice_name": "Bernardo Grigi, di Marco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a742f677-ba6b-4757-8e8a-b8b964726d52",
+    "contract_date": "1656-11-27",
+    "workshop_parish": "San Angelo",
+    "master_name": "Battista Torso, quondam Piero",
+    "apprentice_name": "Menego Rotani, quondam Piero",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "891aa1ee-a681-42c8-a3b4-d83539617c52",
+    "contract_date": "1658-12-02",
+    "workshop_parish": "San Angelo",
+    "master_name": "Zuan Battista Zanchi",
+    "apprentice_name": "Andrea Pasquinelli, quondam Battista",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b5cb86c6-47e4-4d28-aece-c4f54e4846d4",
+    "contract_date": "1659-01-14",
+    "workshop_parish": "San Angelo",
+    "master_name": "Battista Zanchi",
+    "apprentice_name": "Piero Zerpeletti, quondam Antonio",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "06fbdb09-4cfc-4be7-9565-98c7766cfafb",
+    "contract_date": "1659-03-13",
+    "workshop_parish": "San Angelo",
+    "master_name": "Lorenzo Motal",
+    "apprentice_name": "Antonio Cerucho, quondam Zuan Antonio",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bd692670-0cd8-47b6-9b47-8dd676899ce0",
+    "contract_date": "1659-11-26",
+    "workshop_parish": "San Angelo",
+    "master_name": "Simon Cagnani",
+    "apprentice_name": "Tomaso Regazzola, di Zuan Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5eaba403-9b38-44d1-9116-5fdfdcc52e1b",
+    "contract_date": "1659-12-02",
+    "workshop_parish": "San Angelo",
+    "master_name": "Battista Plati",
+    "apprentice_name": "Francesco Guzzella, di Agostin",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "33eba9a4-6aa9-441d-835e-61c34453e367",
+    "contract_date": "1662-03-11",
+    "workshop_parish": "San Angelo",
+    "master_name": "Lorenzo Motali",
+    "apprentice_name": "Iseppo Rogantin, di Zuanne",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4ab1521b-d5b9-43a5-a2f2-b18f941e756a",
+    "contract_date": "1663-03-13",
+    "workshop_parish": "San Angelo",
+    "master_name": "Michiel Grasso",
+    "apprentice_name": "Giacomo Somariva, quondam Anbroso",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "09baffa5-a069-40ef-b34e-f407810eb309",
+    "contract_date": "1664-01-09",
+    "workshop_parish": "San Angelo",
+    "master_name": "Michiel Ot?",
+    "apprentice_name": "Giacomo Ocher, di Giacomo",
+    "apprentice_origin_name": "Germania"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7f818f4a-9684-4f09-93c8-4dd56fe96fe3",
+    "contract_date": "1664-07-01",
+    "workshop_parish": "San Angelo",
+    "master_name": "Pietro Baldoni",
+    "apprentice_name": "Allessandro Chiaparin, quondam Paolo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "aa144d56-701b-42f8-8b41-beacd32f7305",
+    "contract_date": "1664-07-09",
+    "workshop_parish": "San Angelo",
+    "master_name": "Vicenzo Sormorini",
+    "apprentice_name": "Carlo Ziani, quondam Giulio",
+    "apprentice_origin_name": "Piove"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "99a6da5a-bc03-4124-800c-d236219afd83",
+    "contract_date": "1664-07-29",
+    "workshop_parish": "San Angelo",
+    "master_name": "Stefano Casatore, quondam Zuane",
+    "apprentice_name": "Giacomo De Gion, di Antonio",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6a240a55-fc3d-4860-8ac2-f6c305e9906c",
+    "contract_date": "1669-01-09",
+    "workshop_parish": "San Angelo",
+    "master_name": "Oratio Agneleti, quondam Paulo",
+    "apprentice_name": "Clemente Clementi, di Clemente",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0460ea58-6c63-41f4-896f-ab4140857ff2",
+    "contract_date": "1670-10-23",
+    "workshop_parish": "San Angelo",
+    "master_name": "Lorenzo Viviani",
+    "apprentice_name": "Pietro dall'Oro, di Battista",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c2cd6f41-a4f5-4f18-942d-6f7e333b0048",
+    "contract_date": "1671-04-07",
+    "workshop_parish": "San Angelo",
+    "master_name": "Nicol\u00f2 dall'Aqua",
+    "apprentice_name": "Giulio Balarin, di Domenico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "87aa04af-f467-483b-9308-c8ec87a58557",
+    "contract_date": "1671-04-15",
+    "workshop_parish": "San Angelo",
+    "master_name": "Piero Bonati",
+    "apprentice_name": "Varisco Bonati, di Bortolo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9ad51455-f6f0-4ad9-a2ea-4b3994e70c96",
+    "contract_date": "1681-08-05",
+    "workshop_parish": "San Angelo",
+    "master_name": "Domenico Rizzato",
+    "apprentice_name": "Francesco Pagialonga, di Zuane",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a5d92532-0346-4c90-b317-c44819fa09e1",
+    "contract_date": "1681-10-29",
+    "workshop_parish": "San Angelo",
+    "master_name": "Zuane Tolfi",
+    "apprentice_name": "Francesco Martini, di Nicol\u00f2",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0fba8846-a370-4bbe-9eb7-dc4206dba7fb",
+    "contract_date": "1682-04-07",
+    "workshop_parish": "San Angelo",
+    "master_name": "Martin Dalpese",
+    "apprentice_name": "Battista, di Paolo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1fe12ac4-ad8d-4d62-9ffc-d05b38652f20",
+    "contract_date": "1712-09-22",
+    "workshop_parish": "San Angelo",
+    "master_name": "Lorenzo Fabris",
+    "apprentice_name": "Nicoletto Ca' Tagliapiera, di Domenico",
+    "apprentice_origin_name": "Venezia"
+   }
+  }
+ ]
+}

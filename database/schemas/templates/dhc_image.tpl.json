@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "uri": "@uri",
+        "label": "@multilingualLabel",
+        "description": "@multilingualDescription",
+        "format": "@fileFormat",
+        "width": "@width",
+        "height": "@height",
+        "viewingHint": "@viewingHint",
+        "logo": "@iiifLogo",
+        "thumbnail": "@iiifThumbnail",
+        "attribution": "@multilingualAttribution",
+        "license": "@iiifLicense",
+        "service": "@iiifService[]",
+        "seeAlso": "@iiifSeeAlso[]",
+        "related": "@iiifRelatedResource[]",
+        "metadata": {"type": "object"}
+    },
+    "additionalProperties": false,
+    "required": ["format", "width", "height"]
+}

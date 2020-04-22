@@ -1,0 +1,2232 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/63.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "10419630-57d9-4134-884e-679711863ae7",
+    "contract_date": "1575-01-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Gregorio, quondam Zuane",
+    "apprentice_name": "Zan Maria Luchese, quondam Michel",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9fbffcbc-c61b-4d53-b076-6d2ca768fb3f",
+    "contract_date": "1575-01-23",
+    "workshop_parish": "San Lio",
+    "master_name": "Iacomo, quondam Michiel",
+    "apprentice_name": "Giacomo Di Ricin, di Francesco",
+    "apprentice_origin_name": "Valle Sabbia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1e102f1a-f374-492d-afb3-5bdf7830cfb1",
+    "contract_date": "1575-01-30",
+    "workshop_parish": "San Lio",
+    "master_name": "Altobello, di Francesco",
+    "apprentice_name": "Paulo Collato, di Francesco",
+    "apprentice_origin_name": "Riviera"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3df5fb4b-bcfd-4efe-b795-14830a0c437b",
+    "contract_date": "1575-01-30",
+    "workshop_parish": "San Lio",
+    "master_name": "Stephano",
+    "apprentice_name": "Antonio Del Dian, di Ioseph",
+    "apprentice_origin_name": "Flaibano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "44293e3e-8418-4755-a08f-1ac10f570181",
+    "contract_date": "1575-02-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Battista, di Lazaro",
+    "apprentice_name": "Andrea, di Francesco",
+    "apprentice_origin_name": "Mura di Savallo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "581e0bd6-6f5f-4906-bc33-fb2b48b4b350",
+    "contract_date": "1575-02-20",
+    "workshop_parish": "San Lio",
+    "master_name": "Paulo",
+    "apprentice_name": "Giacomo, di Christophoro",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f995eee5-97a6-4ce0-930d-c905c2bf683c",
+    "contract_date": "1575-06-09",
+    "workshop_parish": "San Lio",
+    "master_name": "Marco Antonio Di Rossi",
+    "apprentice_name": "Symon di Caghiri, di Piero",
+    "apprentice_origin_name": "Storo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "014460bb-eeba-4b01-8b6a-0116375675bd",
+    "contract_date": "1575-06-30",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane, di Antonio",
+    "apprentice_name": "Polo, di Giacomo",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b198c77a-b02e-4a60-b057-66ff5c91f1f5",
+    "contract_date": "1575-08-01",
+    "workshop_parish": "San Lio",
+    "master_name": "Domenego, di Martin",
+    "apprentice_name": "Augustin, di Marchio",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8dcb588f-2aef-4f9e-b095-5026d39f3b99",
+    "contract_date": "1575-08-20",
+    "workshop_parish": "San Lio",
+    "master_name": "Zan Maria",
+    "apprentice_name": "Francesco Gatta, di Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c88dc37d-1225-46ff-86ff-8c272a71c4c8",
+    "contract_date": "1575-08-23",
+    "workshop_parish": "San Lio",
+    "master_name": "Iacomo, di Francesco",
+    "apprentice_name": "Domenego, quondam Graciadio",
+    "apprentice_origin_name": "Oderzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cf119c9c-e430-4c85-b8d9-66fb9468a2cc",
+    "contract_date": "1575-09-06",
+    "workshop_parish": "San Lio",
+    "master_name": "Iacomo",
+    "apprentice_name": "Giulio Di Musesti, di Antonio",
+    "apprentice_origin_name": "Valle Sabbia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e78c51b1-e2fb-4b3b-8978-8cd04e6b336e",
+    "contract_date": "1575-09-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco, quondam Zuane",
+    "apprentice_name": "Felippo, di Iacomo",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "784bea90-e0c0-48b3-9687-d77e35199924",
+    "contract_date": "1575-09-20",
+    "workshop_parish": "San Lio",
+    "master_name": "Franceschina; Cyprian Di Biasii",
+    "apprentice_name": "Marina, di Vicenzo",
+    "apprentice_origin_name": "Schiavonia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4be82372-905e-4f38-a6ec-2fcb26f31d45",
+    "contract_date": "1575-09-27",
+    "workshop_parish": "San Lio",
+    "master_name": "Santin",
+    "apprentice_name": "Betin Di Pizotti, di Rizzardo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5e16b056-efb0-4256-bdcd-cb61e2810a31",
+    "contract_date": "1575-11-14",
+    "workshop_parish": "San Lio",
+    "master_name": "Hierolamo",
+    "apprentice_name": "Zuane, quondam Bortholo",
+    "apprentice_origin_name": "Torre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f1a13263-da38-4c06-b4a8-7018bbe9cffe",
+    "contract_date": "1575-11-16",
+    "workshop_parish": "San Lio",
+    "master_name": "Gierolamo",
+    "apprentice_name": "Zuane, quondam Bortholo",
+    "apprentice_origin_name": "Torre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f8653428-ad31-4ff2-a244-02467dc4d7e1",
+    "contract_date": "1575-12-12",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero",
+    "apprentice_name": "Francesco, di Zulian (di Zorzi)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7db2d497-260b-4b7e-b7c8-36eefecb4098",
+    "contract_date": "1582-09-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Nicolo, quondam Domenico",
+    "apprentice_name": "Zuanne Battista De Galiano, quondam Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "53c826d7-51fe-497a-bb07-062aa381d63a",
+    "contract_date": "1582-09-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero di Alessii",
+    "apprentice_name": "Francesco, quondam Giacomo",
+    "apprentice_origin_name": "Pinzano al Tagliamento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "894e677f-7a0f-40b6-b584-937f3a0dcfd1",
+    "contract_date": "1582-10-29",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco, quondam Agustin",
+    "apprentice_name": "Gerolamo, quondam Marco Antonio",
+    "apprentice_origin_name": "Cremona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f5d2b4ac-a1f8-4fe4-b949-50a233590aea",
+    "contract_date": "1582-11-18",
+    "workshop_parish": "San Lio",
+    "master_name": "Bernardin di Mazi",
+    "apprentice_name": "Cristofollo de Col, di Tofollo",
+    "apprentice_origin_name": "Cortina D'Ampezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "723406b2-7d42-4e27-bc7d-5f200a5f0f68",
+    "contract_date": "1582-12-09",
+    "workshop_parish": "San Lio",
+    "master_name": "Fedrigo",
+    "apprentice_name": "Zuane, quondam Matio",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8eab77a9-1aa6-4bea-9632-43852b460073",
+    "contract_date": "1583-04-13",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Da Riva",
+    "apprentice_name": "Francesco Note, di Battista",
+    "apprentice_origin_name": "Spilimbergo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8dd127e7-4366-4c7c-bf9f-8c24cbbddae6",
+    "contract_date": "1583-07-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco, di Zuanne",
+    "apprentice_name": "Zuanne Antonio, di Silvestro",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "390136ce-c47e-4e2a-b036-7b6484940e43",
+    "contract_date": "1583-09-20",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco",
+    "apprentice_name": "Zuane Rosso, di Iseppo",
+    "apprentice_origin_name": "Burano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e4105174-1289-4fcc-90de-0c639b96ad6e",
+    "contract_date": "1583-11-16",
+    "workshop_parish": "San Lio",
+    "master_name": "Dona",
+    "apprentice_name": "Fabio Segatta, quondam Francesco",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6d6d32f2-3cbc-4235-8bc0-760509b88ffd",
+    "contract_date": "1583-11-23",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero Rotta",
+    "apprentice_name": "Stefano da Sandrin, quondam Lorenzo",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4bbe47f6-19e5-4aae-a785-63bff71cde32",
+    "contract_date": "1583-12-05",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Rausel",
+    "apprentice_name": "Zuane Chasrt, di Martin",
+    "apprentice_origin_name": "Germania"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "342d3ffa-44c1-44c8-9caf-966cd65dc1a9",
+    "contract_date": "1584-03-14",
+    "workshop_parish": "San Lio",
+    "master_name": "Iacomo, quondam Michiel",
+    "apprentice_name": "Iacomo Frezan, quondam Vittorio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "72674b51-f849-48f8-acf5-2bf97684ec08",
+    "contract_date": "1584-04-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Zammaria, quondam Antonio Maria; Anzollo Ponte",
+    "apprentice_name": "Anibal Roncal, quondam Cipriano",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d791db2d-a565-4e6e-8ab0-0bcd9f3baddb",
+    "contract_date": "1584-04-27",
+    "workshop_parish": "San Lio",
+    "master_name": "Bertollo, quondam Andrea",
+    "apprentice_name": "Andrea, di Simone",
+    "apprentice_origin_name": "Marebbe"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "41a4745e-c0c8-429d-bf89-b4d387089be4",
+    "contract_date": "1584-06-12",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco",
+    "apprentice_name": "Zuane Don\u00e0 Mardi, di Zuane",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6518aa65-2ef1-4d6f-b81c-e1e682dfb86c",
+    "contract_date": "1584-07-30",
+    "workshop_parish": "San Lio",
+    "master_name": "Antonio",
+    "apprentice_name": "Diniel, di Lunardo",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d392b940-8368-40a5-b1e2-d89b50970f1b",
+    "contract_date": "1584-09-11",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero",
+    "apprentice_name": "Lodovico di Ragiolli, di Antonio (di Bortolamio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ce532141-5aad-4698-b615-622faa26d547",
+    "contract_date": "1584-09-13",
+    "workshop_parish": "San Lio",
+    "master_name": "Bastian, di Zuanne",
+    "apprentice_name": "Bortolamio Faliva, di Ventura",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "96cb4347-d0e9-402c-b0f3-dec4ef291333",
+    "contract_date": "1584-10-22",
+    "workshop_parish": "San Lio",
+    "master_name": "Anzolo Ponte",
+    "apprentice_name": "Zuan Antonio, di Francesco",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5784f753-614f-43c6-9895-637b2ff5f082",
+    "contract_date": "1591-02-08",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane",
+    "apprentice_name": "Zuane, di Donado",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0997a429-fa38-4506-805a-66b1faf0d4da",
+    "contract_date": "1591-09-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Andrea Poleni, di Francesco",
+    "apprentice_name": "Gerolamo Vecentin, di Antonio",
+    "apprentice_origin_name": "Sorisole"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0217a584-b2a2-4d64-8cd8-c8cda6929404",
+    "contract_date": "1592-01-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Cristan",
+    "apprentice_name": "Matio Zulian, quondam Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e7524623-1ad9-4501-8e5a-dbeaf10cc8b7",
+    "contract_date": "1592-05-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero Barbersan",
+    "apprentice_name": "Alvise, di Jona",
+    "apprentice_origin_name": "Cipro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e5b33011-4ed7-41a3-829c-c04651965096",
+    "contract_date": "1592-08-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Zacharia",
+    "apprentice_name": "Francesco, di Batista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0239df79-d9ab-4bd7-9406-d08be76ef809",
+    "contract_date": "1592-11-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Bernardo, di Zuane",
+    "apprentice_name": "Alvise, quondam Fantin",
+    "apprentice_origin_name": "Asolo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cd8da626-2e24-4736-b25e-2c93b4de9c0b",
+    "contract_date": "1592-11-24",
+    "workshop_parish": "San Lio",
+    "master_name": "Comin",
+    "apprentice_name": "Battista, quondam Bernardo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6403a699-835e-4ffe-8cc8-2d1c1038c182",
+    "contract_date": "1592-12-22",
+    "workshop_parish": "San Lio",
+    "master_name": "Simon",
+    "apprentice_name": "Zuane, quondam Ambroso",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bb8942a4-52ef-4eee-afea-45d00e5d90d0",
+    "contract_date": "1594-02-17",
+    "workshop_parish": "San Lio",
+    "master_name": "Cristoforo Cristoforetti, di Nicolo",
+    "apprentice_name": "Anzollo Dal Ponte, quondam Domenico",
+    "apprentice_origin_name": "Piove"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "73574a1a-5804-4337-a423-1b2a28f1ac3c",
+    "contract_date": "1594-06-01",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuan Antonio",
+    "apprentice_name": "Antonio Ofiagio, di Battista",
+    "apprentice_origin_name": "Riviera di Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6f52b8c7-783c-40c8-afb2-df0a32346ebd",
+    "contract_date": "1594-10-31",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuanne, quondam Lorenzo",
+    "apprentice_name": "Antonio Zancaro, di Andrea",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "70fe90ec-6b4d-495e-8592-fd06db568aa5",
+    "contract_date": "1594-12-23",
+    "workshop_parish": "San Lio",
+    "master_name": "Nicollo",
+    "apprentice_name": "Vesentin, di Lunardo",
+    "apprentice_origin_name": "Ponte di Legno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3baaed20-803f-48c3-8cdc-ecb3a58fd232",
+    "contract_date": "1595-03-07",
+    "workshop_parish": "San Lio",
+    "master_name": "Antonio",
+    "apprentice_name": "Giacomo, di Maffio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "78a129ca-10ca-414f-a501-6852c050b631",
+    "contract_date": "1595-04-22",
+    "workshop_parish": "San Lio",
+    "master_name": "Alessio",
+    "apprentice_name": "Claudio de Rotta, di Battista",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "26e694ec-b7b0-4089-85b3-0d61e89d9ac0",
+    "contract_date": "1595-05-13",
+    "workshop_parish": "San Lio",
+    "master_name": "Tado",
+    "apprentice_name": "Piero Grasetto, di Cristofollo",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a11dd295-a82a-4ace-bda8-129caf3c336a",
+    "contract_date": "1595-05-22",
+    "workshop_parish": "San Lio",
+    "master_name": "Anzolo Bertoa",
+    "apprentice_name": "Zuane Antonio di Mafei, di Vicenzo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4d049d7a-bf12-48d0-bf23-988565e51646",
+    "contract_date": "1596-01-14",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane",
+    "apprentice_name": "Isepo Ganis, di Mario",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e8dec755-060c-4d20-adf0-501b1ab40f2d",
+    "contract_date": "1596-01-24",
+    "workshop_parish": "San Lio",
+    "master_name": "Otavio",
+    "apprentice_name": "Tibon, di Martin (di Faustin)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8a3b16c0-910c-4953-8163-226397d0bbe7",
+    "contract_date": "1596-08-21",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Zane",
+    "apprentice_name": "Perin dalla Aqua, quondam Marchio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6f9dadab-9822-4f77-bf2b-37274f74c77d",
+    "contract_date": "1596-12-30",
+    "workshop_parish": "San Lio",
+    "master_name": "Antonio",
+    "apprentice_name": "Marco Antonio, di Giacomo",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "06ee4d49-fe3c-4213-8aca-683a1c6b1959",
+    "contract_date": "1597-03-05",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco",
+    "apprentice_name": "Bortolamio Mazon, di Antonio",
+    "apprentice_origin_name": "Sacile"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b6313c3a-0f50-40a0-aae3-927566e4cca6",
+    "contract_date": "1597-04-09",
+    "workshop_parish": "San Lio",
+    "master_name": "Bortholamio Baron",
+    "apprentice_name": "Francesco, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6e4508d3-effe-4e73-b797-75f0be2d3246",
+    "contract_date": "1597-08-12",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Mesner",
+    "apprentice_name": "Zorzi Rausa, di Zuane",
+    "apprentice_origin_name": "Germania"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4d3d931d-8452-49a3-884a-6c843696fb4e",
+    "contract_date": "1597-09-01",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco Porigia",
+    "apprentice_name": "Vicenzo Turesso, quondam Vicenzo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5e20d641-a9b2-4520-9ab9-8994298374e3",
+    "contract_date": "1597-09-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Domenego Questini",
+    "apprentice_name": "Agustin, di Bon'homo (quondam Agustin)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7460b87f-71fc-49c6-91d6-1924448ed223",
+    "contract_date": "1597-10-20",
+    "workshop_parish": "San Lio",
+    "master_name": "Bernardo, quondam Zuane",
+    "apprentice_name": "Lodovico, quondam Lodovico",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f2351f9a-fce2-4f97-abe4-d1a327cc00d9",
+    "contract_date": "1598-05-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco Paregin",
+    "apprentice_name": "Francesco Carara, di Isepo",
+    "apprentice_origin_name": "Portogruaro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e78501b1-e12d-4847-9c3b-b16175d55a40",
+    "contract_date": "1598-06-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Domenico",
+    "apprentice_name": "Anzolo di Scalfo, quondam Anzolo",
+    "apprentice_origin_name": "Muscoline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "859989a6-37b1-4c12-90ef-56bed4a15eb1",
+    "contract_date": "1598-07-20",
+    "workshop_parish": "San Lio",
+    "master_name": "Andrea Del Bello",
+    "apprentice_name": "Francesco Miaga, di Zuane Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "48fdaecc-906d-4713-9193-dc5fb2ad77c4",
+    "contract_date": "1598-08-07",
+    "workshop_parish": "San Lio",
+    "master_name": "Iseppo Scolari",
+    "apprentice_name": "Piero di Lorenzi, di Dionise",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cd14d878-4242-48ff-a14e-946a1eb628e3",
+    "contract_date": "1598-08-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Antonio, di Piero",
+    "apprentice_name": "Andrea, quondam Giacomo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "962f85a0-784f-4aca-b8f9-bdffb7ff91d5",
+    "contract_date": "1598-09-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Antonio Baldo",
+    "apprentice_name": "Bortolamio Donati, di Iseo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "aac20665-04ba-45c6-ae3a-f4c9d1a5e235",
+    "contract_date": "1598-10-09",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Brogolo",
+    "apprentice_name": "Paulo Valgrisio, quondam Zorzi",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ef23839d-7829-40dd-852f-9c733329cd82",
+    "contract_date": "1598-11-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Anzolo Sonador",
+    "apprentice_name": "Francesco Di Salvin, quondam Zuane",
+    "apprentice_origin_name": "Bienno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d40c4721-5fba-4f06-9c4c-af6a0ea8de4a",
+    "contract_date": "1598-11-07",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco",
+    "apprentice_name": "Andrea, di Michiel",
+    "apprentice_origin_name": "Scorz\u00e8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a5daf40e-9b4d-4172-9ecf-ae447eb86243",
+    "contract_date": "1598-12-09",
+    "workshop_parish": "San Lio",
+    "master_name": "Bernardo",
+    "apprentice_name": "Comin, di Zuane Piero",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d4c74346-6832-481f-a208-3706790bee21",
+    "contract_date": "1598-12-11",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco, di Agostin",
+    "apprentice_name": "Marco Calafao, di Felipo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d662b7ef-56ce-4958-870a-5395eed84582",
+    "contract_date": "1599-03-11",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Brogiollo",
+    "apprentice_name": "Zuane Francesco Panocio, di Giulio Alvise",
+    "apprentice_origin_name": "Torino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "97040721-1f10-4fcf-a9bb-e264f5e63c80",
+    "contract_date": "1599-05-06",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco Doninello",
+    "apprentice_name": "Zuanne Candia, di Giulio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9d690f71-67dd-4fc0-8aef-7e238800b0c2",
+    "contract_date": "1599-05-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Alessio Oregini",
+    "apprentice_name": "Zuane , quondam Michele",
+    "apprentice_origin_name": "Arzignano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7da56c93-e871-4228-a1c3-cc11c0d6431f",
+    "contract_date": "1599-07-14",
+    "workshop_parish": "San Lio",
+    "master_name": "Battista; Anzollo",
+    "apprentice_name": "Cristofollo, di Simon",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "daefe0c3-1ee2-4da1-9b32-fff9cea4ccd5",
+    "contract_date": "1599-07-28",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco, quondam Guglielmo",
+    "apprentice_name": "Valentin di Nada, quondam Urban",
+    "apprentice_origin_name": "Spilimbergo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ad77c1e2-179c-49f8-867c-25638854ea93",
+    "contract_date": "1606-04-20",
+    "workshop_parish": "San Lio",
+    "master_name": "Martin Bagozzi, di Antonio",
+    "apprentice_name": "Zuanne, di Anzollo (di Piero)",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4eba6711-8207-4467-8eb1-923a674c709f",
+    "contract_date": "1606-06-02",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane",
+    "apprentice_name": "Antonio, quondam Zamaria",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9d21edf0-a71d-4627-a012-af71db76068b",
+    "contract_date": "1606-06-06",
+    "workshop_parish": "San Lio",
+    "master_name": "Nicol\u00f2  Donatis",
+    "apprentice_name": "Moise Donatis, di Horacio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9585af73-4f01-4bfa-aa6f-b432ef299695",
+    "contract_date": "1606-09-11",
+    "workshop_parish": "San Lio",
+    "master_name": "Anzollo",
+    "apprentice_name": "Pasqualin, di Comin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "882f48ee-e16d-4922-b464-4ebe8dab7f46",
+    "contract_date": "1606-12-30",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero",
+    "apprentice_name": "Lissandro Di Alberti, di Domenego",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ebeb8ba-9637-4270-aaf7-23141dc1b5e6",
+    "contract_date": "1607-03-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuanne Battista",
+    "apprentice_name": "Zanetto, di Bortolo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "203fba30-4b5a-4a8b-b561-a7d00588edcd",
+    "contract_date": "1609-01-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco",
+    "apprentice_name": "Paolo, di Piero",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9b756035-a1af-43ec-b020-c826bd322c3f",
+    "contract_date": "1609-06-12",
+    "workshop_parish": "San Lio",
+    "master_name": "Dona Di Fabri",
+    "apprentice_name": "Zuanne Battista Di Fabri, quondam Gierolamo",
+    "apprentice_origin_name": "Cortina D'Ampezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2be1fe9d-5b30-4f69-ad82-fad68189dcd3",
+    "contract_date": "1609-06-16",
+    "workshop_parish": "San Lio",
+    "master_name": "Gierolamo Dai Scrigni, di Marco",
+    "apprentice_name": "Giacomo Fachineti, di Fabricio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "63b5a677-510d-4e99-8741-f06f1ad6e64d",
+    "contract_date": "1609-07-27",
+    "workshop_parish": "San Lio",
+    "master_name": "Zamaria",
+    "apprentice_name": "Bertollo, di Baldisera (di Bertolamio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f27f4e89-b1f6-4d16-960e-f64f7fbdc238",
+    "contract_date": "1609-09-16",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane, quondam Giacomo",
+    "apprentice_name": "Paolo, di Pietro",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3c56166b-6d62-461a-a171-0c5d5e75edec",
+    "contract_date": "1609-12-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane",
+    "apprentice_name": "Bertollo Bertoloti, di Battista (quondam Bernardin)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ab6fa686-d629-4d7c-b386-4d58a8a3c6c7",
+    "contract_date": "1610-05-29",
+    "workshop_parish": "San Lio",
+    "master_name": "Filippo Capello",
+    "apprentice_name": "Geronimo Rigazeto, di Bastian",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f5a81385-c909-4e4c-a9cf-dd83437a6e8a",
+    "contract_date": "1610-06-02",
+    "workshop_parish": "San Lio",
+    "master_name": "Orazio di Negri",
+    "apprentice_name": "Marco Di Zuzi, di Nocente",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f7221d20-305b-4281-8499-23eb08b6b83c",
+    "contract_date": "1620-06-27",
+    "workshop_parish": "San Lio",
+    "master_name": "Iseppo Guatinoni",
+    "apprentice_name": "Bortolamio, quondam Cristoffolo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a6fb2d1e-e9ce-4eff-b0ae-527bcccf607f",
+    "contract_date": "1620-09-18",
+    "workshop_parish": "San Lio",
+    "master_name": "Antonio Nardi",
+    "apprentice_name": "Lorenzo Dolci, di Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c4b75d1a-2642-4206-956a-78550f636f72",
+    "contract_date": "1620-10-14",
+    "workshop_parish": "San Lio",
+    "master_name": "Santo Grillo",
+    "apprentice_name": "Gerolamo Ongarato",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "002c3ca2-3ea9-412a-afb6-8d31f1c17a1d",
+    "contract_date": "1620-10-15",
+    "workshop_parish": "San Lio",
+    "master_name": "Andrea Nordis",
+    "apprentice_name": "Francesco, di Zanantonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9bf19245-27dc-4d90-93b7-d246725afb48",
+    "contract_date": "1620-11-17",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco",
+    "apprentice_name": "Costanzo Tirabosco, di Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dd87f6af-227e-43b6-8fad-0a21c63fb2af",
+    "contract_date": "1621-01-18",
+    "workshop_parish": "San Lio",
+    "master_name": "Achile",
+    "apprentice_name": "Valerio di Michieluco, quondam Steffano",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "26db48ca-6074-49c6-a3c2-8e69bff0fe57",
+    "contract_date": "1621-02-16",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Tagliarferro",
+    "apprentice_name": "Antonio Biloto, di Filipo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "996d955f-af70-45f9-a25e-07106ba14619",
+    "contract_date": "1621-05-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Zan Battista da Larese",
+    "apprentice_name": "Bortolo Bertoloti, di Zuane",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e3c104e6-c59e-4871-be93-72e3f51a033a",
+    "contract_date": "1621-06-02",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo di Putti, di Zuane",
+    "apprentice_name": "Anzolo Castello, quondam Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cfaa3d45-6707-4c0d-b9ba-e43181f52976",
+    "contract_date": "1621-06-18",
+    "workshop_parish": "San Lio",
+    "master_name": "Santo Griolo",
+    "apprentice_name": "Lorenzo, di Venancio",
+    "apprentice_origin_name": "Fivizzano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "364f8ca5-2c3e-448c-a57c-2bfe06173242",
+    "contract_date": "1621-07-07",
+    "workshop_parish": "San Lio",
+    "master_name": "Michiel Rota",
+    "apprentice_name": "Pietro Carobi, di Bonadio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c5c2b1b6-d266-499f-9f0e-4d549a93ad1d",
+    "contract_date": "1621-07-13",
+    "workshop_parish": "San Lio",
+    "master_name": "Bortollo Candia",
+    "apprentice_name": "Pietro Florio, di Zuan Battista",
+    "apprentice_origin_name": "Riviera di Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e6ad4eb4-2df8-41b6-95f6-edc90e972c0b",
+    "contract_date": "1621-08-14",
+    "workshop_parish": "San Lio",
+    "master_name": "Marcio Dorigallo",
+    "apprentice_name": "Lodovicho Snechi, quondam Vicenzo",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9cec731f-7358-4f7e-88fb-4239fcfd9919",
+    "contract_date": "1621-10-11",
+    "workshop_parish": "San Lio",
+    "master_name": "Ottavio di Negri",
+    "apprentice_name": "Agustin Pecinello, di Bortolamio",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "449773c1-b1f7-4664-baa3-d6dad89b2674",
+    "contract_date": "1621-10-22",
+    "workshop_parish": "San Lio",
+    "master_name": "Battista Biasco",
+    "apprentice_name": "Steffano, di Francesco",
+    "apprentice_origin_name": "Cenate Sotto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d4cc8109-0339-4bfb-b971-15c36bed46c8",
+    "contract_date": "1621-11-08",
+    "workshop_parish": "San Lio",
+    "master_name": "Lunardo Valotta, quondam Battista",
+    "apprentice_name": "Andrea, quondam Lorenzo",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "53ffd2a6-e259-468e-972b-0a82c09737eb",
+    "contract_date": "1621-12-29",
+    "workshop_parish": "San Lio",
+    "master_name": "Bricita Cecht",
+    "apprentice_name": "Biasio, di Francesco",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2f8ae072-ab36-44a6-9c34-270b274ee225",
+    "contract_date": "1622-05-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Rocho Milman",
+    "apprentice_name": "Giacinto Zocolini, di Vilio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6e4990c5-0da1-4144-ab46-12dd6968dbd1",
+    "contract_date": "1622-07-07",
+    "workshop_parish": "San Lio",
+    "master_name": "Gerolamo da Cha Talgiapietra",
+    "apprentice_name": "Zuan Pietro Pigini, quondam Antonio",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4417051a-7c36-4c7f-b47b-975c1b5c5e9f",
+    "contract_date": "1622-09-15",
+    "workshop_parish": "San Lio",
+    "master_name": "Gerolamo",
+    "apprentice_name": "Francesco, di Pezzino",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "228e17d3-57b3-4937-b372-86826a3dca4c",
+    "contract_date": "1622-09-27",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco Ticocio",
+    "apprentice_name": "Francesco Ponchiarino, quondam Zan Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8609e885-a388-4964-a987-418d9e52438f",
+    "contract_date": "1622-12-05",
+    "workshop_parish": "San Lio",
+    "master_name": "Pietro, quondam Pietro",
+    "apprentice_name": "Vicenzo Smania, quondam Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9a2ea74d-0c94-4a11-9a05-6cab0d0f28ea",
+    "contract_date": "1625-02-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Agustin Di Crivellari",
+    "apprentice_name": "Giulio Celegin, di Francesco",
+    "apprentice_origin_name": "Polesine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3205333b-6b45-4851-b993-e57c186d2468",
+    "contract_date": "1625-06-06",
+    "workshop_parish": "San Lio",
+    "master_name": "Martin",
+    "apprentice_name": "Steffano Di Ferari, quondam Antonio",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "16f20260-0ceb-4056-9bb5-844ccd598205",
+    "contract_date": "1625-06-18",
+    "workshop_parish": "San Lio",
+    "master_name": "Bortolo Candin",
+    "apprentice_name": "Battista Franceschini, di Giovanni Marco",
+    "apprentice_origin_name": "Isola di Piave"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5ac365da-c2ea-42b6-8727-e127b973be5d",
+    "contract_date": "1626-01-02",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero Pandolfo, quondam Piero",
+    "apprentice_name": "Bortolamio Panigetti, di Simon",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0fbb8598-bb8d-4f43-9ae0-8d5221ace099",
+    "contract_date": "1626-03-30",
+    "workshop_parish": "San Lio",
+    "master_name": "Panciera",
+    "apprentice_name": "Battista, di Alvise",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "809f1d10-e6e7-4c91-a9bd-484b411cd2fc",
+    "contract_date": "1632-02-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Ambruoso Mazoleto",
+    "apprentice_name": "Andrea Bertoni, quondam Zan Paulo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b760f8b4-4223-46f3-b10d-74a5ab853841",
+    "contract_date": "1632-09-18",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Vidali",
+    "apprentice_name": "Ciprian Di Valerii, quondam Menego",
+    "apprentice_origin_name": "Motta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "feec0bd7-b5c3-4ee9-a50b-8377a46939db",
+    "contract_date": "1632-09-24",
+    "workshop_parish": "San Lio",
+    "master_name": "Giovan Pietro d'i Quietti",
+    "apprentice_name": "Allessandro Malandrin, quondam Bartolomeo",
+    "apprentice_origin_name": "Oderzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c700d190-59fa-43f8-89ee-a79035b4e28e",
+    "contract_date": "1632-11-08",
+    "workshop_parish": "San Lio",
+    "master_name": "Ambruoso Vitali",
+    "apprentice_name": "Domenego Lombardini, di Rocho",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1d6494a0-265b-41a2-8f8a-25c6bb8392eb",
+    "contract_date": "1644-01-26",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero Quieti",
+    "apprentice_name": "Piero Maistris, di Nicol\u00f2",
+    "apprentice_origin_name": "Vazzola"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a8cf2a28-d07a-4e9a-98ba-761490aefe8a",
+    "contract_date": "1644-01-30",
+    "workshop_parish": "San Lio",
+    "master_name": "Gieronimo Grapisi",
+    "apprentice_name": "Bortolo Pavini, quondam Zuane",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5003fb5b-2563-4215-a138-b8f260961581",
+    "contract_date": "1644-08-13",
+    "workshop_parish": "San Lio",
+    "master_name": "Paulo Perici",
+    "apprentice_name": "Agostin Spolverin, quondam Francesco",
+    "apprentice_origin_name": "Badia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2dd5d8b9-e1f6-47dd-a24f-91940fb40b45",
+    "contract_date": "1645-02-05",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Caffen",
+    "apprentice_name": "Valentin de Cirado",
+    "apprentice_origin_name": "Bolzano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "158cb5af-b2d4-40e2-97f9-6c57539f9244",
+    "contract_date": "1645-06-17",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero Branzini, quondam Paulo",
+    "apprentice_name": "Zuane Battista Facetto, di Daniel",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3c661504-aff0-4c92-ae86-8ccb946b554f",
+    "contract_date": "1645-09-05",
+    "workshop_parish": "San Lio",
+    "master_name": "Iseppo de Lorenzi",
+    "apprentice_name": "Tomasin Batorello, di Cresan",
+    "apprentice_origin_name": "Riviera di Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "83a212e5-09b3-4aa5-a0f7-7ee6388122ec",
+    "contract_date": "1646-01-23",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Sezini",
+    "apprentice_name": "Francesco, di Domenicho",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9e0172ea-8f95-4607-bdb3-76afa3f4ca2a",
+    "contract_date": "1646-03-29",
+    "workshop_parish": "San Lio",
+    "master_name": "Lodovico Allegro",
+    "apprentice_name": "Simon Vario, quondam Lodovico",
+    "apprentice_origin_name": "Piemonte"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e568ada0-f587-4c81-bf79-2123baa82d25",
+    "contract_date": "1646-05-23",
+    "workshop_parish": "San Lio",
+    "master_name": "Antonio Ceruco, quondam Zuane",
+    "apprentice_name": "Guielmo de Magni, di Piero",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9497b2db-2331-48a1-99a5-50afb4f4f62e",
+    "contract_date": "1646-05-30",
+    "workshop_parish": "San Lio",
+    "master_name": "Pantiera",
+    "apprentice_name": "Greguol, di Titian",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e39d9a76-25e2-4596-ba7a-f140f0072b57",
+    "contract_date": "1646-06-22",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Ghirardi",
+    "apprentice_name": "Battista di Bianchi, di Bernardo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9196bf26-5928-47c6-ae1a-353f161d0c35",
+    "contract_date": "1647-10-03",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Remessi",
+    "apprentice_name": "Rocco Genua, di Gerolamo",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3722b0c4-6d33-4679-81b2-7c653e33e53d",
+    "contract_date": "1647-12-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Zaccaria Bellini, quondam Giulio",
+    "apprentice_name": "Zuane Mora, di Giovan Battista",
+    "apprentice_origin_name": "Trento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5bf37085-47ac-4f46-b78e-368aa6badd79",
+    "contract_date": "1652-02-03",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Azini",
+    "apprentice_name": "Antonio De Dani, quondam Giacomo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cda09767-e853-4523-9ca3-5d0df954bf3b",
+    "contract_date": "1653-04-02",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero Quietti",
+    "apprentice_name": "Domenego Doretti, quondam Zuanne",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "20bf7adf-1a93-4acd-9c92-007e98da76c6",
+    "contract_date": "1653-04-24",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Remessi",
+    "apprentice_name": "Anzolo Menut, di Gerolamo",
+    "apprentice_origin_name": "Rovigo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ade7d081-fbd4-48ac-b2cf-e1d57600ee25",
+    "contract_date": "1656-08-08",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Remesi",
+    "apprentice_name": "Zamaria  Miotto, quondam Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2cf0353e-8d99-4558-b03d-d14e5b783040",
+    "contract_date": "1657-04-20",
+    "workshop_parish": "San Lio",
+    "master_name": "Piero Moretti",
+    "apprentice_name": "Bernardo Cerdini, di Zuane",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3854ed73-b301-4450-84e8-865cc4b7fdcd",
+    "contract_date": "1657-06-20",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Remessi",
+    "apprentice_name": "Battista Luciani, quondam Giacomo",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "63c6956c-cf06-4812-9917-9748224c3c00",
+    "contract_date": "1657-12-17",
+    "workshop_parish": "San Lio",
+    "master_name": "Valerio",
+    "apprentice_name": "Nadal Zanol, di Zamaria",
+    "apprentice_origin_name": "Col"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9e855454-2e1b-4fa5-b7c6-200acf6945e6",
+    "contract_date": "1658-02-28",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Remessi",
+    "apprentice_name": "Zuan Maria Coi, quondam Martin",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d9e772a7-2760-4374-9321-71ac035f06bd",
+    "contract_date": "1658-04-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Remessi",
+    "apprentice_name": "Alessandro, quondam Alessandro",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6e5e8162-8e93-45ff-ab9d-ae7b33aab0c4",
+    "contract_date": "1658-04-06",
+    "workshop_parish": "San Lio",
+    "master_name": "Paolo",
+    "apprentice_name": "Agnolo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3e5e9825-4358-4d55-816d-81d52bca2df4",
+    "contract_date": "1658-09-24",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Remessi",
+    "apprentice_name": "Valentin della Posizzano, di Svaldo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "314e2dc4-ed9b-4353-80bf-00e80b40e6a1",
+    "contract_date": "1658-12-11",
+    "workshop_parish": "San Lio",
+    "master_name": "Carlo  de Bove",
+    "apprentice_name": "Battista, di Christofolo",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2a8222de-4680-4a11-84bc-0c4b8e6e8173",
+    "contract_date": "1658-12-23",
+    "workshop_parish": "San Lio",
+    "master_name": "Zualian Daival, quondam Zuan Battista",
+    "apprentice_name": "Zuan Battista de Lucia, quondam Mattio",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bad19c3a-606e-40ad-bab7-55597939435c",
+    "contract_date": "1659-05-30",
+    "workshop_parish": "San Lio",
+    "master_name": "Tomaso Tagiaferro",
+    "apprentice_name": "Menego Steffani, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5e8e4282-5b7c-4749-a186-dffb0e4daeca",
+    "contract_date": "1659-07-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Bastian Panciera",
+    "apprentice_name": "Zuanne Tonin, di Piero",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "60a3cf74-2bed-4f94-bdc7-3cc50a9d2e66",
+    "contract_date": "1659-09-15",
+    "workshop_parish": "San Lio",
+    "master_name": "Bernardo Cuogo",
+    "apprentice_name": "Antonio Boldrin, di Battista",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "353129e6-6cfe-438c-9a43-5f6473c07ba6",
+    "contract_date": "1662-04-29",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Remessi",
+    "apprentice_name": "Battista Fracalanzza, di Gregorio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "911b64a6-aa4d-4df2-9842-995dafe946b0",
+    "contract_date": "1663-05-28",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Maria Astori",
+    "apprentice_name": "Zuane Ferrari, di Martin",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "97b419c8-eeb9-433e-bdf4-364270f6f377",
+    "contract_date": "1664-01-27",
+    "workshop_parish": "San Lio",
+    "master_name": "Zulian Dairol",
+    "apprentice_name": "Zuanne Battista Casal, di Agostin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "94c5afb9-cc00-40e5-9e29-d3a5916f2862",
+    "contract_date": "1664-04-26",
+    "workshop_parish": "San Lio",
+    "master_name": "Antonio Goletto",
+    "apprentice_name": "Santo colcin, di Zuanne",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1df2befe-1b94-46a8-a6a8-796974e4f110",
+    "contract_date": "1664-05-07",
+    "workshop_parish": "San Lio",
+    "master_name": "Tomaso Tagiaferro",
+    "apprentice_name": "Baldissera Toniett, di Bortolamio",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2da64968-0615-4347-bf5a-0200d9e2c44c",
+    "contract_date": "1664-05-19",
+    "workshop_parish": "San Lio",
+    "master_name": "Zaccaria Guaina",
+    "apprentice_name": "Menego Molini, di Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e1c1351e-6e75-4675-9113-1461b55f665f",
+    "contract_date": "1664-07-08",
+    "workshop_parish": "San Lio",
+    "master_name": "Marcho Bolis, quondam Iseppo ",
+    "apprentice_name": "Bernardin Lesin, di Carlo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "63c5f555-d760-481c-a071-3eea6ef3aa4a",
+    "contract_date": "1664-08-08",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco Zambelli",
+    "apprentice_name": "Giacomo Vendrin, di Santo",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1ba938ca-38de-4b13-9c0d-772255ac65dd",
+    "contract_date": "1664-10-14",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Beretti",
+    "apprentice_name": "Nadal Medico, di Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "02758cd9-4e26-43eb-baf2-b9b5d9c2c257",
+    "contract_date": "1664-10-15",
+    "workshop_parish": "San Lio",
+    "master_name": "Carlo De Bozze",
+    "apprentice_name": "Mattio Anzolini, quondam Bernardin",
+    "apprentice_origin_name": "Trento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ef8c6523-009c-4683-bb21-23008a5ab330",
+    "contract_date": "1664-10-17",
+    "workshop_parish": "San Lio",
+    "master_name": "Steffano Domone?",
+    "apprentice_name": "Antonio Contian, quondam Marco Antonio",
+    "apprentice_origin_name": "Pirano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "11f6f675-2c65-43a8-ac54-4371f476e124",
+    "contract_date": "1665-04-08",
+    "workshop_parish": "San Lio",
+    "master_name": "Tomaso Taggiaferro",
+    "apprentice_name": "Lunardo De Clara, quondam Marco",
+    "apprentice_origin_name": "Aviano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "772f8b96-dfec-48eb-80b7-b1ea49461971",
+    "contract_date": "1670-02-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Pasqual Fiorino",
+    "apprentice_name": "Candido Sacomani, di Marco",
+    "apprentice_origin_name": "Motta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a860d864-4e4a-4f45-8f4b-2bce673abd55",
+    "contract_date": "1670-09-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Iseppo Farto",
+    "apprentice_name": "Anzolo Segato, di Gasparo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7d3d15d3-5605-4d81-a66c-27a5cdea58a9",
+    "contract_date": "1670-11-08",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Remesi",
+    "apprentice_name": "Iseppo Mion, quondam Zuanne",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5634e9d6-1f48-4a67-bd60-01e1e1926688",
+    "contract_date": "1670-12-15",
+    "workshop_parish": "San Lio",
+    "master_name": "Giacomo Remesi",
+    "apprentice_name": "Anzolo Travan, di Mattio",
+    "apprentice_origin_name": "Gorizia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2fe788ba-35dd-40f9-b720-a71d17c0caf1",
+    "contract_date": "1671-06-01",
+    "workshop_parish": "San Lio",
+    "master_name": "Isepo Soardi, di Nicol\u00f2",
+    "apprentice_name": "Gerolamo Rossi, quondam Zuane",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8d3ad4fe-6f52-4d82-8b37-580570a3a75c",
+    "contract_date": "1671-07-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Nicol\u00f2 Baldin",
+    "apprentice_name": "Francesco Somavilla, quondam Ville",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "307ad005-2062-45a6-8830-9f6ef66f8d10",
+    "contract_date": "1671-08-01",
+    "workshop_parish": "San Lio",
+    "master_name": "Gasparo Monfera",
+    "apprentice_name": "Felice Benoni, di Piero",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "800cd680-2858-402b-a0a0-5a23328656c0",
+    "contract_date": "1671-08-01",
+    "workshop_parish": "San Lio",
+    "master_name": "Zulian Reali",
+    "apprentice_name": "Zuan Battista del tempo, quondam Bartolomio, Vardini",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "09f31d19-8d10-490a-a1e6-14c86de70e6e",
+    "contract_date": "1681-02-18",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Robaste",
+    "apprentice_name": "Antonio Mantovan, di Zuane",
+    "apprentice_origin_name": "Rovigo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "81d26c29-2023-4175-a80b-2d1a6bb36177",
+    "contract_date": "1681-09-02",
+    "workshop_parish": "San Lio",
+    "master_name": "Valentin Varesco",
+    "apprentice_name": "Gaetano Paparei, di Michiel",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eb2a35e3-59e8-4545-ad66-eda5e46a62ec",
+    "contract_date": "1682-04-02",
+    "workshop_parish": "San Lio",
+    "master_name": "Abramo Tigra",
+    "apprentice_name": "Aurelio Beni, di Zuane Battista",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2db6c7f6-12b9-4a45-881b-9559060e3b09",
+    "contract_date": "1682-04-22",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuane Robustelli",
+    "apprentice_name": "Antonio Mantovan, di Zuane",
+    "apprentice_origin_name": "Rovigo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "db5080e4-d941-4555-b767-b37379a74810",
+    "contract_date": "1711-10-12",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuanne Bolis",
+    "apprentice_name": "Antonio Santarini, quondam Zuan Battista",
+    "apprentice_origin_name": "Motta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b05da6aa-72a0-4004-b91b-7a9784cb7146",
+    "contract_date": "1712-01-10",
+    "workshop_parish": "San Lio",
+    "master_name": "Domenego Zatoni",
+    "apprentice_name": "Andrea Merlo, quondam Valentin",
+    "apprentice_origin_name": "Lubiana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3000addc-1081-45cb-a334-c231250909ef",
+    "contract_date": "1712-02-22",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuanne Gherzanela",
+    "apprentice_name": "Antonio Panciera, quondam Carlo",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0286e764-7821-4346-9f44-47f7170a0998",
+    "contract_date": "1714-08-11",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco Buseto",
+    "apprentice_name": "Zuanne Pepoli",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9175f08e-f1a1-4ba0-802d-05e4038c98d5",
+    "contract_date": "1714-10-24",
+    "workshop_parish": "San Lio",
+    "master_name": "Zuan Battista Feghela?",
+    "apprentice_name": "Zuanne di Gaspari, di Simon",
+    "apprentice_origin_name": "Ampezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "25a940a6-4ffc-484c-b640-fef439cff8e2",
+    "contract_date": "1717-08-04",
+    "workshop_parish": "San Lio",
+    "master_name": "Bortolo Rocio",
+    "apprentice_name": "Zuanne Battista Colombo, di Giacomo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3dea4c1d-e53b-4395-b8c8-f0c4dbd966d7",
+    "contract_date": "1745-05-08",
+    "workshop_parish": "San Lio",
+    "master_name": "Nascimben Rozio",
+    "apprentice_name": "Bortolamio Bertamini, di Giuseppe",
+    "apprentice_origin_name": "Toscolano Maderno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e63dafbe-3d82-417e-bab3-a9b5b7584abc",
+    "contract_date": "1770-01-22",
+    "workshop_parish": "San Lio",
+    "master_name": "Francesco Pezzi, quondam Francesco",
+    "apprentice_name": "Giovanni Battista Maurizio Maggion, di Domenico",
+    "apprentice_origin_name": null
+   }
+  }
+ ]
+}

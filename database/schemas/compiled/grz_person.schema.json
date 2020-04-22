@@ -1,0 +1,83 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "name": {
+            "label": {
+                "en": "Name"
+            },
+            "type": "string",
+            "minLength": 1,
+            "propertyOrder": 2
+        },
+        "relationships": {
+            "label": {
+                "en": "Relationships"
+            },
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "relationType": {
+                        "label": {
+                            "en": "Relation Type"
+                        },
+                        "type": "string",
+                        "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                        "_choiceList": {
+                            "listQName": "grz:PersonRelationList",
+                            "keyProperty": "qualified_name"
+                        },
+                        "propertyOrder": 1
+                    },
+                    "person": {
+                        "label": {
+                            "en": "Person"
+                        },
+                        "type": "string",
+                        "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+                        "_choiceList": {
+                            "listQName": "grz:Person",
+                            "keyProperty": "id",
+                            "labelProperty": "name",
+                            "minCharacters": 2
+                        },
+                        "propertyOrder": 2
+                    }
+                },
+                "required": [
+                    "relationType",
+                    "person"
+                ],
+                "additionalProperties": false
+            },
+            "uniqueItems": true,
+            "propertyOrder": 3
+        },
+        "onMediaWiki": {
+            "label": {
+                "en": "On MediaWiki"
+            },
+            "type": "boolean",
+            "default": false,
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 4
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "name"
+    ]
+}

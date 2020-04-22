@@ -1,0 +1,504 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/291.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2308cb98-7d04-45aa-9be5-fbe934439107",
+    "contract_date": "1575-08-18",
+    "workshop_parish": "San Samuele",
+    "master_name": "Benetto",
+    "apprentice_name": "Francesco, quondam Fachin",
+    "apprentice_origin_name": "Torre di Mosto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "524051fc-1594-469d-9ad1-b61f7b9bce46",
+    "contract_date": "1575-08-18",
+    "workshop_parish": "San Samuele",
+    "master_name": "Piero Antonio",
+    "apprentice_name": "Anzola, quondam Stephano",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e3e98af0-a541-4bae-b832-262ae6ce34ae",
+    "contract_date": "1575-08-18",
+    "workshop_parish": "San Samuele",
+    "master_name": "Piero Antonio",
+    "apprentice_name": "Bella Carraon, di Modesto",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "43376ed2-dec7-4372-9a29-3d8c57c65fa1",
+    "contract_date": "1575-08-22",
+    "workshop_parish": "San Samuele",
+    "master_name": "Piero Antonio",
+    "apprentice_name": "Marieta, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ff9061b1-d949-4010-9e33-174c9fa2680f",
+    "contract_date": "1575-09-24",
+    "workshop_parish": "San Samuele",
+    "master_name": "Andrea, di Domenico",
+    "apprentice_name": "Ugier Di Uggieri, di Zuane",
+    "apprentice_origin_name": "Padenghe sul Garda"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6b76a906-3651-4110-9cf8-ec3b6aa954c4",
+    "contract_date": "1575-09-26",
+    "workshop_parish": "San Samuele",
+    "master_name": "Iacomo, di Battista",
+    "apprentice_name": "Gieronimo, quondam Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f62607ec-a9c5-4d87-bc39-7fd025c05a65",
+    "contract_date": "1575-12-10",
+    "workshop_parish": "San Samuele",
+    "master_name": "Nicol\u00f2, quondam Antonio",
+    "apprentice_name": "Zuane, quondam Daniel",
+    "apprentice_origin_name": "Verzegnis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "06a66568-2267-49f9-b35f-051dd037ecd3",
+    "contract_date": "1584-03-24",
+    "workshop_parish": "San Samuele",
+    "master_name": "Leonardo",
+    "apprentice_name": "Beneto, quondam Bastian",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f3742093-aa80-49f6-9a72-04712e75e676",
+    "contract_date": "1584-05-28",
+    "workshop_parish": "San Samuele",
+    "master_name": "Nicol\u00f2",
+    "apprentice_name": "Fabio Rigenio, quondam Zuan Paulo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "48edc2de-e783-4541-91f8-41a3d99fcc99",
+    "contract_date": "1594-09-22",
+    "workshop_parish": "San Samuele",
+    "master_name": "Benetto, di Samuel",
+    "apprentice_name": "Zorzi, quondam Piero (di Zorzi)",
+    "apprentice_origin_name": "Serina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f73bfdbe-5032-4c2d-9e8e-4c1f01339eac",
+    "contract_date": "1594-11-24",
+    "workshop_parish": "San Samuele",
+    "master_name": "Giacomo",
+    "apprentice_name": "Ciprian, quondam Nicollo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "04808fa5-5fa7-4d27-a154-5cade45143b2",
+    "contract_date": "1596-02-01",
+    "workshop_parish": "San Samuele",
+    "master_name": "Boneto, quondam Piero",
+    "apprentice_name": "Giacomo Belaviti, di Vivian (quondam Pelegrin)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7eee9480-df89-4f6e-a425-5939e1ca7404",
+    "contract_date": "1596-08-22",
+    "workshop_parish": "San Samuele",
+    "master_name": "Zuane, di Cristofollo",
+    "apprentice_name": "Anzollo, di Benedeto",
+    "apprentice_origin_name": "Val Gardena"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9a96de6a-0ab6-4bd5-a9e5-f35731d5fa2c",
+    "contract_date": "1606-10-10",
+    "workshop_parish": "San Samuele",
+    "master_name": "Paulo",
+    "apprentice_name": "Piero Catareo, di Luca",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "18c6170a-9fc5-4cb2-8748-07043708394b",
+    "contract_date": "1606-10-26",
+    "workshop_parish": "San Samuele",
+    "master_name": "Batista",
+    "apprentice_name": "Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3cbefb23-e7aa-431a-9462-9298cbc5a6a1",
+    "contract_date": "1606-12-19",
+    "workshop_parish": "San Samuele",
+    "master_name": "Lissandro",
+    "apprentice_name": "Zuanne Battista, di Paullo (di Francesco)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "49ec894f-938e-4840-bfa7-914555f8dd3c",
+    "contract_date": "1606-12-23",
+    "workshop_parish": "San Samuele",
+    "master_name": "Francesco; Benetto, quondam Piero",
+    "apprentice_name": "Antonio Di Millesi, di Simon",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3c1462c2-c7b1-42cd-9d5c-4434a54dd121",
+    "contract_date": "1609-01-23",
+    "workshop_parish": "San Samuele",
+    "master_name": "Nadalin",
+    "apprentice_name": "Domenico di Ruberini, quondam Paolo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "81876299-cda5-4715-a98a-2c65cdced475",
+    "contract_date": "1610-04-26",
+    "workshop_parish": "San Samuele",
+    "master_name": "Simone Mero",
+    "apprentice_name": "Christofolo Palera, di Marco",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "28d06f85-2c6c-4a8d-9843-38db25a70610",
+    "contract_date": "1610-06-16",
+    "workshop_parish": "San Samuele",
+    "master_name": "Michele",
+    "apprentice_name": "Zuane Battista, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "04ffec69-27c7-40a0-92e4-b2d5cc4a2865",
+    "contract_date": "1620-10-01",
+    "workshop_parish": "San Samuele",
+    "master_name": "Gioane Pucin, quondam Daniel",
+    "apprentice_name": "Antonio Pasquini, di Valentin",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cd845be2-31af-4497-9b0d-57f9bc2f65b3",
+    "contract_date": "1621-02-14",
+    "workshop_parish": "San Samuele",
+    "master_name": "Lunardo",
+    "apprentice_name": "Domenico, di Zuane",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9449fdde-0211-4340-abaa-c4c4cbfd7ca4",
+    "contract_date": "1621-09-17",
+    "workshop_parish": "San Samuele",
+    "master_name": "Leonardo, quondam Cristan",
+    "apprentice_name": "Tomasso da Sora, quondam Zuan Giacomo",
+    "apprentice_origin_name": "Corvara in Badia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "abc9f360-39fa-41cd-8f93-ed18bc58b70e",
+    "contract_date": "1621-10-29",
+    "workshop_parish": "San Samuele",
+    "master_name": "Isepo",
+    "apprentice_name": "Mattio Perin, di Zuane",
+    "apprentice_origin_name": "Marostica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "02daeab1-69f3-43e1-9b2e-0d5b38384bac",
+    "contract_date": "1621-12-01",
+    "workshop_parish": "San Samuele",
+    "master_name": "Domenico, di Alberto",
+    "apprentice_name": "Paulo Salmin, di Andrea",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d1dad9cc-85f7-40e8-afa5-2ca59c03d924",
+    "contract_date": "1622-11-23",
+    "workshop_parish": "San Samuele",
+    "master_name": "Leonardo, quondam Christan",
+    "apprentice_name": "Battista di Pierobon, quondam Polo",
+    "apprentice_origin_name": "Selva di Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d27ba78c-86c3-43be-981d-d7d1ec1f1f8e",
+    "contract_date": "1625-11-06",
+    "workshop_parish": "San Samuele",
+    "master_name": "Francesco Girardi , di Lorenzo",
+    "apprentice_name": "Bortolo Bonaciol, di Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3b03bb96-102a-4d19-9a11-de53157dd3f1",
+    "contract_date": "1626-07-24",
+    "workshop_parish": "San Samuele",
+    "master_name": "Bastian",
+    "apprentice_name": "Pietro, di Bastian",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b630b4de-3916-43e1-9783-77d8847f7dbd",
+    "contract_date": "1632-01-31",
+    "workshop_parish": "San Samuele",
+    "master_name": "Zuane, quondam Coradin",
+    "apprentice_name": "Menego, quondam Zuane (di Domenego)",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0b0b3ba6-7268-4ce8-a98b-dabd4889d258",
+    "contract_date": "1645-01-17",
+    "workshop_parish": "San Samuele",
+    "master_name": "Sabo",
+    "apprentice_name": "Zuane, quondam Luca (di Bernardin )",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5b6db70d-8129-4546-b92b-8a859177f794",
+    "contract_date": "1646-04-13",
+    "workshop_parish": "San Samuele",
+    "master_name": "Guielmo",
+    "apprentice_name": "Battista dal Moro, quondam Battista",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "66223300-aa36-40e2-b055-7c57b49eb8c8",
+    "contract_date": "1647-10-26",
+    "workshop_parish": "San Samuele",
+    "master_name": "Zuane Arigoni",
+    "apprentice_name": "Lorenzo Belio, quondam Anzolo",
+    "apprentice_origin_name": "Mestre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e44abd78-0c7c-4359-ab9b-917359cf3526",
+    "contract_date": "1653-07-08",
+    "workshop_parish": "San Samuele",
+    "master_name": "Orsino",
+    "apprentice_name": "Giovanni Battista, di Gasparo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cc2df5c0-3597-4c2a-8a80-1233a665d431",
+    "contract_date": "1657-04-30",
+    "workshop_parish": "San Samuele",
+    "master_name": "Alessandro",
+    "apprentice_name": "Zuane Battista, quondam Giulio",
+    "apprentice_origin_name": "Cavarzere"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2a53d315-e028-4ea9-b61a-f17ad98e11b3",
+    "contract_date": "1658-04-06",
+    "workshop_parish": "San Samuele",
+    "master_name": "Andrea",
+    "apprentice_name": "Giacomo Banacina, di Andrea",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dff173da-83ec-4aec-aee3-ad0a5951d87e",
+    "contract_date": "1664-03-06",
+    "workshop_parish": "San Samuele",
+    "master_name": "Andrea",
+    "apprentice_name": "Bastian Dairal, di Piero",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9c4c77ec-00f7-4c2d-9d95-e8c2017951cc",
+    "contract_date": "1664-04-22",
+    "workshop_parish": "San Samuele",
+    "master_name": "Paulo Veraldi",
+    "apprentice_name": "Oratio Dalla Scala, di Mattio",
+    "apprentice_origin_name": "Trento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9fec86f3-42f7-4088-9f40-d84df52a6418",
+    "contract_date": "1664-10-03",
+    "workshop_parish": "San Samuele",
+    "master_name": "Zuanne  Golia",
+    "apprentice_name": "Zuanne Battista Corego",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5d09ebe8-dc7a-40e3-8aea-49968b8a90da",
+    "contract_date": "1670-01-19",
+    "workshop_parish": "San Samuele",
+    "master_name": "Zuan Maria Gasparini",
+    "apprentice_name": "Paulo Calado, di Constantin",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "355e5e1e-2edd-4501-b633-7d0cf5c1b8f6",
+    "contract_date": "1671-06-19",
+    "workshop_parish": "San Samuele",
+    "master_name": "Andrea Reali",
+    "apprentice_name": "Giacomo Cozol, di Alvise",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0220424e-b49d-44e5-8dba-92bd8a6bbab5",
+    "contract_date": "1681-04-14",
+    "workshop_parish": "San Samuele",
+    "master_name": "Tommaso Moretti",
+    "apprentice_name": "Piero Franceschi, di Matio",
+    "apprentice_origin_name": "Venezia"
+   }
+  }
+ ]
+}

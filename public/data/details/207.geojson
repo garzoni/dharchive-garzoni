@@ -1,0 +1,204 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/207.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8d850f1e-a2a5-4da6-8557-2bdf3b00302d",
+    "contract_date": "1575-08-23",
+    "workshop_parish": "San Severo",
+    "master_name": "Zuane, di Paulo",
+    "apprentice_name": "Nicol\u00f2, di Iseppo",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f70bcf2c-0f8c-4624-91e0-11c2ffa0c981",
+    "contract_date": "1582-02-25",
+    "workshop_parish": "San Severo",
+    "master_name": "Anna",
+    "apprentice_name": "Battista da la Santa, di Bastian",
+    "apprentice_origin_name": "San Vito al Tagliamento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7f664b4c-abc4-4132-b587-e6a3f9e20aeb",
+    "contract_date": "1594-07-06",
+    "workshop_parish": "San Severo",
+    "master_name": "Gasparo",
+    "apprentice_name": "Zuane Cavalin, quondam Piero",
+    "apprentice_origin_name": "Bassano del Grappa"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d8673291-de95-47c0-854a-86d65c182962",
+    "contract_date": "1598-03-10",
+    "workshop_parish": "San Severo",
+    "master_name": "Catharina",
+    "apprentice_name": "Giacomo Di Codazzi, di Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b65e85a3-a1b2-4c3b-9211-b3aca4e6ad08",
+    "contract_date": "1598-12-14",
+    "workshop_parish": "San Severo",
+    "master_name": "Nicolo, di Piero",
+    "apprentice_name": "Francesco Raineri, di Fiorino",
+    "apprentice_origin_name": "Bassano del Grappa"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b25daf77-a5b5-4bd8-a354-8261d5479ebf",
+    "contract_date": "1606-04-20",
+    "workshop_parish": "San Severo",
+    "master_name": "Simon, di Antonio",
+    "apprentice_name": "Gasparo Locatelli, di Zanantonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "610d503b-c573-424b-9312-3110cd390c20",
+    "contract_date": "1610-03-05",
+    "workshop_parish": "San Severo",
+    "master_name": "Giovanni di Frata",
+    "apprentice_name": "Piero Delai, di Giovanni",
+    "apprentice_origin_name": "Treviso Bresciano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e02124a7-2f30-4869-91c7-2716ab6f7b9b",
+    "contract_date": "1620-09-01",
+    "workshop_parish": "San Severo",
+    "master_name": "Andrea Sezella",
+    "apprentice_name": "Zuane",
+    "apprentice_origin_name": "Zara"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "53b2684f-d773-4960-9a99-8ef42fea705f",
+    "contract_date": "1622-05-23",
+    "workshop_parish": "San Severo",
+    "master_name": "Francesco Bachi",
+    "apprentice_name": "Rocho Santino, di Zan Andrea",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ec69ca42-21b2-47f7-811f-94aa996fb23d",
+    "contract_date": "1626-07-13",
+    "workshop_parish": "San Severo",
+    "master_name": "Simon, di Antonio",
+    "apprentice_name": "Pasqualin Fidelli, quondam Maffio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "afb6dc84-1319-474a-bc58-a15138908b7a",
+    "contract_date": "1632-11-20",
+    "workshop_parish": "San Severo",
+    "master_name": "Francesco, quondam Sebastian",
+    "apprentice_name": "Francesco, di Marco (di Vito)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a6287a9f-10c1-4976-94eb-3c889063f973",
+    "contract_date": "1647-08-26",
+    "workshop_parish": "San Severo",
+    "master_name": "Fioravanti Ciselin",
+    "apprentice_name": "Domenego Cavan, di Zuane",
+    "apprentice_origin_name": "Trasaghis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "96ba8866-cdec-497f-9a01-3c18ea6c135e",
+    "contract_date": "1647-11-27",
+    "workshop_parish": "San Severo",
+    "master_name": "Simon",
+    "apprentice_name": "Gerolemo, di Batista (di Lunardo)",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3bcdae5f-50d9-4557-bd98-6268dc0024aa",
+    "contract_date": "1664-06-10",
+    "workshop_parish": "San Severo",
+    "master_name": "Soblanda Tissona",
+    "apprentice_name": "Zuanne Schiavolin, quondam Anzolo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e438c378-cafe-47aa-8247-ec61088d778e",
+    "contract_date": "1712-08-02",
+    "workshop_parish": "San Severo",
+    "master_name": "Giovanni Battista Franceschini",
+    "apprentice_name": "Gierolamo Mesura, di Domenico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2104ceba-7cdb-45b7-af8f-0afce029d232",
+    "contract_date": "1769-03-15",
+    "workshop_parish": "San Severo",
+    "master_name": "Zuanne Dall'Andrea",
+    "apprentice_name": "Martin Martini, di Pietro",
+    "apprentice_origin_name": null
+   }
+  }
+ ]
+}

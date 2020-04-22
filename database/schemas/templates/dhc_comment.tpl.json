@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "uri": "@uri",
+        "language": "@language",
+        "content": "@content",
+        "format": "@fileFormat",
+        "metadata": {"type": "object"}
+    },
+    "additionalProperties": false,
+    "required": ["language", "content"]
+}

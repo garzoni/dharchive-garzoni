@@ -1,0 +1,537 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "manifestUuid": {
+            "label": {
+                "en": "Manifest UUID"
+            },
+            "type": "string",
+            "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+            "propertyOrder": 2
+        },
+        "code": {
+            "label": {
+                "en": "Code"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1}[a-z0-9_-]+$",
+            "propertyOrder": 3
+        },
+        "label": {
+            "label": {
+                "en": "Label"
+            },
+            "oneOf": [
+                {
+                    "type": "string",
+                    "minLength": 1
+                },
+                {
+                    "type": "object",
+                    "patternProperties": {
+                        "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$": {
+                            "type": "string",
+                            "minLength": 1
+                        }
+                    },
+                    "additionalProperties": false
+                }
+            ],
+            "propertyOrder": 4
+        },
+        "description": {
+            "label": {
+                "en": "Description"
+            },
+            "oneOf": [
+                {
+                    "type": "string",
+                    "minLength": 1
+                },
+                {
+                    "type": "object",
+                    "patternProperties": {
+                        "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$": {
+                            "type": "string",
+                            "minLength": 1
+                        }
+                    },
+                    "additionalProperties": false
+                }
+            ],
+            "propertyOrder": 5
+        },
+        "viewingDirection": {
+            "label": {
+                "en": "Viewing Direction"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "_choiceList": {
+                "listQName": "sc:ViewingDirection",
+                "keyProperty": "qualified_name"
+            },
+            "propertyOrder": 6
+        },
+        "viewingHint": {
+            "label": {
+                "en": "Viewing Hint"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "_choiceList": {
+                "listQName": "sc:ViewingHint",
+                "keyProperty": "qualified_name"
+            },
+            "propertyOrder": 7
+        },
+        "logo": {
+            "label": {
+                "en": "Logo"
+            },
+            "oneOf": [
+                {
+                    "label": {
+                        "en": "URI"
+                    },
+                    "type": "string",
+                    "format": "uri",
+                    "options": {
+                        "hidden": true
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Service"
+                    },
+                    "type": "object",
+                    "properties": {
+                        "@context": {
+                            "label": {
+                                "en": "Context URI"
+                            },
+                            "type": "string",
+                            "format": "uri",
+                            "options": {
+                                "hidden": true
+                            },
+                            "propertyOrder": 1
+                        },
+                        "@id": {
+                            "label": {
+                                "en": "URI"
+                            },
+                            "type": "string",
+                            "format": "uri",
+                            "options": {
+                                "hidden": true
+                            },
+                            "propertyOrder": 2
+                        },
+                        "profile": {
+                            "label": {
+                                "en": "Profile URI"
+                            },
+                            "type": "string",
+                            "format": "uri",
+                            "options": {
+                                "hidden": true
+                            },
+                            "propertyOrder": 3
+                        }
+                    },
+                    "additionalProperties": true,
+                    "required": [
+                        "@context",
+                        "@id",
+                        "profile"
+                    ]
+                }
+            ],
+            "propertyOrder": 8
+        },
+        "thumbnail": {
+            "label": {
+                "en": "Thumbnail"
+            },
+            "oneOf": [
+                {
+                    "label": {
+                        "en": "URI"
+                    },
+                    "type": "string",
+                    "format": "uri",
+                    "options": {
+                        "hidden": true
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Service"
+                    },
+                    "type": "object",
+                    "properties": {
+                        "@context": {
+                            "label": {
+                                "en": "Context URI"
+                            },
+                            "type": "string",
+                            "format": "uri",
+                            "options": {
+                                "hidden": true
+                            },
+                            "propertyOrder": 1
+                        },
+                        "@id": {
+                            "label": {
+                                "en": "URI"
+                            },
+                            "type": "string",
+                            "format": "uri",
+                            "options": {
+                                "hidden": true
+                            },
+                            "propertyOrder": 2
+                        },
+                        "profile": {
+                            "label": {
+                                "en": "Profile URI"
+                            },
+                            "type": "string",
+                            "format": "uri",
+                            "options": {
+                                "hidden": true
+                            },
+                            "propertyOrder": 3
+                        }
+                    },
+                    "additionalProperties": true,
+                    "required": [
+                        "@context",
+                        "@id",
+                        "profile"
+                    ]
+                }
+            ],
+            "propertyOrder": 9
+        },
+        "attribution": {
+            "label": {
+                "en": "Attribution"
+            },
+            "oneOf": [
+                {
+                    "type": "string",
+                    "minLength": 1
+                },
+                {
+                    "type": "object",
+                    "patternProperties": {
+                        "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$": {
+                            "type": "string",
+                            "minLength": 1
+                        }
+                    },
+                    "additionalProperties": false
+                }
+            ],
+            "propertyOrder": 10
+        },
+        "license": {
+            "label": {
+                "en": "License"
+            },
+            "type": "object",
+            "properties": {
+                "@id": {
+                    "label": {
+                        "en": "URI"
+                    },
+                    "type": "string",
+                    "format": "uri",
+                    "options": {
+                        "hidden": true
+                    },
+                    "propertyOrder": 1
+                },
+                "profile": {
+                    "label": {
+                        "en": "Profile URI"
+                    },
+                    "type": "string",
+                    "format": "uri",
+                    "options": {
+                        "hidden": true
+                    },
+                    "propertyOrder": 2
+                },
+                "label": {
+                    "label": {
+                        "en": "Label"
+                    },
+                    "oneOf": [
+                        {
+                            "type": "string",
+                            "minLength": 1
+                        },
+                        {
+                            "type": "object",
+                            "patternProperties": {
+                                "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$": {
+                                    "type": "string",
+                                    "minLength": 1
+                                }
+                            },
+                            "additionalProperties": false
+                        }
+                    ],
+                    "propertyOrder": 3
+                },
+                "format": {
+                    "label": {
+                        "en": "File Format"
+                    },
+                    "type": "string",
+                    "pattern": "^([a-z-]{4,12}\/[a-z0-9.+-]+)$",
+                    "options": {
+                        "hidden": true
+                    },
+                    "propertyOrder": 4
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "@id"
+            ],
+            "propertyOrder": 11
+        },
+        "service": {
+            "label": {
+                "en": "Services"
+            },
+            "type": "array",
+            "items": {
+                "label": {
+                    "en": "Service"
+                },
+                "type": "object",
+                "properties": {
+                    "@context": {
+                        "label": {
+                            "en": "Context URI"
+                        },
+                        "type": "string",
+                        "format": "uri",
+                        "options": {
+                            "hidden": true
+                        },
+                        "propertyOrder": 1
+                    },
+                    "@id": {
+                        "label": {
+                            "en": "URI"
+                        },
+                        "type": "string",
+                        "format": "uri",
+                        "options": {
+                            "hidden": true
+                        },
+                        "propertyOrder": 2
+                    },
+                    "profile": {
+                        "label": {
+                            "en": "Profile URI"
+                        },
+                        "type": "string",
+                        "format": "uri",
+                        "options": {
+                            "hidden": true
+                        },
+                        "propertyOrder": 3
+                    }
+                },
+                "additionalProperties": true,
+                "required": [
+                    "@context",
+                    "@id",
+                    "profile"
+                ]
+            },
+            "minItems": 1,
+            "propertyOrder": 12
+        },
+        "seeAlso": {
+            "label": {
+                "en": "See Also"
+            },
+            "type": "array",
+            "items": {
+                "label": {
+                    "en": "See Also"
+                },
+                "type": "object",
+                "properties": {
+                    "@id": {
+                        "label": {
+                            "en": "URI"
+                        },
+                        "type": "string",
+                        "format": "uri",
+                        "options": {
+                            "hidden": true
+                        },
+                        "propertyOrder": 1
+                    },
+                    "profile": {
+                        "label": {
+                            "en": "Profile URI"
+                        },
+                        "type": "string",
+                        "format": "uri",
+                        "options": {
+                            "hidden": true
+                        },
+                        "propertyOrder": 2
+                    },
+                    "label": {
+                        "label": {
+                            "en": "Label"
+                        },
+                        "oneOf": [
+                            {
+                                "type": "string",
+                                "minLength": 1
+                            },
+                            {
+                                "type": "object",
+                                "patternProperties": {
+                                    "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    }
+                                },
+                                "additionalProperties": false
+                            }
+                        ],
+                        "propertyOrder": 3
+                    },
+                    "format": {
+                        "label": {
+                            "en": "File Format"
+                        },
+                        "type": "string",
+                        "pattern": "^([a-z-]{4,12}\/[a-z0-9.+-]+)$",
+                        "options": {
+                            "hidden": true
+                        },
+                        "propertyOrder": 4
+                    }
+                },
+                "additionalProperties": false,
+                "required": [
+                    "@id",
+                    "format"
+                ]
+            },
+            "minItems": 1,
+            "propertyOrder": 13
+        },
+        "related": {
+            "label": {
+                "en": "Related Resources"
+            },
+            "type": "array",
+            "items": {
+                "label": {
+                    "en": "Related Resource"
+                },
+                "type": "object",
+                "properties": {
+                    "@id": {
+                        "label": {
+                            "en": "URI"
+                        },
+                        "type": "string",
+                        "format": "uri",
+                        "options": {
+                            "hidden": true
+                        },
+                        "propertyOrder": 1
+                    },
+                    "profile": {
+                        "label": {
+                            "en": "Profile URI"
+                        },
+                        "type": "string",
+                        "format": "uri",
+                        "options": {
+                            "hidden": true
+                        },
+                        "propertyOrder": 2
+                    },
+                    "label": {
+                        "label": {
+                            "en": "Label"
+                        },
+                        "oneOf": [
+                            {
+                                "type": "string",
+                                "minLength": 1
+                            },
+                            {
+                                "type": "object",
+                                "patternProperties": {
+                                    "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    }
+                                },
+                                "additionalProperties": false
+                            }
+                        ],
+                        "propertyOrder": 3
+                    },
+                    "format": {
+                        "label": {
+                            "en": "File Format"
+                        },
+                        "type": "string",
+                        "pattern": "^([a-z-]{4,12}\/[a-z0-9.+-]+)$",
+                        "options": {
+                            "hidden": true
+                        },
+                        "propertyOrder": 4
+                    }
+                },
+                "additionalProperties": false,
+                "required": [
+                    "@id",
+                    "label",
+                    "format"
+                ]
+            },
+            "minItems": 1,
+            "propertyOrder": 14
+        },
+        "metadata": {
+            "type": "object",
+            "propertyOrder": 15
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "manifestUuid",
+        "code"
+    ]
+}

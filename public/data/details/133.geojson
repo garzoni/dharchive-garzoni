@@ -1,0 +1,144 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/133.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3fcd8ab3-ad60-474a-8ad8-020d87ddb37d",
+    "contract_date": "1584-04-04",
+    "workshop_parish": "San Provolo",
+    "master_name": "Pietro",
+    "apprentice_name": "Biasio, di Lunardo",
+    "apprentice_origin_name": "Trasaghis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b2cb4c8b-5a68-41f7-a444-f26ba99807a0",
+    "contract_date": "1591-09-12",
+    "workshop_parish": "San Provolo",
+    "master_name": "Franceschina",
+    "apprentice_name": "Valentin, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "99c72b51-b7cf-4e5f-8e43-86ca4c6fdd03",
+    "contract_date": "1594-09-20",
+    "workshop_parish": "San Provolo",
+    "master_name": "Antonio, di Alvise",
+    "apprentice_name": "Antonio, di Antonio",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b6f2daf3-bd13-4b50-950c-cfb292101500",
+    "contract_date": "1594-12-01",
+    "workshop_parish": "San Provolo",
+    "master_name": "Franceschina Veda",
+    "apprentice_name": "Pasqualin Babolin, quondam Antonio",
+    "apprentice_origin_name": "Mestre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b3ee040e-0b65-4b47-aef6-5bf7f596debc",
+    "contract_date": "1620-06-04",
+    "workshop_parish": "San Provolo",
+    "master_name": "Lunardo",
+    "apprentice_name": "Florian, di Piero",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f8206052-b27c-4db7-9769-be9046c7d0c5",
+    "contract_date": "1620-06-04",
+    "workshop_parish": "San Provolo",
+    "master_name": "Lunardo",
+    "apprentice_name": "Zuane, quondam Daniel",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "75967442-c352-4354-a030-e5ebbec57e60",
+    "contract_date": "1621-07-06",
+    "workshop_parish": "San Provolo",
+    "master_name": "Domenico di Contenti, quondam Camillo",
+    "apprentice_name": "Zuane Miani, di Alvisse",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3d042b95-99c6-4573-afff-277a3bcabb8a",
+    "contract_date": "1632-06-05",
+    "workshop_parish": "San Provolo",
+    "master_name": "Bastian, di Betin",
+    "apprentice_name": "Tomaso Di Boni, quondam Maffio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "43743d76-bc12-43b9-b450-1f64b2887018",
+    "contract_date": "1664-11-13",
+    "workshop_parish": "San Provolo",
+    "master_name": "Zorzi Berti",
+    "apprentice_name": "Giacomo, di Zuanne Battista (di Zorzi)",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0c8e45c6-3e2e-41aa-b321-2b9a2a2bf8e1",
+    "contract_date": "1731-07-04",
+    "workshop_parish": "San Provolo",
+    "master_name": "Andrea Berti, quondam Zacaria",
+    "apprentice_name": "Francesco Berti, quondam Zorzi",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d908b3dc-312c-4f33-9be3-8104be06a10d",
+    "contract_date": "1771-05-27",
+    "workshop_parish": "San Provolo",
+    "master_name": "Battista Nonin",
+    "apprentice_name": "Lorenzo Franceschin, di Sebastian",
+    "apprentice_origin_name": null
+   }
+  }
+ ]
+}

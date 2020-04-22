@@ -1,0 +1,36 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "id": {
+            "label": {
+                "en": "Tag"
+            },
+            "@language": {}
+        },
+        "label": "@multilingualLabel",
+        "language": {
+            "label": {
+                "en": "Language"
+            },
+            "type": "string",
+            "pattern": "@reQName"
+        },
+        "script": {
+            "label": {
+                "en": "Script"
+            },
+            "type": "string",
+            "pattern": "@reQName"
+        },
+        "region": {
+            "label": {
+                "en": "Region"
+            },
+            "type": "string",
+            "pattern": "@reQName"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["id", "label"]
+}

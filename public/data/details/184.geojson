@@ -1,0 +1,516 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/184.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "335548bc-9759-4d97-8428-57190a6f4f39",
+    "contract_date": "1575-06-20",
+    "workshop_parish": "San Agostin",
+    "master_name": "Zuane Da Maggio",
+    "apprentice_name": "Paulo, di Fantin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d0ace529-49b2-438d-8731-c08f9fb0b60f",
+    "contract_date": "1575-07-05",
+    "workshop_parish": "San Agostin",
+    "master_name": "Thomaso, di Augustin; Iseppo",
+    "apprentice_name": "Battista, di Iseppo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "877b462a-3438-426c-a31f-0cc9a4a5ee38",
+    "contract_date": "1575-07-11",
+    "workshop_parish": "San Agostin",
+    "master_name": "Gaspero",
+    "apprentice_name": "Nicol\u00f2, quondam Valerio",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "daa71429-a682-4118-b358-d6002871d8c9",
+    "contract_date": "1575-11-02",
+    "workshop_parish": "San Agostin",
+    "master_name": "Benetto, quondam Domenego",
+    "apprentice_name": "Francesco Zentilli, di Marco",
+    "apprentice_origin_name": "Ponte di Piave"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "299b6f8f-117c-4530-afba-99cfd3385bd1",
+    "contract_date": "1575-11-14",
+    "workshop_parish": "San Agostin",
+    "master_name": "Piero De Crescentii",
+    "apprentice_name": "Antonio Di Briti, quondam Dionysio",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "21d5231a-dc38-4feb-9424-a94ecdff9eba",
+    "contract_date": "1575-12-17",
+    "workshop_parish": "San Agostin",
+    "master_name": "Alexandro",
+    "apprentice_name": "Symon, di Cabrin (quondam Zorzi)",
+    "apprentice_origin_name": "Torno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "532e2b5b-2449-4ab9-9182-00c0df25f008",
+    "contract_date": "1583-04-01",
+    "workshop_parish": "San Agostin",
+    "master_name": "Alisandro",
+    "apprentice_name": "Lisandro Longena, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "09727b2e-0cac-49ee-829c-21a797bb8170",
+    "contract_date": "1583-10-27",
+    "workshop_parish": "San Agostin",
+    "master_name": "Battista, di Zuane",
+    "apprentice_name": "Marco Antonio, di Giorgio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2e57c3ec-2fa8-41dc-ba08-07da84a7f031",
+    "contract_date": "1584-03-05",
+    "workshop_parish": "San Agostin",
+    "master_name": "Alisandro, di Lorenzo",
+    "apprentice_name": "Antonio di Grateri, di Francesco",
+    "apprentice_origin_name": "Scanzorosciate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ab02077e-fdbe-436d-bf25-237c3cf36ca5",
+    "contract_date": "1584-12-18",
+    "workshop_parish": "San Agostin",
+    "master_name": "Zan Marco",
+    "apprentice_name": "Piero, di Nicoll\u00f2",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5e28e00e-0e3c-4dc4-b92e-11054f855575",
+    "contract_date": "1594-05-11",
+    "workshop_parish": "San Agostin",
+    "master_name": "Andrea Carara",
+    "apprentice_name": "Giacomo, quondam Gasparo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e21e6423-1b9a-4c3f-ae88-ba359f0a71a9",
+    "contract_date": "1597-04-10",
+    "workshop_parish": "San Agostin",
+    "master_name": "Giacomo, di Piero",
+    "apprentice_name": "Zuane De Carnacin?, quondam Andrea",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d90aac58-66b6-4d3d-a3af-a61b9a9c0e0f",
+    "contract_date": "1597-12-01",
+    "workshop_parish": "San Agostin",
+    "master_name": "Allisandro",
+    "apprentice_name": "Antonio, di Bernardo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b24e3e9b-167f-460d-ace1-1ab71ccf9cbc",
+    "contract_date": "1598-03-27",
+    "workshop_parish": "San Agostin",
+    "master_name": "Tomaso",
+    "apprentice_name": "Piero Dal Agnollo, di Simon",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3e7f1f32-f611-4432-b643-e4f5516fbeb0",
+    "contract_date": "1598-06-19",
+    "workshop_parish": "San Agostin",
+    "master_name": "Gasparo",
+    "apprentice_name": "Core, quondam Gregorio",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "11903522-256f-4287-b1fb-8549d9695df2",
+    "contract_date": "1598-12-30",
+    "workshop_parish": "San Agostin",
+    "master_name": "Alessandro, quondam Lorenzo",
+    "apprentice_name": "Salvador, quondam Giacomo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8abc902b-bbe6-4395-badd-fb5dbf3b949d",
+    "contract_date": "1606-01-29",
+    "workshop_parish": "San Agostin",
+    "master_name": "Menego",
+    "apprentice_name": "Cristofolo , di Zambattista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ba69c327-8759-420c-ad97-6c4581a6a7ab",
+    "contract_date": "1606-10-27",
+    "workshop_parish": "San Agostin",
+    "master_name": "Pasqualino Florida, quondam Zulian",
+    "apprentice_name": "Zuane Chiavon, quondam Furian",
+    "apprentice_origin_name": "Cavazzo Carnico"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ce37b99d-4991-4bea-bdec-a819f2c1bfa6",
+    "contract_date": "1620-05-06",
+    "workshop_parish": "San Agostin",
+    "master_name": "Gioanne, quondam Matio",
+    "apprentice_name": "Pietro Maserol, di Lorenzo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f9a008e1-6adf-43b0-92d8-8815f17bcddd",
+    "contract_date": "1620-11-26",
+    "workshop_parish": "San Agostin",
+    "master_name": "Domenico di Michiel, quondam Zuane",
+    "apprentice_name": "Marco, di Olivo",
+    "apprentice_origin_name": "Selva di Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a8d5de04-d0e5-43b8-978e-a1795983f6c0",
+    "contract_date": "1620-12-05",
+    "workshop_parish": "San Agostin",
+    "master_name": "Domenico, quondam Zuane",
+    "apprentice_name": "Tomaso, di Piero",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6a44726d-bd72-4b66-a9fd-3aa32085cbea",
+    "contract_date": "1621-02-04",
+    "workshop_parish": "San Agostin",
+    "master_name": "Domenico, quondam Zuane",
+    "apprentice_name": "Battista di Bonati, quondam Zuane",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e384479a-e9e2-4ff7-9f57-a5acda9ca1b2",
+    "contract_date": "1621-09-24",
+    "workshop_parish": "San Agostin",
+    "master_name": "Pasqualin Florida, di Giuglian",
+    "apprentice_name": "Bortolo Forlit, di Giovanni",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "804e46b8-2d0c-4b55-a695-4537fb953bf8",
+    "contract_date": "1621-10-29",
+    "workshop_parish": "San Agostin",
+    "master_name": "Andrea Arigoni",
+    "apprentice_name": "Domenico Arichoni, quondam Decio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "56179d1b-aa8e-4a49-8cec-49a940235677",
+    "contract_date": "1622-12-09",
+    "workshop_parish": "San Agostin",
+    "master_name": "Battista de Barbossi",
+    "apprentice_name": "Antonio de Didoni, quondam Isepo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b2089baf-aa52-4e9e-bd22-a5c50d2cf4e6",
+    "contract_date": "1625-11-26",
+    "workshop_parish": "San Agostin",
+    "master_name": "Domenico Di Michieli",
+    "apprentice_name": "Giovanni Paolo, di Matheo",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e9b2ffc2-498e-4614-86df-b5e434250ca3",
+    "contract_date": "1625-11-26",
+    "workshop_parish": "San Agostin",
+    "master_name": "Domenico Di Michieli",
+    "apprentice_name": "Giovanni Battista, di Lazaro (di Gasparo)",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3eb4b6b4-794a-4855-aadc-f3ef3e1284e4",
+    "contract_date": "1632-01-21",
+    "workshop_parish": "San Agostin",
+    "master_name": "Zuane, di Michiel",
+    "apprentice_name": "Gregorio, quondam Simon",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5f22b363-2e07-4f1e-85ef-afef6681d222",
+    "contract_date": "1632-03-22",
+    "workshop_parish": "San Agostin",
+    "master_name": "Antonio",
+    "apprentice_name": "Piero Silvestrini, di Antonio",
+    "apprentice_origin_name": "Conegliano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fd12a9f3-4ca7-46cd-8729-eef781fad0be",
+    "contract_date": "1632-06-04",
+    "workshop_parish": "San Agostin",
+    "master_name": "Domenego Di Michieli, quondam Zuane",
+    "apprentice_name": "Giacomo, di Matio (di Gasparo)",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1b5b6107-862c-4f87-b542-68b2f81f5fb4",
+    "contract_date": "1632-12-20",
+    "workshop_parish": "San Agostin",
+    "master_name": "Piero",
+    "apprentice_name": "Vangelista Veseschini, quondam Francesco",
+    "apprentice_origin_name": "Val Camonica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "25f6b7de-4538-4c46-808f-36f3ca9192fd",
+    "contract_date": "1646-05-02",
+    "workshop_parish": "San Agostin",
+    "master_name": "Antonio, quondam Francesco",
+    "apprentice_name": "Bonetto Ferrari, di Zuane",
+    "apprentice_origin_name": "Val Camonica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bd1c5f93-a700-4ea8-a491-a7f749cfca74",
+    "contract_date": "1647-08-17",
+    "workshop_parish": "San Agostin",
+    "master_name": "Domenego",
+    "apprentice_name": "Antonio Bracho, di Gabriel",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5640ebee-fc29-42af-b77a-f41f137a8a74",
+    "contract_date": "1647-08-27",
+    "workshop_parish": "San Agostin",
+    "master_name": "Michiel",
+    "apprentice_name": "Marco, di Pelegrin",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d13f6826-9bbb-43c5-858c-b0da8210fd37",
+    "contract_date": "1649-10-05",
+    "workshop_parish": "San Agostin",
+    "master_name": "Antonio Capeletto",
+    "apprentice_name": "Iseppo Durello, di Santo",
+    "apprentice_origin_name": "Piove di Sacco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "93056aac-ed4a-4855-959f-d067aa30d77c",
+    "contract_date": "1653-03-15",
+    "workshop_parish": "San Agostin",
+    "master_name": "Menego Sigiurtro?",
+    "apprentice_name": "Zuanne Robris, di Giacomo",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e18c6842-5644-473a-a42d-9f0e7c059dc0",
+    "contract_date": "1656-07-20",
+    "workshop_parish": "San Agostin",
+    "master_name": "Antonio Donadelli",
+    "apprentice_name": "Zuane Stanghetto, quondam Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e9cbf666-8fb4-488f-8155-7a9b07965c20",
+    "contract_date": "1659-03-03",
+    "workshop_parish": "San Agostin",
+    "master_name": "Zuane",
+    "apprentice_name": "Iseppo, quondam Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ce2264f5-f916-4ddb-acbe-9a60fc3b6956",
+    "contract_date": "1661-02-04",
+    "workshop_parish": "San Agostin",
+    "master_name": "Zuane",
+    "apprentice_name": "Giacomo dalla Santa, di Zuane",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "28b4da7b-d269-4729-a3ac-e199fb44d534",
+    "contract_date": "1662-01-13",
+    "workshop_parish": "San Agostin",
+    "master_name": "Michiel",
+    "apprentice_name": "Piero, di Zuanne",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8023ec68-5ff8-4be4-8689-11712db6a151",
+    "contract_date": "1664-11-24",
+    "workshop_parish": "San Agostin",
+    "master_name": "Zuanne Battista Zanbelli",
+    "apprentice_name": "Antonio Salvi, quondam Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "77949e59-a0b8-4437-a73c-52bfce95295c",
+    "contract_date": "1682-11-26",
+    "workshop_parish": "San Agostin",
+    "master_name": "Valentino Foppa; Nicoletto Felippi",
+    "apprentice_name": "Giacomo Masorci, di Simon",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  }
+ ]
+}

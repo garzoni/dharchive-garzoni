@@ -1,0 +1,1620 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/247.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8c621993-513e-418e-9e42-6b3b6d394000",
+    "contract_date": "1575-02-23",
+    "workshop_parish": "San Polo",
+    "master_name": "Alvise, di Francesco",
+    "apprentice_name": "Battista Di Benedetti, quondam Iacomo",
+    "apprentice_origin_name": "Fossalta di Portogruaro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "174bf417-ed18-44a3-b3f8-10cfd0cafa92",
+    "contract_date": "1575-09-07",
+    "workshop_parish": "San Polo",
+    "master_name": "Valentin Di Rossi",
+    "apprentice_name": "Iseppo De Sbozas, quondam Iacomo",
+    "apprentice_origin_name": "Val Venosta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0a9966ba-a2b7-467d-9801-7ad3afab301b",
+    "contract_date": "1575-09-09",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane, di Salvador",
+    "apprentice_name": "Anna, quondam Zuane",
+    "apprentice_origin_name": "Pinzano al Tagliamento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1ef5192d-f989-4f6b-af7f-6a559a91d16f",
+    "contract_date": "1575-10-10",
+    "workshop_parish": "San Polo",
+    "master_name": "Mathio Mazza",
+    "apprentice_name": "Antonio Del Moy, quondam Gasparin",
+    "apprentice_origin_name": "Piazza Brembana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fec16792-3bff-442e-8023-2b59dac84b83",
+    "contract_date": "1575-10-11",
+    "workshop_parish": "San Polo",
+    "master_name": "Paulo, di Antonio",
+    "apprentice_name": "Zambattista, di Andrea",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9541a3f8-271e-4389-9ae0-e2302752ee31",
+    "contract_date": "1575-10-20",
+    "workshop_parish": "San Polo",
+    "master_name": "Pasqualin, quondam Vicenzo",
+    "apprentice_name": "Piero, di Domenego",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fcf8d996-590f-4280-b287-beabaf0e02bc",
+    "contract_date": "1575-10-29",
+    "workshop_parish": "San Polo",
+    "master_name": "Antonio Ferretto",
+    "apprentice_name": "Marco Antonio Cogiola, quondam Bortholo",
+    "apprentice_origin_name": "Terruggia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e42029a3-3afd-45ad-84ef-b7a3148a555e",
+    "contract_date": "1582-01-28",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco Orsati, quondam Antonio",
+    "apprentice_name": "Franceschina, di Tonieto",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "052b36d3-dd23-4706-8aae-cf4bd2cc47a8",
+    "contract_date": "1582-02-05",
+    "workshop_parish": "San Polo",
+    "master_name": "Domenico, di Inpolito",
+    "apprentice_name": "Lazaro, di Prando",
+    "apprentice_origin_name": "Loria"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d041ace2-3130-4eb2-b894-419f9782812e",
+    "contract_date": "1582-05-21",
+    "workshop_parish": "San Polo",
+    "master_name": "Biasio, quondam Battista",
+    "apprentice_name": "Zuane di Frisati, di Bortolo (quondam Antonio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bd367556-dfd6-4619-a271-7726f9568f96",
+    "contract_date": "1582-08-07",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo, quondam Germin",
+    "apprentice_name": "Mioto Mioto, quondam Vicenzo",
+    "apprentice_origin_name": "Ponte in Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8dabc5eb-05f8-4c71-ade1-f950eed3a58c",
+    "contract_date": "1582-08-23",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco Ossato?, quondam Antonio",
+    "apprentice_name": "Hierolamo Balarin, di Matio",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a0d08930-2e5b-4c96-a8e2-6add1f801b51",
+    "contract_date": "1582-09-18",
+    "workshop_parish": "San Polo",
+    "master_name": "Santin di Gaeni",
+    "apprentice_name": "Zuane Rotta, quondam Battista",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c1dad699-1b8a-4930-ab32-7c34feeb9811",
+    "contract_date": "1582-09-28",
+    "workshop_parish": "San Polo",
+    "master_name": "Santin di Gaeni",
+    "apprentice_name": "Zangiacomo, quondam Gierolamo",
+    "apprentice_origin_name": "Adrara San Martino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4be9fd0e-72f2-4479-92a3-12036471fc00",
+    "contract_date": "1582-11-10",
+    "workshop_parish": "San Polo",
+    "master_name": "Fabio Zumal",
+    "apprentice_name": "Battista, di Bastian",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d4c6450c-e2fb-4525-a23d-04ccb743ace5",
+    "contract_date": "1583-01-05",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane",
+    "apprentice_name": "Giacomo, di Bastian",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ad15dc5-5e98-4ee9-8e27-3232e30b4561",
+    "contract_date": "1583-04-14",
+    "workshop_parish": "San Polo",
+    "master_name": "Valerio Di Menini, di Francesco",
+    "apprentice_name": "Anzollo, quondam Francesco",
+    "apprentice_origin_name": "Cittadella"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7eaf7f00-a345-47b1-9053-9db95f8c6087",
+    "contract_date": "1583-04-14",
+    "workshop_parish": "San Polo",
+    "master_name": "Daniel, quondam Antonio",
+    "apprentice_name": "Gerolamo Marchesini, di Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "843e974e-5c79-4b24-97a8-32f86d670dfd",
+    "contract_date": "1583-04-14",
+    "workshop_parish": "San Polo",
+    "master_name": "Daniel, quondam Antonio",
+    "apprentice_name": "Gerolamo Marchesini, di Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2d12ddef-aba2-49c8-b656-b1c54590a78f",
+    "contract_date": "1583-04-18",
+    "workshop_parish": "San Polo",
+    "master_name": "Daniel, quondam Antonio",
+    "apprentice_name": "Domenico, quondam Piero",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c774ec50-71cc-4b9c-8389-12a8f78ef5d1",
+    "contract_date": "1583-04-18",
+    "workshop_parish": "San Polo",
+    "master_name": "Daniel, quondam Antonio",
+    "apprentice_name": "Domenico, di Gasparo",
+    "apprentice_origin_name": "Clusone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "81d18a7b-63f7-4cc0-b6de-ed6345fab4e1",
+    "contract_date": "1583-04-19",
+    "workshop_parish": "San Polo",
+    "master_name": "Giopo",
+    "apprentice_name": "Domenico Morelli, quondam Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4fdc1511-8353-4634-be94-fb0a0de40eb0",
+    "contract_date": "1583-08-25",
+    "workshop_parish": "San Polo",
+    "master_name": "Zamaria, di Zan Antonio",
+    "apprentice_name": "Piero Antonio, di Bernardin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8124ca16-2a4a-4a25-a8b2-d4edc25936e6",
+    "contract_date": "1583-09-02",
+    "workshop_parish": "San Polo",
+    "master_name": "Pasqualin",
+    "apprentice_name": "Anzolo, di Santo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3ce9f407-4c59-4eb5-a58a-05a710a857fe",
+    "contract_date": "1584-03-09",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo",
+    "apprentice_name": "Antonio, quondam Casariol",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "85b77886-60a1-46e3-aaf0-c3e20623285d",
+    "contract_date": "1584-03-23",
+    "workshop_parish": "San Polo",
+    "master_name": "Battista Locadello, quondam Santo",
+    "apprentice_name": "Zamaria Moruci, di Francesco",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8f94bdc3-1ff8-408a-aea9-62a8d809dc83",
+    "contract_date": "1584-04-06",
+    "workshop_parish": "San Polo",
+    "master_name": "Piero, di Zuane",
+    "apprentice_name": "Battista, quondam Pietro",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "61fd11b3-5538-4172-be73-9e900d49dad6",
+    "contract_date": "1584-04-13",
+    "workshop_parish": "San Polo",
+    "master_name": "Marcantonio",
+    "apprentice_name": "Girardo Tacello, quondam Zuan",
+    "apprentice_origin_name": "Udine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f5c5c88f-cc01-4bb7-bed7-28d1d7221c91",
+    "contract_date": "1584-05-30",
+    "workshop_parish": "San Polo",
+    "master_name": "Zammaria",
+    "apprentice_name": "Zuan Domenico, di Nadal",
+    "apprentice_origin_name": "Costa di Rovigo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "45d55ed9-1223-4950-aa9a-00aa02718da5",
+    "contract_date": "1584-06-08",
+    "workshop_parish": "San Polo",
+    "master_name": "Bortollo",
+    "apprentice_name": "Antonio, quondam Bortolamio",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c2430a3c-4c8a-4bea-bc91-faecfd885e9d",
+    "contract_date": "1584-07-19",
+    "workshop_parish": "San Polo",
+    "master_name": "Andrea",
+    "apprentice_name": "Leandro, quondam Piero Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "298c771b-191f-4c3b-a1f2-0aaa515b8bfe",
+    "contract_date": "1584-08-13",
+    "workshop_parish": "San Polo",
+    "master_name": "Cesaro, di Bastian",
+    "apprentice_name": "Piero, di Paulo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "82a1a83a-bea3-40a4-9558-d905ab0f05c4",
+    "contract_date": "1584-10-01",
+    "workshop_parish": "San Polo",
+    "master_name": "Bortolamio",
+    "apprentice_name": "Marco Antonio, quondam Camillo",
+    "apprentice_origin_name": "Santarcangelo di Romagna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2460fb10-b236-4c9f-8a7a-1b6be1d9311c",
+    "contract_date": "1584-12-05",
+    "workshop_parish": "San Polo",
+    "master_name": "Bernardin, di Zuan Piero",
+    "apprentice_name": "Tomaso, quondam Domeschio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c26e11b7-5d7f-495f-8dbb-863515e0b793",
+    "contract_date": "1591-01-08",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuanne",
+    "apprentice_name": "Santo Di Beneti, di Francesco",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d2909346-a545-4ace-8e70-1716ddf6c6a2",
+    "contract_date": "1591-01-24",
+    "workshop_parish": "San Polo",
+    "master_name": "Mafio",
+    "apprentice_name": "Francesco Poniciol, di Paulo (di Francesco)",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d1ddda92-4d66-48db-818b-c531496591de",
+    "contract_date": "1591-07-29",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo Carugo",
+    "apprentice_name": "Pietro Don\u00e0, di Isabela",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d941f866-3bae-4ca2-99db-37b1b96e9fd6",
+    "contract_date": "1592-01-14",
+    "workshop_parish": "San Polo",
+    "master_name": "Battista",
+    "apprentice_name": "Lorenzo Abeneto, di Bertollo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "97e23286-5541-4f4c-aab2-2d27f7c45a78",
+    "contract_date": "1592-02-03",
+    "workshop_parish": "San Polo",
+    "master_name": "Giulia",
+    "apprentice_name": "Francesco de Molin, quondam Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "289d39d5-f803-46a1-bdd3-3beb5276a418",
+    "contract_date": "1592-02-04",
+    "workshop_parish": "San Polo",
+    "master_name": "Anzollo",
+    "apprentice_name": "Matio, di Bernardin",
+    "apprentice_origin_name": "Feltre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3a413aab-44a7-44a3-ab22-9db7a8eaff7b",
+    "contract_date": "1592-02-12",
+    "workshop_parish": "San Polo",
+    "master_name": "Isepo",
+    "apprentice_name": "Anzolo Bittoroni, quondam Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e05b8b22-6c0c-4c6b-b9b5-a4b0da581740",
+    "contract_date": "1592-02-13",
+    "workshop_parish": "San Polo",
+    "master_name": "Marco Antonio Braida",
+    "apprentice_name": "Giacomo, di Francesco (di Mafio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f76f12ac-e1e5-47ad-a9eb-028874c70c0a",
+    "contract_date": "1592-03-13",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo Carugo",
+    "apprentice_name": "Vicenzo, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0fe0052c-4252-47cd-80d0-cb4837627721",
+    "contract_date": "1592-04-13",
+    "workshop_parish": "San Polo",
+    "master_name": "Marco, di Crestin",
+    "apprentice_name": "Rocho, quondam Isepo",
+    "apprentice_origin_name": "Dossena"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8807bc68-ffef-4e9c-a758-cb8aa9f341c7",
+    "contract_date": "1592-05-04",
+    "workshop_parish": "San Polo",
+    "master_name": "Oratio",
+    "apprentice_name": "Lorenzo, di Bortollo (di Beneto)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5b93869d-4865-4051-b1e9-ccb874e8ca6b",
+    "contract_date": "1592-05-08",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo",
+    "apprentice_name": "Anibal, di Paulo",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1cde95b4-b345-41cb-a81d-ebc31c35f287",
+    "contract_date": "1592-06-22",
+    "workshop_parish": "San Polo",
+    "master_name": "Santin",
+    "apprentice_name": "Piero, di Lorenzo",
+    "apprentice_origin_name": "Villa d'Alm\u00e8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "876fad94-c60f-4936-b318-ee953447112c",
+    "contract_date": "1592-07-21",
+    "workshop_parish": "San Polo",
+    "master_name": "Marcho de Pase",
+    "apprentice_name": "Donado di Catani, di Nicolin",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "641d3e6c-dcfe-4cd0-8137-94135a68d750",
+    "contract_date": "1592-08-18",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo Carugo",
+    "apprentice_name": "Andrea Magnan, quondam Francesco",
+    "apprentice_origin_name": "Carpi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3d26ba85-f1cc-400c-93a3-5d755218c189",
+    "contract_date": "1592-09-22",
+    "workshop_parish": "San Polo",
+    "master_name": "Fabio Zumal",
+    "apprentice_name": "Zuane di Mosi, quondam Domenico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a2ba77a3-0069-47cd-ae42-f8757f27325a",
+    "contract_date": "1594-06-28",
+    "workshop_parish": "San Polo",
+    "master_name": "Benetto, di Iseppo",
+    "apprentice_name": "Zuane Antonio Zapin, quondam Marco Antonio",
+    "apprentice_origin_name": "Mantova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ba6b6d4f-8016-4c33-a7df-ba783ec16ce6",
+    "contract_date": "1594-10-03",
+    "workshop_parish": "San Polo",
+    "master_name": "Pasquale",
+    "apprentice_name": "Antonio, di Zuane Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "142eb5f7-49dc-4b75-a800-1ad00cbf2338",
+    "contract_date": "1595-03-09",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo Carugo",
+    "apprentice_name": "Francesco, quondam Zuane",
+    "apprentice_origin_name": "Badia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2c4c8722-4bf1-4149-b87d-24aa2d0ad128",
+    "contract_date": "1595-03-14",
+    "workshop_parish": "San Polo",
+    "master_name": "Battista",
+    "apprentice_name": "Tomaso, di Vitorio",
+    "apprentice_origin_name": "Cividale"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0a29e7f8-c386-4ac1-a59a-5f77077f9431",
+    "contract_date": "1595-05-24",
+    "workshop_parish": "San Polo",
+    "master_name": "Battista",
+    "apprentice_name": "Alisso, quondam Simone",
+    "apprentice_origin_name": "Vittorio Veneto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "87bcf32b-57ba-4358-9c47-401bbc63b3c6",
+    "contract_date": "1596-02-10",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane",
+    "apprentice_name": "Battista Betin, di Gierolamo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0575a70c-4c83-4771-a22a-f9ab015f1bf0",
+    "contract_date": "1596-09-03",
+    "workshop_parish": "San Polo",
+    "master_name": "Vico",
+    "apprentice_name": "Vicho, di Zuane (quondam Zuane)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "30933366-07ec-4939-8170-8745bfe45d6b",
+    "contract_date": "1596-11-12",
+    "workshop_parish": "San Polo",
+    "master_name": "Domenico, di Lucha",
+    "apprentice_name": "Lucia De Monte, quondam Simon",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c77a7501-e23b-4e38-bdd0-2d2dcb56ef88",
+    "contract_date": "1596-11-20",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco, di Pelegrin",
+    "apprentice_name": "Margaritta, quondam Gasparo",
+    "apprentice_origin_name": "Brogliano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8b186062-9bae-4287-bc4b-4ca6583ad93c",
+    "contract_date": "1597-05-29",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo Campo",
+    "apprentice_name": "Bortholamio, quondam Zuanne Battista",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d8a7baee-06da-44bb-81f2-d87a65176edc",
+    "contract_date": "1597-08-12",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo Carugo",
+    "apprentice_name": "Zuanne Antonio, di Olivier",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d021c5a1-903d-43f2-9bb3-51af92cf7fcc",
+    "contract_date": "1598-04-22",
+    "workshop_parish": "San Polo",
+    "master_name": "Battista Manopolla",
+    "apprentice_name": "Piero Ruoda, di Francesco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1c6b8872-8043-48b0-92a5-3225b0c23c62",
+    "contract_date": "1598-06-11",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco, di Pelegrin",
+    "apprentice_name": "Antonio, di Zamaria",
+    "apprentice_origin_name": "Vestone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0c330af1-616f-449a-b54c-3f480069eec6",
+    "contract_date": "1598-08-18",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo Carugo",
+    "apprentice_name": "Francesco Vesconti, quondam Pietro Angelo",
+    "apprentice_origin_name": "Tirano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bb4cc7ad-c5cf-4430-a828-9885d0ef1aa7",
+    "contract_date": "1598-11-20",
+    "workshop_parish": "San Polo",
+    "master_name": "Lorenzo Mazuchoni, di Battista",
+    "apprentice_name": "Zuane de Gatto, quondam Piero",
+    "apprentice_origin_name": "Costa Volpino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5d3b3cd4-2846-43fe-a5ab-11a1945adc9a",
+    "contract_date": "1598-11-23",
+    "workshop_parish": "San Polo",
+    "master_name": "Andrea",
+    "apprentice_name": "Alba, di Michele",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "edb96229-23ae-4a4f-8bb3-7b1b633c3925",
+    "contract_date": "1599-04-03",
+    "workshop_parish": "San Polo",
+    "master_name": "Santo Gaeni",
+    "apprentice_name": "Piero di Lazari, quondam Zuane Antonio",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6cf8bff7-f8d0-4c03-ad7c-a5b5ed7b8034",
+    "contract_date": "1599-08-30",
+    "workshop_parish": "San Polo",
+    "master_name": "Vicenzo Carubo",
+    "apprentice_name": "Marco Antonio Zafani, di Silvestro",
+    "apprentice_origin_name": "Negrar di Valpolicella"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9f3e4602-6579-4ce0-9231-89d5812441d2",
+    "contract_date": "1606-01-30",
+    "workshop_parish": "San Polo",
+    "master_name": "Battista",
+    "apprentice_name": "Marchio Dalla Rocha, di Menego",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4dd4aa5d-a966-45a1-9b83-7cbe4138be35",
+    "contract_date": "1606-05-24",
+    "workshop_parish": "San Polo",
+    "master_name": "Giacomo",
+    "apprentice_name": "Antonio, di Alberto",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a3daeaaf-2c38-4e69-ab58-81b6fb6da9c2",
+    "contract_date": "1606-06-05",
+    "workshop_parish": "San Polo",
+    "master_name": "Gierolamo, di Antonio",
+    "apprentice_name": "Zorzi, di Isepo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1ec9488f-efa3-4116-84a5-b74ab7d989db",
+    "contract_date": "1606-11-07",
+    "workshop_parish": "San Polo",
+    "master_name": "Daniel",
+    "apprentice_name": "Bon Vitali, di Batista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0460c176-c560-4b8b-9929-435d4679ad8c",
+    "contract_date": "1609-02-03",
+    "workshop_parish": "San Polo",
+    "master_name": "Barnaba",
+    "apprentice_name": "Mafio, di Battista",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e6aac44d-016b-4562-a9ab-81c03a645ef2",
+    "contract_date": "1609-08-08",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane  Stopelli, quondam Isepo",
+    "apprentice_name": "Paolo Michielli, quondam Francesco",
+    "apprentice_origin_name": "Oderzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c1073ef4-b2b9-4639-aaee-86f45f7a84b6",
+    "contract_date": "1609-12-23",
+    "workshop_parish": "San Polo",
+    "master_name": "Domenico",
+    "apprentice_name": "Zuane Anzolo Combonelli, di Bertollo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cf94e6e6-4584-4d7d-b1d6-db582e248104",
+    "contract_date": "1610-04-30",
+    "workshop_parish": "San Polo",
+    "master_name": "Battista",
+    "apprentice_name": "Piero, di Nicol\u00f2",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a24617f4-ee95-44eb-b184-eac10e4db8d7",
+    "contract_date": "1610-06-05",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco Petroni",
+    "apprentice_name": "Michele Cornel, di Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a37b4ffa-1e21-4564-b2db-509b20e602f0",
+    "contract_date": "1610-07-21",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco Gavazeni",
+    "apprentice_name": "Giacomo Di Ceccoli, quondam Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e751dfda-1b3d-4bf5-bd50-e76957c05f81",
+    "contract_date": "1620-06-05",
+    "workshop_parish": "San Polo",
+    "master_name": "Piero Sonabeli",
+    "apprentice_name": "Alberto, di Steffano",
+    "apprentice_origin_name": "Valle Sabbia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d27bb8f5-4191-4c08-a466-343c08184bb2",
+    "contract_date": "1620-07-24",
+    "workshop_parish": "San Polo",
+    "master_name": "Antonio Ada",
+    "apprentice_name": "Piero Valconi, di Giacomo",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0be72c41-0802-4757-a194-fcdcd6cc3af4",
+    "contract_date": "1620-08-07",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco",
+    "apprentice_name": "Francesco, di Bernardin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c789629d-576a-4f7f-ae8d-4d0b9d29d6cf",
+    "contract_date": "1620-09-11",
+    "workshop_parish": "San Polo",
+    "master_name": "Gerolamo di Barbieri, quondam Lodovico",
+    "apprentice_name": "Gioani Mattarello, quondam Pietro",
+    "apprentice_origin_name": "Sacile"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8c2775e8-7819-40da-96f2-49881726a5c3",
+    "contract_date": "1620-11-18",
+    "workshop_parish": "San Polo",
+    "master_name": "Lorenzo, di Dominico",
+    "apprentice_name": "Batista, di Zuane",
+    "apprentice_origin_name": "Selva di Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a9447c7a-05be-4f93-abc0-344ca5c2866a",
+    "contract_date": "1621-09-24",
+    "workshop_parish": "San Polo",
+    "master_name": "Giulio di Lorenzi",
+    "apprentice_name": "Lunardo, quondam Pietro",
+    "apprentice_origin_name": "Zopp\u00e8 di Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4e72dede-ba33-4535-aedf-401df0868513",
+    "contract_date": "1621-11-22",
+    "workshop_parish": "San Polo",
+    "master_name": "Antonio Visini",
+    "apprentice_name": "Dominicho dalla Valle, di Rocho",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3487fe51-8e98-4393-a214-3d684d63a96f",
+    "contract_date": "1622-04-14",
+    "workshop_parish": "San Polo",
+    "master_name": "Beltrame Bolis",
+    "apprentice_name": "Zuane Zurini, di Zemarie",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9ecec57a-144c-44da-86ea-4d1c0abfd8cf",
+    "contract_date": "1622-04-14",
+    "workshop_parish": "San Polo",
+    "master_name": "Beltrame Bolis",
+    "apprentice_name": "Giacomo Campana, di Steffano",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d952c934-1661-43e9-8ddb-9e23668272a3",
+    "contract_date": "1622-10-03",
+    "workshop_parish": "San Polo",
+    "master_name": "Lodovico, quondam Gasparo",
+    "apprentice_name": "Alvise Baldisera, quondam Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5fabd3ef-c5fa-48f7-a02c-e7a6b06abb0d",
+    "contract_date": "1622-11-29",
+    "workshop_parish": "San Polo",
+    "master_name": "Giacomo Picigotti",
+    "apprentice_name": "Francesco Dodesino, di Comin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3519f96e-0516-488e-8b3a-f035ce865f58",
+    "contract_date": "1622-12-10",
+    "workshop_parish": "San Polo",
+    "master_name": "Antonio Vesini",
+    "apprentice_name": "Bernardo Rolla, quondam Andrea",
+    "apprentice_origin_name": "Genova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5e26c7fa-1a8f-4558-be39-d1629cc3c0a3",
+    "contract_date": "1625-06-17",
+    "workshop_parish": "San Polo",
+    "master_name": "Giacomo Pizzegoti",
+    "apprentice_name": "Deffendi Di Capitani, di Armelin",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d846d17c-ec22-4c3b-94e9-adc9e4f2fc5f",
+    "contract_date": "1625-06-26",
+    "workshop_parish": "San Polo",
+    "master_name": "Antonio Adda",
+    "apprentice_name": "Saraffino di Lupis, di Giovanni",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "54b070ea-2c08-412f-932b-19e224e9968d",
+    "contract_date": "1625-06-27",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane Antonio Franzozini?",
+    "apprentice_name": "Pietro Manzinel, di Giovanni",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8fe040f6-43eb-4aa1-96e5-85b96676dde5",
+    "contract_date": "1625-06-28",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane Stopelli, quondam Gioseffo",
+    "apprentice_name": "Bernardo Protto, di Antonio (quondam Francesco)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9334d2a6-ad58-4a60-ae95-9567ee641bb3",
+    "contract_date": "1625-11-13",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane Monferato",
+    "apprentice_name": "Francesco Speranza, di Lazaro",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9d753ed6-f20c-41d7-9498-88202dab6bd2",
+    "contract_date": "1625-11-28",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane Battista Calcagno, di Bernab\u00e0",
+    "apprentice_name": "Giovanni Maria Gianoli, quondam Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d343e58f-bd9b-415d-ad19-e547a25fcf79",
+    "contract_date": "1626-02-27",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuanne Stoppelli",
+    "apprentice_name": "Tomio, di Zuanne (di Battista)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c4a0c317-fc32-4ec3-a65b-a8bdbd9df206",
+    "contract_date": "1626-03-26",
+    "workshop_parish": "San Polo",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Bortolo Tronc?, di Dominico",
+    "apprentice_origin_name": "Selva di Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a1159e70-aa29-4303-a4ea-8c3cf8f7ac1c",
+    "contract_date": "1626-08-31",
+    "workshop_parish": "San Polo",
+    "master_name": "Giacomo Pizzegoto",
+    "apprentice_name": "Giacomo Antonini, di Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "24ef485b-b6b5-4030-bd48-c46fae66fac3",
+    "contract_date": "1627-04-23",
+    "workshop_parish": "San Polo",
+    "master_name": "Giovanni Antonio Franzosini",
+    "apprentice_name": "Giovanni Di Allesii, di Alessio",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1373d51e-5b2d-48ad-971b-3f7c0f5ee87d",
+    "contract_date": "1632-01-03",
+    "workshop_parish": "San Polo",
+    "master_name": "Bernardo Pozzo",
+    "apprentice_name": "Battista Zanchi, di Giovanni Maria",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "819dc45e-22b7-41b1-bd18-8408693feb11",
+    "contract_date": "1632-08-02",
+    "workshop_parish": "San Polo",
+    "master_name": "Lorenzzo",
+    "apprentice_name": "Zuane Dell'Agosna, di Gaspare",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d4c8bfb3-62e5-4f21-b90c-ca63845b6322",
+    "contract_date": "1632-09-27",
+    "workshop_parish": "San Polo",
+    "master_name": "Lodovico Gotardo?",
+    "apprentice_name": "Cinto Rosello, quondam Zuane",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "13dc66f1-16c3-4643-847c-64f3ae823a90",
+    "contract_date": "1632-10-01",
+    "workshop_parish": "San Polo",
+    "master_name": "Ghirardo Licini",
+    "apprentice_name": "Andrea Tulin, quondam Patritio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c9686ef3-cd5e-42c1-bb69-08e840942a16",
+    "contract_date": "1632-10-01",
+    "workshop_parish": "San Polo",
+    "master_name": "Ghirardo Licini",
+    "apprentice_name": "Don\u00e0 Tulin, di Patricio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "35b6aff5-f168-4f0b-9cf7-8b80eec4f777",
+    "contract_date": "1644-08-18",
+    "workshop_parish": "San Polo",
+    "master_name": "Iseppo Maffei",
+    "apprentice_name": "Alessandro Sandelli, di Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ddd06a52-11b1-4caa-872e-cc232d08559f",
+    "contract_date": "1644-10-26",
+    "workshop_parish": "San Polo",
+    "master_name": "Lorenzo Liciri",
+    "apprentice_name": "Zuane Belotto, quondam Santin",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8cda622b-db85-489a-940c-b15e7a273f05",
+    "contract_date": "1644-11-22",
+    "workshop_parish": "San Polo",
+    "master_name": "Pietro Sonabelli",
+    "apprentice_name": "Andrea Graciol, di Bortolamio",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5f66bfe3-f8a2-4994-b8a8-c065dd6462df",
+    "contract_date": "1645-03-15",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco Batuni",
+    "apprentice_name": "Batta Rizzi, di Francesco",
+    "apprentice_origin_name": "Val Camonica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0645f88c-7a3f-4d5f-bc68-b52f6c0fb2a0",
+    "contract_date": "1645-09-07",
+    "workshop_parish": "San Polo",
+    "master_name": "Gasparo",
+    "apprentice_name": "Bortolo Moscatello, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8bab86b0-16ea-4b09-bb19-36edab1948af",
+    "contract_date": "1647-08-26",
+    "workshop_parish": "San Polo",
+    "master_name": "Bortolo Tagia Fero, di Bruno",
+    "apprentice_name": "Zuanne, quondam Zuane",
+    "apprentice_origin_name": "Trento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2a1b51ef-8443-4c48-9296-36217ebe8f02",
+    "contract_date": "1647-11-16",
+    "workshop_parish": "San Polo",
+    "master_name": "Gasparo Cortese",
+    "apprentice_name": "Antonio, di Nicoletto",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fc862472-6387-4392-b53f-b3ee77f7dfc3",
+    "contract_date": "1647-11-27",
+    "workshop_parish": "San Polo",
+    "master_name": "Battista Bernardi",
+    "apprentice_name": "Nadale Marebo, quondam Iseppo",
+    "apprentice_origin_name": "Udine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "78037818-09b1-4477-a04f-c7c1a147d670",
+    "contract_date": "1653-04-24",
+    "workshop_parish": "San Polo",
+    "master_name": "Pierin Cantana",
+    "apprentice_name": "Andrea Medici, di Palin",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1765db16-9519-4f78-94cd-69bf20ecd7b8",
+    "contract_date": "1653-08-13",
+    "workshop_parish": "San Polo",
+    "master_name": "Mario Ghirardi",
+    "apprentice_name": "Zuanne Pizzuchi, quondam Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dc1e2fbc-cc60-4a02-9492-5b90bfaaeacc",
+    "contract_date": "1653-11-13",
+    "workshop_parish": "San Polo",
+    "master_name": "Nicoletto",
+    "apprentice_name": "Daniel Moro, quondam Tomaso",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "75c46aa0-8fde-47af-a1db-e55a60e77411",
+    "contract_date": "1656-12-16",
+    "workshop_parish": "San Polo",
+    "master_name": "Gasparo",
+    "apprentice_name": "Paolo Spadacin, di Nadal",
+    "apprentice_origin_name": "Candelo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8f8a7cdd-2dae-4b42-9440-bbb52c85f2df",
+    "contract_date": "1657-05-15",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco",
+    "apprentice_name": "Menego Pilotto, di Berto",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c6d747be-e975-4118-b2fd-a848a417f18b",
+    "contract_date": "1658-06-06",
+    "workshop_parish": "San Polo",
+    "master_name": "Giacomo Fero",
+    "apprentice_name": "Battista  Moval, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2603e831-f9d2-4473-9124-de89bb760ca6",
+    "contract_date": "1663-03-05",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane",
+    "apprentice_name": "Iseppo Colus, di Andrea",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "84203ce0-f93d-42dd-ae72-4d73889dcb16",
+    "contract_date": "1663-03-06",
+    "workshop_parish": "San Polo",
+    "master_name": "Marco Pelegrini",
+    "apprentice_name": "Zuane Zagati, di Giulio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ca0ce7cb-06d0-406a-9244-4925a085b627",
+    "contract_date": "1663-11-09",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane Girardi",
+    "apprentice_name": "Iseppo Macha, quondam Iseppo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eecdbb67-ff29-4072-99ae-1502c9419eb9",
+    "contract_date": "1664-05-26",
+    "workshop_parish": "San Polo",
+    "master_name": "Antonio Reassi",
+    "apprentice_name": "Zuanne Gualeni, di Zuanne Maria",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "59bc26e7-83b6-41f4-84f3-b544941ae849",
+    "contract_date": "1664-11-12",
+    "workshop_parish": "San Polo",
+    "master_name": "Bastian Varisco",
+    "apprentice_name": "Zuanne Maria Piati, quondam Cristophoro ",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "426b9d30-7065-43dd-822d-20776fb61f59",
+    "contract_date": "1665-04-24",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuanne Battista Sonzonio",
+    "apprentice_name": "Francesco Balestra, quondam Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7c3c0bf5-f034-4eee-afde-5d44cf0bef79",
+    "contract_date": "1665-04-24",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco Bonfiol",
+    "apprentice_name": "Iseppo Fariga?, di Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dceebef5-4bec-46b8-a1a2-c19cca738ff7",
+    "contract_date": "1669-08-28",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuane Girardi",
+    "apprentice_name": "Sigismondo Gavazzi, di Andrea",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "23dfb916-c6f4-4c03-8819-7f4ec5f6ff1b",
+    "contract_date": "1670-01-05",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco Morichioni",
+    "apprentice_name": "Battista Ferari, di Benetto",
+    "apprentice_origin_name": "Cison di Valmarino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ca135eee-a542-408f-ade0-be5e6dc9b069",
+    "contract_date": "1671-08-08",
+    "workshop_parish": "San Polo",
+    "master_name": "Zuan Maria Mondini",
+    "apprentice_name": "Zuane Caritae, di Santo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cc67e86a-6606-4eff-9f08-060b6684473a",
+    "contract_date": "1681-01-28",
+    "workshop_parish": "San Polo",
+    "master_name": "Lunardo Pasquali",
+    "apprentice_name": "Daniel Troi, quondam Zuane Maria",
+    "apprentice_origin_name": "Conegliano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c12b3051-6162-4515-b853-90738535db79",
+    "contract_date": "1681-04-15",
+    "workshop_parish": "San Polo",
+    "master_name": "Bernardo, di Piero",
+    "apprentice_name": "Francesco Lucian, di Menego",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "497f4a4b-259f-4a20-850a-39768938942c",
+    "contract_date": "1681-04-22",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco Bonfiol",
+    "apprentice_name": "Alessandro Costantini, quondam Piero",
+    "apprentice_origin_name": "Burano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fa8c3734-2373-4409-bdf7-9df2dd6e3af8",
+    "contract_date": "1712-06-20",
+    "workshop_parish": "San Polo",
+    "master_name": "Giovanni Battista Codopei",
+    "apprentice_name": "Santo Franceschin, di Marco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0a65deaa-c305-4637-b37d-8767e23cf8e5",
+    "contract_date": "1716-08-31",
+    "workshop_parish": "San Polo",
+    "master_name": "Francesco Maschio",
+    "apprentice_name": "Antonio Cristofoli, di Gasparo",
+    "apprentice_origin_name": "Sequals"
+   }
+  }
+ ]
+}

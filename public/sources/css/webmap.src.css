@@ -1,0 +1,77 @@
+#map {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+#pane,
+#layer-selector {
+    position: absolute;
+    top: 0;
+    z-index: 5;
+    margin: 1em;
+}
+
+#pane {
+    display: flex;
+    flex-direction: column;
+    pointer-events: none;
+    left: 0;
+    height: calc(100% - 2em);
+}
+
+#pane .box {
+    width: 350px;
+    margin-bottom: 0;
+    pointer-events: auto;
+}
+
+#filter .content {
+    display: none;
+}
+
+#filter .ui.checkbox {
+    width: 50px;
+    vertical-align: middle;
+}
+
+#filter .ui.range {
+    margin: 0.5em 0;
+}
+
+#filter .selection {
+    text-align: center;
+}
+
+#infobox {
+    display: none;
+    flex-basis: content;
+    flex-direction: column;
+    margin-top: 1em;
+}
+
+#infobox > .content {
+    flex-basis: content;
+    overflow-y: auto;
+}
+
+#infobox > .header > .label {
+    float: right;
+    margin: 0;
+}
+
+#layer-selector {
+    right: 0;
+}
+
+#layer-selector .ui.button {
+    text-align: center;
+}
+
+.contract-summary td:first-child {
+    width: 7em;
+}
+
+.contract-summary .link {
+    float: right;
+}

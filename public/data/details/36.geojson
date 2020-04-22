@@ -1,0 +1,24 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/36.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2503387a-2cf9-4b90-aa12-86aa07d4fdcc",
+    "contract_date": "1621-02-14",
+    "workshop_parish": "San Giovanni Elemosinario",
+    "master_name": "Francesco Travagin",
+    "apprentice_name": "Zuane, quondam Giovan Maria",
+    "apprentice_origin_name": null
+   }
+  }
+ ]
+}

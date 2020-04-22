@@ -1,0 +1,57 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "transcript": {
+            "label": {
+                "en": "Transcript"
+            },
+            "type": "object",
+            "properties": {
+                "language": {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "default": "vec",
+                    "@language": {}
+                },
+                "content": "@content",
+                "certainty": "@certainty"
+            },
+            "additionalProperties": false,
+            "required": ["language", "content"]
+        },
+        "standardForms": {
+            "label": {
+                "en": "Standard Forms"
+            },
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "language": {
+                        "label": {
+                            "en": "Language"
+                        },
+                        "default": "it",
+                        "@language": {}
+                    },
+                    "content": "@content"
+                },
+                "additionalProperties": false,
+                "required": ["language", "content"]
+            },
+            "uniqueItems": true
+        },
+        "uri": "@uri",
+        "format": "@fileFormat",
+        "metadata": {
+            "type": "object",
+            "options": {
+                "hidden": true
+            }
+        }
+    },
+    "additionalProperties": false,
+    "required": ["transcript"]
+}

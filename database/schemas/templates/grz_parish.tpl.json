@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "name": "@multilingualName"
+    },
+    "additionalProperties": false,
+    "required": ["qualifiedName", "name"]
+}

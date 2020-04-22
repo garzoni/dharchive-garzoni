@@ -1,0 +1,24 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/21.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8d19db95-1583-42e0-9ddc-b90c8ae6fc40",
+    "contract_date": "1592-11-16",
+    "workshop_parish": null,
+    "master_name": "Piero di Chiari, di Tomaso",
+    "apprentice_name": "Liberal di Zanbeli, di Bertolomio",
+    "apprentice_origin_name": "Comelico Superiore"
+   }
+  }
+ ]
+}

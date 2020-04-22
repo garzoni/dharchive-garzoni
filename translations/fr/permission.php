@@ -1,0 +1,35 @@
+<?php
+
+return [
+    'add_languages'         => '',
+    'create_annotations'    => '',
+    'create_collections'    => '',
+    'create_documents'      => '',
+    'create_roles'          => '',
+    'create_translations'   => '',
+    'create_users'          => '',
+    'delete_annotations'    => '',
+    'delete_cache'          => '',
+    'delete_collections'    => '',
+    'delete_documents'      => '',
+    'delete_roles'          => '',
+    'delete_translations'   => '',
+    'delete_users'          => '',
+    'edit_annotations'      => '',
+    'edit_collections'      => '',
+    'edit_documents'        => '',
+    'edit_roles'            => '',
+    'edit_translations'     => '',
+    'edit_users'            => '',
+    'remove_languages'      => '',
+    'view_annotations'      => '',
+    'view_cache'            => '',
+    'view_collections'      => '',
+    'view_documents'        => '',
+    'view_languages'        => '',
+    'view_roles'            => '',
+    'view_translations'     => '',
+    'view_users'            => '',
+];
+
+// -- End of file

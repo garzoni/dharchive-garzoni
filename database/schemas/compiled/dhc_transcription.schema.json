@@ -1,0 +1,135 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "transcript": {
+            "label": {
+                "en": "Transcript"
+            },
+            "type": "object",
+            "properties": {
+                "language": {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "default": "vec",
+                    "type": "string",
+                    "pattern": "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$",
+                    "_choiceList": {
+                        "listQName": "dhc:Language",
+                        "keyProperty": "relative_id"
+                    },
+                    "propertyOrder": 1
+                },
+                "content": {
+                    "label": {
+                        "en": "Content"
+                    },
+                    "type": "string",
+                    "minLength": 1,
+                    "propertyOrder": 2
+                },
+                "certainty": {
+                    "label": {
+                        "en": "Certainty"
+                    },
+                    "type": "string",
+                    "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                    "_choiceList": {
+                        "listQName": "dhc:CertaintyList",
+                        "keyProperty": "qualified_name"
+                    },
+                    "propertyOrder": 3
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "language",
+                "content"
+            ],
+            "propertyOrder": 2
+        },
+        "standardForms": {
+            "label": {
+                "en": "Standard Forms"
+            },
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "language": {
+                        "label": {
+                            "en": "Language"
+                        },
+                        "default": "it",
+                        "type": "string",
+                        "pattern": "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$",
+                        "_choiceList": {
+                            "listQName": "dhc:Language",
+                            "keyProperty": "relative_id"
+                        },
+                        "propertyOrder": 1
+                    },
+                    "content": {
+                        "label": {
+                            "en": "Content"
+                        },
+                        "type": "string",
+                        "minLength": 1,
+                        "propertyOrder": 2
+                    }
+                },
+                "additionalProperties": false,
+                "required": [
+                    "language",
+                    "content"
+                ]
+            },
+            "uniqueItems": true,
+            "propertyOrder": 3
+        },
+        "uri": {
+            "label": {
+                "en": "URI"
+            },
+            "type": "string",
+            "format": "uri",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 4
+        },
+        "format": {
+            "label": {
+                "en": "File Format"
+            },
+            "type": "string",
+            "pattern": "^([a-z-]{4,12}\/[a-z0-9.+-]+)$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 5
+        },
+        "metadata": {
+            "type": "object",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 6
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "transcript"
+    ]
+}

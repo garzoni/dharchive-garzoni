@@ -1,0 +1,37 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "manifestUuid": {
+            "label": {
+                "en": "Manifest UUID"
+            },
+            "type": "string",
+            "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+            "propertyOrder": 2
+        },
+        "canvasCode": {
+            "label": {
+                "en": "Canvas Code"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1}[a-z0-9_-]+$",
+            "propertyOrder": 3
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "manifestUuid",
+        "canvasCode"
+    ]
+}

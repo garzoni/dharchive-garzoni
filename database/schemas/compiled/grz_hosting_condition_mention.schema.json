@@ -1,0 +1,99 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "paidInGoods": {
+            "label": {
+                "en": "Paid in Goods"
+            },
+            "type": "boolean",
+            "propertyOrder": 2
+        },
+        "paidBy": {
+            "label": {
+                "en": "Paid by"
+            },
+            "default": "grz:MasterPayer",
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "_choiceList": {
+                "listQName": "grz:PayerList",
+                "keyProperty": "qualified_name"
+            },
+            "propertyOrder": 3
+        },
+        "applicationRule": {
+            "label": {
+                "en": "Application Rule"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "_choiceList": {
+                "listQName": "grz:ApplicationRuleList",
+                "keyProperty": "qualified_name"
+            },
+            "propertyOrder": 4
+        },
+        "periodization": {
+            "label": {
+                "en": "Periodization"
+            },
+            "default": "grz:WholePeriod",
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "_choiceList": {
+                "listQName": "grz:PeriodizationList",
+                "keyProperty": "qualified_name"
+            },
+            "propertyOrder": 5
+        },
+        "period": {
+            "label": {
+                "en": "Specific Period"
+            },
+            "type": "string",
+            "propertyOrder": 6
+        },
+        "clothingType": {
+            "label": {
+                "en": "Type of Clothing"
+            },
+            "type": "string",
+            "propertyOrder": 7
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea",
+            "propertyOrder": 8
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "paidInGoods"
+    ],
+    "annotationRules": {
+        "semanticTags": {
+            "allowMultiple": false,
+            "allowAdditions": false,
+            "lists": [
+                {
+                    "qualifiedName": "grz:HostingConditionMentionTagList",
+                    "itemType": "dhc:SemanticTag"
+                }
+            ]
+        }
+    }
+}

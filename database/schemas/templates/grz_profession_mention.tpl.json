@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "professionOf": {
+            "label": {
+                "en": "Profession of"
+            },
+            "@grzRoleType": {}
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea"
+        }
+    },
+    "required": ["professionOf"],
+    "additionalProperties": false
+}

@@ -1,0 +1,180 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/166.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "04863ed3-01fc-42cf-a6e3-3bf28ae83687",
+    "contract_date": "1575-06-14",
+    "workshop_parish": "San Vidal",
+    "master_name": "Antonio",
+    "apprentice_name": "Francesco, quondam Hercule",
+    "apprentice_origin_name": "Bagnes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8ddf96a1-ed28-4766-9c8f-0304227e32be",
+    "contract_date": "1575-06-14",
+    "workshop_parish": "San Vidal",
+    "master_name": "Antonio",
+    "apprentice_name": "Zuane, di Iacomo",
+    "apprentice_origin_name": "Sant'Ambrogio di Valpolicella"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b0501529-46f0-4e14-9cc3-c0ded86eaca5",
+    "contract_date": "1575-06-16",
+    "workshop_parish": "San Vidal",
+    "master_name": "Angelo",
+    "apprentice_name": "Marco Antonio De Montrony, di Thomaso",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9339faf9-160b-49a1-a754-69c45dd4b1fe",
+    "contract_date": "1592-07-16",
+    "workshop_parish": "San Vidal",
+    "master_name": "Zuan Giacomo, di Piero",
+    "apprentice_name": "Andrea di Grandi, di Bortolomio (quondam Andrea)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "94fa387e-bfff-4f84-a4ad-bd6ac1a61be6",
+    "contract_date": "1594-08-19",
+    "workshop_parish": "San Vidal",
+    "master_name": "Piero, di Comin",
+    "apprentice_name": "Matio Gotardo, di Anzollo (di Matio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3d6013b4-aaf1-4a48-9eec-c40276d0cb73",
+    "contract_date": "1596-12-05",
+    "workshop_parish": "San Vidal",
+    "master_name": "Matio",
+    "apprentice_name": "Piero",
+    "apprentice_origin_name": "Codroipo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6fb93b93-2e7b-40e9-94c4-eccb902a89ee",
+    "contract_date": "1599-05-07",
+    "workshop_parish": "San Vidal",
+    "master_name": "Matio, di Francesco",
+    "apprentice_name": "Marco, di Francesco (di Marco)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "45d3f156-5102-4723-bde5-dd2d382755fa",
+    "contract_date": "1609-07-09",
+    "workshop_parish": "San Vidal",
+    "master_name": "Matio",
+    "apprentice_name": "Menego Sasso, quondam Piero",
+    "apprentice_origin_name": "Badia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "24551817-3b11-4bfc-8d81-44f7bc2c2e5f",
+    "contract_date": "1632-12-20",
+    "workshop_parish": "San Vidal",
+    "master_name": "Zuane, quondam Mathio",
+    "apprentice_name": "Piero Pavan, quondam Menego",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a679bb0f-6c39-4fe5-9388-be9da176280d",
+    "contract_date": "1657-04-17",
+    "workshop_parish": "San Vidal",
+    "master_name": "Zuane",
+    "apprentice_name": "Antonio, di Daniel",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d8f27636-dec8-4a6c-967e-a2b3ad1cd1c8",
+    "contract_date": "1658-05-02",
+    "workshop_parish": "San Vidal",
+    "master_name": "Lodovico Negri",
+    "apprentice_name": "Camillo Coppo, di Zuane Pietro",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ed208706-1ad2-46d0-93e0-dd99f50f479d",
+    "contract_date": "1658-11-13",
+    "workshop_parish": "San Vidal",
+    "master_name": "Ludovico Negri",
+    "apprentice_name": "Zorzi Bonifacio, quondam Nicol\u00f2",
+    "apprentice_origin_name": "Pirano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f1ae7f56-8fc5-42e5-ae3b-c62604140839",
+    "contract_date": "1659-12-01",
+    "workshop_parish": "San Vidal",
+    "master_name": "Zuane",
+    "apprentice_name": "Francesco Bettel, quondam Luca",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "73f8cc2b-aeab-487f-a8e7-ce56ac8d9799",
+    "contract_date": "1669-09-10",
+    "workshop_parish": "San Vidal",
+    "master_name": "Zuanne, quondam Mattio",
+    "apprentice_name": "Antonio Gasparet, quondam Bernardin",
+    "apprentice_origin_name": "Venezia"
+   }
+  }
+ ]
+}

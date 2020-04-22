@@ -1,0 +1,360 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/337.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "03c97785-5850-4f9f-a897-57b44bc08038",
+    "contract_date": "1582-12-02",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Martin Giessin, quondam Zuane",
+    "apprentice_name": "Berto, quondam Zuane",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7ba81ba8-3a61-4e66-916f-27d3db59b3ab",
+    "contract_date": "1584-10-15",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Tomaso",
+    "apprentice_name": "Zuane, di Baldi",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6fb53dc7-f79d-4480-8671-159e5ccd8c89",
+    "contract_date": "1592-05-04",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Tomaso, di Francesco",
+    "apprentice_name": "Battista, di Andrea",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f59dbeee-81d5-40cd-93df-34ceb5e255f2",
+    "contract_date": "1594-02-06",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Nocente",
+    "apprentice_name": "Zuane Domenico Molena, quondam Andrea",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "29ffc520-7ada-4ff0-affa-85aafc4cfe73",
+    "contract_date": "1594-07-07",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Oliviero",
+    "apprentice_name": "Geronimo, di Tomaso",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4220b751-d0bb-4234-a21d-42f64cd29f5c",
+    "contract_date": "1594-07-18",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Martin Gresi, quondam Zuane",
+    "apprentice_name": "Francesco, quondam Antonio",
+    "apprentice_origin_name": "Schilpario"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "39e94499-e040-4839-af27-c8c8d909efa8",
+    "contract_date": "1596-08-13",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Piero",
+    "apprentice_name": "Hierolamo Colosin, quondam Ottavio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8396dd26-f774-4f27-b649-58c342adc18f",
+    "contract_date": "1596-10-14",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Francesco",
+    "apprentice_name": "Menego Bianchin, di Antonio (di Domenico)",
+    "apprentice_origin_name": "Aviano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4a84d7ac-502c-4c8d-86c3-28070ab6474d",
+    "contract_date": "1598-08-03",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Gasparina",
+    "apprentice_name": "Francesco, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "204fade2-a95e-4af5-8293-4a87cbff7077",
+    "contract_date": "1598-09-16",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Domicio",
+    "apprentice_name": "Piero, di Piero",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "de8d1b99-666f-46dc-9075-8c143fe2bd48",
+    "contract_date": "1606-11-14",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Domitiano",
+    "apprentice_name": "Simon, di Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c9cb634f-4788-432f-b755-fa05091a982a",
+    "contract_date": "1606-12-01",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Simon",
+    "apprentice_name": "Antonio Taparini, quondam Tomaso",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bff85be0-baf2-470a-b7e7-2eb2af2021d1",
+    "contract_date": "1609-11-05",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Manfre",
+    "apprentice_name": "Zuane, di Benetto",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "40e7b05f-41ab-411c-8c15-619ba3ed6372",
+    "contract_date": "1620-08-25",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Pietro Catelia, quondam Zuan Battista",
+    "apprentice_name": "Gerardo Stramazzer, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5587b178-73a6-48a7-a5f6-56a4a6e8cd28",
+    "contract_date": "1620-08-31",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Marco Marchetti",
+    "apprentice_name": "Lunardo, di Ottavio",
+    "apprentice_origin_name": "Sacile"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "487d8d05-f9cb-42f7-91c2-9d30d52c6f5d",
+    "contract_date": "1620-10-12",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Pietro Varnier",
+    "apprentice_name": "Nicol\u00f2 Bosello, di Gabriel",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f643249c-5b36-497a-b72d-8da77ba349f7",
+    "contract_date": "1632-07-28",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Francesco Ferto",
+    "apprentice_name": "Zan Lorenzo Resereto",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "aa5de676-ead8-421f-91af-5314b0b1b4cc",
+    "contract_date": "1646-03-07",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Francesco Ferro",
+    "apprentice_name": "Vicenzo Zuccharini, quondam Marco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b51bcb60-8843-43e9-befa-268075f2edc5",
+    "contract_date": "1647-09-04",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Bernardo Venier",
+    "apprentice_name": "Agostin Bianchini, di Francesco",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "50f36949-1873-43de-b063-ca909bbd8244",
+    "contract_date": "1647-10-01",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Bernardo, quondam Venier",
+    "apprentice_name": "Felice Scaramella, di Menego (di Lunardo)",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "54ebda21-5ca3-4141-b355-67d3f844f25f",
+    "contract_date": "1647-12-03",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Giacomo Azal",
+    "apprentice_name": "Giacomo Pearin, di Zuane",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "de19f3f1-1d9b-4680-8c3d-39eb82e99b13",
+    "contract_date": "1647-12-03",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Giacomo Azal",
+    "apprentice_name": "Mauritio Pearin, di Zuane",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a44c7a9c-cd2a-4d24-b2d7-ed1b7466babe",
+    "contract_date": "1656-07-04",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Antonio Freza",
+    "apprentice_name": "Zuane Battista Faveti, quondam Iseppo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "90eddb08-650a-4f78-9ade-42885357a4af",
+    "contract_date": "1658-08-31",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Bortolo, quondam Zuane",
+    "apprentice_name": "Zuanne Rizzo, di Valerio",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f5961109-9a4e-42e2-8da7-77379e1d92db",
+    "contract_date": "1659-09-06",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Domenico",
+    "apprentice_name": "Domenico dalla Pelegrina, di Martin",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "87b4ef6c-f66a-4955-89e0-42236d238960",
+    "contract_date": "1664-03-13",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Baldi",
+    "apprentice_name": "Giovanni Battista Ferrari, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "01508242-9d41-4d22-ae31-8910973017fb",
+    "contract_date": "1681-04-14",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Maurizio Penni",
+    "apprentice_name": "Lorenzo Lucano, quondam Lorenzo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "34171154-e418-46e7-94c9-eb0512bf3028",
+    "contract_date": "1681-09-01",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Giacomo Fiocco",
+    "apprentice_name": "Antonio  Rizo, di Marco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6eedb2d8-a63e-44f8-99d9-1b0a32085b2a",
+    "contract_date": "1712-06-11",
+    "workshop_parish": "San Leonardo",
+    "master_name": "Bastian Bambin",
+    "apprentice_name": "Alvise Giovanni Maria Di Orlando",
+    "apprentice_origin_name": "Venezia"
+   }
+  }
+ ]
+}

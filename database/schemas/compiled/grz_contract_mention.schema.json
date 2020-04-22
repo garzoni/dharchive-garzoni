@@ -1,0 +1,70 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "date": {
+            "label": {
+                "en": "Date"
+            },
+            "type": "string",
+            "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+            "placeholder": {
+                "en": "YYYY-MM-DD"
+            },
+            "propertyOrder": 2
+        },
+        "onMultiplePages": {
+            "label": {
+                "en": "On Multiple Pages"
+            },
+            "type": "boolean",
+            "propertyOrder": 3
+        },
+        "hasMargin": {
+            "label": {
+                "en": "Has Margin"
+            },
+            "type": "boolean",
+            "propertyOrder": 4
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea",
+            "propertyOrder": 5
+        },
+        "relatedContract": {
+            "label": {
+                "en": "Related Contract"
+            },
+            "type": "string",
+            "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+            "propertyOrder": 6
+        },
+        "mediaWikiReference": {
+            "label": {
+                "en": "MediaWiki Reference"
+            },
+            "type": "string",
+            "propertyOrder": 7
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "date",
+        "onMultiplePages",
+        "hasMargin"
+    ]
+}

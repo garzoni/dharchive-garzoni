@@ -1,0 +1,40 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "name": "@name",
+        "relationships": {
+            "label": {
+                "en": "Relationships"
+            },
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "relationType": {
+                        "label": {
+                            "en": "Relation Type"
+                        },
+                        "@grzPersonRelationType": {}
+                    },
+                    "person": "@grzPerson"
+                },
+                "required": ["relationType", "person"],
+                "additionalProperties": false
+            },
+            "uniqueItems": true
+        },
+        "onMediaWiki": {
+            "label": {
+                "en": "On MediaWiki"
+            },
+            "type": "boolean",
+            "default": false,
+            "options": {
+                "hidden": true
+            }
+        }
+    },
+    "additionalProperties": false,
+    "required": ["name"]
+}

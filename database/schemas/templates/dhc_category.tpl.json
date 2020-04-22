@@ -1,0 +1,66 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "labels": {
+            "label": {
+                "en": "Labels"
+            },
+            "type": "object",
+            "properties": {
+                "preferred": {
+                    "label": {
+                        "en": "Preferred"
+                    },
+                    "@multilingual": {}
+                },
+                "alternative": {
+                    "label": {
+                        "en": "Alternative"
+                    },
+                    "type": "array",
+                    "items": "@multilingualLabel",
+                    "minItems": 1,
+                    "uniqueItems": true
+                },
+                "hidden": {
+                    "label": {
+                        "en": "Hidden"
+                    },
+                    "type": "array",
+                    "items": "@multilingualLabel",
+                    "minItems": 1,
+                    "uniqueItems": true
+                }
+            },
+            "additionalProperties": false,
+            "required": ["preferred"]
+        },
+        "notes": {
+            "label": {
+                "en": "Notes"
+            },
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "type": {
+                        "label": {
+                            "en": "Type"
+                        },
+                        "type": "string",
+                        "enum": ["note", "scopeNote", "historyNote",
+                            "editorialNote", "changeNote", "definition", "example"]
+                    },
+                    "content": "@multilingualContent"
+                },
+                "additionalProperties": false,
+                "required": ["type", "content"]
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        }
+    },
+    "additionalProperties": false,
+    "required": ["qualifiedName", "labels"]
+}

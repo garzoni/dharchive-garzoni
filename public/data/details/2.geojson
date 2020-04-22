@@ -1,0 +1,3036 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/2.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "936b6082-43a7-4e48-b35c-b6234c28aaa8",
+    "contract_date": "1575-08-12",
+    "workshop_parish": "San Cassan",
+    "master_name": "Gierolamo, di Antonio, et fratelli; Gierolamo di Antonio et fratelli",
+    "apprentice_name": "Augustin, quondam Bortholo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "678ea53f-e39d-499b-93a4-4b1db43c24b4",
+    "contract_date": "1582-12-29",
+    "workshop_parish": null,
+    "master_name": "Berto Di Conbi",
+    "apprentice_name": "Battista, di Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0db9b61a-4dac-4807-9450-bf4e67cd29b0",
+    "contract_date": "1583-01-30",
+    "workshop_parish": "San Angelo",
+    "master_name": "Paulo",
+    "apprentice_name": "Cabriel, quondam Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5223bd80-2432-4ada-90ba-fb8252c280b8",
+    "contract_date": "1583-02-23",
+    "workshop_parish": null,
+    "master_name": "Giacomo Vicenzi",
+    "apprentice_name": "Zuan Domenico, di Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8ff9b271-8d26-43c6-a58b-783b461b7be3",
+    "contract_date": "1583-02-28",
+    "workshop_parish": null,
+    "master_name": "Paullo ?",
+    "apprentice_name": "Bortolamio Origoni, di Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6a8390f2-deb7-419f-92d2-be442af7579c",
+    "contract_date": "1583-07-13",
+    "workshop_parish": null,
+    "master_name": "Severin Bonacin",
+    "apprentice_name": "Zuanne Antonio Caliani, di Zuanne Paulo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "41fa3b4a-bb25-4783-a57d-ff45088e0cbe",
+    "contract_date": "1583-09-03",
+    "workshop_parish": null,
+    "master_name": "Battista, di Giovanni",
+    "apprentice_name": "Iseppo, quondam Iseppo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c5333d79-55b8-4f2e-bbf3-3eab3fa1fab9",
+    "contract_date": "1583-10-12",
+    "workshop_parish": null,
+    "master_name": "Nicol\u00f2, di Battista",
+    "apprentice_name": "Giacomo, quondam Prospero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2650222e-2598-4bc3-b9bd-d2f221f23261",
+    "contract_date": "1583-11-23",
+    "workshop_parish": null,
+    "master_name": "Nicolo; Anzolo",
+    "apprentice_name": "Rinaldo, di Anzolo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f7506918-fd30-4f71-b46f-8e2f87c2af41",
+    "contract_date": "1584-06-20",
+    "workshop_parish": null,
+    "master_name": "Bernardin Pallavesin",
+    "apprentice_name": "Ambrosio, di Paullo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "011ad34c-f475-4e5d-bac0-bdc066aeb269",
+    "contract_date": "1584-06-30",
+    "workshop_parish": null,
+    "master_name": "Baldisarre, di Nicol\u00f2",
+    "apprentice_name": "Francesco, di Isepo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b27ae0f3-8d1a-45ac-bbd2-b866b32573b0",
+    "contract_date": "1584-11-08",
+    "workshop_parish": null,
+    "master_name": "Gasparo, di Antonio",
+    "apprentice_name": "Zuan Battista, di Iacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "882cef22-9fe4-44b1-a374-dc4c41ff0cb9",
+    "contract_date": "1584-12-07",
+    "workshop_parish": null,
+    "master_name": "Michiel",
+    "apprentice_name": "Piero, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "14eb725a-07b2-43b4-8628-4a1e112c87dd",
+    "contract_date": "1591-02-08",
+    "workshop_parish": null,
+    "master_name": "Francesco Arroldo",
+    "apprentice_name": "Gerolamo, di Rocho",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7ed63239-ef56-4d1b-96f2-5a96092d3f2b",
+    "contract_date": "1591-02-24",
+    "workshop_parish": null,
+    "master_name": "Costante Zerlina",
+    "apprentice_name": "Piero Maria Bonirol, di Andrea",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ab5277f9-0d54-42f7-8a44-e7287c6fe255",
+    "contract_date": "1591-07-19",
+    "workshop_parish": null,
+    "master_name": "Agustin Colussi",
+    "apprentice_name": "Ambroso Di Busin, quondam Lorenzo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "982d644b-f710-4be0-8349-2485020eec9e",
+    "contract_date": "1591-07-23",
+    "workshop_parish": null,
+    "master_name": "Marco, di Domenico",
+    "apprentice_name": "Giacomo, quondam Lunardo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2a34ffb3-57b2-42f4-9593-91c17e325f8e",
+    "contract_date": "1591-10-15",
+    "workshop_parish": null,
+    "master_name": "Zamaria, quondam Battista",
+    "apprentice_name": "Zuane Antonio, di Nicollo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b5b3318e-0398-4f95-acc3-dd164b3a8d46",
+    "contract_date": "1591-11-18",
+    "workshop_parish": null,
+    "master_name": "Zamaria Botira, di Antonio",
+    "apprentice_name": "Zuane, quondam Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6797e8d0-b0ee-42cc-810b-3df08d7f4d49",
+    "contract_date": "1591-11-27",
+    "workshop_parish": null,
+    "master_name": "Zamaria",
+    "apprentice_name": "Plinio, di Zamaria",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6e5ad684-e89d-4c19-b074-9ce6671d827c",
+    "contract_date": "1592-01-07",
+    "workshop_parish": null,
+    "master_name": "Zamaria",
+    "apprentice_name": "Piero, quondam Zamaria",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bf94aefb-90a6-4771-a535-f3a9ef6c0728",
+    "contract_date": "1592-06-08",
+    "workshop_parish": null,
+    "master_name": "Battista di Medici",
+    "apprentice_name": "Lorenzo Calvo, quondam Bastian",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1a779bcb-9ed3-4a50-a8c1-bf697920347e",
+    "contract_date": "1592-07-15",
+    "workshop_parish": null,
+    "master_name": "Battista",
+    "apprentice_name": "Zan Antonio, di Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ef860a6f-35e4-44f2-ad20-0a7bca50465d",
+    "contract_date": "1592-12-04",
+    "workshop_parish": "San Felice",
+    "master_name": "Bernardo",
+    "apprentice_name": "Isepo Tavreti, di Bernardin",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "738f13b6-1909-42eb-978b-578265935773",
+    "contract_date": "1592-12-30",
+    "workshop_parish": null,
+    "master_name": "Zuane di Vernici",
+    "apprentice_name": "Piero, quondam Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cdb11001-3d7b-44c3-85a8-fb8001a2dc79",
+    "contract_date": "1593-03-18",
+    "workshop_parish": null,
+    "master_name": "Andrea",
+    "apprentice_name": "Calumero, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4d019160-a697-4b88-9172-ee15dea3afb5",
+    "contract_date": "1593-03-20",
+    "workshop_parish": null,
+    "master_name": "Isepo",
+    "apprentice_name": "Gasparo, quondam Lunardo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "11219ce0-a298-4d0a-8f36-38484ff2ee8b",
+    "contract_date": "1593-03-23",
+    "workshop_parish": null,
+    "master_name": "Francesco, di Felipo",
+    "apprentice_name": "Francesco, quondam Andrea",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4cb34e18-9320-4e0b-9702-6789d487100f",
+    "contract_date": "1593-03-29",
+    "workshop_parish": null,
+    "master_name": "Lorenzo",
+    "apprentice_name": "Bortolamio Darleri, di Isepo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e865e369-375f-4385-80aa-fa55a527bc4b",
+    "contract_date": "1594-01-16",
+    "workshop_parish": null,
+    "master_name": "Isepo",
+    "apprentice_name": "Battista, di Filogenio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6b6f7c38-65f0-4222-91b6-8533d3217b3b",
+    "contract_date": "1594-02-28",
+    "workshop_parish": null,
+    "master_name": "Alvise",
+    "apprentice_name": "Antonio , di Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "523fbe4f-8902-4970-a2b8-f67708245bcb",
+    "contract_date": "1594-05-23",
+    "workshop_parish": null,
+    "master_name": "Piero Manzoni",
+    "apprentice_name": "Rocho, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "41080d62-f1ba-4799-945b-2ce56e198f73",
+    "contract_date": "1594-06-06",
+    "workshop_parish": null,
+    "master_name": "Piero, di Battista",
+    "apprentice_name": "Zuane, di Martin",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d08f5925-20fa-41e2-b5da-c4a46614e589",
+    "contract_date": "1594-08-23",
+    "workshop_parish": null,
+    "master_name": "Marsilio",
+    "apprentice_name": "Ambroso Della Rosa, quondam Zuane Angelo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "68519fcb-8b57-48e2-b4f2-29122a495e67",
+    "contract_date": "1594-11-15",
+    "workshop_parish": null,
+    "master_name": "Francesco Arigoni",
+    "apprentice_name": "Domenico, quondam Girolamo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "46c67f93-eda0-4c74-bb2b-1fc6eb700b26",
+    "contract_date": "1595-03-13",
+    "workshop_parish": null,
+    "master_name": "Lorenzo di Pichi",
+    "apprentice_name": "Tomaso di Gambari, di Gerolamo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7d38812b-8e30-4418-b437-f6785e11e3ce",
+    "contract_date": "1596-01-24",
+    "workshop_parish": null,
+    "master_name": "Francesco Tore",
+    "apprentice_name": "Battista di Boni, di Bon",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "39a7b40a-312a-45d2-9fa8-f9b3925e4a62",
+    "contract_date": "1596-02-01",
+    "workshop_parish": "Santa Giustina",
+    "master_name": "Andrea, quondam Zuan Piero",
+    "apprentice_name": "Lauretio, quondam Rocho",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7c3d3093-c85e-49ec-b763-cd592285da2a",
+    "contract_date": "1596-02-11",
+    "workshop_parish": null,
+    "master_name": "Decio",
+    "apprentice_name": "Pollo Arigon, di Erculle",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8a6bc5d3-c024-462c-9d69-0af0b30c2a86",
+    "contract_date": "1596-02-22",
+    "workshop_parish": null,
+    "master_name": "Lorenzo di Pichi",
+    "apprentice_name": "Tomaso di Gambari, di Gerolamo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "92712df4-39c9-402f-aae6-e5140f477943",
+    "contract_date": "1596-08-22",
+    "workshop_parish": null,
+    "master_name": "Francesco, quondam Isepo",
+    "apprentice_name": "Beneto, quondam Cristofollo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "27958bff-6830-4110-bbe5-fc7806bbf0fa",
+    "contract_date": "1597-02-16",
+    "workshop_parish": null,
+    "master_name": "Zamaria Bergamin; Bernardo Bergamin",
+    "apprentice_name": "Calumer, quondam Fidel",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "340ddde1-b85d-4e1b-8923-f65d04f5257a",
+    "contract_date": "1597-02-19",
+    "workshop_parish": null,
+    "master_name": "Piero Peder, quondam Zuane",
+    "apprentice_name": "Piero Di Cabrieli, quondam Cabriel",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8672b644-5d3b-494f-acc6-56edb02db3e6",
+    "contract_date": "1597-08-12",
+    "workshop_parish": null,
+    "master_name": "Bonamigo",
+    "apprentice_name": "Zuanne Antonio, quondam Gasparo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "96d315dd-264b-43ec-855c-08f2a03d9b4b",
+    "contract_date": "1597-09-17",
+    "workshop_parish": null,
+    "master_name": "Bernardo Breva; Zuane Breva",
+    "apprentice_name": "Girolamo, di Zuanne Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f7966a52-4a92-45f9-82e2-1a725a4d30bf",
+    "contract_date": "1597-12-16",
+    "workshop_parish": "Anzolo (Raffael)",
+    "master_name": "Zuane",
+    "apprentice_name": "Giacomo, di Santo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "210f8ff7-01b6-4b71-92b6-ae76f94ca1bf",
+    "contract_date": "1598-03-02",
+    "workshop_parish": null,
+    "master_name": "Bonifacio",
+    "apprentice_name": "Anbroso, quondam Isach",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8e0e6ce2-edf6-47e2-94ac-53ff195dbd95",
+    "contract_date": "1598-03-05",
+    "workshop_parish": null,
+    "master_name": "Antonio, quondam Pollo",
+    "apprentice_name": "Zuane, di Giopo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e9144d7d-d8ea-4095-ade4-94cea58e4088",
+    "contract_date": "1598-03-16",
+    "workshop_parish": null,
+    "master_name": "Andrea, quondam Simon",
+    "apprentice_name": "Antonio, di Batista",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d56e2b11-e1bd-4698-ba8e-53630b20a676",
+    "contract_date": "1598-04-03",
+    "workshop_parish": "San Aponal",
+    "master_name": "Christofollo",
+    "apprentice_name": "Righo Manzoni, quondam Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "df477c28-ece3-466d-93a1-31f5881e248d",
+    "contract_date": "1598-04-20",
+    "workshop_parish": null,
+    "master_name": "Giacomo",
+    "apprentice_name": "Felipo, di Simon",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c31d8289-4ca1-4115-a526-7a745598d224",
+    "contract_date": "1598-04-29",
+    "workshop_parish": "Santi Giovanni e Paolo",
+    "master_name": "Anbrosso",
+    "apprentice_name": "Zuanne Giacomo, di Alberto",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d2412140-2d73-4495-aef7-c45ec7027670",
+    "contract_date": "1598-07-29",
+    "workshop_parish": null,
+    "master_name": "Guido Di Quinti, e compagni",
+    "apprentice_name": "Domenico, quondam Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1d38765a-72da-45cb-bcd3-61a8e76a4f80",
+    "contract_date": "1598-09-28",
+    "workshop_parish": null,
+    "master_name": "Domenico Rancho",
+    "apprentice_name": "Lelio Manoel?, quondam Oratio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d1d4fbb5-2592-4e39-b3b9-87f23db471ac",
+    "contract_date": "1598-10-12",
+    "workshop_parish": "San Antonin",
+    "master_name": "Alisso",
+    "apprentice_name": "Bernardo Goncene, di Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "73bd7d0c-6ccb-4c39-88ac-7aadc1299ce7",
+    "contract_date": "1599-03-31",
+    "workshop_parish": null,
+    "master_name": "Rocco",
+    "apprentice_name": "Giacomo, quondam Gasparo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ebda6841-d327-44f8-8f98-cd2ddb9a6fcf",
+    "contract_date": "1599-04-02",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Zuane Bondio",
+    "apprentice_name": "Zuane Facini, di Battista",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d153170d-6309-40b9-8aa9-1c1a78aa08fd",
+    "contract_date": "1599-05-05",
+    "workshop_parish": null,
+    "master_name": "Piero dal Zapello, di Lorenzo",
+    "apprentice_name": "Giacomo Goretto, di Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "92bdf048-3653-4592-b988-9ae7e255c50b",
+    "contract_date": "1599-05-25",
+    "workshop_parish": null,
+    "master_name": "Nadal Goreto, di Francesco",
+    "apprentice_name": "Benedetto, quondam Benedetto",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "354976b7-c567-4b1f-b832-ace310d4ed4d",
+    "contract_date": "1599-05-29",
+    "workshop_parish": null,
+    "master_name": "Marsilio, di Francesco",
+    "apprentice_name": "Raimondo, di Bernardo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d981edeb-3759-456a-b989-7cf721566950",
+    "contract_date": "1599-06-14",
+    "workshop_parish": null,
+    "master_name": "Zuane Milonin, di Piero",
+    "apprentice_name": "Piero, quondam Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bd75c94b-c6dc-4de6-98e9-77fdc5730da7",
+    "contract_date": "1599-06-16",
+    "workshop_parish": null,
+    "master_name": "Giacomo Combi, di Giacomo",
+    "apprentice_name": "Iseppo Manzoni, di Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "05e58710-999a-48de-84f2-6029e746f377",
+    "contract_date": "1599-08-03",
+    "workshop_parish": null,
+    "master_name": "Ambroso",
+    "apprentice_name": "Anzolo, di Arcanzollo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3195049c-d517-4d75-9e62-296fa9b6057e",
+    "contract_date": "1606-04-13",
+    "workshop_parish": null,
+    "master_name": "Anbrosso",
+    "apprentice_name": "Antonio Di Virai, quondam Isepo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2e41f995-6bc6-47a8-9dfb-da822bf0b915",
+    "contract_date": "1606-04-28",
+    "workshop_parish": "Santa Marina",
+    "master_name": "Menego",
+    "apprentice_name": "Nicollo Pagha, di Zuanne Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ac367a8f-2fa5-47e3-91a0-eae4d9816c44",
+    "contract_date": "1606-05-29",
+    "workshop_parish": null,
+    "master_name": "Francesco, quondam Isepo",
+    "apprentice_name": "Bernardin Curso, di Isepo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bbdbdf44-47d3-4a6f-a701-44d5cbecc0ef",
+    "contract_date": "1606-06-26",
+    "workshop_parish": null,
+    "master_name": "Lorenzo, quondam Isepo",
+    "apprentice_name": "Zuanne Battista Boni Pestrighi, quondam Andrea",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ee40e60-2009-49f5-8b99-9dbeeafafbc8",
+    "contract_date": "1606-10-12",
+    "workshop_parish": null,
+    "master_name": "Marcho",
+    "apprentice_name": "Piero Paulo Romo?, quondam Gerolamp",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f3061410-63b0-45e5-8515-971621b37b17",
+    "contract_date": "1606-10-16",
+    "workshop_parish": null,
+    "master_name": "Zuane Di Rossi, di Piero",
+    "apprentice_name": "Zuane Curto, quondam Vicenzo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f49d35c5-7f9e-48be-ba84-29c59e03eff8",
+    "contract_date": "1606-12-04",
+    "workshop_parish": null,
+    "master_name": "Prospero",
+    "apprentice_name": "Anbroso Di Poi, quondam Beltrame",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "af48ee8f-6004-4bcf-95be-6a3181577780",
+    "contract_date": "1607-03-03",
+    "workshop_parish": null,
+    "master_name": "Baldisera Arigoni",
+    "apprentice_name": "Zuanne Antonio Magiolli, quondam Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "39f48698-8d2b-4ed7-88fa-973359ca3c8e",
+    "contract_date": "1609-02-12",
+    "workshop_parish": null,
+    "master_name": "Benedetto di Bolis",
+    "apprentice_name": "Bernardin della Crotta, di Andrea",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ef03dabb-f28a-4e60-94a0-c98ebcfac246",
+    "contract_date": "1609-02-16",
+    "workshop_parish": null,
+    "master_name": "Andrea",
+    "apprentice_name": "Giacomo di Spratto, di Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "52f5b7db-90bd-4222-bf44-619e01926172",
+    "contract_date": "1609-07-20",
+    "workshop_parish": null,
+    "master_name": "Domenico",
+    "apprentice_name": "Iseppo, di Battista",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f4d61e24-66f4-4334-8d46-176420cfd859",
+    "contract_date": "1609-11-13",
+    "workshop_parish": null,
+    "master_name": "Zuane",
+    "apprentice_name": "Domenico, di Zuane Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "92ea069b-61e8-4871-bbff-0f21468c65ab",
+    "contract_date": "1609-11-26",
+    "workshop_parish": null,
+    "master_name": "Antonio Varnici, di Piero",
+    "apprentice_name": "Antonio Manzoni, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ca59089f-3124-45d3-99b7-9e4cdc816371",
+    "contract_date": "1610-03-30",
+    "workshop_parish": null,
+    "master_name": "Ambroso, di Antonio",
+    "apprentice_name": "Martin di Pedracini, di Martin",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0cf50f89-2a2c-4e68-b631-cf2b1d01a810",
+    "contract_date": "1610-05-10",
+    "workshop_parish": null,
+    "master_name": "Battista",
+    "apprentice_name": "Antonio, di Zuane Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9b40c65d-2345-4cc9-8e45-d11bfe147934",
+    "contract_date": "1610-05-21",
+    "workshop_parish": "Santa Sofia",
+    "master_name": "Iseppo Basan",
+    "apprentice_name": "Andrea Canaseto, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "62b83767-0c33-4482-a227-ff5b7659defa",
+    "contract_date": "1610-06-30",
+    "workshop_parish": null,
+    "master_name": "Ambroso, quondam Piero",
+    "apprentice_name": "Francesco, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "afd5520e-7deb-4bd9-bcb6-3bb842999995",
+    "contract_date": "1610-07-21",
+    "workshop_parish": null,
+    "master_name": "Zuane Battista",
+    "apprentice_name": "Silvestro, di Bernardin",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d40fd0b3-46f7-493c-a4c6-5059f101f1c6",
+    "contract_date": "1620-01-22",
+    "workshop_parish": null,
+    "master_name": "Calurero",
+    "apprentice_name": "Domenico, di Giovanni Maria",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4b166c1f-e23b-4ef4-baba-47155dc97087",
+    "contract_date": "1620-01-27",
+    "workshop_parish": null,
+    "master_name": "Antonio, di Antonio; Giovanni, di Antonio",
+    "apprentice_name": "Calumero, di Ciprian",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7f1de592-a830-4263-8a7a-fc0708076751",
+    "contract_date": "1621-07-09",
+    "workshop_parish": null,
+    "master_name": "Vicenzo calcaneis",
+    "apprentice_name": "Gioani Gradignan, di Francesco Bernardin",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5378fd87-8172-4f7b-9af6-abd4463010f5",
+    "contract_date": "1621-09-01",
+    "workshop_parish": null,
+    "master_name": "Giulio Arigoni",
+    "apprentice_name": "Anbroso Arigoni, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "30dd621c-f0aa-4458-be5f-2d84abf38bc4",
+    "contract_date": "1625-09-01",
+    "workshop_parish": null,
+    "master_name": "Ercule Arigoni",
+    "apprentice_name": "Ambroso Bertarino, di Pietro",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f0ab7306-d80d-43a8-b681-e50ff29f2498",
+    "contract_date": "1632-11-24",
+    "workshop_parish": null,
+    "master_name": "Giovan Francesco Fracassetto; Gioani Marinoni",
+    "apprentice_name": "Steffano Mera, di Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "37e4927c-f07e-4412-a953-c24477e47f5a",
+    "contract_date": "1642-02-26",
+    "workshop_parish": null,
+    "master_name": "Marin  Marinoni ",
+    "apprentice_name": "Salvador , di Gerolamo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eeff5df2-ba31-4b3b-bbf2-ba6d719e91fe",
+    "contract_date": "1642-07-21",
+    "workshop_parish": null,
+    "master_name": "Andrea  De Manin, quondam ?",
+    "apprentice_name": "Vicenzo  Apian, di Horatio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "84f16826-c32d-4eda-8a05-ae5bf7d1f9ea",
+    "contract_date": "1642-11-04",
+    "workshop_parish": null,
+    "master_name": "Nicol\u00f2  Cinquini ",
+    "apprentice_name": "Domenico  Matto , di Zuane ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8afdcd89-8042-474a-a972-e0a43dd80c63",
+    "contract_date": "1642-12-23",
+    "workshop_parish": null,
+    "master_name": "Santo  Gierbaso",
+    "apprentice_name": "Steffano  Guaitan , di Battist a",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2acf44fb-5754-4c95-a262-64cba21ceed1",
+    "contract_date": "1643-04-30",
+    "workshop_parish": null,
+    "master_name": "Iseppo  Astori ",
+    "apprentice_name": "Iseppo  Mazuchello , quondam Battista ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b973ae41-4533-42cf-8bf0-d98379b1e5e8",
+    "contract_date": "1643-06-19",
+    "workshop_parish": null,
+    "master_name": "Andrea  Bolzo ; Gregorio  Bolzo ",
+    "apprentice_name": "Carlo Antonio  Grossi , di Giacomo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d8bbb586-9a44-43ab-a53f-e82ec4503539",
+    "contract_date": "1643-10-16",
+    "workshop_parish": null,
+    "master_name": "Francesco  Veseschin ",
+    "apprentice_name": "Carlo  De Lazari , quondam Martin ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ea5bc7cc-dc6f-482b-8752-f4d8d1b9a9ac",
+    "contract_date": "1643-10-23",
+    "workshop_parish": null,
+    "master_name": "Simon  Zanetti ",
+    "apprentice_name": "Ambroso  Mazza, di Francesco ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "22d86de6-3ec0-47fe-b9cc-a82f6506be6d",
+    "contract_date": "1643-11-03",
+    "workshop_parish": null,
+    "master_name": "Zuane Maria  Da Cano ",
+    "apprentice_name": "Antonio  Poncini, di Antonio ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "262ed976-708c-4f94-a14a-0d75adbbb60c",
+    "contract_date": "1643-12-12",
+    "workshop_parish": null,
+    "master_name": "Zuane  Di Rissi , quondam Simon ",
+    "apprentice_name": "Battista  Bonin , di Francesco ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7396b08d-adbe-426f-8ada-80d94e032852",
+    "contract_date": "1644-02-06",
+    "workshop_parish": null,
+    "master_name": "Zuane Di Fini",
+    "apprentice_name": "Antonio Castagna, di Simon",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2e3132c5-4b85-4a40-9fa2-47d5cefc61e5",
+    "contract_date": "1644-06-16",
+    "workshop_parish": null,
+    "master_name": "Domenico  Scallaro ",
+    "apprentice_name": "Zuane Battista  Mazza, quondam Antonio ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "36e9b00c-b14c-43f3-9a1e-7d2e839ab90e",
+    "contract_date": "1644-06-18",
+    "workshop_parish": null,
+    "master_name": "Baldisera Longhena",
+    "apprentice_name": "Abbondi Di Rossi, di Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "033b9c9b-1ac8-42b3-8c4f-0d75cb678ed8",
+    "contract_date": "1644-07-23",
+    "workshop_parish": null,
+    "master_name": "Francesco Sardi",
+    "apprentice_name": "Lorenzo Salvi, quondam Anzolo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ad02f131-10b3-4afe-9685-54eed551aa66",
+    "contract_date": "1644-08-22",
+    "workshop_parish": null,
+    "master_name": "Francesco Saracale",
+    "apprentice_name": "Cesaro Lombardo, quondam Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7d1f08d6-c0da-4774-80c1-ece1ea570e01",
+    "contract_date": "1645-02-01",
+    "workshop_parish": null,
+    "master_name": "Oniben Ferri",
+    "apprentice_name": "Carlo Genas, quondam Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3e335ace-7de8-4a94-a1e6-1732568cb0e9",
+    "contract_date": "1645-03-27",
+    "workshop_parish": null,
+    "master_name": "Iseppo Baretta",
+    "apprentice_name": "Zuane Battista Raina, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9ed2c3ba-7df0-46f5-9673-13ebbebaf985",
+    "contract_date": "1645-04-20",
+    "workshop_parish": null,
+    "master_name": "Berto Gaffreni, quondam Benetto",
+    "apprentice_name": "Carlo Coeci, di Ambroso",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8572977e-931b-41b2-a0e3-d7f4fe0bf6ee",
+    "contract_date": "1645-04-24",
+    "workshop_parish": null,
+    "master_name": "Rocco di Balao",
+    "apprentice_name": "Francesco di Capr\u00e8",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "91219cd0-b7b0-4e10-adab-1a1ebae1ccd2",
+    "contract_date": "1645-11-29",
+    "workshop_parish": null,
+    "master_name": "Antonio Dian\u00f2, quondam Bortolo",
+    "apprentice_name": "Piero Sgabelin, di Bortolamio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9f7da3f5-5fdc-4ce4-8763-49273759a961",
+    "contract_date": "1645-11-29",
+    "workshop_parish": null,
+    "master_name": "Alessandro Sale",
+    "apprentice_name": "Iseppo Vanin, di Lodovico",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "47208114-cbe0-478f-b911-f0c8a13ffcf4",
+    "contract_date": "1645-12-04",
+    "workshop_parish": null,
+    "master_name": "Bonhomo Tagiaferro; Bortolamio Tagiaferro",
+    "apprentice_name": "Zuane Battista Cattaneo, di Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ebc8c3bf-86bb-492c-a736-d4cce0463b38",
+    "contract_date": "1645-12-16",
+    "workshop_parish": null,
+    "master_name": "Piero Pandin",
+    "apprentice_name": "Carlo Franchin, di Michiel",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "91ef8ead-8dd0-4340-9521-f6924fdca144",
+    "contract_date": "1646-10-13",
+    "workshop_parish": null,
+    "master_name": "Antonio Tricini, di Michiel",
+    "apprentice_name": "Anzolo Fabin, quondam Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fd27e70c-f2d5-4350-8f60-819e3faa5560",
+    "contract_date": "1646-11-13",
+    "workshop_parish": null,
+    "master_name": "Pietro Cassi",
+    "apprentice_name": "Menegho Brusielli, quondam Marco Ananio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "542f435f-32f0-4068-bf77-e6d0482b921a",
+    "contract_date": "1653-12-11",
+    "workshop_parish": null,
+    "master_name": "Francesco Macer",
+    "apprentice_name": "Carlo Vitali, di Bonifacio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6047adcc-58a7-4063-96de-3cb4e6756ef9",
+    "contract_date": "1657-06-18",
+    "workshop_parish": null,
+    "master_name": "Battista Plati",
+    "apprentice_name": "Biasio Pezani, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "577fc0ca-7e90-46c4-a9fb-b11c5eccc595",
+    "contract_date": "1657-06-21",
+    "workshop_parish": null,
+    "master_name": "Piero Mazzon",
+    "apprentice_name": "Giacomo Conti, di Giacomo Maria",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "70b8fdbe-0eff-4182-9c18-08903707b938",
+    "contract_date": "1658-04-30",
+    "workshop_parish": null,
+    "master_name": "Giacomo Bottan",
+    "apprentice_name": "Toni Bogi, quondam Paulo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "38aff4ba-7827-4cee-9e63-051751c6f480",
+    "contract_date": "1658-06-06",
+    "workshop_parish": null,
+    "master_name": "Antonio Consoli",
+    "apprentice_name": "Fedrigo, quondam Paolo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9c140054-0458-4bfa-a1ec-777f6416114d",
+    "contract_date": "1658-09-02",
+    "workshop_parish": null,
+    "master_name": "Vivian Pardina",
+    "apprentice_name": "Zuan Battista Ratto, di Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d27d32ee-a427-4c53-8b4f-329e664ba1a7",
+    "contract_date": "1658-09-10",
+    "workshop_parish": null,
+    "master_name": "Antonio  Costantini",
+    "apprentice_name": "Simon Lucadetto, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "688fde11-25c7-4de2-85b5-5cea9cd3f00e",
+    "contract_date": "1658-11-29",
+    "workshop_parish": null,
+    "master_name": "Domenico Viseti",
+    "apprentice_name": "Giacomo Gratiosi, di Gerolamo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "22a5abbd-12e4-44fd-873e-928617f336a8",
+    "contract_date": "1659-06-04",
+    "workshop_parish": null,
+    "master_name": "Zuane Valergo",
+    "apprentice_name": "Giacinto  Melchioro",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "51001289-217e-4796-b801-bf977069fe67",
+    "contract_date": "1663-05-28",
+    "workshop_parish": null,
+    "master_name": "Antonio",
+    "apprentice_name": "Francesco Leba?, di Cesaro",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8bec54f6-3d31-423f-8252-d3641f2ff55d",
+    "contract_date": "1663-09-10",
+    "workshop_parish": null,
+    "master_name": "Carlo Balarin",
+    "apprentice_name": "Mattio Balarin, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e57f1603-e8e8-45ec-b2b7-642c0235faae",
+    "contract_date": "1663-11-12",
+    "workshop_parish": null,
+    "master_name": "Francesco Cadena",
+    "apprentice_name": "Tomaso Colmagna, di Carlo Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bf3ea104-3e2e-4262-8b22-d98f9ba654c8",
+    "contract_date": "1664-01-05",
+    "workshop_parish": null,
+    "master_name": "Ambroso Bialdi",
+    "apprentice_name": "Zuane Grecin, di Menego",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bc939633-9918-4cec-9c71-e845dcb18256",
+    "contract_date": "1664-04-17",
+    "workshop_parish": null,
+    "master_name": "Francesco Forelli",
+    "apprentice_name": "Christoforo de Rossi, di Domenico",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cddf117c-3c3d-4f3c-8b87-3762ef3c2c2f",
+    "contract_date": "1664-05-15",
+    "workshop_parish": null,
+    "master_name": "Giacomo Toralli",
+    "apprentice_name": "Simon Ferrari, quondam Fidel",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "736be687-6fa8-42c9-a866-5f10c6a05bc5",
+    "contract_date": "1664-11-17",
+    "workshop_parish": null,
+    "master_name": "Citron",
+    "apprentice_name": "Carlo Vercelli, quondam Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "648c5648-da8e-4e17-8c86-7d324d534c31",
+    "contract_date": "1665-05-12",
+    "workshop_parish": null,
+    "master_name": "Gabriel Soardo",
+    "apprentice_name": "Antonio Brambilla, quondam Zan Battista",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7b61589b-7919-44b1-a656-40967bcf165b",
+    "contract_date": "1665-05-23",
+    "workshop_parish": null,
+    "master_name": "Steffano  Porro",
+    "apprentice_name": "Francesco Bareri, di Bastian",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "35a579eb-b098-4e01-963c-2fefdfd84670",
+    "contract_date": "1665-06-08",
+    "workshop_parish": null,
+    "master_name": "Zuanne  Bianchi",
+    "apprentice_name": "Iacomo Pez, quondam Michiel",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cf0f87e0-6242-42bf-9899-8d4a79a18974",
+    "contract_date": "1665-06-11",
+    "workshop_parish": null,
+    "master_name": "Paulo Di Poli",
+    "apprentice_name": "Antonio Balzzar, di Bernardin",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "086f9ef4-eff1-4d70-b733-c5a998b499e4",
+    "contract_date": "1665-06-19",
+    "workshop_parish": null,
+    "master_name": "Bernardo Recordin",
+    "apprentice_name": "Francesco Compagnon, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c24e9b05-aa1d-441c-9368-de76867cc94d",
+    "contract_date": "1665-06-22",
+    "workshop_parish": null,
+    "master_name": "Lorenzo Cadega",
+    "apprentice_name": "Maffio Tadeo, quondam Giovanni",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1d4d371a-148e-4a46-9921-effd2f48c2a4",
+    "contract_date": "1669-12-12",
+    "workshop_parish": null,
+    "master_name": "Zamaria Zorzi, di Zorzi",
+    "apprentice_name": "Teodoro Martinelli, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "232ff38d-cf2a-446d-b5c6-f7e408c38c0a",
+    "contract_date": "1670-02-19",
+    "workshop_parish": null,
+    "master_name": "Bortolo Vitali, quondam Ambrogio",
+    "apprentice_name": "Ambroso Aliprandi, quondam Carlo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4a1d1b15-fae9-45af-9338-a9231c7d0219",
+    "contract_date": "1670-05-05",
+    "workshop_parish": null,
+    "master_name": "Bernardo Bonomino",
+    "apprentice_name": "Francesco Cani, quondam Giulio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1c74c325-26bb-496f-84f5-9b27a71b5c54",
+    "contract_date": "1671-04-28",
+    "workshop_parish": null,
+    "master_name": "Piero Maggi",
+    "apprentice_name": "Francesco Bertacin, di Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "03eb03a6-196a-4b71-8d04-0ea7e1c986d2",
+    "contract_date": "1671-05-11",
+    "workshop_parish": null,
+    "master_name": "Carlo Croce",
+    "apprentice_name": "Bortolamio Raimondi, quondam Nicol\u00f2",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6f4f9137-daee-42c9-82e2-53e1a817980b",
+    "contract_date": "1671-05-21",
+    "workshop_parish": "Santi Giovanni e Paolo",
+    "master_name": "Zuan Maria Bertoia",
+    "apprentice_name": "Domenego Condal, di Dionisio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "19fb4c8a-34b3-4411-986b-affc05de9156",
+    "contract_date": "1671-05-23",
+    "workshop_parish": null,
+    "master_name": "Bernardo Lucadello",
+    "apprentice_name": "Martin Poli, quondam Zuan Maria",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1904a1e8-d6fc-44c9-a711-37d47608a910",
+    "contract_date": "1671-05-25",
+    "workshop_parish": null,
+    "master_name": "Domenico dalla Pal\u00f9",
+    "apprentice_name": "Anzolo Mazza, di Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "277db903-c27f-4788-8906-3fe23b841c7c",
+    "contract_date": "1671-07-31",
+    "workshop_parish": null,
+    "master_name": "Andrea Recaldin",
+    "apprentice_name": "Cristofolo Martineli, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0256ea9f-61bd-4170-bff3-0b347e0884af",
+    "contract_date": "1671-08-03",
+    "workshop_parish": null,
+    "master_name": "Lorenzo Codegha",
+    "apprentice_name": "Carlo Bozola, di Carlo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ae942fc-1c76-42b2-aa13-dcfbbd5db9a2",
+    "contract_date": "1681-04-22",
+    "workshop_parish": "Santa Marina",
+    "master_name": "Lorenzo Codega",
+    "apprentice_name": "Dionisio Bellato, quondam Giulio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2f9d2dff-4bd3-4b65-a866-2edad08f016f",
+    "contract_date": "1681-04-22",
+    "workshop_parish": "San Stae",
+    "master_name": "Zuane Zappel",
+    "apprentice_name": "Bortolo Barindel, di Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d22dd10a-6e47-4d2f-bd78-1673c9b04772",
+    "contract_date": "1681-05-16",
+    "workshop_parish": "San Cancian",
+    "master_name": "Zuane Pandian",
+    "apprentice_name": "Don\u00e0 Calvi, quondam Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "214954f6-5efb-4a82-aa4e-f26b1c453c64",
+    "contract_date": "1681-06-18",
+    "workshop_parish": null,
+    "master_name": "Ambroso Rusconi",
+    "apprentice_name": "Gasparo Beni, di Domenico",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b9535322-bd4b-4d97-9ef0-2edad9635aff",
+    "contract_date": "1681-09-16",
+    "workshop_parish": null,
+    "master_name": "Bortolo Vitalli",
+    "apprentice_name": "Zuane  Domenico Rognoni",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1c94cbad-a7cf-424b-9340-c438e4d89df0",
+    "contract_date": "1681-09-22",
+    "workshop_parish": null,
+    "master_name": "Gasparo Andi",
+    "apprentice_name": "Zuane Betega, di Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "13718eef-dce5-4650-a148-4c7b4047422b",
+    "contract_date": "1681-09-23",
+    "workshop_parish": null,
+    "master_name": "Giacomo Cachi",
+    "apprentice_name": "Antonio Tressa, quondam Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "046533a0-c0f0-43a5-aa95-d356bfc77c08",
+    "contract_date": "1681-11-04",
+    "workshop_parish": null,
+    "master_name": "Nicol\u00f2 Butiera",
+    "apprentice_name": "Antonio Acerboni, di Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ad75d37d-b11b-43d9-8483-928568bd15c4",
+    "contract_date": "1681-11-22",
+    "workshop_parish": null,
+    "master_name": "Agostin Ferrari",
+    "apprentice_name": "Lazaro Monti, quondam Iseppo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "43e6982a-32a6-4df7-a445-c89819f4a86f",
+    "contract_date": "1682-04-07",
+    "workshop_parish": null,
+    "master_name": "Pietro Vitali",
+    "apprentice_name": "Carlo  Colombo, di Bastian",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6e66f939-f6cb-4ed2-a8fe-7f17e30ccffa",
+    "contract_date": "1682-05-02",
+    "workshop_parish": null,
+    "master_name": "Andrea Baz",
+    "apprentice_name": "Giacomo Balarin, di Domenico",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "807aed23-3ffc-4cc1-9782-5af432a6b20d",
+    "contract_date": "1682-05-21",
+    "workshop_parish": null,
+    "master_name": "Battista Rosti",
+    "apprentice_name": "Pantalin Fontana, di Martin",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ba610c79-743b-4dc6-8e2b-75a4e5cae959",
+    "contract_date": "1682-07-14",
+    "workshop_parish": null,
+    "master_name": "Nicola Pasquali",
+    "apprentice_name": "Valerio , di Gaspare",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d42ffa57-c310-4924-9c1d-18a562125854",
+    "contract_date": "1682-08-25",
+    "workshop_parish": null,
+    "master_name": "Lodovico Fossato",
+    "apprentice_name": "Carlo Vifeti, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ca6340f5-689c-4e8a-8237-38c7fa96fb40",
+    "contract_date": "1703-01-14",
+    "workshop_parish": null,
+    "master_name": "Carlo Codegha",
+    "apprentice_name": "Carlo Rufini, di Tomaso",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "71eb9251-8279-4576-a2b1-8730f0324d40",
+    "contract_date": "1703-02-01",
+    "workshop_parish": null,
+    "master_name": "Dionisio  Barera ",
+    "apprentice_name": "Giacomo  Luca , di Nicol\u00f2",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "287bcc81-2380-4941-a485-a25573bb930d",
+    "contract_date": "1703-02-07",
+    "workshop_parish": null,
+    "master_name": "Piero  Ferei ",
+    "apprentice_name": "Iseppo  Pedreti , di Piero ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a83bd7ae-0427-4fa8-bbf6-f71f8da3662a",
+    "contract_date": "1704-01-19",
+    "workshop_parish": null,
+    "master_name": "Giacomo  Visetti ",
+    "apprentice_name": "Zuane  Restel , di Carlo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0c9d31ef-8a4c-4c4e-a2a1-405d09d45307",
+    "contract_date": "1704-03-04",
+    "workshop_parish": null,
+    "master_name": "Francesco  Gianoli ",
+    "apprentice_name": "Francesco  Gianola , di Carlo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "04afc65f-d8ce-4f27-8686-2c073e308e69",
+    "contract_date": "1704-03-10",
+    "workshop_parish": null,
+    "master_name": "Iseppo  Riva ",
+    "apprentice_name": "Bortolo  Riva , di Antonio ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "48705028-e8dd-4db1-bfa6-d46aa857bb3e",
+    "contract_date": "1704-03-15",
+    "workshop_parish": null,
+    "master_name": "Pietro  Varuti ",
+    "apprentice_name": "Carlo  Ruberto, quondam Pietro ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0a44636f-0cd7-47eb-86a9-0c378fa59bcd",
+    "contract_date": "1704-03-17",
+    "workshop_parish": null,
+    "master_name": "DOmenico  Bertarin ",
+    "apprentice_name": "Carlo Maria  Quittapas , di Santin ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c285202f-3b84-4432-b47a-8ab5d1a8d66d",
+    "contract_date": "1704-03-17",
+    "workshop_parish": null,
+    "master_name": "Zuane Maria  Garghanicho",
+    "apprentice_name": "Piero  Mastal , quondam Carlo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e5ccef42-5d20-47d0-8e12-08596cd5a757",
+    "contract_date": "1704-03-17",
+    "workshop_parish": null,
+    "master_name": "Zuanne  Larcharicho",
+    "apprentice_name": "Zuanne  Vilench , di Domenico ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "96cc9098-1f1e-4579-bc0c-6c77d4df229c",
+    "contract_date": "1704-04-22",
+    "workshop_parish": null,
+    "master_name": "Iseppo  Selva ",
+    "apprentice_name": "Bortolo  Selva , quondam Iseppo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "07640899-d1a8-4003-9a62-a560a34445d7",
+    "contract_date": "1704-05-08",
+    "workshop_parish": null,
+    "master_name": "Battista  Marie",
+    "apprentice_name": "Gerolamo  Ragia , di Zuane Maria ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3da0bf70-1950-47c2-ba77-88b874a7f964",
+    "contract_date": "1704-05-10",
+    "workshop_parish": null,
+    "master_name": "Carlo  O?inici",
+    "apprentice_name": "Domenico  Pelizoni , di Pietro ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fd0d7cd1-a7f8-476a-bf57-35cf8b3abca0",
+    "contract_date": "1704-05-10",
+    "workshop_parish": null,
+    "master_name": "Antonio  Orio ",
+    "apprentice_name": "Domenico  Marazzi , di Iseppo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bd4ef55a-926f-4dfe-9c60-33d592b94077",
+    "contract_date": "1704-05-16",
+    "workshop_parish": null,
+    "master_name": "Zuane Martini",
+    "apprentice_name": "Zuane  Marti , di Iseppo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c5dc9084-cb29-4fea-863c-d4115d0807bd",
+    "contract_date": "1704-05-29",
+    "workshop_parish": null,
+    "master_name": "Iseppo  Pedrali ",
+    "apprentice_name": "Bortolo  Pedrali , di Giovanni Maria ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1503f8c2-3830-4214-8323-486976954ec3",
+    "contract_date": "1704-05-30",
+    "workshop_parish": null,
+    "master_name": "Iseppo  Paratio ",
+    "apprentice_name": "Bernardo  Azerbon , di Domenico ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b75e264e-99d0-4ed6-b134-6aea260718d7",
+    "contract_date": "1704-09-06",
+    "workshop_parish": null,
+    "master_name": "Domenico  Rognioni",
+    "apprentice_name": "Piero  Bertarin , di Battista ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "21c93919-f40b-44a9-84d3-0c42bda1e82c",
+    "contract_date": "1704-09-11",
+    "workshop_parish": null,
+    "master_name": "Giacomo  Morelli ",
+    "apprentice_name": "Giacomo  Bossi , quondam Zorzi ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3883b914-f809-465c-9bd9-a8081ab10aff",
+    "contract_date": "1704-09-16",
+    "workshop_parish": null,
+    "master_name": "Carlo  Belatto ",
+    "apprentice_name": "Carlo Antonio  Chiodo , di Antonio Maria ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "91945604-bd71-45b6-bde5-2afc1e1f2dbe",
+    "contract_date": "1704-10-13",
+    "workshop_parish": null,
+    "master_name": "Nicol\u00f2  Pinta ",
+    "apprentice_name": "Zuane Maria  Lorenzi , di Ambroso ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "effc6427-29a0-4648-b4ce-37b538ad47e4",
+    "contract_date": "1704-10-27",
+    "workshop_parish": null,
+    "master_name": "Marchio  Molsiner ",
+    "apprentice_name": "Bonomomo ? Taiafero , di Andrea ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0e0d65d9-7078-4bea-8120-c956d19b5cc0",
+    "contract_date": "1704-11-05",
+    "workshop_parish": null,
+    "master_name": "Francesco? Pedreti ",
+    "apprentice_name": "Agustin  Laza , di Ambroso",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "28846cd7-1fa0-4df5-b5fe-56a56a0250fa",
+    "contract_date": "1704-11-11",
+    "workshop_parish": null,
+    "master_name": "Antonio  Belatto ",
+    "apprentice_name": "Piero Maria Fagi , di Domenico ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e49451a0-14b5-4d76-adbd-f29c19731a5a",
+    "contract_date": "1704-11-17",
+    "workshop_parish": null,
+    "master_name": "Antonio  Faccini",
+    "apprentice_name": "Carlo  Pomoni , quondam Antonio ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3dd48567-8dd4-4629-b762-34f77080234a",
+    "contract_date": "1705-02-25",
+    "workshop_parish": null,
+    "master_name": "Carlo  Codegha ",
+    "apprentice_name": "Antonio  Broch, di Battista ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1a9031d4-a8ac-49e3-9ab7-ec7b3213cc82",
+    "contract_date": "1705-03-02",
+    "workshop_parish": null,
+    "master_name": "Zuanne  Pedroli ",
+    "apprentice_name": "Antonio  Arigoni , di Giacomo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b214a43c-003f-4685-b039-7e869fe57422",
+    "contract_date": "1705-03-04",
+    "workshop_parish": null,
+    "master_name": "Zuanne  Arigoni",
+    "apprentice_name": "Zuane Maria  Prada , di Gioani",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d2331862-6e1d-4bc9-ab70-32d1c5dcf920",
+    "contract_date": "1705-04-22",
+    "workshop_parish": null,
+    "master_name": "Giacomo  Borin ",
+    "apprentice_name": "Zuanne  Bucela , di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bf3ff96f-2b90-45e2-9d67-5e981e86840e",
+    "contract_date": "1705-05-02",
+    "workshop_parish": null,
+    "master_name": "Iseppo  Aserbon ",
+    "apprentice_name": "Iseppo  Ruscon , di Lorenzo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7e48d5bd-9886-4518-ac18-a3a9433834d1",
+    "contract_date": "1705-05-06",
+    "workshop_parish": null,
+    "master_name": "Carlo  Belati , Fratelli Belati ; Dioniso  Belati , Fratelli Belati ",
+    "apprentice_name": "Zuane Battista  Meles, quondam Ambrosio ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ea79e1be-e253-4e87-8960-16f106d3c0ae",
+    "contract_date": "1705-05-18",
+    "workshop_parish": null,
+    "master_name": "Iseppo  Pedrali ",
+    "apprentice_name": "Marchi\u00f2  Balas, quondam Domenico ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e1b48c00-5c78-4cca-b6e0-e04689287041",
+    "contract_date": "1705-06-30",
+    "workshop_parish": null,
+    "master_name": "Carlo  Pandian ",
+    "apprentice_name": "Carlo  Garolino, di Emilio ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "90c498db-d06c-459d-903f-0c86a8eef697",
+    "contract_date": "1706-01-13",
+    "workshop_parish": null,
+    "master_name": "Gerolamo  Arzebon ",
+    "apprentice_name": "Ciprian  Arzebon , di Giulio ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c2a9ec46-0dd2-4232-9cf8-471ed8bed3ae",
+    "contract_date": "1706-03-15",
+    "workshop_parish": null,
+    "master_name": "Battista  Bertoldin ",
+    "apprentice_name": "Piero  Maras , di Zuanne ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d182de18-362e-4986-8aa3-fc259862e37d",
+    "contract_date": "1706-03-16",
+    "workshop_parish": null,
+    "master_name": "Agostin  Parazzi ",
+    "apprentice_name": "Christofolo  Volpi , di Pietro Giacomo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a0f745ba-a20b-4752-85c3-5af479135c1f",
+    "contract_date": "1706-04-21",
+    "workshop_parish": null,
+    "master_name": "Iseppo  Oltramonte ",
+    "apprentice_name": "Zuane Battista  Aquistapace , di Santo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c550d857-7e2d-437e-acc2-a353a8555555",
+    "contract_date": "1706-11-12",
+    "workshop_parish": null,
+    "master_name": "Cesare  Beltarin ",
+    "apprentice_name": "Ercole  Ongania, quondam Anzolo ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9260fb02-c9dc-455b-a0c5-6a413e03349f",
+    "contract_date": "1706-12-18",
+    "workshop_parish": null,
+    "master_name": "Carlo  Bellati ",
+    "apprentice_name": "Antonio  Muttoni , di Zanbattista ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b59dce87-381f-4c8a-8b6d-6bd1492e30f2",
+    "contract_date": "1706-12-18",
+    "workshop_parish": null,
+    "master_name": "Zuanne  Bevato",
+    "apprentice_name": "Zuanne  Zatti , di Domenico ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "74e507e0-7f28-4c97-bf3c-5ce4d3e01eb8",
+    "contract_date": "1707-04-29",
+    "workshop_parish": null,
+    "master_name": "Domenico Arigoni",
+    "apprentice_name": "Giovanni Antonio Tantardino, quondam Gerolamo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ec2097ec-0b28-4f7c-afb3-1997fc6c1a26",
+    "contract_date": "1707-05-11",
+    "workshop_parish": null,
+    "master_name": "Paulo Zilichi",
+    "apprentice_name": "Lindalo Rencaioli, di Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8193b08d-1675-4b9f-ba09-8615bf3cfe79",
+    "contract_date": "1707-05-13",
+    "workshop_parish": null,
+    "master_name": "Zuane Bercanin",
+    "apprentice_name": "Girardo Tardadino, di Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eaf49d36-ff9a-41a6-9024-c5cc32d5ab6e",
+    "contract_date": "1707-06-08",
+    "workshop_parish": null,
+    "master_name": "Carlo Antonio Rupano",
+    "apprentice_name": "Giovanni Battista Rupano, quondam Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4e4ea5a1-d0ae-447b-b691-65d25c82201e",
+    "contract_date": "1707-07-21",
+    "workshop_parish": null,
+    "master_name": "Vergilio Venini",
+    "apprentice_name": "Carlo Antonio Cattani, di Paulo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "396ba69d-3e94-46b0-937f-ba6c886ee05f",
+    "contract_date": "1707-11-04",
+    "workshop_parish": null,
+    "master_name": "Carlo Bazzi, di Andrea",
+    "apprentice_name": "Battista Gogia, quondam Domenico",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d6120e36-4ccc-46b2-827b-c91d801d614b",
+    "contract_date": "1707-11-07",
+    "workshop_parish": null,
+    "master_name": "Cesaro Bertarin",
+    "apprentice_name": "Zuanne Maria, di Giulio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e7bf424b-49fa-4127-9b15-f45fdad8c6b8",
+    "contract_date": "1707-11-28",
+    "workshop_parish": null,
+    "master_name": "Biasio Pionesii",
+    "apprentice_name": "Piero Spandri, di Andrea",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cdf8a063-06a6-48cb-8afd-3b859d559c73",
+    "contract_date": "1708-01-03",
+    "workshop_parish": null,
+    "master_name": "Ventura Zucchi",
+    "apprentice_name": "Bernardo Busi, quondam Carlo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3560f86e-619a-4199-9492-8092b2c6e3f3",
+    "contract_date": "1708-06-04",
+    "workshop_parish": null,
+    "master_name": "Piero Pecazini?",
+    "apprentice_name": "Nicolo Bua, di Zuanne",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7207ae33-9c7a-4faa-9d2c-708405908375",
+    "contract_date": "1708-11-26",
+    "workshop_parish": null,
+    "master_name": "Pietro Farei",
+    "apprentice_name": "Francesco Pedreti, quondam Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4c55ca8c-c3ea-4ea1-8145-6b8889330c07",
+    "contract_date": "1709-03-09",
+    "workshop_parish": null,
+    "master_name": "Zuanne Calvi",
+    "apprentice_name": "Iseppo Ballarin, quondam Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "684150a5-4677-464b-8f63-ce19b107413b",
+    "contract_date": "1709-05-06",
+    "workshop_parish": null,
+    "master_name": "Carlo Maria; Antonio",
+    "apprentice_name": "Antonio Bertoldin, di Zuanne Piero",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "01316d6c-72c9-4d27-a548-3a66394666b9",
+    "contract_date": "1709-10-11",
+    "workshop_parish": null,
+    "master_name": "Carlo Cadega",
+    "apprentice_name": "Piero Cadega, quondam Nicol\u00f2",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0aafdf12-77cf-4921-9698-aea06605252b",
+    "contract_date": "1710-10-09",
+    "workshop_parish": null,
+    "master_name": "Michiel Moruzzi",
+    "apprentice_name": "Francesco Reiscosa, di Bortolamio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "26a319c3-8448-46a1-9775-07eb2d6df57c",
+    "contract_date": "1711-02-13",
+    "workshop_parish": null,
+    "master_name": "Carlo Pensa",
+    "apprentice_name": "Piero Lisleon, quondam Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "81ac22f0-91fa-43e8-a4d4-aa500cc23fe9",
+    "contract_date": "1712-02-01",
+    "workshop_parish": null,
+    "master_name": "Antonio Marchior",
+    "apprentice_name": "Zuan Maria Fontana, quondam Bartolo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ef7e5028-6ea4-4673-bb88-4e6910b94c6b",
+    "contract_date": "1712-02-25",
+    "workshop_parish": null,
+    "master_name": "Giovanni Battista Piasenti",
+    "apprentice_name": "Bortolamio Raviaroli, di Martin",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ff2318f3-e5a7-45e9-8b9e-a1bb953b7b1d",
+    "contract_date": "1712-11-03",
+    "workshop_parish": "Santa Fosca",
+    "master_name": "Antonio Orio",
+    "apprentice_name": "Carlo Gavolin, di Zuanne",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "de335851-b297-4941-97c1-541deb19c14f",
+    "contract_date": "1712-11-22",
+    "workshop_parish": null,
+    "master_name": "Antonio Todini, quondam Biasio",
+    "apprentice_name": "Antonio Bucele, di Domenico",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8d54d65c-8056-4ee9-914e-cadf87371876",
+    "contract_date": "1712-12-20",
+    "workshop_parish": null,
+    "master_name": "Iseppo Pedrali",
+    "apprentice_name": "Zuanne Giacomo Spada, di Domenico",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8a036012-59ad-482c-8eaa-53f852603eb7",
+    "contract_date": "1713-03-03",
+    "workshop_parish": null,
+    "master_name": "Pietro Marteletti",
+    "apprentice_name": "Zuanne Saldan, quondam Zuanne",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fdddf6cc-cb2e-41b6-9a05-8287af3604ac",
+    "contract_date": "1713-03-07",
+    "workshop_parish": null,
+    "master_name": "Zuan Battista Volpi",
+    "apprentice_name": "Andrea Rusconi, di Pietro",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "110313da-cc14-44f6-816b-9d1efe7fd9a6",
+    "contract_date": "1713-04-04",
+    "workshop_parish": null,
+    "master_name": "Martin Plati",
+    "apprentice_name": "Tomaso Olivieri, di Anzolo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "938c8829-3ed9-432e-9bb4-5bb5eacf5dc9",
+    "contract_date": "1713-04-04",
+    "workshop_parish": null,
+    "master_name": "Antonio Pozzo, quondam Francesco",
+    "apprentice_name": "Francesco Pozzo, Cortivo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4fb26f47-7ca4-45fe-8e6b-27f48434e5d5",
+    "contract_date": "1713-05-04",
+    "workshop_parish": null,
+    "master_name": "Carlo Marazzi",
+    "apprentice_name": "Pietro Adamora, di Ambroso",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f7ea7427-4289-442e-afab-3430672c8a2f",
+    "contract_date": "1713-06-08",
+    "workshop_parish": null,
+    "master_name": "Carlo Scala",
+    "apprentice_name": "Carlo Grisio, di Zuan Battista",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b34411f4-f579-4450-a474-79b0d79332b7",
+    "contract_date": "1713-06-12",
+    "workshop_parish": null,
+    "master_name": "Antonio Zia",
+    "apprentice_name": "Zamaria Miletto, di Michiel",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6343b560-a08d-4a1b-a4ab-c3f83a492e5d",
+    "contract_date": "1713-06-22",
+    "workshop_parish": null,
+    "master_name": "Michiel Posetti; Pietro Posetti, di Michiel",
+    "apprentice_name": "Pietro Bolpi, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4537dbbd-abea-4702-a4bc-b3487ed4de6c",
+    "contract_date": "1713-07-06",
+    "workshop_parish": null,
+    "master_name": "Zuane Bertarin",
+    "apprentice_name": "Gioppo Marazzo, di Zuanne",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cd05e858-d254-47f0-a414-13a74733e6fa",
+    "contract_date": "1713-07-27",
+    "workshop_parish": null,
+    "master_name": "Matio Orio",
+    "apprentice_name": "Carlo Gavolin, di Zuanne",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "28b0f48d-602f-4d4c-aaf5-ee49ae381ed0",
+    "contract_date": "1713-08-29",
+    "workshop_parish": null,
+    "master_name": "Bortolo Scalfaroto",
+    "apprentice_name": "Francesco Checia, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "457d3e0d-1e95-413f-b2f4-69f7e2c12b4e",
+    "contract_date": "1713-10-02",
+    "workshop_parish": null,
+    "master_name": "Andrea Bucella",
+    "apprentice_name": "Zorzi Penza, di Tomaso",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ccc398a3-2015-43ae-8ff8-70775ab61e30",
+    "contract_date": "1713-10-02",
+    "workshop_parish": null,
+    "master_name": "Benetto Gabi",
+    "apprentice_name": "Zorzi Conti, quondam Pietro",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fb292af9-6b56-470c-9ecd-75076561fe75",
+    "contract_date": "1713-11-04",
+    "workshop_parish": null,
+    "master_name": "Carlo Antonio",
+    "apprentice_name": "Carlo Antonio Tantardin, di Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6d74442b-8317-4d22-9ec3-43b0064ec5c9",
+    "contract_date": "1713-11-23",
+    "workshop_parish": null,
+    "master_name": "Giovanni Battista Fauro",
+    "apprentice_name": "Pietro Brutiera, quondam Pietro",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e8ef7b3b-6d2c-4fa5-8438-f4a414512fec",
+    "contract_date": "1714-01-03",
+    "workshop_parish": null,
+    "master_name": "Zuanne Pedrin",
+    "apprentice_name": "Antonio da Zen, di Zuanne",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "31784fb8-2818-404b-a0ac-50b9220c47c9",
+    "contract_date": "1714-04-01",
+    "workshop_parish": null,
+    "master_name": "Giacomo Buzzi; Zuanne Buzzi",
+    "apprentice_name": "Pietro Buzzi, di Zuanne",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2de32d04-9217-48b6-a892-44a4c8e6bf22",
+    "contract_date": "1714-05-29",
+    "workshop_parish": null,
+    "master_name": "Pietro Grassi",
+    "apprentice_name": "Pietro Bazopio, di Zuanne",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7ad560cb-3357-4677-8fe2-cd46ca15679a",
+    "contract_date": "1715-03-07",
+    "workshop_parish": null,
+    "master_name": "Antonio Sardi",
+    "apprentice_name": "Pietro Antonio Roncagioli, quondam Pietro",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "42f7a4ff-6b80-4e14-bfc8-548e8c8959e2",
+    "contract_date": "1716-03-05",
+    "workshop_parish": null,
+    "master_name": "Giovanni Battista Mazoli",
+    "apprentice_name": "Domenego Pensotto, di Bondio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "32f25a3a-3174-4f49-8d3b-f6f0f6c1cae8",
+    "contract_date": "1716-04-27",
+    "workshop_parish": null,
+    "master_name": "Andrea Prestin",
+    "apprentice_name": "Carlo R\u00e9, quondam Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ba1aa4f2-f1ea-494e-8365-2a8f64775acf",
+    "contract_date": "1717-04-12",
+    "workshop_parish": null,
+    "master_name": "Francesco Pedreti",
+    "apprentice_name": "Ambroso Fioreti, di Pietro",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ad4215de-4004-4de7-bfe9-d7a4aa3a3093",
+    "contract_date": "1717-12-09",
+    "workshop_parish": null,
+    "master_name": "Zuane Baron",
+    "apprentice_name": "Giovanni Battista Bazi, di Stefano",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eee507a5-89d6-467b-8572-b5a21c2c6cb5",
+    "contract_date": "1728-01-15",
+    "workshop_parish": null,
+    "master_name": "Antonio Dacisco ?",
+    "apprentice_name": "Antonio  Butiso , di Francesco ",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5c7db292-45b1-4ea4-bb81-41539dbc4a93",
+    "contract_date": "1730-02-28",
+    "workshop_parish": null,
+    "master_name": "Giacomo Padrini",
+    "apprentice_name": "Antonio Pedrina, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b3f7514b-1b18-42ef-88a8-1b6f452f654f",
+    "contract_date": "1730-10-25",
+    "workshop_parish": null,
+    "master_name": "Antonio Pascoli",
+    "apprentice_name": "Isepo Paro, di Carlo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f0bee372-2d05-4181-9b9b-bff7c4b0eba5",
+    "contract_date": "1731-07-28",
+    "workshop_parish": null,
+    "master_name": "Lorenzo Fanoli",
+    "apprentice_name": "Iseppo Bondiolli, di Zuanne",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "857e85da-51d3-4093-8cd0-c2186f286b12",
+    "contract_date": "1731-11-05",
+    "workshop_parish": null,
+    "master_name": "Francesco Chiarin",
+    "apprentice_name": "Giacomo Pedretti, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "41736796-3efe-4a02-bbcc-3610da1a5d04",
+    "contract_date": "1732-01-19",
+    "workshop_parish": null,
+    "master_name": "Antonio Costa",
+    "apprentice_name": "Dionisio Bellati, di Giusepe",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "30089229-86a1-4c3f-971f-dbde7c12dd26",
+    "contract_date": "1732-04-05",
+    "workshop_parish": null,
+    "master_name": "Siro Dal Monico",
+    "apprentice_name": "Piero Delfarei, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "99f27613-7c97-4cf3-ab35-e740615b6f7d",
+    "contract_date": "1734-11-12",
+    "workshop_parish": null,
+    "master_name": "Gaetano Merlo",
+    "apprentice_name": "Piero Cendal, di Bernardo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d37a6288-c1a4-411b-911f-48d7c242dafc",
+    "contract_date": "1736-05-17",
+    "workshop_parish": null,
+    "master_name": "Zuanne Genia",
+    "apprentice_name": "Antonio Bara, di Gottardo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9559d913-428d-4284-ad6a-8be91a51988e",
+    "contract_date": "1739-03-23",
+    "workshop_parish": null,
+    "master_name": "Silvestro Dal Monico",
+    "apprentice_name": "Francesco Rizoli, di Domenico",
+    "apprentice_origin_name": "Milano"
+   }
+  }
+ ]
+}

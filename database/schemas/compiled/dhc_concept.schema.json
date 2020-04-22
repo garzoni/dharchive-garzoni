@@ -1,0 +1,173 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "labels": {
+            "label": {
+                "en": "Labels"
+            },
+            "type": "object",
+            "properties": {
+                "preferred": {
+                    "label": {
+                        "en": "Preferred"
+                    },
+                    "oneOf": [
+                        {
+                            "type": "string",
+                            "minLength": 1
+                        },
+                        {
+                            "type": "object",
+                            "patternProperties": {
+                                "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$": {
+                                    "type": "string",
+                                    "minLength": 1
+                                }
+                            },
+                            "additionalProperties": false
+                        }
+                    ],
+                    "propertyOrder": 1
+                },
+                "alternative": {
+                    "label": {
+                        "en": "Alternative"
+                    },
+                    "type": "array",
+                    "items": {
+                        "label": {
+                            "en": "Label"
+                        },
+                        "oneOf": [
+                            {
+                                "type": "string",
+                                "minLength": 1
+                            },
+                            {
+                                "type": "object",
+                                "patternProperties": {
+                                    "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    }
+                                },
+                                "additionalProperties": false
+                            }
+                        ]
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true,
+                    "propertyOrder": 2
+                },
+                "hidden": {
+                    "label": {
+                        "en": "Hidden"
+                    },
+                    "type": "array",
+                    "items": {
+                        "label": {
+                            "en": "Label"
+                        },
+                        "oneOf": [
+                            {
+                                "type": "string",
+                                "minLength": 1
+                            },
+                            {
+                                "type": "object",
+                                "patternProperties": {
+                                    "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    }
+                                },
+                                "additionalProperties": false
+                            }
+                        ]
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true,
+                    "propertyOrder": 3
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "preferred"
+            ],
+            "propertyOrder": 2
+        },
+        "notes": {
+            "label": {
+                "en": "Notes"
+            },
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "type": {
+                        "label": {
+                            "en": "Type"
+                        },
+                        "type": "string",
+                        "enum": [
+                            "note",
+                            "scopeNote",
+                            "historyNote",
+                            "editorialNote",
+                            "changeNote",
+                            "definition",
+                            "example"
+                        ],
+                        "propertyOrder": 1
+                    },
+                    "content": {
+                        "label": {
+                            "en": "Content"
+                        },
+                        "oneOf": [
+                            {
+                                "type": "string",
+                                "minLength": 1
+                            },
+                            {
+                                "type": "object",
+                                "patternProperties": {
+                                    "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    }
+                                },
+                                "additionalProperties": false
+                            }
+                        ],
+                        "propertyOrder": 2
+                    }
+                },
+                "additionalProperties": false,
+                "required": [
+                    "type",
+                    "content"
+                ]
+            },
+            "minItems": 1,
+            "uniqueItems": true,
+            "propertyOrder": 3
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "qualifiedName",
+        "labels"
+    ]
+}

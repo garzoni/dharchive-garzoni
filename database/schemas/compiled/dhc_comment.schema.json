@@ -1,0 +1,67 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "uri": {
+            "label": {
+                "en": "URI"
+            },
+            "type": "string",
+            "format": "uri",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 2
+        },
+        "language": {
+            "label": {
+                "en": "Language"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{2,3}(-([A-Z]{1}[a-z]{3}))?(-([A-Z]{2}|[0-9]{3}))?$",
+            "_choiceList": {
+                "listQName": "dhc:Language",
+                "keyProperty": "relative_id"
+            },
+            "propertyOrder": 3
+        },
+        "content": {
+            "label": {
+                "en": "Content"
+            },
+            "type": "string",
+            "minLength": 1,
+            "propertyOrder": 4
+        },
+        "format": {
+            "label": {
+                "en": "File Format"
+            },
+            "type": "string",
+            "pattern": "^([a-z-]{4,12}\/[a-z0-9.+-]+)$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 5
+        },
+        "metadata": {
+            "type": "object",
+            "propertyOrder": 6
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "language",
+        "content"
+    ]
+}

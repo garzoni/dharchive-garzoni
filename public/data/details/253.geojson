@@ -1,0 +1,1356 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/253.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "346e7b57-8bca-4bce-9227-804a0593bc8c",
+    "contract_date": "1575-02-06",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Baldissera, di Zuane",
+    "apprentice_name": "Antonio, quondam Francesco",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "aa846c98-e801-460f-b281-6192fd2d348d",
+    "contract_date": "1575-02-09",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Marco, quondam Matio",
+    "apprentice_name": "Zangiacomo Di Capiroli, di Camillo",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4e9584f5-899d-4dfe-aac3-957159145afb",
+    "contract_date": "1575-07-20",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Martin, di Zorzi",
+    "apprentice_name": "Liberal, quondam Lunardo",
+    "apprentice_origin_name": "Germania"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2b26621f-6157-4730-a274-43459acc5fa8",
+    "contract_date": "1575-10-11",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Vicenza",
+    "apprentice_name": "Giacomo, di Lunardo",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "236b9c1e-b033-4333-937a-4003c0f9b7b9",
+    "contract_date": "1582-01-24",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Antonio, di Piero",
+    "apprentice_name": "Piero, quondam Menego",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a3c618bb-d6cc-4b80-b877-88248b9d65ee",
+    "contract_date": "1582-02-26",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Berto",
+    "apprentice_name": "Piero, di Betin",
+    "apprentice_origin_name": "Gazzaniga"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ae156cb2-9def-4688-a0e4-a2af2ae1fb4c",
+    "contract_date": "1582-02-28",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Iseposto",
+    "apprentice_name": "Meengo, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "172df30f-f251-4ef7-ae6a-b58875d460c2",
+    "contract_date": "1582-06-12",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Battista Pasarin",
+    "apprentice_name": "Antonio, quondam Berto",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5e2e92c3-ff25-4b07-be80-ececaccaa634",
+    "contract_date": "1582-07-13",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Isepo, di Gasparo",
+    "apprentice_name": "Marian, quondam Anzolo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b74adc2e-4d1c-4c49-ba90-f74062973cdc",
+    "contract_date": "1582-07-30",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Cabriel Di Brunei",
+    "apprentice_name": "Zamaria Dalla Man Granda, di Pasqualin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "be9eca6a-2c16-4d2b-88f2-dd79c5f0b140",
+    "contract_date": "1582-11-03",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Piero",
+    "apprentice_name": "Mattio, di Battista",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "71f91145-78b7-4e01-b996-2c53d1018cbd",
+    "contract_date": "1582-11-22",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Gerolamo",
+    "apprentice_name": "Piero, di Vicenzo",
+    "apprentice_origin_name": "Leno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3f43de4e-c85a-41a8-8eb7-d8986fcbe64f",
+    "contract_date": "1583-01-31",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zuane Antonio",
+    "apprentice_name": "Augusto di Negri, quondam Lodovicho",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6f394672-4a9d-4e3a-83d5-2c234f145523",
+    "contract_date": "1583-08-30",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Agostin di faustin",
+    "apprentice_name": "Zuane, di Bernardin",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "14c2a5e5-0ef6-4f93-87d8-358b45ce044f",
+    "contract_date": "1584-03-08",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco",
+    "apprentice_name": "Zuane, di Gasparo",
+    "apprentice_origin_name": "Lecco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e38046e3-23ae-4e45-aeab-4a3661721c18",
+    "contract_date": "1584-03-14",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Battista, di Nicoll\u00f2",
+    "apprentice_name": "Stefano de Zorzi, di Gerolamo",
+    "apprentice_origin_name": "Trasaghis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1fd8545b-1207-4729-bee0-e529bfae1fbf",
+    "contract_date": "1584-04-12",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Domenico",
+    "apprentice_name": "Agnoleto Zulian, di Piero",
+    "apprentice_origin_name": "Mira"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2135724e-a916-4b65-adb7-219bf5ae2d2b",
+    "contract_date": "1584-07-27",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zuan Battista Cavazini",
+    "apprentice_name": "Paulin Dolfin, di Franceschina",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a1421588-5259-468a-87d0-e383f066e261",
+    "contract_date": "1591-11-05",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco",
+    "apprentice_name": "Antonio, di Zuane Antonio ",
+    "apprentice_origin_name": "Tramonti di Sotto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "11913c36-81ee-4590-88ea-aa8b70f2bde9",
+    "contract_date": "1591-12-14",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Bortolo",
+    "apprentice_name": "Nato, quondam Francesco",
+    "apprentice_origin_name": "Rovigo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c050068f-1143-446a-9a0f-1cf4f09e5000",
+    "contract_date": "1592-04-14",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Alberto",
+    "apprentice_name": "Bastian, di Tadio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "22cee511-6e70-479f-9947-dc0b0bd22ef2",
+    "contract_date": "1592-05-02",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zuane, di Giacomo",
+    "apprentice_name": "Isepo di Cera, quondam Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e3d86c4e-25c7-45c9-b987-4141c65211f0",
+    "contract_date": "1592-06-30",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco",
+    "apprentice_name": "Antonio, di Francesco (di Daniel)",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "68804790-78df-4592-977c-a5ae2ad3b65d",
+    "contract_date": "1592-11-10",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Antonio, di Piero",
+    "apprentice_name": "Piero, di Zuane",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "22a89f62-aa96-4905-aa4a-64d2c1cd620f",
+    "contract_date": "1594-12-12",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Lunardo",
+    "apprentice_name": "Alvise, quondam Zuane",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "84c6b57a-cbc2-4027-8cb3-ac7d8e0dbc77",
+    "contract_date": "1596-01-10",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Daniel",
+    "apprentice_name": "Giacomo, di Archileo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c3be5f01-661e-4a32-a651-447c3cd1e32e",
+    "contract_date": "1596-02-04",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Battista dal Morrer, di Bertollo",
+    "apprentice_name": "Antonio Lini, quondam Andrea",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dbe87f08-b2fd-46a1-aed1-1463eca1fee0",
+    "contract_date": "1596-06-21",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Valerio",
+    "apprentice_name": "Paulo Marodegan, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f2fb9d4f-60b7-485f-bb25-453006d00601",
+    "contract_date": "1597-07-04",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco",
+    "apprentice_name": "Antonio, di Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "361fce08-832f-4ff1-8df3-0d44e025b0da",
+    "contract_date": "1597-07-07",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Iseppo Cason",
+    "apprentice_name": "Anzolo Mezamoler, di Nicolo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b8280c8c-d053-44b8-b8e2-5f78e573814f",
+    "contract_date": "1597-07-16",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Giacomo, di Piero",
+    "apprentice_name": "Martin, di Piero (quondam Venturin)",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f15399d6-1bcb-4845-8317-d88f1493bb05",
+    "contract_date": "1598-03-27",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Alberto",
+    "apprentice_name": "Battista, di Bonadio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2ea77792-4122-4c9d-a360-d03d037edee8",
+    "contract_date": "1598-06-08",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Antonio Maison",
+    "apprentice_name": "Zuane Ganzello, quondam Gasparo",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7c566892-af6b-4ed1-a478-f28dbad4a13d",
+    "contract_date": "1598-07-16",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Valerio",
+    "apprentice_name": "Alvise, quondam Pelegrin",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "df1bd361-3630-4c38-98fd-3c8f1e4a77d7",
+    "contract_date": "1598-11-06",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Valerio",
+    "apprentice_name": "Bastian Barderini, di Michiel",
+    "apprentice_origin_name": "Piove di Sacco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a70b6269-4f1e-4b24-ac79-8603c7c085db",
+    "contract_date": "1598-12-14",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zuane Piero Cortegin",
+    "apprentice_name": "Menego Bisali, quondam Gasparo",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "76e138a5-4deb-49b8-997d-9812e400762a",
+    "contract_date": "1599-03-08",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Nocente",
+    "apprentice_name": "Menego, di Maffio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "183dd7f9-51e9-4374-98cb-45239812f18a",
+    "contract_date": "1599-05-29",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Bonfadin",
+    "apprentice_name": "Zuane Battista, di Bertolamio",
+    "apprentice_origin_name": "Polpenazze del Garda"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1bc5cf14-cb65-4c73-98e4-f18bb70d670a",
+    "contract_date": "1599-06-26",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Bonfadin",
+    "apprentice_name": "Giacomo, di Francesco",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a63d5b5c-f613-4ee4-8509-bd801bbb2c7f",
+    "contract_date": "1606-01-02",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Giacomo, di Piero",
+    "apprentice_name": "Battista Bonaiti, di Bertollo",
+    "apprentice_origin_name": "Valle San Martino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d854012b-8caa-4901-8736-4b1f2d097a56",
+    "contract_date": "1606-05-22",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Fantin",
+    "apprentice_name": "Toni Di Martini, di Bernardo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3cd55a56-0235-49cf-9087-3d708a210c97",
+    "contract_date": "1606-07-13",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Anzolo",
+    "apprentice_name": "Batista Falchetta, di Giulia",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1ab8d6d3-d0cf-4abd-891d-022301d17826",
+    "contract_date": "1606-08-30",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco Menin",
+    "apprentice_name": "Lorenzo, quondam Andrea",
+    "apprentice_origin_name": "Riviera di Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d6836c41-f7c6-4eca-a26d-f3f23ec1e9f0",
+    "contract_date": "1606-11-21",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Daniel",
+    "apprentice_name": "Piero Bonin, di Ascanio",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9ca91751-b084-4c83-8dea-03b7a67c3ab0",
+    "contract_date": "1607-03-13",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Antonio",
+    "apprentice_name": "Coradin, di Zorzi",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "02200304-1256-4326-8969-3bc90e533bd9",
+    "contract_date": "1610-03-02",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zuane",
+    "apprentice_name": "Zuane Battista Auregni, quondam Paollo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4d59be2a-9ec2-4ac5-9047-47c1214329f0",
+    "contract_date": "1610-07-27",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Iseppo Piasentini",
+    "apprentice_name": "Zuane Piero, di Andrea",
+    "apprentice_origin_name": "Castelfranco Veneto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "037f0c11-00c2-41a4-af6e-49698b7108f6",
+    "contract_date": "1620-07-31",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco Guera",
+    "apprentice_name": "Vittorio Gamba, di Ciprian",
+    "apprentice_origin_name": "Schio"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "05c1dfc0-e562-4c1a-9fd8-b422a565d7d6",
+    "contract_date": "1620-09-11",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Ellena",
+    "apprentice_name": "Meneghina, di Zorzi",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "95880811-3520-4faa-a98b-abdd8f3c76e1",
+    "contract_date": "1620-10-21",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Andrea Baldan",
+    "apprentice_name": "Isepo, di Battista",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3811ea00-d896-408d-94a0-3acadbb9e4ca",
+    "contract_date": "1621-01-10",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Pietro di Lazari",
+    "apprentice_name": "Mattio Alborina, di Lucha",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9b0b8749-6ea4-433d-89d1-3cd478c40793",
+    "contract_date": "1621-01-12",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Fantin",
+    "apprentice_name": "Francesco dal Collo, di Bernardo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2eacb43f-9e68-4354-992a-d44b240b4468",
+    "contract_date": "1621-02-25",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Bortolo di Olivieri",
+    "apprentice_name": "Perina, di Nadalin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fcd0c99b-ccb9-4cce-a29e-4f7e24e5f262",
+    "contract_date": "1621-03-20",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco di Rossi, quondam Nicol\u00f2",
+    "apprentice_name": "Nicol\u00f2 di Cari, quondam Zuanne",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b832e309-0010-49cc-96ca-5b124ba0d245",
+    "contract_date": "1621-07-19",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco",
+    "apprentice_name": "Giacomo dalla Pupa, quondam Antonio",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "30addc2a-eec4-4382-acd7-aec40cf9f1c5",
+    "contract_date": "1621-09-06",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Alisandro Panizato, quondam Lodovicho",
+    "apprentice_name": "Silvestro Taian, di Valentin",
+    "apprentice_origin_name": "Udine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "47af63b5-4972-4b44-98c0-a86a66f46cd5",
+    "contract_date": "1621-09-24",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zuane Cusian",
+    "apprentice_name": "Steffano Fortunali, di Menego (quondam Steffano)",
+    "apprentice_origin_name": "San Stin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "916b9422-503c-4320-8b0a-6c3e55e0eaa7",
+    "contract_date": "1622-04-15",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Battista Gedecca",
+    "apprentice_name": "Steffano di Aliegni, di Menego (di Lodovicho)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1e4798f9-47a7-4e48-b741-b6f11d83949b",
+    "contract_date": "1622-04-29",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Andrea di Nodari",
+    "apprentice_name": "Giovanne di Nodari, di Pietro",
+    "apprentice_origin_name": "Val Gandino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9bf86bc8-494d-417a-acf1-90bfa39c4ec8",
+    "contract_date": "1622-05-11",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Nicol\u00f2 di Rossi",
+    "apprentice_name": "Marco Zocco, quondam Steffano",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a3a168e1-56f6-437b-8a80-b021cdfe940a",
+    "contract_date": "1622-07-06",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco dalla Giupa, quondam Antonio",
+    "apprentice_name": "Bernardo Tramontin, quondam Giulio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "70639786-12c7-4810-be85-6348192b511f",
+    "contract_date": "1622-08-17",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Calumero",
+    "apprentice_name": "Paulo Comenzolo, di Battista",
+    "apprentice_origin_name": "Val Camonica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "beff8b15-ae9a-4394-b81f-39039439beae",
+    "contract_date": "1622-10-20",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Isepo Coradin",
+    "apprentice_name": "Giacomo Farer, di Giacomo",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4417de0c-f132-4682-a281-f958cecbf151",
+    "contract_date": "1625-02-12",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Gioani Di Allegri",
+    "apprentice_name": "Lorenzo Rosa, di Georgio",
+    "apprentice_origin_name": "Rota d'Imagna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8ad570aa-25d0-4d8b-8d67-89cf0b89dcb7",
+    "contract_date": "1625-06-16",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Venturin, et suoi heredi",
+    "apprentice_name": "Dominico Remelin, di Francesco",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c5fd1775-f5f5-4835-8e3e-cbe569dbf191",
+    "contract_date": "1625-07-15",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Gieronimo Luna",
+    "apprentice_name": "Giovan Maria Corsini, di Andrea",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f0fee888-6c41-453e-b0c3-57faba2eeac8",
+    "contract_date": "1625-07-21",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Fabritio",
+    "apprentice_name": "Lorenzo Di Zuliani, di Gasparo (di Vettor)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6292eed2-2c27-4039-8af5-79c575d95c31",
+    "contract_date": "1625-11-15",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Bernardo Melchi",
+    "apprentice_name": "Battista Orlandin, quondam Piero",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a2e89ffc-c57f-4f28-92f4-be6ae5dff595",
+    "contract_date": "1625-11-15",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco Dalla Giuppa, quondam Antonio",
+    "apprentice_name": "Francesco Martini, di Iseppo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b59f1dba-2448-48c8-b189-e8bfa1a5924a",
+    "contract_date": "1625-11-20",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Pietro Cechini",
+    "apprentice_name": "Gieronimo Cechini, di Vicenzo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cc0c2256-8ae8-4574-b73b-d77b7c951eaa",
+    "contract_date": "1625-11-20",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco, di Piero",
+    "apprentice_name": "Pietro Di Beltrami, quondam Marco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "479dbcc7-25a4-4732-a759-d94c5b998af8",
+    "contract_date": "1625-12-01",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Gierolamo",
+    "apprentice_name": "Gioani, di Anzolo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7ef4f469-9826-4280-944a-9d490cfac1e7",
+    "contract_date": "1626-01-04",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Gabriel",
+    "apprentice_name": "Giovanni Paolo Di Lucatelli, quondam Paolo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a5192b60-54bc-4f0f-92ad-bec9dbce85ff",
+    "contract_date": "1626-05-29",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Rocco",
+    "apprentice_name": "Anzolo, di Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c05a6947-6f29-4d72-b844-f014c01e11cd",
+    "contract_date": "1626-06-09",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Sebastiano Di Vettorelli",
+    "apprentice_name": "Francesco Falchetto, quondam Santin",
+    "apprentice_origin_name": "Piove di Sacco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4b72b280-6dcf-46f0-af84-580e428fcd3b",
+    "contract_date": "1626-06-20",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Helena",
+    "apprentice_name": "Lucia, quondam Mattio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fa0dd7b4-5e7c-4cac-8ec3-c2533c531134",
+    "contract_date": "1626-07-24",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zamaria Bruni, quondam Giacomo",
+    "apprentice_name": "Claudio Coello, quondam Francesco",
+    "apprentice_origin_name": "Clusone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a2af3cde-4f10-44a1-ba8e-5ba3229097a5",
+    "contract_date": "1626-08-25",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Piero Bosan",
+    "apprentice_name": "Francesco Bosan, di Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1ad8125f-99d1-49e4-8c37-a4a1e564a2a9",
+    "contract_date": "1626-09-11",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Gioseffo",
+    "apprentice_name": "Matteo Thomasi, di Battista (quondam Mattio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "259a9750-e978-4855-916b-5fbf051d6b38",
+    "contract_date": "1626-11-02",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Pietro Tibaldo",
+    "apprentice_name": "Giovanni Pietro Di Pedrenisi, quondam Gioani",
+    "apprentice_origin_name": "Bormio"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b8f8f3b0-c6a4-4fd2-85bd-4098d2df3571",
+    "contract_date": "1632-04-15",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Isepo",
+    "apprentice_name": "Bernardin Piana, di Antonio",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7f5919ec-c4ae-446b-a02a-cf5afd49cdd9",
+    "contract_date": "1632-11-06",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Domenego Pantaleo",
+    "apprentice_name": "Zammaria Frasume, quondam Bortolamio",
+    "apprentice_origin_name": "Castelguglielmo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "29581fd0-f3c1-4648-bc6c-b18c877c5f6d",
+    "contract_date": "1632-12-01",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Piero Soluz",
+    "apprentice_name": "Zuane Capon, quondam Zuane",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8065ff4b-fca4-4349-9a70-5fe962f15366",
+    "contract_date": "1644-06-30",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Marco Busi",
+    "apprentice_name": "Andrea Taolin, quondam Giacomo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ffacdd65-4858-48bb-8308-8b49a4a21746",
+    "contract_date": "1645-01-31",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Nicoletto di Rossi",
+    "apprentice_name": "Giacomo, quondam Gasparo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f5cc52f1-39c1-47a2-bdf1-06bbbc5df1ca",
+    "contract_date": "1645-03-09",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Antonio Schinelli",
+    "apprentice_name": "Anzolo Mirno, di Amelio",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "74a26d5b-c7c1-40c1-a82b-c8283f3de6cf",
+    "contract_date": "1645-11-16",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Iseppo Perize",
+    "apprentice_name": "Battista Vannoni, di Iseppo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "08baef67-ff94-4fe8-8c43-e19fb6585eda",
+    "contract_date": "1646-10-19",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zuane Bontarda",
+    "apprentice_name": "Mattio Calufetto, di Francesco",
+    "apprentice_origin_name": "Val Camonica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6eb68aac-2f71-4f38-87cc-5e3079c79787",
+    "contract_date": "1646-10-26",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Bastian",
+    "apprentice_name": "Ottavio, di Giacomo Nicoletto",
+    "apprentice_origin_name": "Este"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ad8f1d61-4250-4d4e-88a3-91e54e836e8a",
+    "contract_date": "1647-06-21",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Marco Poletti",
+    "apprentice_name": "Marco Favrin, quondam Nadalin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a72dd5be-051a-42cf-8524-064300261d0a",
+    "contract_date": "1653-03-13",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Piero",
+    "apprentice_name": "Cristoforo De Vegin, di Valentin",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bef911fc-d584-44d6-ab04-29ed669dcba8",
+    "contract_date": "1656-09-18",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zorzi Solas",
+    "apprentice_name": "Agostin, di Bastian (quondam Redolfo)",
+    "apprentice_origin_name": "Aviano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "32b1d9f8-02e7-475d-845f-2e7aa7eb9258",
+    "contract_date": "1657-02-06",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zorzi",
+    "apprentice_name": "Iseppo Bianchi, quondam Domenico (di Piero)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e793dcfa-3aba-4aed-81ac-e3f80b43599d",
+    "contract_date": "1657-04-17",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zuane Puzerch",
+    "apprentice_name": "Francesco, di Anzolo",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "697f4e9c-28c7-4ef0-a480-98f5de05831c",
+    "contract_date": "1657-09-03",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco",
+    "apprentice_name": "Antonio di Ganaldi, di Francesco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6062df02-d3ed-4abb-bd20-3f52abca2785",
+    "contract_date": "1658-09-02",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Gerlamo Cavachia",
+    "apprentice_name": "Vicenzo, di Piero",
+    "apprentice_origin_name": "San Vito al Tagliamento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dcfc086f-bb3a-42c4-bc80-5b9fc57f7dba",
+    "contract_date": "1658-10-14",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Marco Busi",
+    "apprentice_name": "Andrea Molecha, di Gerolamo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "128e8c8b-80cf-4c4d-9932-3ba980bfc973",
+    "contract_date": "1659-02-03",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Lorenzo Scottomella",
+    "apprentice_name": "Francesco, quondam Domenico Donato",
+    "apprentice_origin_name": "Rovigo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8c5013eb-2544-4697-a8c2-3bf3c116423f",
+    "contract_date": "1659-05-29",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Iseppo, quondam Beltrame",
+    "apprentice_name": "Menego di Prati, quondam Anzolo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "95731b01-845e-4d7b-ade0-a96c939ab6d3",
+    "contract_date": "1659-06-10",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Bernardo Alver\u00e0",
+    "apprentice_name": "Ottavio Canella, quondam Carlo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "72b9a271-328b-4b9a-b1df-a70c38e41228",
+    "contract_date": "1659-12-15",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Gerolamo",
+    "apprentice_name": "Zuanne de Zone, di Paulo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0dfda6e1-ab2d-4968-a15a-983d47e31974",
+    "contract_date": "1664-02-04",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Bernardo Alversi",
+    "apprentice_name": "Battista Di Gaspari, di Zuanne Maria",
+    "apprentice_origin_name": "Ampezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "69cd6830-2690-44c5-930f-f27097d59ccf",
+    "contract_date": "1664-03-01",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Luca Martini",
+    "apprentice_name": "Antonio Dreda, di Francesco",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "aadb577e-2e5c-4db1-ac27-2db0792db7b2",
+    "contract_date": "1664-06-30",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Zuanne Maria Franceschini",
+    "apprentice_name": "Gabriel Franceschini, di Andrea",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "88386a1d-bcab-44ab-9d29-e87e95f5c3f1",
+    "contract_date": "1664-11-17",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Domenico; Domenico",
+    "apprentice_name": "Batista Poloni, quondam Antonio",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "93ba20f6-628d-434e-88c2-40c652f7a20d",
+    "contract_date": "1665-05-04",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Dorigo Zerletti",
+    "apprentice_name": "Tomaso Lasedel, di Antonio",
+    "apprentice_origin_name": "Ampezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a7ebf359-b7e6-437b-b0a9-bb5cfd03ef0d",
+    "contract_date": "1665-09-28",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco Salvago",
+    "apprentice_name": "Zuanne Lanza , di Francesco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "53067889-4a47-41f6-82b6-7f38690d9647",
+    "contract_date": "1670-02-17",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Bernado Busachi",
+    "apprentice_name": "Piero Osso, di Manoel",
+    "apprentice_origin_name": "Spilimbergo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "165f15b2-5f4e-4607-b9b5-3d59224214e2",
+    "contract_date": "1670-06-10",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Francesco Fantozzi?",
+    "apprentice_name": "Domenico Cope, di Zuanne",
+    "apprentice_origin_name": "Albona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7b5b6de8-98de-4741-87d1-fc6ace45ff27",
+    "contract_date": "1681-09-01",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Anzolo Cassici",
+    "apprentice_name": "Antonio Balardini",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "859f08e3-0a06-4e97-ac6e-94aec68630e0",
+    "contract_date": "1682-04-10",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Giacomo  Palazi",
+    "apprentice_name": "Vincenzo Zanchi, di Bonadio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bba7ae4f-9dac-4453-bbb7-9503b4f4d12a",
+    "contract_date": "1682-04-13",
+    "workshop_parish": "San Pantalon",
+    "master_name": "Benetto Facini",
+    "apprentice_name": "Zuane Battista Pontelo, di Michiel",
+    "apprentice_origin_name": "?pidignano"
+   }
+  }
+ ]
+}

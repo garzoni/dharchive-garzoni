@@ -1,0 +1,72 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "startDate": {
+            "label": {
+                "en": "Start Date"
+            },
+            "@date": {}
+        },
+        "endDate": {
+            "label": {
+                "en": "End Date"
+            },
+            "@date": {}
+        },
+        "duration": {
+            "label": {
+                "en": "Duration"
+            },
+            "type": "object",
+            "properties": {
+                "years": {
+                    "label": {
+                        "en": "Years"
+                    },
+                    "@integer": {}
+                },
+                "months": {
+                    "label": {
+                        "en": "Months"
+                    },
+                    "@integer": {}
+                },
+                "days": {
+                    "label": {
+                        "en": "Days"
+                    },
+                    "@integer": {}
+                }
+            },
+            "options": {
+                "collapsed": false
+            },
+            "additionalProperties": false
+        },
+        "denunciationDate": {
+            "label": {
+                "en": "Denunciation Date (Flee Only)"
+            },
+            "@date": {}
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea"
+        }
+    },
+    "additionalProperties": false,
+    "annotationRules": {
+        "semanticTags": {
+            "allowMultiple": false,
+            "allowAdditions": false,
+            "lists": [{
+                "qualifiedName": "grz:EventMentionTagList",
+                "itemType": "dhc:SemanticTag"
+            }]
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/173.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "61f09d84-a7fe-42ca-a3d9-67c74a970a7b",
+    "contract_date": "1575-06-30",
+    "workshop_parish": "San Basso",
+    "master_name": "Francesco Dal Orso",
+    "apprentice_name": "Nicol\u00f2, di Andrea",
+    "apprentice_origin_name": "Oderzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ac7ec9a-7186-451c-9aa2-ec8657acd76a",
+    "contract_date": "1575-07-29",
+    "workshop_parish": "San Basso",
+    "master_name": "Antonio, quondam Francesco",
+    "apprentice_name": "Antonio, quondam Domenego",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b0f1b6b6-cb4c-4400-843b-06439720ecd8",
+    "contract_date": "1596-07-27",
+    "workshop_parish": "San Basso",
+    "master_name": "Bernardin, di Iseppo",
+    "apprentice_name": "Alvise Limonin, di Domenego",
+    "apprentice_origin_name": "Oderzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cb2f6c37-1420-4dae-8708-3b6e2968984c",
+    "contract_date": "1596-08-17",
+    "workshop_parish": "San Basso",
+    "master_name": "Battista",
+    "apprentice_name": "Matio, quondam Vicenzo",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1bff5506-7739-47c7-af04-ca092f69c0d4",
+    "contract_date": "1610-07-05",
+    "workshop_parish": "San Basso",
+    "master_name": "Oratio, quondam Piero",
+    "apprentice_name": "Donado, di Apollonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ed7e9905-b6f4-48c7-a2d9-f1977c9ce309",
+    "contract_date": "1632-12-10",
+    "workshop_parish": "San Basso",
+    "master_name": "Donato Battaglia",
+    "apprentice_name": "Lorenzo Ventura, di Ventura",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4331754b-6fa0-4395-aa0e-bf1fa50b7dff",
+    "contract_date": "1645-11-29",
+    "workshop_parish": "San Basso",
+    "master_name": "Venturin Piazzocho, quondam Zamaria",
+    "apprentice_name": "Luca Calvo, quondam Anzolo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "683e5dd8-7f47-442a-b576-4ec09a7d8c49",
+    "contract_date": "1664-06-27",
+    "workshop_parish": "San Basso",
+    "master_name": "Zuanne Maria Grotta",
+    "apprentice_name": "Andrea Fabris, quondam Francesco",
+    "apprentice_origin_name": "Feltre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d2eb0c4e-1ea6-4fc0-a286-27f019ee743a",
+    "contract_date": "1681-08-12",
+    "workshop_parish": "San Basso",
+    "master_name": "Iseppo Banilia",
+    "apprentice_name": "Zuane, di Zen",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "93869ea3-898f-4619-bc4a-21114177ebaf",
+    "contract_date": "1715-06-27",
+    "workshop_parish": "San Basso",
+    "master_name": "Giovanni Battista Monaco",
+    "apprentice_name": "Antonio Cristofoli, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  }
+ ]
+}

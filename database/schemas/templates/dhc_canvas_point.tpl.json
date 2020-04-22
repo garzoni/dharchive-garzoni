@@ -1,0 +1,12 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "manifestUuid": "@iiifManifestUuid",
+        "canvasCode": "@iiifCanvasCode",
+        "x": "@xValue",
+        "y": "@yValue"
+    },
+    "additionalProperties": false,
+    "required": ["manifestUuid", "canvasCode", "x", "y"]
+}

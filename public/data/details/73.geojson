@@ -1,0 +1,72 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/73.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "26a25cd3-d077-4b2c-8ec2-7288b9cfaa01",
+    "contract_date": "1645-05-02",
+    "workshop_parish": "San Pietro di Castello",
+    "master_name": "Piero Bagatto",
+    "apprentice_name": "Nadalin Caral, di Mattio",
+    "apprentice_origin_name": "Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "46d7c9d1-7074-489a-8cdd-40c60989122d",
+    "contract_date": "1647-05-21",
+    "workshop_parish": "San Pietro di Castello",
+    "master_name": "Francesco Rostio",
+    "apprentice_name": "Lorenzo Carrrara, di Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "29945713-57a8-403b-801e-a3310176e1e9",
+    "contract_date": "1659-03-11",
+    "workshop_parish": "San Pietro di Castello",
+    "master_name": "Domenico, quondam Giacomo",
+    "apprentice_name": "Zorzi, di Menego",
+    "apprentice_origin_name": "Badia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d7bd4ce1-7d63-49bc-9849-5a74ad39763b",
+    "contract_date": "1670-02-03",
+    "workshop_parish": "San Pietro di Castello",
+    "master_name": "Agustin Bertolin; Zuan Maria Giarda, quondam Francesco",
+    "apprentice_name": "Nicol\u00f2 Buran, di Paulo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9efa095f-3fd9-4dc5-b426-9d2f973f217b",
+    "contract_date": "1681-06-28",
+    "workshop_parish": "San Pietro di Castello",
+    "master_name": "Cristofolo Nordio",
+    "apprentice_name": "Giacomo Medolago, di Francesco",
+    "apprentice_origin_name": "Bergamo"
+   }
+  }
+ ]
+}

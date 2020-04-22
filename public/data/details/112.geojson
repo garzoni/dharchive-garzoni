@@ -1,0 +1,420 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/112.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "704c7a4d-621d-452e-8d72-782ccaf438b2",
+    "contract_date": "1575-02-13",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Pasin",
+    "apprentice_name": "Vicenzo Confortin, di Bortholo",
+    "apprentice_origin_name": "Rezzato"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "62db7682-fc32-40ca-94a2-8964c7910aae",
+    "contract_date": "1575-09-12",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Iacomo, di Battista",
+    "apprentice_name": "Zegio, quondam Domenego",
+    "apprentice_origin_name": "Istrana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a739f105-9c71-4ceb-b369-3de4c271a83a",
+    "contract_date": "1584-03-05",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Domenico, di Paullo",
+    "apprentice_name": "Piero del Mondanese, di Zuane",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ad585605-2f1a-42b1-96ed-853cb7469ced",
+    "contract_date": "1584-10-16",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Lucantonio",
+    "apprentice_name": "Zammaria Marcelo, quondam Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ac3cb7a5-893d-4386-9778-151849ef3291",
+    "contract_date": "1584-12-12",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Battista, quondam Zuane",
+    "apprentice_name": "Defendi di Bruni, di Zuan Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b1beb253-4807-4001-b0ce-c2505aefb273",
+    "contract_date": "1591-02-20",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Battista",
+    "apprentice_name": "Zuane, quondam Zuane",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "48affd1a-2c17-4862-a053-5f6eafe7550d",
+    "contract_date": "1592-01-07",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Battista, di Isepo",
+    "apprentice_name": "Isepo di Pantaloni, quondam Gerolamo (di Francesco)",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f7fa5512-f891-40d7-bec0-c7d1b54f7ad5",
+    "contract_date": "1592-02-04",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Francesco, di Piero",
+    "apprentice_name": "Giacomo, quondam Bernardin",
+    "apprentice_origin_name": "Riva del Garda"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "54d24620-f674-40c0-9ba7-5dbc97ce0e7d",
+    "contract_date": "1594-10-31",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Zuane",
+    "apprentice_name": "Battista, quondam Giacomo",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4e33adf3-fcde-4d84-a881-631397270e60",
+    "contract_date": "1596-02-08",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Antonio, quondam Piero",
+    "apprentice_name": "Piero, di Agustin",
+    "apprentice_origin_name": "Lodi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2de0cf1a-9cb9-4c85-8669-fd8456c270ae",
+    "contract_date": "1596-12-17",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Francesco Casici, quondam Piero",
+    "apprentice_name": "Piero Graseto, di Cristofollo",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3c400d12-d8b4-408e-bd3f-0a73c42f72b0",
+    "contract_date": "1597-12-29",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Armano, quondam Giacomo",
+    "apprentice_name": "Antonio Foresti, di Agustin",
+    "apprentice_origin_name": "Riva del Garda"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "92a28361-192f-42e1-93ec-0f966eb591b9",
+    "contract_date": "1598-04-01",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Vetor",
+    "apprentice_name": "Bastian, di Boneto",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f8c66ebc-1660-418f-8e27-5ce459b17c01",
+    "contract_date": "1598-05-09",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Piero, di Antonio",
+    "apprentice_name": "Gelmo Ferazo, di Martin",
+    "apprentice_origin_name": "?estagna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5248d7fc-1c60-4887-8f2a-9f704c539adf",
+    "contract_date": "1599-07-19",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Fiorio",
+    "apprentice_name": "Anzollo, di Francesco (di Piero)",
+    "apprentice_origin_name": "Cividale"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "027f0eb2-8d35-4b66-8096-b52fa058f6e7",
+    "contract_date": "1606-08-31",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Nicol\u00f2, quondam Barbaro",
+    "apprentice_name": "Marc'Antonio Palma, quondam Agnolo",
+    "apprentice_origin_name": "Dolo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e52de7fc-e528-4bab-b349-5e0e77d32bf6",
+    "contract_date": "1609-01-11",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Giacomo Balsa",
+    "apprentice_name": "Battista Copin, di Zuane Andrea",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3f0d469b-9ba0-48e2-9e58-a1b3ffc0a10c",
+    "contract_date": "1609-12-15",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Antonio",
+    "apprentice_name": "Piero Dal Mondenci, quondam Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ee3bc37b-a603-487f-91cd-326fee575551",
+    "contract_date": "1621-01-18",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Allissandro di Consoli, di Zuane",
+    "apprentice_name": "Zuane di Fereti, quondam Zuane",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "393ca0f8-033d-4388-ba72-4045c79d86bc",
+    "contract_date": "1621-07-12",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Zuane Carlinzuol",
+    "apprentice_name": "Marco Quistini, quondam Paulo",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "73258deb-cc9b-446a-b8fd-5c61325cc883",
+    "contract_date": "1621-07-27",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Oratio Confin",
+    "apprentice_name": "Malgarita Milan, di Francesco",
+    "apprentice_origin_name": "Palazzolo sull'Oglio"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b9079a76-eee8-434a-ad5d-6d9cdbe7a212",
+    "contract_date": "1622-03-31",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Zuane Scartazo",
+    "apprentice_name": "Redolfo Fufeto, di Zuane",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eb740983-ff4e-438a-b5fd-ff0b8b1f29dc",
+    "contract_date": "1622-10-27",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Allessandro",
+    "apprentice_name": "Tomaso, di Zuanne",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "564022fb-6132-4b61-b86b-81dc4ac565d6",
+    "contract_date": "1625-11-26",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Zuane Fidel",
+    "apprentice_name": "Andrea Fuach?, di Giovanni PIetro",
+    "apprentice_origin_name": "Piuro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "511daadf-bc8d-49da-9b3e-0e23d44b3374",
+    "contract_date": "1625-12-15",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Lugretia, et figliuoli",
+    "apprentice_name": "Zanetto Di Meris, di Steffano",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "837f6cd5-832b-4150-8228-1c72aca4efbd",
+    "contract_date": "1626-07-31",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Andrea Baratti",
+    "apprentice_name": "Domenico Zapello, quondam Venturino",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "787ede98-2390-4ff5-934f-9a8f02901b09",
+    "contract_date": "1644-01-04",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Benetto Nicoli",
+    "apprentice_name": "Andrea Cattani, quondam Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8ab5fe11-3be8-49bc-959c-694e4c6a3d44",
+    "contract_date": "1664-01-07",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Ambroso Nicoli",
+    "apprentice_name": "Batista Anziesi, quondam Nicol\u00f2",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "92df4cc2-c373-4091-aa1a-928636d16692",
+    "contract_date": "1665-04-18",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Zuanne",
+    "apprentice_name": "Silvestro Moresin, quondam Vettor",
+    "apprentice_origin_name": "Asolo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ba794617-9fa0-4646-b3a3-ad40614217e6",
+    "contract_date": "1665-04-18",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Zuanne",
+    "apprentice_name": "Bastian Fusarin, quondam Gasparo",
+    "apprentice_origin_name": "Asolo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "90fb83b4-97c4-47ec-b741-8a56ac83d171",
+    "contract_date": "1665-04-22",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Zuane Zanotti",
+    "apprentice_name": "Zuanne Lando, di Bortolamio",
+    "apprentice_origin_name": "Asolo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "38e7ed24-1d7b-4227-9ff1-77d4e87dac32",
+    "contract_date": "1670-01-19",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Bernardo Zandain",
+    "apprentice_name": "Maffio Picinelli, quondam Domenego",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9157f94d-a254-4f0f-9b4b-6e2d3d7c2f90",
+    "contract_date": "1671-03-05",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Tommaso Suchieto",
+    "apprentice_name": "Lorenzo Pedron, di Lorenzo",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1e2b44c3-549b-4526-8d7c-673b82a3ccdc",
+    "contract_date": "1712-01-10",
+    "workshop_parish": "San Silvestro",
+    "master_name": "Bortolo Osei",
+    "apprentice_name": "Pietro Antonio Belci, di Battista",
+    "apprentice_origin_name": "Cadore"
+   }
+  }
+ ]
+}

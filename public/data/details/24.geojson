@@ -1,0 +1,624 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/24.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9f596033-407c-462d-aca0-c3588379c772",
+    "contract_date": "1575-02-13",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Martino",
+    "apprentice_name": "Crestan, di Zambattista",
+    "apprentice_origin_name": "Marebbe"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "20d5eec7-bb13-4965-8572-56618d2dd377",
+    "contract_date": "1576-03-02",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Bortholo",
+    "apprentice_name": "Peregrin, di Zandon\u00e0",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7e422849-9085-4711-842e-73ff6864c1d9",
+    "contract_date": "1576-03-08",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Lorenzo, quondam Bernardo",
+    "apprentice_name": "Rinaldo, quondam Domenego",
+    "apprentice_origin_name": "Grimacco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ad5e6c3d-a9ea-4792-a371-f14ba01a8d88",
+    "contract_date": "1583-03-10",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Francesco Moresini, di Orsato",
+    "apprentice_name": "Piero, di Tomaso",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eae7c998-a7b3-4a25-9b65-bebd81d789b2",
+    "contract_date": "1583-04-14",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Zuane di Cortinovi, quondam Zorzi",
+    "apprentice_origin_name": "Sedrina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4d57952a-a3b6-4301-93d0-2dd979e240da",
+    "contract_date": "1591-01-28",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Camillo di Caleri, di Gulio",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9e86a809-91c8-4eb4-856d-5bd5f829cb89",
+    "contract_date": "1591-06-05",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Giacomo, quondam Comin",
+    "apprentice_name": "Zacharia, quondam Felisse",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b060147d-ae47-446c-9a65-8be989537a39",
+    "contract_date": "1592-11-03",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Antonio Contin, e frateli",
+    "apprentice_name": "Alisso, di Giovanni Battista",
+    "apprentice_origin_name": "Ripatransone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c5e737c6-de60-4104-97b3-32c773d53dc5",
+    "contract_date": "1593-03-08",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Zuane",
+    "apprentice_name": "Beneto, di Nicollo",
+    "apprentice_origin_name": "Pecco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e52f53bf-e9f5-457d-9989-17196f259294",
+    "contract_date": "1593-03-16",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Cristofollo",
+    "apprentice_name": "Battista Vidal, quondam Antonio",
+    "apprentice_origin_name": "Serina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6bc61cb6-bad5-4481-8070-a12c260237f0",
+    "contract_date": "1596-02-10",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Zuanne, quondam Piero",
+    "apprentice_name": "Polo, di Francesco ",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0b220552-9f9a-4881-9474-f746ec5e34c7",
+    "contract_date": "1598-07-11",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Tomaso, quondam Zuane",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bd68eec5-b391-4474-85d0-dfd2de1a3387",
+    "contract_date": "1598-07-31",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Antonio Foresti, di Piero",
+    "apprentice_origin_name": "Sorisole"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "87f76863-0276-4bdb-8705-7006315bdd15",
+    "contract_date": "1598-08-04",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Zuane",
+    "apprentice_name": "Zamaria, quondam Nicoll\u00f2",
+    "apprentice_origin_name": "?colt soto cividal de belun"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "556c34dc-37a2-470c-b24c-5445e8f01672",
+    "contract_date": "1606-09-25",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Simon",
+    "apprentice_name": "Polonio Fontanella, di Gerolamo",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0be87949-6b6b-446e-b01f-fd6516025014",
+    "contract_date": "1606-10-13",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Zuane",
+    "apprentice_name": "Simon, quondam Alisandro ",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c605fb23-e375-42bd-b14a-ca781999e237",
+    "contract_date": "1609-01-23",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Piero",
+    "apprentice_name": "Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f8ad9df0-6a98-42e5-aa0d-74daf1b1a057",
+    "contract_date": "1610-07-31",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Antonio",
+    "apprentice_name": "Zuane Giacomo de Fiuman, di Colao",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e2ef404c-76ec-4290-84c3-5d7e700fe42b",
+    "contract_date": "1621-02-21",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Zuane, quondam Pietro",
+    "apprentice_name": "Battista Arardo, di Zuan Antonio",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1fb9b69b-2ed1-48c5-98e0-5a7e25cffce3",
+    "contract_date": "1621-08-31",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Anzolo",
+    "apprentice_name": "Zuane Borella, di Bastian",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d82509c0-34b0-43ba-a795-2df7ff42bbf9",
+    "contract_date": "1621-11-04",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Zuane, quondam Pietro",
+    "apprentice_name": "Pietro, di Zuan Batista",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fe61b6a6-bbcb-42a3-ad13-ec873288e5bb",
+    "contract_date": "1625-10-31",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Anzolo Lasagna",
+    "apprentice_name": "Gasparo Reguli, di Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d1d5f316-a649-4a1e-8108-d49cfbcac1c3",
+    "contract_date": "1625-11-20",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Gerolimo Listuzzi, di Francesco",
+    "apprentice_name": "Cristina Scaiante, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c27696b0-62fe-46a7-a711-172bf365b88e",
+    "contract_date": "1625-12-11",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Andrea Brosetto",
+    "apprentice_name": "Francesco Di Lionbruni, di Lucio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fb0bc582-7ae6-4202-b1e1-486089c5a84e",
+    "contract_date": "1626-05-04",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Francesco",
+    "apprentice_name": "Andrea, quondam Daniel",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9746d33f-ef0a-4501-9f42-6aebc4979cbf",
+    "contract_date": "1626-12-03",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Zuanne",
+    "apprentice_name": "No\u00e8, quondam Vicenzo",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d15a7109-dea7-4148-ab3f-e876c776981f",
+    "contract_date": "1632-11-16",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Antonio",
+    "apprentice_name": "Toni Da Pozzo, di Nicolo",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7f119c9e-f552-491f-8f82-1e0e1602f7af",
+    "contract_date": "1644-09-01",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Nicol\u00f2 Richetti",
+    "apprentice_name": "Zuane, di Pasqualin (di Zuane)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "886a40ca-0311-4c7f-bbab-f254c23e94d5",
+    "contract_date": "1644-12-03",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Anzolo Lasagna",
+    "apprentice_name": "Piero, di Olivo",
+    "apprentice_origin_name": "Selva di Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6b829dce-5ed7-4d5a-afd1-4ad5b1631e1b",
+    "contract_date": "1645-05-05",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Francesco Porgno",
+    "apprentice_name": "Zuane Del Agnolo, quondam Lunardo",
+    "apprentice_origin_name": "Verzegnis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ab9971e7-197c-4638-a3a8-d34b92a95b62",
+    "contract_date": "1645-05-15",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Giacomo Giacomini",
+    "apprentice_name": "Zuane Boni, quondam Ruggero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9f23572f-3bc4-4f40-9bb5-d5a0e79791f8",
+    "contract_date": "1645-07-14",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Battista di Pane",
+    "apprentice_name": "Santo, quondam Vincenzo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d4578191-4e0c-41d1-b013-664f8247f730",
+    "contract_date": "1653-04-30",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Francesco Pasquini",
+    "apprentice_name": "Iseppo Fiamio, di Antonio",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a0cc68d4-9a72-4948-b083-6f3f77093bf4",
+    "contract_date": "1653-05-19",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Piero",
+    "apprentice_name": "Battista Bos, di Francesco",
+    "apprentice_origin_name": "Selva di Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "588216e2-482b-4d23-84cf-cf1bb58fd342",
+    "contract_date": "1656-02-28",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Piero",
+    "apprentice_name": "Piero, di Lorenzo",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "46f52bb8-b554-4860-b3a8-4e877bad1c31",
+    "contract_date": "1656-09-11",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Zuane Battista Paris",
+    "apprentice_name": "Cesaro Policioli, di Rimondo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "acfd415a-b7bc-48d7-a037-64aa31552e12",
+    "contract_date": "1657-11-24",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Francesco Pasquin",
+    "apprentice_name": "Cristoforo Flamio, quondam Iseppo",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f25c3259-41fc-4710-ab93-3056741303db",
+    "contract_date": "1658-02-14",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Redolfo",
+    "apprentice_name": "Andrea Barberi, di Andrea",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f8a173ec-c402-4c12-ba8e-9191794bbd2d",
+    "contract_date": "1659-07-19",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Luca",
+    "apprentice_name": "Paolo Trincanato, quondam Menego",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8c5246e6-e17a-45a4-b25b-450817a6d2dd",
+    "contract_date": "1659-07-21",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Domenego Moretti",
+    "apprentice_name": "Marc'Antonio Troza , quondam Roman",
+    "apprentice_origin_name": "Cison di Valmarino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ff168316-d5a0-485a-97de-50d13393b4dc",
+    "contract_date": "1659-10-27",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Francesco Pasquin",
+    "apprentice_name": "Piero Calvin, di Vettor",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b39b7137-b227-44fc-a3b7-8606aa8bf9ad",
+    "contract_date": "1659-12-18",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Piero Bonaciol",
+    "apprentice_name": "Menego Zambon, quondam Zuane",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "15c5b54c-4410-4fe1-89c5-db6850c352d5",
+    "contract_date": "1662-09-12",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Piero Bonaciol",
+    "apprentice_name": "Iseppo Fachinel, di Zuane Maria",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ee1c48ef-2557-4c45-bbba-5edae5b95593",
+    "contract_date": "1663-01-15",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Piero Boniciol",
+    "apprentice_name": "Bortolo MOretti, di Zorzi",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ea9e206b-eb58-4379-8792-9ff5347ca3d3",
+    "contract_date": "1664-05-15",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Francesco Pasquin",
+    "apprentice_name": "Zuanne Battista Candotto, quondam Candio",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "956b66e1-d9e2-42c1-9385-faec0c1942f8",
+    "contract_date": "1681-04-10",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Tommaso Costa",
+    "apprentice_name": "Antonio Levis, quondam Bastian",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a2af0275-5b73-4e92-9b54-061080a54b89",
+    "contract_date": "1682-04-29",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Cassan",
+    "apprentice_name": "Zuane Palla, di Piero",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0d124bc3-895e-44db-b5cd-89bd279da2ec",
+    "contract_date": "1707-03-11",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Tomaso Costa",
+    "apprentice_name": "Marchio da Costa, di Zuane",
+    "apprentice_origin_name": "Val Gardena"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b8d58de9-dd02-42bc-ad53-df5bfd7d1d41",
+    "contract_date": "1713-03-18",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Tomaso Costa",
+    "apprentice_name": "Antonio de Roco, quondam Giacomo",
+    "apprentice_origin_name": "Cividale"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fcee1e1c-9508-4890-aff5-843c561c68a3",
+    "contract_date": "1716-10-30",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Tomaso Costa",
+    "apprentice_name": "Giacomo Pedeornella, di Piero",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "381bfb7c-bfa6-433e-b85a-01bb3173f50c",
+    "contract_date": "1750-02-27",
+    "workshop_parish": "San Maurizio",
+    "master_name": "Pietro Folador",
+    "apprentice_name": "Piero Fosco, di Piero",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  }
+ ]
+}

@@ -1,0 +1,492 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/256.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b6fcc55a-0b38-4066-8c79-b85ef4af2335",
+    "contract_date": "1575-09-06",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Marcantonio",
+    "apprentice_name": "Zanetto, quondam Zulian",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a2d4a41f-909a-42db-8746-338dc8f1789b",
+    "contract_date": "1582-05-28",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Piero Maria, quondam Zuane",
+    "apprentice_name": "Iseppo, di Antonio",
+    "apprentice_origin_name": "Bracca"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7cd92286-0dbe-4ee9-bb77-1e3efd300e85",
+    "contract_date": "1583-03-08",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Dionise Rigeto, di Domenico",
+    "apprentice_name": "Antonio, di Zuanne Domenico",
+    "apprentice_origin_name": "Foss\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a9064d75-65dc-4bde-8019-5d537070a7e6",
+    "contract_date": "1583-08-02",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Nicollo, di Paulo",
+    "apprentice_name": "Antonio Testor, di Battista",
+    "apprentice_origin_name": "Taleggio"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "095bf271-6db3-4a2a-bcef-db3374e993c0",
+    "contract_date": "1584-03-09",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Francesco",
+    "apprentice_name": "Bastian Picolatto, quondam Zuane",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7640be5d-02a5-408c-9daa-b4c04ca1ede3",
+    "contract_date": "1584-03-14",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Zuane",
+    "apprentice_name": "Betin, di Giacomo",
+    "apprentice_origin_name": "Palosco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5e9e79ea-aa42-4424-a79b-3495aae6d523",
+    "contract_date": "1591-09-10",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Matio",
+    "apprentice_name": "Antonio Tremonin, di Giacomo",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4dba6994-a826-40a4-8aa4-7a4f71287c31",
+    "contract_date": "1594-11-15",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Francesco",
+    "apprentice_name": "Bertolamio del Orsola, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "30a318eb-a0e8-40c9-b752-90fc453c1284",
+    "contract_date": "1595-04-22",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Tomaso Farelis",
+    "apprentice_name": "Giacomo dalla Siega, di Simon",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f98dce29-67f7-40e0-917f-0cc9378ea6a6",
+    "contract_date": "1596-09-16",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Piero Andrea, quondam Zuane",
+    "apprentice_name": "Giacomo Girardi, di Donado",
+    "apprentice_origin_name": "Bracca"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "94be84ab-85d6-4f43-a64d-9a94bfb8e1de",
+    "contract_date": "1597-04-24",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Alisso",
+    "apprentice_name": "Paulo De Zamio, quondam Francesco",
+    "apprentice_origin_name": "Cittadella"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fa4a669d-6886-485d-9426-a93d88ffe371",
+    "contract_date": "1597-04-29",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Andrea",
+    "apprentice_name": "Antonio, di Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3f43fdc2-7486-4a1f-be88-482fad2e9102",
+    "contract_date": "1597-08-02",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Andrea Di Santi",
+    "apprentice_name": "Alisso, di Piero",
+    "apprentice_origin_name": "Desenzano del Garda"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6fe5da51-6b83-4ef9-9883-c2461fc750bb",
+    "contract_date": "1598-02-08",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Nicolo",
+    "apprentice_name": "Biasio Fior , quondam Giacomo",
+    "apprentice_origin_name": "Verzegnis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a703f793-f336-4f91-994d-4e2ebeee589f",
+    "contract_date": "1598-02-25",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Battista",
+    "apprentice_name": "Geronimo Costantini, di Zuane",
+    "apprentice_origin_name": "San Fermo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c5c8af86-6cf1-4c8f-89ec-e94d6dc331b6",
+    "contract_date": "1598-06-02",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Giacomo, di Battista",
+    "apprentice_name": "Zuane, quondam Giacomo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ebda6841-d327-44f8-8f98-cd2ddb9a6fcf",
+    "contract_date": "1599-04-02",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Zuane Bondio",
+    "apprentice_name": "Zuane Facini, di Battista",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "56731b1c-1042-48aa-96ca-5709e911875a",
+    "contract_date": "1599-07-09",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Antonio di Lazaroni",
+    "apprentice_name": "Mattio Ochialin, di Zamaria",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "92c69e8d-cc61-4bc0-850e-cd01c2231b8a",
+    "contract_date": "1606-05-02",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Daniel",
+    "apprentice_name": "Antonio, quondam Zorzi",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "53a55f8c-0472-468c-8aaf-94a208d5c659",
+    "contract_date": "1606-08-31",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Bastian",
+    "apprentice_name": "Zan Antonio Scotto, quondam Giovanni Andrea",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "06c8d607-7af8-4626-b1de-c1b7d5a024dc",
+    "contract_date": "1609-01-23",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Iseppo",
+    "apprentice_name": "Alissandro, di Girolamo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1e97ac2a-ac1a-4464-936a-9e44231f3132",
+    "contract_date": "1609-02-26",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Bastian",
+    "apprentice_name": "Zamaria Petrogalli, di Bernardin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e6fceb17-6eae-4240-8c8c-7387b123577d",
+    "contract_date": "1626-08-17",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Zuane Vassal",
+    "apprentice_name": "Bortolo Beltrame, di Thomaso",
+    "apprentice_origin_name": "Molini"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "af628249-f3aa-44ee-9964-f0fc310e004e",
+    "contract_date": "1632-04-29",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Michiel, di Allessandro",
+    "apprentice_name": "Matheo\u00a0 Della Veggia, quondam Gioani",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "49f3e5f5-4a31-4b0d-a9ba-bd6fb4380720",
+    "contract_date": "1632-07-03",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Honoffrio Dell'Elmo",
+    "apprentice_name": "Vicenzzo Fuga, quondam Matio",
+    "apprentice_origin_name": "Murano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c94db5b2-49d1-474b-beff-9ff28e248105",
+    "contract_date": "1646-07-31",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Hipolito",
+    "apprentice_name": "Miraldo, di Fortunato",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a4d138a7-b271-435f-a4be-140da73cff76",
+    "contract_date": "1646-08-07",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Giacomo Bettodello",
+    "apprentice_name": "Marco Cigala, di Francesco",
+    "apprentice_origin_name": "Latisana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6740321d-e826-41d1-9d13-86e9c05ed718",
+    "contract_date": "1647-06-12",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Valerio, di Adamo",
+    "apprentice_name": "Giacomo Filippo, di Baldissera (di Baldissera)",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4a1d563b-f476-4593-a98c-9c42877c2f50",
+    "contract_date": "1657-05-25",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Menego Verdian, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3a673c16-d1cb-49c7-a233-2965cce1bfec",
+    "contract_date": "1658-08-31",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Zen",
+    "apprentice_name": "Zuanne Salza, quondam Francesco",
+    "apprentice_origin_name": "Vittorio Veneto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "62b321fb-f1b6-4dc8-bd4f-5688a42c6ef1",
+    "contract_date": "1659-02-24",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Lorenzo, di Baldissera",
+    "apprentice_name": "Antonio Devenei, di Domenico",
+    "apprentice_origin_name": "Gradena"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d7516955-c53d-4fd3-b5cc-5c6982ab04ec",
+    "contract_date": "1664-08-11",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Battista  Nadarini",
+    "apprentice_name": "Vangelista Menzo, di Iseppo",
+    "apprentice_origin_name": "Monte di Malo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4762ddbf-3228-45af-8525-4a51e9879877",
+    "contract_date": "1665-04-21",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Piero Stopan",
+    "apprentice_name": "Nicol\u00f2 Caz, di Zuane",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2e15d39f-5c51-4619-9049-465f23710fa6",
+    "contract_date": "1671-05-21",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Anzolo Cedreli",
+    "apprentice_name": "Zuan Battista Maffi, di Paulo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "31ba9301-ebe5-4d25-9577-a37e0da2162c",
+    "contract_date": "1671-05-25",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Anzolo Cidreli",
+    "apprentice_name": "Paolo, di Michiel",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d2e957ad-bb57-4e4c-8703-268ee85240ff",
+    "contract_date": "1671-06-07",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Lorenzo de Baldisson",
+    "apprentice_name": "Tomaso Daismon, di Marchi\u00f2",
+    "apprentice_origin_name": "Germania"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "da56b011-1c6f-475c-a168-2c91bdc9e9a6",
+    "contract_date": "1681-07-31",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Battista Dalla Selva, di Domenico",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0257d3ac-958b-4c1b-ab38-9e454a382625",
+    "contract_date": "1682-04-30",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Stefano Zili",
+    "apprentice_name": "Domenico Vicenzi, di Nadal",
+    "apprentice_origin_name": "Conegliano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8d4fcdee-ce63-4bbe-b145-77b5b43d1b86",
+    "contract_date": "1771-08-01",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Bortolo Colluzzi",
+    "apprentice_name": "Antonio Deilla, di Paulo (quondam Antonio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1b1ac652-4970-465e-b499-22a6cc0f2611",
+    "contract_date": "1771-08-02",
+    "workshop_parish": "San Giacomo dell'Orio",
+    "master_name": "Bortolo Colluzzi",
+    "apprentice_name": "Appollonio Pradel, di Bortolo (quondam Zuanne)",
+    "apprentice_origin_name": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "manifestUuid": "@iiifManifestUuid",
+        "code": "@code",
+        "label": "@multilingualLabel",
+        "description": "@multilingualDescription",
+        "viewingDirection": "@viewingDirection",
+        "viewingHint": "@viewingHint",
+        "logo": "@iiifLogo",
+        "thumbnail": "@iiifThumbnail",
+        "attribution": "@multilingualAttribution",
+        "license": "@iiifLicense",
+        "service": "@iiifService[]",
+        "seeAlso": "@iiifSeeAlso[]",
+        "related": "@iiifRelatedResource[]",
+        "metadata": {"type": "object"}
+    },
+    "additionalProperties": false,
+    "required": ["manifestUuid", "code", "label"]
+}

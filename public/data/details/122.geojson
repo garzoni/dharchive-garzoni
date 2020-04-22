@@ -1,0 +1,648 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/122.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e2ebf3f3-7ecf-4f7e-a57e-6636f9bf955c",
+    "contract_date": "1575-07-13",
+    "workshop_parish": "San Stae",
+    "master_name": "Battista, di Lorenzo",
+    "apprentice_name": "Catherina Gilese, di Zancaterin?",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d40fb50b-e1d9-4da4-a6de-f8a31b48f8f0",
+    "contract_date": "1575-11-14",
+    "workshop_parish": "San Stae",
+    "master_name": "Cesaro, di Michiel",
+    "apprentice_name": "Alvise Foresti, quondam Piero",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "322f8f65-bef4-468b-9a1b-f7e1443f6a4c",
+    "contract_date": "1582-02-10",
+    "workshop_parish": "San Stae",
+    "master_name": "Battista, di Giacomo",
+    "apprentice_name": "Piero, di Biasio",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8b689c97-0017-4ba0-a7b1-6dabe88d20f8",
+    "contract_date": "1582-02-26",
+    "workshop_parish": "San Stae",
+    "master_name": "Bernardo Tagiachin",
+    "apprentice_name": "Anbrosso Di Bereteri, di Giacomin (di Anbrosso)",
+    "apprentice_origin_name": "Albino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a143f296-3771-42d1-a29c-be9dfee0ba05",
+    "contract_date": "1582-07-04",
+    "workshop_parish": "San Stae",
+    "master_name": "Battista, di Zuane",
+    "apprentice_name": "Baldisera, di Zuane",
+    "apprentice_origin_name": "Val Gardena"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b5a38067-5ca7-499e-b12d-ce191dc21f82",
+    "contract_date": "1582-07-04",
+    "workshop_parish": "San Stae",
+    "master_name": "Battista, di Zuane",
+    "apprentice_name": "Marchio, di Zuane",
+    "apprentice_origin_name": "Val Gardena"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "023d835c-72cc-4ab3-adba-1b0db4ab6425",
+    "contract_date": "1582-08-20",
+    "workshop_parish": "San Stae",
+    "master_name": "Cassaro, di Michiel",
+    "apprentice_name": "Marco, di Bernardin",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "077afa64-aa5e-4539-b7e1-ba649ccd236f",
+    "contract_date": "1583-01-03",
+    "workshop_parish": "San Stae",
+    "master_name": "Camillo Donzellino, quondam Zuane Antonio",
+    "apprentice_name": "Antonio, quondam Francesco",
+    "apprentice_origin_name": "Loria"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "56e6d514-ed34-40cf-8dfe-e47e78d8aaec",
+    "contract_date": "1591-07-05",
+    "workshop_parish": "San Stae",
+    "master_name": "Bernardin Zogia, di Piero",
+    "apprentice_name": "Zuane, di Gotardo (di Isepo)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "aba78db7-5a83-4ca2-abdb-5ce865264d9a",
+    "contract_date": "1592-01-12",
+    "workshop_parish": "San Stae",
+    "master_name": "Battista",
+    "apprentice_name": "Giacomo, di Paulo",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9ccd9152-50e3-453c-b084-5902148b4bfa",
+    "contract_date": "1592-07-14",
+    "workshop_parish": "San Stae",
+    "master_name": "Battista",
+    "apprentice_name": "Battista Gior, di Baldisera",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "afba0725-f959-4555-a426-f2c41b41fab5",
+    "contract_date": "1592-07-28",
+    "workshop_parish": "San Stae",
+    "master_name": "Camilo",
+    "apprentice_name": "Antonio, di Francesco",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3386c3a7-b4ac-4c8e-8415-be72bad4d919",
+    "contract_date": "1592-08-25",
+    "workshop_parish": "San Stae",
+    "master_name": "Francesco",
+    "apprentice_name": "Orelio, di Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dfc74870-b943-47eb-9a0d-e07298fcb7d2",
+    "contract_date": "1596-12-17",
+    "workshop_parish": "San Stae",
+    "master_name": "Zuanne Piero",
+    "apprentice_name": "Piero, quondam Tomaso",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2a8cfffd-f2d7-4033-8558-59e90beb17be",
+    "contract_date": "1598-02-09",
+    "workshop_parish": "San Stae",
+    "master_name": "Cesaro",
+    "apprentice_name": "Pasquale, di Menego",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "941f2be7-c799-4da5-98e2-fd352c5a3436",
+    "contract_date": "1598-05-04",
+    "workshop_parish": "San Stae",
+    "master_name": "Camillo",
+    "apprentice_name": "Francesco, di Giulio (di Giacomo)",
+    "apprentice_origin_name": "Piove di Sacco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e29644dd-2c07-41d3-a237-ab04b9e00941",
+    "contract_date": "1598-05-14",
+    "workshop_parish": "San Stae",
+    "master_name": "Gerolamo, di Zuane",
+    "apprentice_name": "Anzolla Marcharo, quondam Zuane",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b25e2819-a5ab-42b8-803e-5c6e4f02caee",
+    "contract_date": "1598-10-19",
+    "workshop_parish": "San Stae",
+    "master_name": "Girolamo, di Zuane",
+    "apprentice_name": "Elena, di Tomio",
+    "apprentice_origin_name": "Murano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "99308ba7-0ccd-401c-ad77-93e6e7612381",
+    "contract_date": "1606-04-19",
+    "workshop_parish": "San Stae",
+    "master_name": "Madalena",
+    "apprentice_name": "Martin, di Tofollo",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e754eefa-b6c6-4dd5-a28a-a032754c8867",
+    "contract_date": "1606-12-19",
+    "workshop_parish": "San Stae",
+    "master_name": "Girolamo",
+    "apprentice_name": "Girardo, di Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c4aab285-c9dd-4425-a0cb-7c01348f96d5",
+    "contract_date": "1609-06-16",
+    "workshop_parish": "San Stae",
+    "master_name": "Sabo",
+    "apprentice_name": "Zuane Battista, quondam Giacomo",
+    "apprentice_origin_name": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bf51ceda-d9a6-47cb-b69a-20b6cee2dfbf",
+    "contract_date": "1620-07-15",
+    "workshop_parish": "San Stae",
+    "master_name": "Gioani Valsecchi, quondam Gioani",
+    "apprentice_name": "Rocco Danelli, quondam Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cb5b4e3a-e680-4847-8421-5fa11379b1a2",
+    "contract_date": "1621-07-10",
+    "workshop_parish": "San Stae",
+    "master_name": "Mattio Flandin, di Gasparo",
+    "apprentice_name": "Leonardo di Piut, quondam Leonardo",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "378d6c9b-6bb0-4b4f-a8fe-ad86af46d7fa",
+    "contract_date": "1621-07-24",
+    "workshop_parish": "San Stae",
+    "master_name": "Zuane Bonasina, quondam Zuane",
+    "apprentice_name": "Zuane, di Francesco",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "47bdc738-ea01-4217-af10-76977e93545d",
+    "contract_date": "1621-11-24",
+    "workshop_parish": "San Stae",
+    "master_name": "Lunardo",
+    "apprentice_name": "Cristofolo da Rede, di Simon",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e585dc08-43be-45aa-a24a-e100a36ec3ba",
+    "contract_date": "1621-12-17",
+    "workshop_parish": "San Stae",
+    "master_name": "Giacomo di Santi",
+    "apprentice_name": "Antonio Savioni, di Pietro",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1828f65f-519e-47df-a800-34aee81ea23a",
+    "contract_date": "1622-05-30",
+    "workshop_parish": "San Stae",
+    "master_name": "Francesco, quondam Sabbo",
+    "apprentice_name": "Zuane, di Giovan Battista",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "aee822c2-a6c3-4bf2-a523-b4d149968aea",
+    "contract_date": "1626-01-07",
+    "workshop_parish": "San Stae",
+    "master_name": "Paulo, di Ercole",
+    "apprentice_name": "Francesco di Comi, quondam Ruggier",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0681ae2b-83c1-4c17-8cad-f8eaa39f0bc3",
+    "contract_date": "1626-05-25",
+    "workshop_parish": "San Stae",
+    "master_name": "Francesco, di Sabo",
+    "apprentice_name": "Domenico De Pramolin, di Matheo",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a4c67d90-46b5-495e-91e0-70ae63cbf09b",
+    "contract_date": "1626-09-15",
+    "workshop_parish": "San Stae",
+    "master_name": "Silvestro",
+    "apprentice_name": "Giovanni Dominico, di Apolonio",
+    "apprentice_origin_name": "Bormio"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b0fd6297-6d86-4900-a6cf-e998a35fcf0f",
+    "contract_date": "1626-10-12",
+    "workshop_parish": "San Stae",
+    "master_name": "Zuane Chlazer",
+    "apprentice_name": "Giacomo Martini, quondam Semeone",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bfa51ebf-62f9-4a31-bf79-f179e2bb3435",
+    "contract_date": "1627-04-02",
+    "workshop_parish": "San Stae",
+    "master_name": "Zuanne, di Zuane",
+    "apprentice_name": "Antonio ?, di Zuanne",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "96b281e1-8249-4148-9e24-a5a1e474a6c5",
+    "contract_date": "1632-03-29",
+    "workshop_parish": "San Stae",
+    "master_name": "Zamaria, quondam Sabo",
+    "apprentice_name": "Zuane, di Zambattista",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cc7a1cd6-4ed4-4cde-be04-558e034faf37",
+    "contract_date": "1632-03-30",
+    "workshop_parish": "San Stae",
+    "master_name": "Valerio",
+    "apprentice_name": "Menego De Costa, di Lucha",
+    "apprentice_origin_name": "Rocca Pietore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dfbcb6eb-69b5-4e35-85a8-68d486170fc4",
+    "contract_date": "1632-04-01",
+    "workshop_parish": "San Stae",
+    "master_name": "Lorenzzo",
+    "apprentice_name": "Giacomo Mazzon, quondam Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2d9aa01a-37f7-4e3e-98c6-6ab1e9fb1269",
+    "contract_date": "1632-06-16",
+    "workshop_parish": "San Stae",
+    "master_name": "Piero, di Steffano",
+    "apprentice_name": "Piero Costa?, quondam Giulio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cc9936d1-7883-4d73-8b82-c9246b59fc62",
+    "contract_date": "1632-12-01",
+    "workshop_parish": "San Stae",
+    "master_name": "Antonio",
+    "apprentice_name": "Menego Baffon, quondam Santin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e92bd95c-39ef-4567-b431-470cc7ec565b",
+    "contract_date": "1646-05-30",
+    "workshop_parish": "San Stae",
+    "master_name": "Vallerio Rizzardini",
+    "apprentice_name": "Andrea, di Piero (di Lorenzo)",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e03031c9-d202-4c23-a265-cab74229ff8f",
+    "contract_date": "1648-03-08",
+    "workshop_parish": "San Stae",
+    "master_name": "Valerio, di Bernardin",
+    "apprentice_name": "Bortolamio de Golma, di Giacomo",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ef6fc2bd-a781-4260-bd8c-a968aa3280f7",
+    "contract_date": "1656-05-21",
+    "workshop_parish": "San Stae",
+    "master_name": "Bortolo Bezoni",
+    "apprentice_name": "Cristoforo Martin, di Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3b893f2f-0457-46b1-9a72-0d1a2e837768",
+    "contract_date": "1657-02-11",
+    "workshop_parish": "San Stae",
+    "master_name": "Alvise  Altobello",
+    "apprentice_name": "Piero Salvi, di Battista",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0143019c-9aa9-430e-bbe6-37710eb7a2b9",
+    "contract_date": "1657-12-17",
+    "workshop_parish": "San Stae",
+    "master_name": "Gregorio Contin",
+    "apprentice_name": "Sabbo Contarin, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "df41e50f-183c-4c2d-b178-e9159244acf3",
+    "contract_date": "1658-12-11",
+    "workshop_parish": "San Stae",
+    "master_name": "Valerio Piziol",
+    "apprentice_name": "Zuane Fae, di Menego (quondam Antonio)",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e7b4f45b-f35f-4956-9e87-b02874775644",
+    "contract_date": "1659-05-30",
+    "workshop_parish": "San Stae",
+    "master_name": "Zuane Achanini",
+    "apprentice_name": "Piero Achanini",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "030a4701-1c7b-46b3-8cf7-4b4602b10e41",
+    "contract_date": "1662-01-10",
+    "workshop_parish": "San Stae",
+    "master_name": "Zuane",
+    "apprentice_name": "Carlo Arigoni, di Michiel",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "93bb25af-06d6-467d-8ff7-1e527c77388a",
+    "contract_date": "1662-05-19",
+    "workshop_parish": "San Stae",
+    "master_name": "Gregorio Contrin",
+    "apprentice_name": "Gasparo, di Crestan",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5029a89d-bead-4a9c-9b68-e01a349a58e0",
+    "contract_date": "1671-06-01",
+    "workshop_parish": "San Stae",
+    "master_name": "Nicol\u00f2, di Liberal",
+    "apprentice_name": "Isepo Luchini, di Venantio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2f9d2dff-4bd3-4b65-a866-2edad08f016f",
+    "contract_date": "1681-04-22",
+    "workshop_parish": "San Stae",
+    "master_name": "Zuane Zappel",
+    "apprentice_name": "Bortolo Barindel, di Zuane",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "134e6265-6480-4109-bfb1-9475acf17553",
+    "contract_date": "1682-10-27",
+    "workshop_parish": "San Stae",
+    "master_name": "Pellegrino  Rasato",
+    "apprentice_name": "Albano Basadonna, di Piero",
+    "apprentice_origin_name": "Burano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5fed17cc-4c37-4411-8b31-b2f60882f705",
+    "contract_date": "1735-04-02",
+    "workshop_parish": "San Stae",
+    "master_name": "Zuane Davare",
+    "apprentice_name": "Zuane Battista Longo, di Anzolo",
+    "apprentice_origin_name": "Rocca"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2011f2e3-d3ad-497a-a3f5-3b87be892ca3",
+    "contract_date": "1748-11-28",
+    "workshop_parish": "San Stae",
+    "master_name": "Zuanne Davere",
+    "apprentice_name": "Battista Quelacasa",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0333c6f8-5512-4492-86e3-7f8b1941b6bf",
+    "contract_date": "1771-03-21",
+    "workshop_parish": "San Stae",
+    "master_name": "Stefano Quella Casa",
+    "apprentice_name": "Vallentin Ballestra",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1d4c097f-04a7-40d9-b34b-986f0addf772",
+    "contract_date": "1771-12-07",
+    "workshop_parish": "San Stae",
+    "master_name": "Giovanni Maria Piai",
+    "apprentice_name": "Bortolo Colussi, di Valentin",
+    "apprentice_origin_name": null
+   }
+  }
+ ]
+}

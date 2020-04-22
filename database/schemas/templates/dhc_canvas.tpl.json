@@ -1,0 +1,31 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "manifestUuid": "@iiifManifestUuid",
+        "code": "@code",
+        "label": "@multilingualLabel",
+        "description": "@multilingualDescription",
+        "width": "@width",
+        "height": "@height",
+        "viewingHint": "@viewingHint",
+        "logo": "@iiifLogo",
+        "thumbnail": "@iiifThumbnail",
+        "attribution": "@multilingualAttribution",
+        "license": "@iiifLicense",
+        "service": "@iiifService[]",
+        "seeAlso": "@iiifSeeAlso[]",
+        "related": "@iiifRelatedResource[]",
+        "metadata": {"type": "object"}
+    },
+    "additionalProperties": false,
+    "required": ["manifestUuid", "code", "label", "width", "height"],
+    "_annotationRules": {
+        "images": {
+            "allowMultiple": true
+        },
+        "tags": {
+            "allowMultiple": true
+        }
+    }
+}

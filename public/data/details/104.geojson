@@ -1,0 +1,300 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/104.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c5e7f571-255c-4b3c-b5ec-18992c4b9114",
+    "contract_date": "1575-08-08",
+    "workshop_parish": "San Paternian",
+    "master_name": "Zanantonio",
+    "apprentice_name": "Zuane Di Colii, di Lorenzo",
+    "apprentice_origin_name": "Bregaglia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4a350922-3cb6-414b-b5c0-253597d7c26d",
+    "contract_date": "1576-03-02",
+    "workshop_parish": "San Paternian",
+    "master_name": "Bortholo",
+    "apprentice_name": "Bernardin, quondam Domenego",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c5c1b189-7669-431c-a5a7-a902604a60c8",
+    "contract_date": "1584-10-24",
+    "workshop_parish": "San Paternian",
+    "master_name": "Zuane",
+    "apprentice_name": "Lorenzo, di Zuane",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c92fc773-2e70-456c-ab7e-2574b3a9a880",
+    "contract_date": "1591-11-04",
+    "workshop_parish": "San Paternian",
+    "master_name": "Biasio",
+    "apprentice_name": "Bernardin, quondam Zuane",
+    "apprentice_origin_name": "Monfalcone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d5d6f96e-a416-4629-b9d4-d99b6d2c8a75",
+    "contract_date": "1594-07-12",
+    "workshop_parish": "San Paternian",
+    "master_name": "Toma",
+    "apprentice_name": "Ambrosso Lontier, di Piero Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8a75328a-175d-4420-9cd2-eb8f8bf89c67",
+    "contract_date": "1606-06-22",
+    "workshop_parish": "San Paternian",
+    "master_name": "Gerolamo Pastis",
+    "apprentice_name": "Martin Grigis, di Francesco (di Martin)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d6c18862-8e16-4570-ab32-d62265bc2abd",
+    "contract_date": "1606-08-26",
+    "workshop_parish": "San Paternian",
+    "master_name": "Isepo Corninati",
+    "apprentice_name": "Marco, di Venturin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cc38f0b9-b580-4a67-92e3-938acdc68bf7",
+    "contract_date": "1620-10-09",
+    "workshop_parish": "San Paternian",
+    "master_name": "Pecin",
+    "apprentice_name": "Graciol, di Bortolo",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d976530d-1905-4c05-b8d6-2d265ae22ea1",
+    "contract_date": "1621-12-18",
+    "workshop_parish": "San Paternian",
+    "master_name": "Mattio Morandin",
+    "apprentice_name": "Lionardo Lionardi, di Bortolamio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "49f6d9a0-94a1-4d81-898f-159567f28b06",
+    "contract_date": "1647-01-27",
+    "workshop_parish": "San Paternian",
+    "master_name": "Andrea",
+    "apprentice_name": "Zuanne False, di Francesco",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e7656b86-f401-4286-82f0-d1875fce4e05",
+    "contract_date": "1657-03-26",
+    "workshop_parish": "San Paternian",
+    "master_name": "Antonio",
+    "apprentice_name": "Tomio, di Marino",
+    "apprentice_origin_name": "Burano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e99c5db7-31cf-410f-abc7-54998b8f0f3e",
+    "contract_date": "1664-06-16",
+    "workshop_parish": "San Paternian",
+    "master_name": "Antonio",
+    "apprentice_name": "Zuanne Gaz, di Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "32f400a0-5387-4a92-99f9-18614cad16d2",
+    "contract_date": "1664-07-07",
+    "workshop_parish": "San Paternian",
+    "master_name": "Michel Stricnar",
+    "apprentice_name": "Zorzi, di Drerto?",
+    "apprentice_origin_name": "Germania"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "418fa4bd-736b-49b2-a5a6-32c4ee2a4424",
+    "contract_date": "1681-06-02",
+    "workshop_parish": "San Paternian",
+    "master_name": "Michiel Stericar",
+    "apprentice_name": "Gerolamo Pasqualin, quondam Ercole",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "855efa96-c5d1-47ba-8708-74fe03ee4134",
+    "contract_date": "1681-11-19",
+    "workshop_parish": "San Paternian",
+    "master_name": "Michiel Strichener",
+    "apprentice_name": "Bortolo Carer, quondam Antonio",
+    "apprentice_origin_name": "Mestre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0e255f33-cce8-462a-81e4-88905a1a75e6",
+    "contract_date": "1703-01-18",
+    "workshop_parish": "San Paternian",
+    "master_name": "Zuan Battista dal Cason",
+    "apprentice_name": "Martin Bacalin, di Filippo",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "51a8b409-6a26-4834-9598-80ecbc2607dc",
+    "contract_date": "1703-01-21",
+    "workshop_parish": "San Paternian",
+    "master_name": "Zorzi Faorosi, Ghei",
+    "apprentice_name": "Agostin Gisoni, di Oratio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2c86b937-8f30-47ef-b52b-d49a47bb7c34",
+    "contract_date": "1710-10-01",
+    "workshop_parish": "San Paternian",
+    "master_name": "Pompeo Mazzini",
+    "apprentice_name": "Rinaldo Liozopa",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0d8fa888-24af-4a26-baa8-2bb3035d8169",
+    "contract_date": "1712-01-10",
+    "workshop_parish": "San Paternian",
+    "master_name": "Zuanne Taurian",
+    "apprentice_name": "Battista Chiapolini, di Iseppo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ec701489-8ae9-4b97-a891-e2117d81cc37",
+    "contract_date": "1732-05-07",
+    "workshop_parish": "San Paternian",
+    "master_name": "Piero Barbana",
+    "apprentice_name": "Gabriel De Gabriel, di Andrea",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3fe98c66-7f31-4348-bf37-ddfb12c6b815",
+    "contract_date": "1733-07-27",
+    "workshop_parish": "San Paternian",
+    "master_name": "Domenico Agustina",
+    "apprentice_name": "Zuanne Sgare, di Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c524ec39-c6a1-489a-bcb0-f1d41517a450",
+    "contract_date": "1743-11-27",
+    "workshop_parish": "San Paternian",
+    "master_name": "Zuane Battista Barbana",
+    "apprentice_name": "Nadal Sopera, di Battista (di Gasparo)",
+    "apprentice_origin_name": "Rocca Pietore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4c3e3e4a-810d-4d6d-8598-9512c6d64014",
+    "contract_date": "1771-02-20",
+    "workshop_parish": "San Paternian",
+    "master_name": "Giacomo Conto",
+    "apprentice_name": "Giuseppe Dagai, di Simon (quondam Giovanni Battista)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b5f7261e-f70e-4bfe-9e30-d060948e5949",
+    "contract_date": "1771-02-20",
+    "workshop_parish": "San Paternian",
+    "master_name": "Giacomo Conto",
+    "apprentice_name": "Antonio De Lucia, di Francesco (quondam Piero)",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  }
+ ]
+}

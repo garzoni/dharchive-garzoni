@@ -1,0 +1,1896 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/236.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "810909de-6f33-42f0-a919-5ced861a4acb",
+    "contract_date": "1575-01-03",
+    "workshop_parish": "San Luca",
+    "master_name": "Alessandro",
+    "apprentice_name": "Maria, quondam Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ed688c34-25e1-4ee8-9298-c41a3c2a4f00",
+    "contract_date": "1575-06-16",
+    "workshop_parish": "San Luca",
+    "master_name": "Luca",
+    "apprentice_name": "Felippo, di Zuane",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f0df56c9-fd66-49c2-8c13-ad24d00cf065",
+    "contract_date": "1575-06-16",
+    "workshop_parish": "San Luca",
+    "master_name": "Luca",
+    "apprentice_name": "Felippo, di Zuane",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0f8a88f6-3233-4297-9a48-ecabbaf28518",
+    "contract_date": "1575-06-23",
+    "workshop_parish": "San Luca",
+    "master_name": "Philippo",
+    "apprentice_name": "Francesco, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5891d640-6040-4207-b01f-c824d1eef768",
+    "contract_date": "1575-07-05",
+    "workshop_parish": "San Luca",
+    "master_name": "Bastian, di Bernardin",
+    "apprentice_name": "Francesco, di Piero (di Bortholo)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "32eb430b-9f92-40ce-b766-e30be85d40dd",
+    "contract_date": "1575-07-18",
+    "workshop_parish": "San Luca",
+    "master_name": "Francesco",
+    "apprentice_name": "Lucio di Pelizari, di Zandomenego",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2544c861-fb46-444a-9e4a-85b985cc7f05",
+    "contract_date": "1575-08-09",
+    "workshop_parish": "San Luca",
+    "master_name": "Bortgolo, di Bernardin",
+    "apprentice_name": "Zan Antonio, di Alvise",
+    "apprentice_origin_name": "Meduno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "069718fe-fd1f-495f-b342-a566e1d28bc8",
+    "contract_date": "1575-08-31",
+    "workshop_parish": "San Luca",
+    "master_name": "Domenego, di Andrea",
+    "apprentice_name": "Piero Antonio, quondam Lunardo",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "71bbb0f4-8d84-4d59-a0b5-e9acb289fddb",
+    "contract_date": "1575-09-23",
+    "workshop_parish": "San Luca",
+    "master_name": "Zan Antonio Bertan",
+    "apprentice_name": "Symon Carduci, di Vicenzo",
+    "apprentice_origin_name": "Gargnano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fe8a9657-c8f3-4b8b-b96e-dba68e53842d",
+    "contract_date": "1575-10-05",
+    "workshop_parish": "San Luca",
+    "master_name": "Antonio, quondam Zuane",
+    "apprentice_name": "Iseppo, quondam Fiorin",
+    "apprentice_origin_name": "Spilimbergo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cb9441b2-0bfe-47e1-af01-329dcaa33244",
+    "contract_date": "1575-11-10",
+    "workshop_parish": "San Luca",
+    "master_name": "Zane",
+    "apprentice_name": "Zan Battista Dal Pozzo, di Thadio",
+    "apprentice_origin_name": "Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "31a66d54-4051-4839-a717-672f9fd7db59",
+    "contract_date": "1575-11-23",
+    "workshop_parish": "San Luca",
+    "master_name": "Paulo Napolitano",
+    "apprentice_name": "Piero, quondam Zuane",
+    "apprentice_origin_name": "Mestre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "71b7fa32-50fb-4676-8963-1fd0a6ec7c5c",
+    "contract_date": "1575-12-22",
+    "workshop_parish": "San Luca",
+    "master_name": "Iulio",
+    "apprentice_name": "Bernardin, di Domenego",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "32b12ead-8f0e-4694-8419-a51cd9f02658",
+    "contract_date": "1576-03-03",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane, di Thomaso",
+    "apprentice_name": "Antonio, di Zan Maria",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d2d58ea1-0532-4c59-8e3a-930049536861",
+    "contract_date": "1582-04-14",
+    "workshop_parish": "San Luca",
+    "master_name": "Battista, di Francesco",
+    "apprentice_name": "Paulo, quondam Francesco",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "71a57f29-28af-4e2d-b4c8-eed58cba5b40",
+    "contract_date": "1582-08-22",
+    "workshop_parish": "San Luca",
+    "master_name": "Bortollo",
+    "apprentice_name": "Berto, di Crestin",
+    "apprentice_origin_name": "Valle Sabbia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b769734e-8bf8-46c7-812c-ab24ef43efce",
+    "contract_date": "1582-09-19",
+    "workshop_parish": "San Luca",
+    "master_name": "Andrea, di Tomaso",
+    "apprentice_name": "Isepo, quondam Francesco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7db973a9-4a10-4995-9e70-ffd19aa479eb",
+    "contract_date": "1582-12-16",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuanne Antonio",
+    "apprentice_name": "Vicenzo De Talmai, quondam Zan",
+    "apprentice_origin_name": "Tolmezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a9afb536-7643-4f8d-82c2-4d506653182a",
+    "contract_date": "1583-01-12",
+    "workshop_parish": "San Luca",
+    "master_name": "Domenico",
+    "apprentice_name": "Nicollo, di Antonio",
+    "apprentice_origin_name": "Verzegnis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8374d22d-427d-46e3-84eb-853c663c1a85",
+    "contract_date": "1583-02-22",
+    "workshop_parish": "San Luca",
+    "master_name": "Giacomo, di Zuane",
+    "apprentice_name": "Pelegrin de Pancier, di Zanantonio",
+    "apprentice_origin_name": "Cividale"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ff963758-ec34-4bd9-a2a6-a90a8399ec10",
+    "contract_date": "1583-06-21",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuanne, di Vicenzo",
+    "apprentice_name": "Battista, di Zuanne Antonio",
+    "apprentice_origin_name": "Val Trompia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "16f486c0-780f-49f9-acaa-c3320861b4ec",
+    "contract_date": "1583-06-28",
+    "workshop_parish": "San Luca",
+    "master_name": "Zulian, di Francesco",
+    "apprentice_name": "Giacomo, di Bertolamio",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1d72ee78-85a1-4362-b257-4f6b7bd0c313",
+    "contract_date": "1583-08-12",
+    "workshop_parish": "San Luca",
+    "master_name": "Battista",
+    "apprentice_name": "Plauto, quondam Paolo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "97892163-18ab-4d7d-8589-0f5a79169426",
+    "contract_date": "1583-10-25",
+    "workshop_parish": "San Luca",
+    "master_name": "Antonio, di Felipo",
+    "apprentice_name": "Ruger Lochatelli, di Felipo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "90d625f1-9796-41f3-9362-3ddf2b63c8e6",
+    "contract_date": "1583-11-14",
+    "workshop_parish": "San Luca",
+    "master_name": "Zamaria  di viollini",
+    "apprentice_name": "Gasparina, di Daniel",
+    "apprentice_origin_name": "San Daniele del Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "65841c8d-2e9d-409e-806c-8e0a33cc92fc",
+    "contract_date": "1583-12-09",
+    "workshop_parish": "San Luca",
+    "master_name": "Giacomo di Guci",
+    "apprentice_name": "Ruggero, quondam Francesco",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eb2267c1-a655-4a7c-90a2-1ca93a3b724b",
+    "contract_date": "1584-08-13",
+    "workshop_parish": "San Luca",
+    "master_name": "Simon Catani",
+    "apprentice_name": "Nicoll\u00f2 Drago, di Santo",
+    "apprentice_origin_name": "Capodistria"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ecf81d39-214e-4f5e-98a1-63175bffb2c7",
+    "contract_date": "1584-10-26",
+    "workshop_parish": "San Luca",
+    "master_name": "Battista",
+    "apprentice_name": "Alessandro, quondam Domenico",
+    "apprentice_origin_name": "Prata di Pordenone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8526f5df-ec34-465c-a3a6-3b9da2b77683",
+    "contract_date": "1584-11-05",
+    "workshop_parish": "San Luca",
+    "master_name": "Zen Patrun",
+    "apprentice_name": "Domenigo Nassudo, quondam Ben",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "94600600-970b-4650-b297-78db53ba84ea",
+    "contract_date": "1584-11-28",
+    "workshop_parish": "San Luca",
+    "master_name": "Donado, di Antonio",
+    "apprentice_name": "Antonio, di Vido",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "44973035-167a-4ee5-b3e8-4841d92db79c",
+    "contract_date": "1584-12-10",
+    "workshop_parish": "San Luca",
+    "master_name": "Paulo",
+    "apprentice_name": "Rugier, quondam Francesco",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8f27df25-4729-44e1-ba1c-7fe89cf4b377",
+    "contract_date": "1591-10-01",
+    "workshop_parish": "San Luca",
+    "master_name": "Beneto",
+    "apprentice_name": "Giacomo, di Adriano",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "31265b1c-9c95-436d-812b-57b019fe0abb",
+    "contract_date": "1592-01-04",
+    "workshop_parish": "San Luca",
+    "master_name": "Bertollo",
+    "apprentice_name": "Piero, quondam Andrea",
+    "apprentice_origin_name": "Agordo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d850367f-4645-4f50-8618-c063cef1786f",
+    "contract_date": "1592-02-12",
+    "workshop_parish": "San Luca",
+    "master_name": "Paulo",
+    "apprentice_name": "Bortollo Baloscho, di Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "78d99baf-d774-4efc-91f0-9a218025a678",
+    "contract_date": "1592-02-15",
+    "workshop_parish": "San Luca",
+    "master_name": "Gregorio Berciato",
+    "apprentice_name": "Ascanio Isolan, quondam Nicolo",
+    "apprentice_origin_name": "Concordia Sagittaria"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a44c4092-a0db-4c09-ba47-e2a30d1134e7",
+    "contract_date": "1592-08-08",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuan Antonio Quati",
+    "apprentice_name": "Lucio di Gnechi, di Daniel",
+    "apprentice_origin_name": "Valle Sabbia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a5d93c39-071b-4425-af8f-5255dd26f503",
+    "contract_date": "1592-08-21",
+    "workshop_parish": "San Luca",
+    "master_name": "Piero, di Boneto",
+    "apprentice_name": "Martin di Zuliani, di Zulian",
+    "apprentice_origin_name": "Arzignano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cc89939e-85f6-4366-9294-63d3c6b7d492",
+    "contract_date": "1592-09-02",
+    "workshop_parish": "San Luca",
+    "master_name": "Vivian",
+    "apprentice_name": "Francesco Poerin, quondam Giulio",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c20c21ba-c599-45df-aeb4-ff8dd6e85ae4",
+    "contract_date": "1592-09-16",
+    "workshop_parish": "San Luca",
+    "master_name": "Battista",
+    "apprentice_name": "Damian, di Battista",
+    "apprentice_origin_name": "Marmentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8161f5a4-e6f9-42a9-990b-ea98bf1e17ef",
+    "contract_date": "1592-09-25",
+    "workshop_parish": "San Luca",
+    "master_name": "Claudio",
+    "apprentice_name": "Antonio, quondam Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "96838ff8-bc3d-43dd-a230-0d34105ccdcd",
+    "contract_date": "1593-04-02",
+    "workshop_parish": "San Luca",
+    "master_name": "Furian",
+    "apprentice_name": "Zuane, di Simon",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "88895773-3d5e-42fa-8473-8ecd36066575",
+    "contract_date": "1594-01-10",
+    "workshop_parish": "San Luca",
+    "master_name": "Filipo",
+    "apprentice_name": "Antonio Capello, di Zamaria",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "51b6c61c-3190-404a-a2fb-7d449cdfcf35",
+    "contract_date": "1594-02-14",
+    "workshop_parish": "San Luca",
+    "master_name": "Baldisera Moscateli",
+    "apprentice_name": "Zamaria, di Rinaldo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2d4a1217-2ace-4f86-85a9-a1920cf75821",
+    "contract_date": "1594-07-04",
+    "workshop_parish": "San Luca",
+    "master_name": "Pietro Manenti; Piero, di Antonio",
+    "apprentice_name": "Antonio, quondam Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "efe63bc9-4834-4f67-98a7-09d1aade5613",
+    "contract_date": "1594-08-03",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane",
+    "apprentice_name": "Lucia, di Francesco",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "431ed455-9fee-42ba-a7cd-3bb32f066f34",
+    "contract_date": "1594-10-14",
+    "workshop_parish": "San Luca",
+    "master_name": "Baldissera",
+    "apprentice_name": "Francesco Bertiati",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "28c32633-163e-4f14-bb6c-56876b241177",
+    "contract_date": "1594-11-23",
+    "workshop_parish": "San Luca",
+    "master_name": "Alisso",
+    "apprentice_name": "Giacomo, quondam Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "12f34c23-dc4e-4d48-99e1-6d5597342ef7",
+    "contract_date": "1595-03-03",
+    "workshop_parish": "San Luca",
+    "master_name": "Piero",
+    "apprentice_name": "Lunardo, di Alessandro",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4e9659dc-2917-45d8-a21b-95986424d990",
+    "contract_date": "1595-05-19",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane, quondam Antonio",
+    "apprentice_name": "Biasio Favreto, quondam Anbrosso",
+    "apprentice_origin_name": "Scorz\u00e8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "265290b6-154e-480c-a8f0-c2a39a8e031c",
+    "contract_date": "1596-01-22",
+    "workshop_parish": "San Luca",
+    "master_name": "Zen Patena",
+    "apprentice_name": "Plinio Maruci, di Piero Bon",
+    "apprentice_origin_name": "Mantova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fc4ae564-0b94-491d-a591-f63c7c3fec30",
+    "contract_date": "1596-07-31",
+    "workshop_parish": "San Luca",
+    "master_name": "Gregorio",
+    "apprentice_name": "Bortollo Balocho, quondam Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6a9489fb-529e-4f8f-b266-6fc8fd35fbc7",
+    "contract_date": "1596-08-12",
+    "workshop_parish": "San Luca",
+    "master_name": "Battista",
+    "apprentice_name": "Zuanne Piero, di Antonio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "99e0f8e5-0437-4a39-8c10-38ffb4e31dd7",
+    "contract_date": "1596-09-06",
+    "workshop_parish": "San Luca",
+    "master_name": "Anzolo",
+    "apprentice_name": "Bernardin, di Felipo",
+    "apprentice_origin_name": "San Daniele"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "04071377-387f-4d47-b9d2-8861d79fd917",
+    "contract_date": "1596-11-04",
+    "workshop_parish": "San Luca",
+    "master_name": "Florian",
+    "apprentice_name": "Gregorio, quondam Allvise",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "938b404b-63e2-44d9-a6ac-587ece9d75d9",
+    "contract_date": "1597-03-07",
+    "workshop_parish": "San Luca",
+    "master_name": "Menego",
+    "apprentice_name": "Anzola, di Marco",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "539a8eb4-328d-445b-b0f5-ee84d49d4060",
+    "contract_date": "1597-06-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane",
+    "apprentice_name": "Dionise, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0c9b789d-a150-4f47-8c84-a28ade649fd4",
+    "contract_date": "1597-09-10",
+    "workshop_parish": "San Luca",
+    "master_name": "Bernardino, di Boneto",
+    "apprentice_name": "Marco, quondam Zorzi",
+    "apprentice_origin_name": "Brogliano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e5d766e5-6613-454f-955a-1d9c920d6854",
+    "contract_date": "1597-10-23",
+    "workshop_parish": "San Luca",
+    "master_name": "Beneto",
+    "apprentice_name": "Giacomo, di Adrian",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3511240c-99b4-49b8-a41e-a0b5d5aa1312",
+    "contract_date": "1597-10-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Antonio Di Capetanii",
+    "apprentice_name": "Battista, di Fraffego",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0d4b9b7d-42f2-4cc5-a13a-94b5860f95bc",
+    "contract_date": "1598-01-23",
+    "workshop_parish": "San Luca",
+    "master_name": "Alessandro di Recchi",
+    "apprentice_name": "Zorzi Spavanto, di Giacomo",
+    "apprentice_origin_name": "San Giorgio della Richinvelda"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "441e1444-12bc-4582-b205-50dfc35087e3",
+    "contract_date": "1598-04-01",
+    "workshop_parish": "San Luca",
+    "master_name": "Bernardin Riviera",
+    "apprentice_name": "Piero, di Antonio",
+    "apprentice_origin_name": "Firenze"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4ad10ce4-8dc5-48ec-ba6f-0608d9e60954",
+    "contract_date": "1598-04-06",
+    "workshop_parish": "San Luca",
+    "master_name": "Bernardin Riviera",
+    "apprentice_name": "Menego, di Francesco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ebdba90-3775-4fc0-821b-177538db606d",
+    "contract_date": "1598-06-08",
+    "workshop_parish": "San Luca",
+    "master_name": "Marco",
+    "apprentice_name": "Piero, quondam Isepo",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d528a9a1-3eae-4cbf-a5db-5ec08e6c4314",
+    "contract_date": "1598-07-06",
+    "workshop_parish": "San Luca",
+    "master_name": "Baldisera",
+    "apprentice_name": "Paulo Cararo, quondam Zuane Battista",
+    "apprentice_origin_name": "Noale"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9334d93d-e12e-4230-8b89-ec045a025f15",
+    "contract_date": "1598-08-19",
+    "workshop_parish": "San Luca",
+    "master_name": "Paulo, di Michiel",
+    "apprentice_name": "Bastian Trivella, di Giacomo",
+    "apprentice_origin_name": "Udine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0249a899-58d8-498c-b54b-77cfd19a7e6b",
+    "contract_date": "1598-08-21",
+    "workshop_parish": "San Luca",
+    "master_name": "Domenico",
+    "apprentice_name": "Anzelicha, di Piero (di Francesco)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6942b5c1-d84e-4a49-add9-649f1c132944",
+    "contract_date": "1598-09-23",
+    "workshop_parish": "San Luca",
+    "master_name": "Polo",
+    "apprentice_name": "Lunardo, di Zuane (di Pasqualin)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7da07395-6d4c-48c4-9d2c-376f498d0cb6",
+    "contract_date": "1598-09-24",
+    "workshop_parish": "San Luca",
+    "master_name": "Bortollo",
+    "apprentice_name": "Bortollo, quondam Andrea",
+    "apprentice_origin_name": "Schiavonia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "12bec7e2-80ba-4577-9eba-af74df786fe3",
+    "contract_date": "1598-12-01",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane Rasa",
+    "apprentice_name": "Betta di Galli, quondam Tomaso",
+    "apprentice_origin_name": "Marostica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "90995947-3b2a-4ee4-8147-a96bb70eff59",
+    "contract_date": "1598-12-01",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane Rasa",
+    "apprentice_name": "Anzola di Galli, quondam Tomaso",
+    "apprentice_origin_name": "Marostica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "afddecd2-0296-4cbd-b92b-847b702e75a3",
+    "contract_date": "1599-03-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Simon, di Piero",
+    "apprentice_name": "Zuane Alvise Fachin, quondam Andrea",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0547040a-c08f-44ff-86d2-7125d22c86af",
+    "contract_date": "1599-05-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Tomaso, di Gregorio",
+    "apprentice_name": "Giacomo, di Cristan",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "563853cc-e60f-45ff-95a8-1a808f1e675a",
+    "contract_date": "1606-01-04",
+    "workshop_parish": "San Luca",
+    "master_name": "Andrea, di Tomaso",
+    "apprentice_name": "Zuane Megianti, di Bernardin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e749c238-08f9-4add-a877-265b1bab894d",
+    "contract_date": "1606-01-11",
+    "workshop_parish": "San Luca",
+    "master_name": "Borthollo Comol",
+    "apprentice_name": "Antonio, di Obizo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "19824dca-1f15-46b2-858a-be2280e31ccc",
+    "contract_date": "1606-01-18",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane",
+    "apprentice_name": "Zuanne Antonio Di Michieli, di Martin",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "717f0f0b-0c25-48ec-9e95-3c6c48f439fc",
+    "contract_date": "1606-02-13",
+    "workshop_parish": "San Luca",
+    "master_name": "Zamaria",
+    "apprentice_name": "Piero, quondam Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "72449e52-546c-4e79-acac-4d61d7c819c2",
+    "contract_date": "1606-05-08",
+    "workshop_parish": "San Luca",
+    "master_name": "Camillo",
+    "apprentice_name": "Cristofollo Cortenova, quondam Francesco",
+    "apprentice_origin_name": "Motta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f2a76052-bc01-4877-b988-4e84edab4cf1",
+    "contract_date": "1606-05-08",
+    "workshop_parish": "San Luca",
+    "master_name": "Camillo",
+    "apprentice_name": "Cabriel, quondam Cabriel",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e39c5954-19d7-4086-b145-8110243a003a",
+    "contract_date": "1606-05-31",
+    "workshop_parish": "San Luca",
+    "master_name": "Camillo Luvelli",
+    "apprentice_name": "Tomaso, di Venturin",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b79f51d6-b67c-4465-9c82-9c70c5710cea",
+    "contract_date": "1606-07-03",
+    "workshop_parish": "San Luca",
+    "master_name": "Aquilante",
+    "apprentice_name": "Menego, di Marin",
+    "apprentice_origin_name": "Cividale del Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e638e449-e0d1-4b9d-a044-392efbcb8efe",
+    "contract_date": "1606-07-13",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane Lorenzoni",
+    "apprentice_name": "Vicenzo Lion, di Zan Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "293ad2a6-f4ac-489e-8786-c12b97df8ff8",
+    "contract_date": "1606-10-14",
+    "workshop_parish": "San Luca",
+    "master_name": "Zamaria",
+    "apprentice_name": "Gerolamo Di Chiari, quondam Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "590f825e-2f7a-458f-8671-9e23a0ac45f7",
+    "contract_date": "1606-10-19",
+    "workshop_parish": "San Luca",
+    "master_name": "Andrea, di Tomaso",
+    "apprentice_name": "Zuane Meschin, di Borthollo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1e054c27-6dfa-42ca-b500-f72321853592",
+    "contract_date": "1609-07-24",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane Cresenzi",
+    "apprentice_name": "Zuane Piero di Marchesi, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "035cc40d-ee46-41c2-bbb6-219548027dc0",
+    "contract_date": "1609-09-17",
+    "workshop_parish": "San Luca",
+    "master_name": "Iseppo Civandini",
+    "apprentice_name": "Matio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "84d99fb9-a0f8-4c3a-bb69-88d5619f3f86",
+    "contract_date": "1610-04-29",
+    "workshop_parish": "San Luca",
+    "master_name": "Bernardo, di Piero",
+    "apprentice_name": "Lorenzo, quondam Simone",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ca5355b-3f07-4698-8ff8-d033f82a2f23",
+    "contract_date": "1620-07-20",
+    "workshop_parish": "San Luca",
+    "master_name": "Baldassarre",
+    "apprentice_name": "Nadal Giubilato, di Pietro",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9998f47e-f7dc-42ff-86f1-8aef1b0a239f",
+    "contract_date": "1620-08-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Andrea",
+    "apprentice_name": "Christofolo, di Andrea",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9cc3cdaa-920b-4bef-8553-264e8b024d11",
+    "contract_date": "1621-05-24",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane de Troglio",
+    "apprentice_name": "Donato Boselo, di Bernardo",
+    "apprentice_origin_name": "Camposampiero"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "566543f0-bd6f-4557-a582-505d527bcbdf",
+    "contract_date": "1621-08-23",
+    "workshop_parish": "San Luca",
+    "master_name": "Bortolo de Michieli, di Geronimo",
+    "apprentice_name": "Giorgio Fachetti, di Pasin",
+    "apprentice_origin_name": "Riviera di Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "93603c87-f77e-4b7f-a0f3-7258615bf254",
+    "contract_date": "1621-09-06",
+    "workshop_parish": "San Luca",
+    "master_name": "Baldisera Moscatelli",
+    "apprentice_name": "Zuane, di Alfonso",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2ffee3db-36ac-491c-a955-cf396e1a93aa",
+    "contract_date": "1621-09-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Lonardo",
+    "apprentice_name": "Cristan, quondam Battista",
+    "apprentice_origin_name": "Corvara in Badia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "67499adb-5f23-4fd8-aea6-7f134391d740",
+    "contract_date": "1621-10-11",
+    "workshop_parish": "San Luca",
+    "master_name": "Santo Ballota, quondam Francesco",
+    "apprentice_name": "Dominico Caretto, quondam Francesco",
+    "apprentice_origin_name": "Este"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f03d9cd6-4db8-4623-906d-ad59f1e2009f",
+    "contract_date": "1621-10-14",
+    "workshop_parish": "San Luca",
+    "master_name": "Simon Cattani",
+    "apprentice_name": "Zuane Berselli, quondam Giacomo",
+    "apprentice_origin_name": "Montagnana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "484f2e1e-184d-4693-b1d3-08beaf953b39",
+    "contract_date": "1621-10-21",
+    "workshop_parish": "San Luca",
+    "master_name": "Giovan Maria di Fanti",
+    "apprentice_name": "Giovane Lusenti, quondam Antonio",
+    "apprentice_origin_name": "Riviera di Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "070cd220-0213-46a1-a9eb-343ad1a98d82",
+    "contract_date": "1621-12-18",
+    "workshop_parish": "San Luca",
+    "master_name": "Antonio Ronchi",
+    "apprentice_name": "Angiolo Ronchi, di Bortolamio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "83d2065a-f7eb-4aa2-b2ff-081316ab6ff8",
+    "contract_date": "1622-04-19",
+    "workshop_parish": "San Luca",
+    "master_name": "Antonio Corlo, quondam Zuane",
+    "apprentice_name": "Martino di Corli, quondam Bortolo",
+    "apprentice_origin_name": "Riviera di Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "239a99b2-63b8-420c-a65b-375524ecee6c",
+    "contract_date": "1622-06-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Michiel Bertoldi",
+    "apprentice_name": "Zan Battista, quondam Zanbattista",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9181c4bc-dee7-4fc8-9387-212d48691bf1",
+    "contract_date": "1622-11-22",
+    "workshop_parish": "San Luca",
+    "master_name": "Domenego",
+    "apprentice_name": "Santo Faccin, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d931d3a6-1bc5-4123-95b8-65478bcca318",
+    "contract_date": "1622-11-22",
+    "workshop_parish": "San Luca",
+    "master_name": "Domenego",
+    "apprentice_name": "Mattio Faccin, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "00265b16-ac7a-40e4-8006-4be7958eeb90",
+    "contract_date": "1622-11-29",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane Pugolino, di Battista",
+    "apprentice_name": "Biasio de Nale, di Zan Maria",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5cc9deb9-1089-42aa-b442-b5b0e7ba4922",
+    "contract_date": "1625-01-22",
+    "workshop_parish": "San Luca",
+    "master_name": "Dominico Capello",
+    "apprentice_name": "Valerio, di Simon",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d34ffee3-4587-47d5-9467-f27906817021",
+    "contract_date": "1625-02-04",
+    "workshop_parish": "San Luca",
+    "master_name": "Mattio Cattanei, quondam Zanetto",
+    "apprentice_name": "Luca dalla Costa, di Lorenzo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5d446a1d-a45b-4ffd-9829-b52413b0dc8f",
+    "contract_date": "1625-07-30",
+    "workshop_parish": "San Luca",
+    "master_name": "Baldissera",
+    "apprentice_name": "Gioanni, di Pietro",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "418113b8-ef48-49e1-9c2e-2d393db0a5fb",
+    "contract_date": "1626-11-03",
+    "workshop_parish": "San Luca",
+    "master_name": "Francesco Spiera",
+    "apprentice_name": "Hortensio, quondam Bellotto",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "86ae08df-cef0-40b9-8b90-350a5412fd7e",
+    "contract_date": "1632-02-10",
+    "workshop_parish": "San Luca",
+    "master_name": "Francesco Zonato",
+    "apprentice_name": "Isepo Vancin, di Bernardin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bada564b-3b9b-4d17-985c-196c11057350",
+    "contract_date": "1632-03-23",
+    "workshop_parish": "San Luca",
+    "master_name": "Domenico Capello",
+    "apprentice_name": "Carlo Mazzolino, quondam Gioani",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ef0621e0-5363-4ef9-8de7-aec6fb832b27",
+    "contract_date": "1632-04-19",
+    "workshop_parish": "San Luca",
+    "master_name": "Francesco  Zoneto",
+    "apprentice_name": "Isepo Trevo, quondam Bastian",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cb3cca1c-1fd7-41c4-9cd2-a50654f3962b",
+    "contract_date": "1632-04-28",
+    "workshop_parish": "San Luca",
+    "master_name": "Sebastian, quondam Giacomo",
+    "apprentice_name": "Georgio Dal Sol, di Georgio",
+    "apprentice_origin_name": "Brunico"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "29a008f5-435b-4d98-a3ce-0adb69a2c1dc",
+    "contract_date": "1632-05-06",
+    "workshop_parish": "San Luca",
+    "master_name": "Carlo",
+    "apprentice_name": "Giacomo, di Bortolamio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "91d91159-c123-44a8-8c10-d2d5c1babf08",
+    "contract_date": "1632-07-30",
+    "workshop_parish": "San Luca",
+    "master_name": "Menego, quondam Lorenzzo",
+    "apprentice_name": "Paulo Pecadin, quondam Lorenzzo",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b2993c9a-ecf3-493a-bebd-1d7ac1d75770",
+    "contract_date": "1642-02-03",
+    "workshop_parish": "San Luca",
+    "master_name": "Polo  Galizon ",
+    "apprentice_name": "Zuane  Dolzadel , quondam Zuane ",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "37f7f384-858f-45e7-accb-2627f69e0afd",
+    "contract_date": "1644-07-19",
+    "workshop_parish": "San Luca",
+    "master_name": "Bernardo Martinelli",
+    "apprentice_name": "Piero Segato, di Zulian",
+    "apprentice_origin_name": "Tolmezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "abb45724-bba4-49cf-877b-4bf4c9630fe0",
+    "contract_date": "1644-08-11",
+    "workshop_parish": "San Luca",
+    "master_name": "Piero Dival",
+    "apprentice_name": "Piero Costantini, di Biasio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f2029be6-ff51-4e97-b3f1-462ac5226bdb",
+    "contract_date": "1644-09-16",
+    "workshop_parish": "San Luca",
+    "master_name": "Antonio Race",
+    "apprentice_name": "Iseppo Munchin, quondam Antonio Maria",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dadb2af3-8108-4e98-860d-ee76524dd26d",
+    "contract_date": "1644-09-22",
+    "workshop_parish": "San Luca",
+    "master_name": "Stefano Peralchi",
+    "apprentice_name": "Carlo Carnasi, di Alberto",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "54b245f1-c29d-49c6-89a0-4fdda549375a",
+    "contract_date": "1644-10-25",
+    "workshop_parish": "San Luca",
+    "master_name": "Giulio Nave",
+    "apprentice_name": "Zordan Livo, di Filippo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "49556c6e-3d39-4ff4-996d-b375e4d492c4",
+    "contract_date": "1644-12-01",
+    "workshop_parish": "San Luca",
+    "master_name": "Giulio Stane",
+    "apprentice_name": "Geronimo Di Grandi, quondam Battista",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0de62800-193e-4a35-912c-6012934e8d77",
+    "contract_date": "1645-10-19",
+    "workshop_parish": "San Luca",
+    "master_name": "Pietro",
+    "apprentice_name": "Agustin Gasparin, quondam Santo",
+    "apprentice_origin_name": "Mirano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "12e66b34-ea10-425b-a6b7-207a7a6ae0dd",
+    "contract_date": "1645-11-22",
+    "workshop_parish": "San Luca",
+    "master_name": "Simon Corado, quondam Nicoletto",
+    "apprentice_name": "Francesco Canaro, di Agustin",
+    "apprentice_origin_name": "Mirano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "25a4f3ae-24eb-4ef5-921f-8add0dac8d4d",
+    "contract_date": "1645-12-04",
+    "workshop_parish": "San Luca",
+    "master_name": "Gioachin Rodasin",
+    "apprentice_name": "Piero Bernardi, quondam Luca",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "04412429-c388-4348-8ab4-4e4e18622212",
+    "contract_date": "1646-02-11",
+    "workshop_parish": "San Luca",
+    "master_name": "Anzolo",
+    "apprentice_name": "Zuanne, quondam Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c78ab4ae-5145-464a-98f7-fa488d3505d3",
+    "contract_date": "1646-03-26",
+    "workshop_parish": "San Luca",
+    "master_name": "Ambroso Merlo",
+    "apprentice_name": "Piero Rubino, di Sfitio?",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a40a5523-0adb-40e6-b205-8fabc3be51af",
+    "contract_date": "1647-03-07",
+    "workshop_parish": "San Luca",
+    "master_name": "Steffano",
+    "apprentice_name": "Menego de Zanettin, di Batista",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b71c700b-8f1a-4885-ad0e-752577c7ed8a",
+    "contract_date": "1647-08-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Zamaria di Gaspari",
+    "apprentice_name": "Zamaria, di Giacomo",
+    "apprentice_origin_name": "Cortina D'Ampezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "29a6efe7-d6d4-4858-9344-eb4abebd18ed",
+    "contract_date": "1647-11-16",
+    "workshop_parish": "San Luca",
+    "master_name": "Ventura Girardi",
+    "apprentice_name": "Zuane Norin, di Bortolo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4ac3d048-1b4f-45d1-b4a0-fc40f6cde262",
+    "contract_date": "1653-03-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Antonio",
+    "apprentice_name": "Piero Cornello, quondam Luca",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a13f1c57-559d-4b05-a145-1615ae1206c3",
+    "contract_date": "1656-09-16",
+    "workshop_parish": "San Luca",
+    "master_name": "Piero",
+    "apprentice_name": "Lorenzo Cucho, di Zuane Maria",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "80a99a77-cc09-40e2-a0ff-95354e2c2fe5",
+    "contract_date": "1657-03-16",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane Garibaldi",
+    "apprentice_name": "Carlo Cas, quondam Giacomo",
+    "apprentice_origin_name": "Bassano del Grappa"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "898b77aa-fe73-40df-98cf-64b8526d3e2b",
+    "contract_date": "1657-07-29",
+    "workshop_parish": "San Luca",
+    "master_name": "Cristoforo Zagani",
+    "apprentice_name": "Menego Agostini, di Giacomo",
+    "apprentice_origin_name": "Trento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f48ee54d-852c-4da5-b8d9-0f919fcb0a29",
+    "contract_date": "1658-01-03",
+    "workshop_parish": "San Luca",
+    "master_name": "Christofolo Zagane",
+    "apprentice_name": "Piero Silvestrin, quondam David",
+    "apprentice_origin_name": "Conegliano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "55687dd9-00b0-49da-b9fa-1d92c1e2391c",
+    "contract_date": "1658-01-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane Tavernier",
+    "apprentice_name": "Mattio Bertoso, di Zuane",
+    "apprentice_origin_name": "San Stin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6d98c7a9-1beb-46c8-902b-c58ac2099408",
+    "contract_date": "1658-02-14",
+    "workshop_parish": "San Luca",
+    "master_name": "Giacomo Prandi",
+    "apprentice_name": "Gregorio C\u00f9, di Simon",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e595b5aa-9b5c-4d12-81ad-58a79ae9e227",
+    "contract_date": "1658-06-01",
+    "workshop_parish": "San Luca",
+    "master_name": "Lorenzo Borella",
+    "apprentice_name": "Battista  Sonzonio, quondam Iseppo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "280c8c48-4f21-47bd-be61-3f973d9b606d",
+    "contract_date": "1659-05-08",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuanne Giosi",
+    "apprentice_name": "Andrea, quondam Andrea (di Giacomo)",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "87762127-bafe-47cd-b39b-eef1a15e5c1e",
+    "contract_date": "1659-07-19",
+    "workshop_parish": "San Luca",
+    "master_name": "Giacomo Prandi",
+    "apprentice_name": "Antonio Cavalli, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "16fb5e63-2183-4283-81b8-74e96fb5d0a5",
+    "contract_date": "1659-10-09",
+    "workshop_parish": "San Luca",
+    "master_name": "Mattio Roato",
+    "apprentice_name": "Zuane Bazetto, quondam Fellippo",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f708ee5d-cc54-45b4-ac01-e02f45659b00",
+    "contract_date": "1662-02-05",
+    "workshop_parish": "San Luca",
+    "master_name": "Piero Vinal",
+    "apprentice_name": "Bortolo Borin, quondam Stefano",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "605b189d-186d-4577-b3a8-0e0e54cb3fd3",
+    "contract_date": "1662-03-07",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane Garibaldi",
+    "apprentice_name": "Antonio Tobio, di Francesco",
+    "apprentice_origin_name": "Bassano del Grappa"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "353bd0bd-15cb-4909-92f8-e5fd9745cbd3",
+    "contract_date": "1662-10-14",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane",
+    "apprentice_name": "Zuane Antonio Conagia ?, quondam Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "893b23e1-b8e7-417d-bbfa-6ab1d2d5ce6c",
+    "contract_date": "1663-10-15",
+    "workshop_parish": "San Luca",
+    "master_name": "Giacomo Lorenzetti",
+    "apprentice_name": "Andrea Paulato, di Domenico",
+    "apprentice_origin_name": "San Daniele del Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "34f2f347-2d7b-47ac-8e39-3c91192320d8",
+    "contract_date": "1664-01-12",
+    "workshop_parish": "San Luca",
+    "master_name": "Mattio Coarin",
+    "apprentice_name": "Francesco Salvaldello, di Steffano",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8a8314b7-799e-4b69-b861-28213f59eec9",
+    "contract_date": "1664-03-05",
+    "workshop_parish": "San Luca",
+    "master_name": "Piero, di Filippo",
+    "apprentice_name": "Olivo Fiorentina, di Bastian",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e1d8a654-59fb-4d25-8d7c-dd0a0c9883c3",
+    "contract_date": "1664-05-02",
+    "workshop_parish": "San Luca",
+    "master_name": "Antonio",
+    "apprentice_name": "Batista Bevilaqua, di Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dc123bc3-47bd-4501-a8eb-7083e408c9bd",
+    "contract_date": "1664-05-24",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane Cortantini, di Zuan Battista",
+    "apprentice_name": "Francesco Cortantini, di Zuan Battista Cortantini",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "672406a7-6cc1-46ec-9464-41d8f0ed569c",
+    "contract_date": "1664-08-30",
+    "workshop_parish": "San Luca",
+    "master_name": "Piero Rival",
+    "apprentice_name": "Francesco Cavisi, di Simon",
+    "apprentice_origin_name": "Venzone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7fc9e332-f010-45de-bfff-c0231a1e9d1a",
+    "contract_date": "1665-09-01",
+    "workshop_parish": "San Luca",
+    "master_name": "Santo Beltrame",
+    "apprentice_name": "Aurelio Sfazza, quondam Martio",
+    "apprentice_origin_name": "Udine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f3a871bf-819e-44d9-a79f-befba7a1b2dd",
+    "contract_date": "1670-04-17",
+    "workshop_parish": "San Luca",
+    "master_name": "Andrea Aliatici",
+    "apprentice_name": "Zuanne Del Favro, di Battista",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8202bd5e-61da-43a0-9084-047fd60239c9",
+    "contract_date": "1681-01-28",
+    "workshop_parish": "San Luca",
+    "master_name": "Zuane Miloto",
+    "apprentice_name": "Pietro Collalto, di Zuane Maria",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "95722e52-88cd-4d36-8e74-971026590561",
+    "contract_date": "1681-09-18",
+    "workshop_parish": "San Luca",
+    "master_name": "Domenico Gobato",
+    "apprentice_name": "Anzolo Querini, di Gerolamo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ebfc4900-c713-45ab-bcf6-e4e2273d8bd5",
+    "contract_date": "1681-12-02",
+    "workshop_parish": "San Luca",
+    "master_name": "Bortolo Sandri",
+    "apprentice_name": "Nicol\u00f2 De Gasperi, di Gasparo",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "962c7c00-d9a1-4eda-bdf3-12ed80b53259",
+    "contract_date": "1681-12-15",
+    "workshop_parish": "San Luca",
+    "master_name": "Stefano Clos",
+    "apprentice_name": "Battista Balestra, quondam Antonio",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "95c3c9d2-b883-41f3-8825-ba26e27e9f06",
+    "contract_date": "1682-05-08",
+    "workshop_parish": "San Luca",
+    "master_name": "Tomaso Bertazzi",
+    "apprentice_name": "Menego Lucadello, quondam Zuane",
+    "apprentice_origin_name": "Burano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d11cf6af-c90d-4341-b12c-047214700672",
+    "contract_date": "1682-10-01",
+    "workshop_parish": "San Luca",
+    "master_name": "Pietro  Pisoni",
+    "apprentice_name": "Stefano Maffei, quondam Bernardo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2e7a0dca-61fa-4cca-8cff-ae84821016ac",
+    "contract_date": "1709-09-06",
+    "workshop_parish": "San Luca",
+    "master_name": "Allesandro Bachin",
+    "apprentice_name": "Martin Riose, quondam Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1c581e30-7709-466d-a9fe-093426f9ef29",
+    "contract_date": "1713-04-27",
+    "workshop_parish": "San Luca",
+    "master_name": "Giacomo Scaramuzza",
+    "apprentice_name": "Francesco Semenzan, di Billian",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1c506193-b34f-4647-adfa-3e88277627bd",
+    "contract_date": "1771-07-06",
+    "workshop_parish": "San Luca",
+    "master_name": "Piero Dall'Aqua",
+    "apprentice_name": "Andrea Ballestra, di Florian",
+    "apprentice_origin_name": null
+   }
+  }
+ ]
+}

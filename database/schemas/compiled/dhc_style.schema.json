@@ -1,0 +1,48 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "id": {
+            "label": {
+                "en": "Class Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1}[a-z0-9_-]+$",
+            "propertyOrder": 2
+        },
+        "content": {
+            "label": {
+                "en": "Content"
+            },
+            "type": "string",
+            "minLength": 1,
+            "propertyOrder": 3
+        },
+        "format": {
+            "label": {
+                "en": "File Format"
+            },
+            "type": "string",
+            "pattern": "^([a-z-]{4,12}\/[a-z0-9.+-]+)$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 4
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "id",
+        "content"
+    ]
+}

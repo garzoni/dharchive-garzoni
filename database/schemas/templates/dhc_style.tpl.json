@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "id": {
+            "label": {
+                "en": "Class Name"
+            },
+            "@code": {}
+        },
+        "content": "@content",
+        "format": "@fileFormat"
+    },
+    "additionalProperties": false,
+    "required": ["id", "content"]
+}

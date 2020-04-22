@@ -1,0 +1,684 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/45.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e6f43f6a-a247-4d5d-949d-5f53f202a1f2",
+    "contract_date": "1575-01-05",
+    "workshop_parish": "San Stin",
+    "master_name": "Antonio",
+    "apprentice_name": "Bernardo, di Christophoro",
+    "apprentice_origin_name": "Almenno San Salvatore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b5b9d066-6f16-4ae7-8f1a-845d4fdbf4e0",
+    "contract_date": "1575-06-22",
+    "workshop_parish": "San Stin",
+    "master_name": "Francesco, quondam Christophoro",
+    "apprentice_name": "Andrea, quondam Iacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3bc86ef9-e7f7-4e78-8f73-32f149871f89",
+    "contract_date": "1575-07-05",
+    "workshop_parish": "San Stin",
+    "master_name": "Bernardo; Piero",
+    "apprentice_name": "Cesaro, quondam Antonio",
+    "apprentice_origin_name": "Ferrara"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "af0d39f4-3769-4e48-8e1a-46d3f834adcc",
+    "contract_date": "1575-10-03",
+    "workshop_parish": "San Stin",
+    "master_name": "Zuane",
+    "apprentice_name": "Battista, di Fabritio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "07ce1add-e8d1-40aa-b736-58ed8097c91a",
+    "contract_date": "1576-03-08",
+    "workshop_parish": "San Stin",
+    "master_name": "Zane Di Zambos",
+    "apprentice_name": "Thomaso, di Menzar",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ee818b7d-50a4-4b1d-b14b-bef36ded6bae",
+    "contract_date": "1582-02-16",
+    "workshop_parish": "San Stin",
+    "master_name": "Lunardo",
+    "apprentice_name": "Tomasso, quondam Valerio",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f7002b3c-dd2a-474e-9010-cf13f6618167",
+    "contract_date": "1582-02-16",
+    "workshop_parish": "San Stin",
+    "master_name": "Lunardo",
+    "apprentice_name": "Andrea, quondam Giacomo",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f779ed28-9f3a-4d29-a0af-5a04fc68134a",
+    "contract_date": "1582-07-03",
+    "workshop_parish": "San Stin",
+    "master_name": "Piero Salvini, di Marco",
+    "apprentice_name": "Santin, di Rocho",
+    "apprentice_origin_name": "Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e9b18c9e-27ac-476b-ab62-403953462c49",
+    "contract_date": "1582-08-17",
+    "workshop_parish": "San Stin",
+    "master_name": "Giacomo Codignola",
+    "apprentice_name": "Marco Antonio, quondam Domenico",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4c31607f-eef4-47be-9b42-d96e7c4453c3",
+    "contract_date": "1582-11-26",
+    "workshop_parish": "San Stin",
+    "master_name": "Anzollo, di Pasqualin",
+    "apprentice_name": "Bernardo, di Francesco",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eb5da56d-c980-4cc9-985f-da8b06fe7be2",
+    "contract_date": "1583-01-18",
+    "workshop_parish": "San Stin",
+    "master_name": "Benetto",
+    "apprentice_name": "Bertollo, di Martin",
+    "apprentice_origin_name": "Val Camonica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c7c2f1a1-3e3c-4bc5-9733-52d187ea273c",
+    "contract_date": "1583-01-31",
+    "workshop_parish": "San Stin",
+    "master_name": "Celio Ferazo",
+    "apprentice_name": "Giacomo, di Rocco",
+    "apprentice_origin_name": "Gandino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5cdc0c99-3739-4710-a7ce-53a65bb0e6c1",
+    "contract_date": "1584-03-17",
+    "workshop_parish": "San Stin",
+    "master_name": "Battista Rumor",
+    "apprentice_name": "Pasin, quondam Isepo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "aee85fbb-3c72-4f47-80da-78a95b3e0455",
+    "contract_date": "1584-03-24",
+    "workshop_parish": "San Stin",
+    "master_name": "Giacomo",
+    "apprentice_name": "Dorigo di Turchi, di Zuane",
+    "apprentice_origin_name": "Trento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d5d70942-ac22-4492-b325-e104f3f5d44b",
+    "contract_date": "1584-10-08",
+    "workshop_parish": "San Stin",
+    "master_name": "Bernardo",
+    "apprentice_name": "Felipo Binalongo, di Biasio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ba6952b9-9b08-4d2c-8ee7-3579012ba9d1",
+    "contract_date": "1584-10-30",
+    "workshop_parish": "San Stin",
+    "master_name": "Agustin",
+    "apprentice_name": "Lorenzo Boldello, di Bertolamio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cf652521-4e37-4e07-8507-ea9faee544d5",
+    "contract_date": "1591-12-10",
+    "workshop_parish": "San Stin",
+    "master_name": "Agnollo",
+    "apprentice_name": "Zanetto, quondam Andrea",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c73bd2f8-26a5-4aef-84be-48c880e49f9c",
+    "contract_date": "1592-04-09",
+    "workshop_parish": "San Stin",
+    "master_name": "Antonio",
+    "apprentice_name": "Battista, quondam Bortolomio",
+    "apprentice_origin_name": "Valchiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0eb0ed47-04a8-45f5-95b7-28fc9b1ae557",
+    "contract_date": "1592-06-10",
+    "workshop_parish": "San Stin",
+    "master_name": "Lunardo",
+    "apprentice_name": "Menego, di Lunardo",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4fb8e40f-300e-4110-82d2-b0171ceb201d",
+    "contract_date": "1592-06-23",
+    "workshop_parish": "San Stin",
+    "master_name": "Francesco",
+    "apprentice_name": "Michiel della Pontea, quondam Tomaso",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "526d7763-c5d7-4728-a9dc-d5293977850f",
+    "contract_date": "1592-09-02",
+    "workshop_parish": "San Stin",
+    "master_name": "Giacomo",
+    "apprentice_name": "Zuane Ricaldoni, quondam Zuane",
+    "apprentice_origin_name": "Collio"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f81c4503-f9c1-4dca-9113-e5ce8bf23024",
+    "contract_date": "1597-03-28",
+    "workshop_parish": "San Stin",
+    "master_name": "Battista Di Bernardi",
+    "apprentice_name": "Madalena, di Domenico",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ed5d907c-6692-46df-9600-a687240e6740",
+    "contract_date": "1598-03-05",
+    "workshop_parish": "San Stin",
+    "master_name": "Francesco",
+    "apprentice_name": "Bertolomio, quondam Benedeto",
+    "apprentice_origin_name": "Lodrino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "69c1abac-17b3-4521-851f-1849234c2086",
+    "contract_date": "1598-05-02",
+    "workshop_parish": "San Stin",
+    "master_name": "Battista",
+    "apprentice_name": "Lucio Redolfo, di Gerolamo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c36879b2-f3a7-4e6e-b33d-85d79dc9c6e5",
+    "contract_date": "1598-05-02",
+    "workshop_parish": "San Stin",
+    "master_name": "Francesco",
+    "apprentice_name": "Christofollo, di Felise",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "51621b80-c269-48ce-806a-f4def15d9352",
+    "contract_date": "1598-05-08",
+    "workshop_parish": "San Stin",
+    "master_name": "Alisso, e fioli",
+    "apprentice_name": "Anzollo, quondam Bertolomio",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "46009c24-7cb6-45d3-8360-82759f28ef2c",
+    "contract_date": "1606-04-13",
+    "workshop_parish": "San Stin",
+    "master_name": "Alessandro, di Maffio",
+    "apprentice_name": "Borthollo, di Zuane",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e020a6b3-8592-4232-884c-b35b8d3f6227",
+    "contract_date": "1609-06-12",
+    "workshop_parish": "San Stin",
+    "master_name": "Francesco, di Bastian",
+    "apprentice_name": "Bortolo Pizonato, di Nalle?",
+    "apprentice_origin_name": "Attimis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4b908a60-e1c9-43a1-9510-b430dfb58fe1",
+    "contract_date": "1620-02-25",
+    "workshop_parish": "San Stin",
+    "master_name": "Agostin",
+    "apprentice_name": "Martin Masserer, di Laurentio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "57277603-7264-4195-9515-861090090e1c",
+    "contract_date": "1621-01-21",
+    "workshop_parish": "San Stin",
+    "master_name": "Andrea Saleti",
+    "apprentice_name": "Pietro Crolalanza, quondam Zamaria",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "78d07f59-2ae8-464f-aa51-52c652dae5c4",
+    "contract_date": "1622-06-27",
+    "workshop_parish": "San Stin",
+    "master_name": "Cristan",
+    "apprentice_name": "Domenico, di Zuane",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ea0a4f46-dd75-4c48-8c03-cbde13d9ac65",
+    "contract_date": "1625-01-28",
+    "workshop_parish": "San Stin",
+    "master_name": "Peregrin, quondam Nicol\u00f2 ",
+    "apprentice_name": "Bartolomeo, di Christan",
+    "apprentice_origin_name": "Selva di Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a8fec206-dfed-4f99-996b-dc9d05d8de8a",
+    "contract_date": "1625-10-31",
+    "workshop_parish": "San Stin",
+    "master_name": "Agostin, di Tomio",
+    "apprentice_name": "Giovan Maria Di Folladori, di Giovanni Giacomo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0fb14ccf-cfff-4d73-87ba-2d7e0d2bf9c3",
+    "contract_date": "1626-01-26",
+    "workshop_parish": "San Stin",
+    "master_name": "Pelegrin, quondam Nicol\u00f2",
+    "apprentice_name": "Battista Di Piva, di Nicol\u00f2",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "892673f4-6131-4a74-a7f3-0e3b6ad2b472",
+    "contract_date": "1627-04-28",
+    "workshop_parish": "San Stin",
+    "master_name": "Ambrogio Tigozzo",
+    "apprentice_name": "Giovani Orlando, di Andrea",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eb069462-00bf-4cda-899b-f59028b914a8",
+    "contract_date": "1632-01-12",
+    "workshop_parish": "San Stin",
+    "master_name": "Zuane",
+    "apprentice_name": "Zuane Del Gallo, di Giacomo",
+    "apprentice_origin_name": "Svizzera"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fc99692d-66e2-4e09-8124-940d587270d2",
+    "contract_date": "1644-07-09",
+    "workshop_parish": "San Stin",
+    "master_name": "Stefano De Battista",
+    "apprentice_name": "Antonio Roman, quondam Ambroso",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "13d41b1d-e58e-4694-82e7-1a8fc32fd573",
+    "contract_date": "1645-01-11",
+    "workshop_parish": "San Stin",
+    "master_name": "Giacomo Pelegrin",
+    "apprentice_name": "Claudio Giglior, quondam Guerin",
+    "apprentice_origin_name": "Francia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "24c65aeb-dcb3-4d24-bae5-fb1c7377cd3d",
+    "contract_date": "1645-02-09",
+    "workshop_parish": "San Stin",
+    "master_name": "Clemente",
+    "apprentice_name": "Benetto Guarese, di Zuane",
+    "apprentice_origin_name": "Spinea"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "acaa95f4-5c95-4f7e-8d88-2b2700a74e7a",
+    "contract_date": "1645-07-21",
+    "workshop_parish": "San Stin",
+    "master_name": "Antonio",
+    "apprentice_name": "Agustini Giviton, di Bortolo",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "70afb803-e022-403c-ad38-556bf8922b95",
+    "contract_date": "1646-05-17",
+    "workshop_parish": "San Stin",
+    "master_name": "Lorenzo Baggi",
+    "apprentice_name": "Baldissera Mori, di Antonio",
+    "apprentice_origin_name": "Zante"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b4e2faa1-5a99-4b3e-a802-5bd03d1b9dec",
+    "contract_date": "1646-08-27",
+    "workshop_parish": "San Stin",
+    "master_name": "Giacomo  Pedrin",
+    "apprentice_name": "Zuane Marco Remegni, di Valentin (quondam Zuane Marco)",
+    "apprentice_origin_name": "Mussolente"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "68aefe0d-2efc-4eda-8d65-da35b81e28bc",
+    "contract_date": "1647-04-13",
+    "workshop_parish": "San Stin",
+    "master_name": "Menegho",
+    "apprentice_name": "Zuan Maria Panziera, di Andrea",
+    "apprentice_origin_name": "Solto Collina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2c784180-bdbe-4272-a36d-6e3d211e5102",
+    "contract_date": "1647-08-22",
+    "workshop_parish": "San Stin",
+    "master_name": "Giacomo Ghedinel",
+    "apprentice_name": "Francesco Pavanello, quondam Agostino",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9707f545-4d21-4b5f-8208-bec412b38eb6",
+    "contract_date": "1656-08-08",
+    "workshop_parish": "San Stin",
+    "master_name": "Domenego",
+    "apprentice_name": "Francesco Cenesin, di Anzolo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "84b49b19-6109-4408-a909-06248573fdb7",
+    "contract_date": "1656-10-19",
+    "workshop_parish": "San Stin",
+    "master_name": "Piero Pedrini",
+    "apprentice_name": "Nicoletto Carlin, di Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3ef39585-34a0-4379-af80-4ec32c538202",
+    "contract_date": "1657-02-06",
+    "workshop_parish": "San Stin",
+    "master_name": "Piero Pedrini",
+    "apprentice_name": "Carlo Quadri, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8f1cfdf3-06e4-4012-b405-6bfa220a3d71",
+    "contract_date": "1657-03-05",
+    "workshop_parish": "San Stin",
+    "master_name": "Domenico Fantini",
+    "apprentice_name": "Battista  Poletti, di Battista",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "adb4401d-9e4e-48e7-a30b-787267dac703",
+    "contract_date": "1657-11-29",
+    "workshop_parish": "San Stin",
+    "master_name": "Battista",
+    "apprentice_name": "Zuane  Stavari, quondam Zuane",
+    "apprentice_origin_name": "Svizzera"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5f3c4c4c-e562-49a7-a941-498f1c628b88",
+    "contract_date": "1659-02-24",
+    "workshop_parish": "San Stin",
+    "master_name": "Pietro Pedrini",
+    "apprentice_name": "Carlo Zerpelin, di Francesco",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fd61f62a-303e-425b-873e-6e10c6405c61",
+    "contract_date": "1665-03-06",
+    "workshop_parish": "San Stin",
+    "master_name": "Tomaso Orsin",
+    "apprentice_name": "Antonio Di Grossi, di Piero",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2e109aa7-d1a1-484e-a9ce-cdee9b7a17bb",
+    "contract_date": "1670-06-21",
+    "workshop_parish": "San Stin",
+    "master_name": "Zuanne Pasqual, quondam Piero",
+    "apprentice_name": "Domenico Rovelli, quondam Simon",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8989536e-8e12-4ee5-8909-b72d6d334ab1",
+    "contract_date": "1682-08-13",
+    "workshop_parish": "San Stin",
+    "master_name": "Gregorio Corsoni",
+    "apprentice_name": "Paolo Vicho, quondam Paolo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8881806d-1774-419c-967f-b3bcb9c2c81e",
+    "contract_date": "1712-01-13",
+    "workshop_parish": "San Stin",
+    "master_name": "Piero Galison",
+    "apprentice_name": "Tomaso dal Steffano, quondam Iseppo",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "91b71b13-aadd-44e9-81fb-54eba4a31213",
+    "contract_date": "1712-02-07",
+    "workshop_parish": "San Stin",
+    "master_name": "Steffano Zane",
+    "apprentice_name": "Piero Zener, quondam Anzolo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5af41b50-c87e-475b-84c7-fc62a3e0651f",
+    "contract_date": "1712-07-14",
+    "workshop_parish": "San Stin",
+    "master_name": "Francesco Tenca",
+    "apprentice_name": "Piero Toran, di Francesco",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  }
+ ]
+}

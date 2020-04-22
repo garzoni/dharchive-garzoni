@@ -1,0 +1,40 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "motivation": "@motivation",
+        "styles": {
+            "label": {
+                "en": "Styles"
+            },
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "styleClass": "@style",
+                    "on": {
+                        "type": "string",
+                        "enum": ["body", "target"]
+                    }
+                },
+                "additionalProperties": false,
+                "required": ["language", "content"]
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        },
+        "label": "@multilingualLabel",
+        "description": "@multilingualDescription",
+        "viewingHint": "@viewingHint",
+        "logo": "@iiifLogo",
+        "thumbnail": "@iiifThumbnail",
+        "attribution": "@multilingualAttribution",
+        "license": "@iiifLicense",
+        "service": "@iiifService[]",
+        "seeAlso": "@iiifSeeAlso[]",
+        "related": "@iiifRelatedResource[]",
+        "metadata": {"type": "object"}
+    },
+    "additionalProperties": false,
+    "required": ["motivation"]
+}

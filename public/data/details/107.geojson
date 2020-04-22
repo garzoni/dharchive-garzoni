@@ -1,0 +1,1404 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/107.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4650127e-d58b-4e43-83da-0c22282e7d52",
+    "contract_date": "1575-01-24",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco",
+    "apprentice_name": "Antonio, quondam Davit (di Pecin)",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7beb8161-b401-401b-ab06-327fa5bf9076",
+    "contract_date": "1575-02-24",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco",
+    "apprentice_name": "Zanantonio, quondam Iacomo",
+    "apprentice_origin_name": "Vigano San Martino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "261c3648-b5ca-47fb-9fc7-2c80183095c4",
+    "contract_date": "1575-06-16",
+    "workshop_parish": "San Zulian",
+    "master_name": "Iacomo, di Deffendi",
+    "apprentice_name": "Andrea, quondam Iacomo",
+    "apprentice_origin_name": "Solto Collina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "77594cf9-a9b5-42dc-ba38-471c97ea02c6",
+    "contract_date": "1575-06-20",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio Zachon",
+    "apprentice_name": "Piero, di Maffeo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bd8ae391-ff94-4ef4-822f-32963e424472",
+    "contract_date": "1575-07-11",
+    "workshop_parish": "San Zulian",
+    "master_name": "Biasio",
+    "apprentice_name": "Anzoleta, quondam Zorzi",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "37f2df5f-9e59-44c5-afd7-ced903eac950",
+    "contract_date": "1575-07-16",
+    "workshop_parish": "San Zulian",
+    "master_name": "Mathio Moro",
+    "apprentice_name": "Battista Vesentin, quondam Bortholo",
+    "apprentice_origin_name": "Feltre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "18252fbc-5a64-47ad-90e7-b1cf00c90177",
+    "contract_date": "1575-10-13",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane",
+    "apprentice_name": "Antonio, di Gasparin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3120e18a-dd24-461b-aaae-18673e500a78",
+    "contract_date": "1582-08-17",
+    "workshop_parish": "San Zulian",
+    "master_name": "Bernardo De Baun?",
+    "apprentice_name": "Anzolo, di Tomaso",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "af320f38-41d5-459d-b858-e1cad90a2172",
+    "contract_date": "1582-08-27",
+    "workshop_parish": "San Zulian",
+    "master_name": "Bernardo, di Battista",
+    "apprentice_name": "Cabriel, quondam Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "97156772-b419-454c-b5d1-1ec71aed7636",
+    "contract_date": "1582-09-03",
+    "workshop_parish": "San Zulian",
+    "master_name": "Andrea di Bianchi",
+    "apprentice_name": "Nicolo, di Bernardo (quondam Nicolo)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c96e6321-4a7a-492f-a14b-70b45562c1b5",
+    "contract_date": "1582-11-03",
+    "workshop_parish": "San Zulian",
+    "master_name": "Bortolamio De Cledes",
+    "apprentice_name": "Zuane, quondam Bertollo",
+    "apprentice_origin_name": "?da grionel"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2f52412e-5c0d-4cc5-92a1-928fbcf2a0f8",
+    "contract_date": "1582-12-30",
+    "workshop_parish": "San Zulian",
+    "master_name": "Bartolamio",
+    "apprentice_name": "Antonio, quondam Gervaso",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c059d988-b178-4c9a-982f-a15750500f43",
+    "contract_date": "1583-03-18",
+    "workshop_parish": "San Zulian",
+    "master_name": "Cristofolo di Benedeti",
+    "apprentice_name": "Francesco, quondam Camilo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b4f53436-3e93-4a7d-a88a-294ef4be9afe",
+    "contract_date": "1583-03-22",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco",
+    "apprentice_name": "Nicollo De Losto, di Gerolamo",
+    "apprentice_origin_name": "Monteforte d'Alpone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4c1f6913-e3aa-4877-b9fa-ce2025df6a97",
+    "contract_date": "1583-09-01",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio di aliegri",
+    "apprentice_name": "Mario di dolzi, di Antonio",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1a56e0b9-6b8d-4452-bada-35b5bef24f01",
+    "contract_date": "1584-05-15",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zan Piero",
+    "apprentice_name": "Andrea, di Bernardin",
+    "apprentice_origin_name": "Sorisole"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d6ea2716-0695-453e-bf6f-2a5a312fc5c5",
+    "contract_date": "1584-08-07",
+    "workshop_parish": "San Zulian",
+    "master_name": "Battista Peverada",
+    "apprentice_name": "Lisandro Caragi, di Zuane",
+    "apprentice_origin_name": "Mirano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0bfd2b66-f40a-44d2-95c2-a584f011da52",
+    "contract_date": "1586-06-19",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane",
+    "apprentice_name": "Bortolamio, di Salvador",
+    "apprentice_origin_name": "Colle Santa Lucia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c81bcbf2-d1bd-405d-82bc-b3a9515b9a3a",
+    "contract_date": "1591-08-23",
+    "workshop_parish": "San Zulian",
+    "master_name": "Piero",
+    "apprentice_name": "Dionise, di Francesco",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f6923bb3-aa14-4e18-8abc-dc6937ea8700",
+    "contract_date": "1592-01-02",
+    "workshop_parish": "San Zulian",
+    "master_name": "-, Governason del quondam Francesco di Rossi",
+    "apprentice_name": "Gerolamo di Scolari, di Francesco",
+    "apprentice_origin_name": "Cologna Veneta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a27a202a-67e2-4d34-aa19-9c4ba87927e8",
+    "contract_date": "1592-02-23",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane",
+    "apprentice_name": "Cristan dalla Rocha, di Bastian",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "89a1d65b-a296-48fc-b019-4ae7302c3137",
+    "contract_date": "1592-05-27",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco Bolognin, di Piero",
+    "apprentice_name": "Zuane Gondin, di Biasio",
+    "apprentice_origin_name": "Mira"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1d289cbf-8373-4203-b021-d9d7f803a48c",
+    "contract_date": "1592-07-07",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco Bolognin, di Piero",
+    "apprentice_name": "Giacomo, di Manuso",
+    "apprentice_origin_name": "Creta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "71ee0c0e-8f2c-4462-b6f9-00c2780fb270",
+    "contract_date": "1592-07-27",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio",
+    "apprentice_name": "Chiara, di Matio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7dd5f453-71a8-4ad6-9cd7-4bc5553b134e",
+    "contract_date": "1592-10-01",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco Bolognin, di Piero",
+    "apprentice_name": "Zamaria Riva, di Gerolamo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dae59225-b155-40fb-9510-1afea30ff2a4",
+    "contract_date": "1594-06-06",
+    "workshop_parish": "San Zulian",
+    "master_name": "Piero Palacin",
+    "apprentice_name": "Lorenzo, di Bertollo (di Benetto)",
+    "apprentice_origin_name": "Campolongo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5203c1be-17a8-4cd1-8445-f0a86d139d03",
+    "contract_date": "1594-07-05",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio",
+    "apprentice_name": "Zan Battista, quondam Pantalon",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4be6550a-ffb2-4eec-a76b-6afaa3527f6d",
+    "contract_date": "1594-08-18",
+    "workshop_parish": "San Zulian",
+    "master_name": "Alfonso",
+    "apprentice_name": "Felipo, quondam Piero",
+    "apprentice_origin_name": "Genova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c92a817f-3a42-4945-88c0-3ce2ac17488a",
+    "contract_date": "1594-09-19",
+    "workshop_parish": "San Zulian",
+    "master_name": "Alessandro",
+    "apprentice_name": "Allessandro, di Renzo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f62a65ff-b418-439e-b8c8-53753f6769ba",
+    "contract_date": "1595-03-20",
+    "workshop_parish": "San Zulian",
+    "master_name": "Bertollo",
+    "apprentice_name": "Andrea, di Ludovico",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5cc93ff8-8b96-4864-8a10-fe8fec73cdfd",
+    "contract_date": "1596-02-21",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio Del Frezza",
+    "apprentice_name": "Francesco Asteo, quondam Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3594435b-d881-4939-b0a2-40c7070c191f",
+    "contract_date": "1596-02-28",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane",
+    "apprentice_name": "Giacomo Della Santa, di Francesco",
+    "apprentice_origin_name": "Alleghe"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b4e98ae0-443b-4957-a592-e2c32c28add2",
+    "contract_date": "1596-06-17",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco Bollognin, di Piero",
+    "apprentice_name": "Marc'Antonio Dona, di Ortanssio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ced14227-c85e-4371-959f-52205cde0722",
+    "contract_date": "1596-07-04",
+    "workshop_parish": "San Zulian",
+    "master_name": "Vespisian",
+    "apprentice_name": "Lucha, di Francesco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "614aa1ee-1e4d-49e8-86df-a2fe66fcdd76",
+    "contract_date": "1596-10-09",
+    "workshop_parish": "San Zulian",
+    "master_name": "Piero, quondam Giacomo",
+    "apprentice_name": "Baldisera, di Giacomo",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "20021a28-266b-4ad8-b685-5d4353587e27",
+    "contract_date": "1597-04-11",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuanne Marco",
+    "apprentice_name": "Pecin, quondam Simon",
+    "apprentice_origin_name": "Val Camonica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4bedee45-11f2-4551-b7d9-ef448d2349f1",
+    "contract_date": "1597-04-21",
+    "workshop_parish": "San Zulian",
+    "master_name": "Pasqualin Di Moreti",
+    "apprentice_name": "Stefano, di Isepo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "14c33038-311c-4e02-bd46-9041048e8e8b",
+    "contract_date": "1597-06-06",
+    "workshop_parish": "San Zulian",
+    "master_name": "Battista Peverada",
+    "apprentice_name": "Piero, quondam Marcho Antonio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b8076f21-9aa8-4db1-afdd-651fb68bc0bb",
+    "contract_date": "1597-09-22",
+    "workshop_parish": "San Zulian",
+    "master_name": "Isabella, di Felipo",
+    "apprentice_name": "Andrea, di Zorzi",
+    "apprentice_origin_name": "Creta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "98a289f9-f9bd-48aa-b8f5-474ac92a9868",
+    "contract_date": "1597-10-01",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane",
+    "apprentice_name": "Zuane, di Toni",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a5072c27-a410-40d0-ae14-accf4dafae3c",
+    "contract_date": "1597-10-03",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio, di Pase",
+    "apprentice_name": "Christofolo, quondam Baldissera (di Christopholo)",
+    "apprentice_origin_name": "Arzignano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d5235676-3791-4f2d-bb87-b8c9f25bea1a",
+    "contract_date": "1598-01-23",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zamaria",
+    "apprentice_name": "Giacomo Moro",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3103bca3-e635-4e54-a17d-c262fdc641ec",
+    "contract_date": "1598-05-05",
+    "workshop_parish": "San Zulian",
+    "master_name": "Battista Peverada",
+    "apprentice_name": "Gerolamo, di Daniel (di Gasparo)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7e2d7151-3c1e-4d2c-b4e6-ba2aeaa95907",
+    "contract_date": "1598-08-03",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco Bolognin, di Piero",
+    "apprentice_name": "Andrea, di Nicoll\u00f2",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "415025fe-c415-4994-8cda-f14220a9e89b",
+    "contract_date": "1598-08-25",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio",
+    "apprentice_name": "Anzola, di Andrea",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "69bf56c0-a231-4c4e-8aa3-d5dae821e9a9",
+    "contract_date": "1598-10-29",
+    "workshop_parish": "San Zulian",
+    "master_name": "Giacomo Di Lusati",
+    "apprentice_name": "Alba, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "76403a3f-454c-4e4c-b1ad-dbe0b4248ce1",
+    "contract_date": "1598-11-27",
+    "workshop_parish": "San Zulian",
+    "master_name": "Carlo, di Rolando",
+    "apprentice_name": "Valerio di Zanini, di Bona",
+    "apprentice_origin_name": "Susegana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f907abe2-9ee9-4328-b299-64059693a8ef",
+    "contract_date": "1599-02-09",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zamaria, di Anzollo",
+    "apprentice_name": "Pasqualin Regnese, quondam Marcho",
+    "apprentice_origin_name": "Camposampiero"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c494a7d4-fd28-409f-b691-99665280ebad",
+    "contract_date": "1599-03-26",
+    "workshop_parish": "San Zulian",
+    "master_name": "Pasqualin Moretti",
+    "apprentice_name": "Francesco, di Marco (di Domenico)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "63ae2e0d-49db-4c86-8d9a-494d1e478587",
+    "contract_date": "1599-04-15",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio",
+    "apprentice_name": "Menega Fuogo, di Agnollo (di Piero)",
+    "apprentice_origin_name": "Agordo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1158efda-aa14-4f9e-868e-d9971e5fef6c",
+    "contract_date": "1599-07-13",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane Pasini",
+    "apprentice_name": "Piero, di Giulio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "981b6774-d129-439b-ada5-59a7c3c95316",
+    "contract_date": "1606-05-02",
+    "workshop_parish": "San Zulian",
+    "master_name": "Lettancio",
+    "apprentice_name": "Matio Di Silusis, di Antonio",
+    "apprentice_origin_name": "Vittorio Veneto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "944d9877-d9b4-463c-91fe-f15b4f388031",
+    "contract_date": "1606-07-08",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane Fanton",
+    "apprentice_name": "Pollonio, di Antonio (di Ludovico)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c6819e43-1d0a-49b5-8aee-4dc38d9961f2",
+    "contract_date": "1606-09-04",
+    "workshop_parish": "San Zulian",
+    "master_name": "Gerolamo",
+    "apprentice_name": "Zamaria Musesti, di Bertollo (di Antonio)",
+    "apprentice_origin_name": "Valle Sabbia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ce5b2cc2-e429-4b13-84f3-cad60feaaf18",
+    "contract_date": "1609-02-19",
+    "workshop_parish": "San Zulian",
+    "master_name": "Nicolo",
+    "apprentice_name": "Domenico, quondam Matio",
+    "apprentice_origin_name": "San Daniele del Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "622bb479-d9c7-4da6-b58f-40fbc130fdf2",
+    "contract_date": "1609-07-14",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zamaria",
+    "apprentice_name": "Vico, quondam Domenico",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "19eb9afb-7c49-453f-8cb9-c2279e9046ae",
+    "contract_date": "1609-12-01",
+    "workshop_parish": "San Zulian",
+    "master_name": "Pasquale",
+    "apprentice_name": "Candio Ciauto, di Zuanne",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5995ca4b-9237-499f-879b-cb2ca06933dc",
+    "contract_date": "1610-03-11",
+    "workshop_parish": "San Zulian",
+    "master_name": "Piero",
+    "apprentice_name": "Matio, di Zamaria",
+    "apprentice_origin_name": "Gavazzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "78e0299d-4f55-4576-9255-991a5cc631e6",
+    "contract_date": "1610-03-11",
+    "workshop_parish": "San Zulian",
+    "master_name": "Rimondo Girardi",
+    "apprentice_name": "Franceco Fiorin, di Iseppo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "841e0719-2ed2-4b88-8f27-ca9012747555",
+    "contract_date": "1610-03-13",
+    "workshop_parish": "San Zulian",
+    "master_name": "Battista",
+    "apprentice_name": "Nadalin, quondam Lunardo",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e1c7c9f3-620b-41f0-8d6a-c802fa3a0691",
+    "contract_date": "1610-05-07",
+    "workshop_parish": "San Zulian",
+    "master_name": "Battista",
+    "apprentice_name": "Zuane Redolfi, di Zuane Antonio",
+    "apprentice_origin_name": "Valtellina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "43b70c4e-381e-44f8-94b2-5a52fa0992a1",
+    "contract_date": "1610-05-08",
+    "workshop_parish": "San Zulian",
+    "master_name": "Rinaldo Ruopel",
+    "apprentice_name": "Gasparo, quondam Gasparo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ff1a04b0-e97c-4be0-8ffb-2461697c8929",
+    "contract_date": "1620-10-10",
+    "workshop_parish": "San Zulian",
+    "master_name": "Bortolo Danieli",
+    "apprentice_name": "Bortolo Batazzi, di Tomaso",
+    "apprentice_origin_name": "Trento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a38603c7-fe25-462e-b433-c187962dad54",
+    "contract_date": "1621-08-27",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuan Antonio Bergonzio",
+    "apprentice_name": "Zuane Gesiro, di Antonio",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c3e4e261-cfe6-46ed-9820-ec1ffc8b7044",
+    "contract_date": "1621-09-02",
+    "workshop_parish": "San Zulian",
+    "master_name": "Martin",
+    "apprentice_name": "Bortolo Roverso, quondam Pietro",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "581c2385-d24c-49fa-bc68-7387f1b1bcec",
+    "contract_date": "1621-09-22",
+    "workshop_parish": "San Zulian",
+    "master_name": "Isepo, quondam Drusiano",
+    "apprentice_name": "Mattio Carminati, quondam Battista",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a74761a5-7e0f-412e-8b53-5e07f408bdf3",
+    "contract_date": "1621-10-11",
+    "workshop_parish": "San Zulian",
+    "master_name": "Giuglio Fontana",
+    "apprentice_name": "Anzolo di Pilizeri, di Giovan Antonio",
+    "apprentice_origin_name": "Riviera di Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7a9c0f90-695f-4128-9504-5f57de6b2279",
+    "contract_date": "1621-11-10",
+    "workshop_parish": "San Zulian",
+    "master_name": "Angiolo Uberti",
+    "apprentice_name": "Girolemo di Rocci, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "97be758a-32f1-419d-9d64-d8e7309315f4",
+    "contract_date": "1621-11-18",
+    "workshop_parish": "San Zulian",
+    "master_name": "Pietro",
+    "apprentice_name": "Giovan Maria, quondam Andrea",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "075b4340-34f8-4369-b567-d3287b9c0b44",
+    "contract_date": "1622-03-15",
+    "workshop_parish": "San Zulian",
+    "master_name": "Pietro",
+    "apprentice_name": "Andrea, di Zuane",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d9ee2c08-4274-49b7-9e80-2475990ce86d",
+    "contract_date": "1622-04-22",
+    "workshop_parish": "San Zulian",
+    "master_name": "Gioseffa, di Andrea",
+    "apprentice_name": "Dorotea, di Giovan Battista",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "65333dd3-c9c7-4ab9-8bd2-b9aef944a3c7",
+    "contract_date": "1622-05-23",
+    "workshop_parish": "San Zulian",
+    "master_name": "Domenico Passoto, quondam Zuane",
+    "apprentice_name": "Antonio Sartora, di Borttolamio",
+    "apprentice_origin_name": "Riviera di Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e4ef2d91-7697-44f1-9c07-67b02d7297ea",
+    "contract_date": "1622-06-23",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane",
+    "apprentice_name": "Battista del Vesin, quondam Bortolo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2c01d50b-7a50-45f8-a872-d99c6e29782b",
+    "contract_date": "1622-08-08",
+    "workshop_parish": "San Zulian",
+    "master_name": "Maffio",
+    "apprentice_name": "Andrea",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "53b0bee8-2a73-453a-8315-132fce46bbec",
+    "contract_date": "1625-06-13",
+    "workshop_parish": "San Zulian",
+    "master_name": "Domenico Sonzonio",
+    "apprentice_name": "Pietro Rugieri, di Lodovico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ab53bfdb-f4e9-4036-b76b-442175d2f682",
+    "contract_date": "1625-08-25",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio Moretti",
+    "apprentice_name": "Michel Brunan, quondam Biasio",
+    "apprentice_origin_name": "Mortegliano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d078d08e-6669-4af1-b7e8-1a6d194a8a2f",
+    "contract_date": "1626-04-01",
+    "workshop_parish": "San Zulian",
+    "master_name": "Andrea Remondin",
+    "apprentice_name": "Piero Gios, quondam Giacomo",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5db30377-b1cc-423d-916f-80bc06d3ff15",
+    "contract_date": "1626-06-12",
+    "workshop_parish": "San Zulian",
+    "master_name": "Matheo Arighi; Madernino Arighi",
+    "apprentice_name": "Antonio Armelino, di Pecino",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1c0f3618-1385-471e-891f-566c22413c5f",
+    "contract_date": "1627-03-08",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco Ballao",
+    "apprentice_name": "Giacomo Garbesan, di Antonio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "17b3916a-776b-4141-bde6-534e541221f0",
+    "contract_date": "1632-06-21",
+    "workshop_parish": "San Zulian",
+    "master_name": "Giacomo Petaros?",
+    "apprentice_name": "Valentin Di Zaghi, quondam Valentin",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d8e562e6-d27c-40ec-a02c-f9745c711b6a",
+    "contract_date": "1632-06-21",
+    "workshop_parish": "San Zulian",
+    "master_name": "Tomaso",
+    "apprentice_name": "Nicolo, di Matio",
+    "apprentice_origin_name": "Marebbe"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "75bbb0b3-efd2-4d3a-869f-50003fa59755",
+    "contract_date": "1632-07-12",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio",
+    "apprentice_name": "Andrea, di Matio",
+    "apprentice_origin_name": "Lissa"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "afba806c-015d-4697-98ac-43dbbe093069",
+    "contract_date": "1644-01-10",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco Cadri",
+    "apprentice_name": "Domenego Pantalo, di Antonio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b02983f5-2c3d-4cda-beec-b985f5b8e521",
+    "contract_date": "1644-06-22",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane Di Terzi",
+    "apprentice_name": "Giacomo Dadolni, quondam Zuane Battista",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bfeb56c7-25fd-41d6-9c03-608d0408328f",
+    "contract_date": "1644-07-11",
+    "workshop_parish": "San Zulian",
+    "master_name": "Paulo, di Lorenzo",
+    "apprentice_name": "Zuane Codagnin, quondam Andrea",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "61bfc78f-0842-4a15-b625-208f750e3cc8",
+    "contract_date": "1644-09-01",
+    "workshop_parish": "San Zulian",
+    "master_name": "Marco Garzoni",
+    "apprentice_name": "Domenego Scazin, quondam Giovan Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "868180d1-bd95-4a9f-abf9-c422abfdd3b3",
+    "contract_date": "1644-09-23",
+    "workshop_parish": "San Zulian",
+    "master_name": "Marco Gastori",
+    "apprentice_name": "Domenegho Scanon, quondam Gio Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "263c4b52-149f-42f3-a788-d9fa62be6760",
+    "contract_date": "1645-01-13",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zamaria Caenella, quondam Piero",
+    "apprentice_name": "Lorenzo dalla Costa, di Giacomo",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c4c08b77-5a00-471e-8f82-d9e082316954",
+    "contract_date": "1645-05-02",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio Santi, quondam Bernardo",
+    "apprentice_name": "Vettor Ronetto, quondam Francesco",
+    "apprentice_origin_name": "Treviso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "231f45e8-8ec7-4c75-8355-d7c857f56e05",
+    "contract_date": "1646-03-16",
+    "workshop_parish": "San Zulian",
+    "master_name": "Piero Anz",
+    "apprentice_name": "Fridel, quondam Giovan Battista",
+    "apprentice_origin_name": "Val M\u00fcstair"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e78dfa0c-418e-4815-9c9c-86030f3407b0",
+    "contract_date": "1646-10-02",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco Fanti",
+    "apprentice_name": "Filippo Roverso, di Paulo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8fb79a6c-c04a-4d27-9f13-32517815a594",
+    "contract_date": "1648-03-09",
+    "workshop_parish": "San Zulian",
+    "master_name": "Cristoforo Buggia",
+    "apprentice_name": "Lorenzo, di Zuane (di Zuane)",
+    "apprentice_origin_name": "Cortina D'Ampezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4018aa68-f295-493c-afa0-fec4e7aeaba7",
+    "contract_date": "1653-07-07",
+    "workshop_parish": "San Zulian",
+    "master_name": "Ventura",
+    "apprentice_name": "Daniel della giana, di Simon",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ce0959d-2eb0-4872-9a9d-9ad5ef9e1d4a",
+    "contract_date": "1654-04-17",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane Fachinetti",
+    "apprentice_name": "Francesco Prandini, quondam Domenego",
+    "apprentice_origin_name": "Verona"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6cadbdce-0907-4382-9aed-f31523dbb880",
+    "contract_date": "1654-04-17",
+    "workshop_parish": "San Zulian",
+    "master_name": "Fantin Costantini",
+    "apprentice_name": "Gregorio, di Zuane Gregorio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4828b32d-036f-4b84-a27b-aa9abc7377cd",
+    "contract_date": "1657-07-30",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco Menori",
+    "apprentice_name": "Nicolo Rapeto, quondam Giacomo",
+    "apprentice_origin_name": "Pirano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e580a216-47a9-4d2a-9765-42e7b6335c62",
+    "contract_date": "1657-09-27",
+    "workshop_parish": "San Zulian",
+    "master_name": "Antonio Licenti",
+    "apprentice_name": "Bortolo Percassi, di Zuane Maria",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "65871d20-ba12-40c3-805a-b5a5330b1a59",
+    "contract_date": "1658-10-22",
+    "workshop_parish": "San Zulian",
+    "master_name": "Lorenzo  Pevra",
+    "apprentice_name": "Michiel Lucheto, di Matio",
+    "apprentice_origin_name": "Cividale"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1834fa3c-c5a1-4905-bd76-7d51bad9a496",
+    "contract_date": "1658-11-23",
+    "workshop_parish": "San Zulian",
+    "master_name": "Piero Zocha",
+    "apprentice_name": "Liberal Cancian, quondam Valentin",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3ea4445b-482a-48cb-a479-b7c579290e75",
+    "contract_date": "1659-04-18",
+    "workshop_parish": "San Zulian",
+    "master_name": "Filippo Roverso; Paulo Roverso",
+    "apprentice_name": "Zuanne Biulghino, di Iseppo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ca817eed-f4cd-47c0-b401-2d372736a84e",
+    "contract_date": "1659-05-27",
+    "workshop_parish": "San Zulian",
+    "master_name": "Domenico Piasenti",
+    "apprentice_name": "Iseppo Morazzo, di Antonio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4ee59b6c-a3dc-4b99-9b5a-32398c8a1d8f",
+    "contract_date": "1664-05-31",
+    "workshop_parish": "San Zulian",
+    "master_name": "Bastian Dalano",
+    "apprentice_name": "Lorenzo Pascutin, di Iseppo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7932cf07-b820-4907-b01b-1f3ef83828e3",
+    "contract_date": "1665-05-05",
+    "workshop_parish": "San Zulian",
+    "master_name": "Lunardo Porti",
+    "apprentice_name": "Piero Olivaro, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "765523e9-17fe-42ae-8e6a-aeba80306bde",
+    "contract_date": "1670-01-28",
+    "workshop_parish": "San Zulian",
+    "master_name": "Paulo Zamberi",
+    "apprentice_name": "Zuan Maria Pina, di Bastian",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0557bb09-b535-43c4-a937-9a8be5901241",
+    "contract_date": "1671-04-22",
+    "workshop_parish": "San Zulian",
+    "master_name": "Domenico Cadevella; Bernardin Dedin",
+    "apprentice_name": "Domenico dalla Costa, quondam Antonio",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e11a6fbe-b9fc-473b-9dee-c71b30560293",
+    "contract_date": "1671-05-14",
+    "workshop_parish": "San Zulian",
+    "master_name": "Bernardin Dedin",
+    "apprentice_name": "Andrea Galertia, di Zuane",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8a5e84db-d1a6-4d59-9f94-d97ac8e95d30",
+    "contract_date": "1681-04-09",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane  Nadali; Antonio Costa",
+    "apprentice_name": "Zuane Scarzamella, di Zamaria",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d20cf969-2deb-4ddb-8cf8-89be62b0ec4e",
+    "contract_date": "1681-04-30",
+    "workshop_parish": "San Zulian",
+    "master_name": "Zuane  Albertani",
+    "apprentice_name": "Fortunato Guialta, quondam Volfio",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bcac0573-241c-41cb-a372-d5aa9f08a7ef",
+    "contract_date": "1681-09-12",
+    "workshop_parish": "San Zulian",
+    "master_name": "Michiel Angelo Albertini",
+    "apprentice_name": "Zuane Battista Recaldini, quondam Carlo",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9efdabb8-bdef-4bb9-a8fa-2299e7d774c5",
+    "contract_date": "1707-06-18",
+    "workshop_parish": "San Zulian",
+    "master_name": "Giacomo Cavagnis, ditta",
+    "apprentice_name": "Giacomo, di Battista (di Toffolo)",
+    "apprentice_origin_name": "Canale d'Agordo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d88398c7-5458-4843-b781-ffcbed6963de",
+    "contract_date": "1710-01-26",
+    "workshop_parish": "San Zulian",
+    "master_name": "Cristoforo de Marco, di Marco",
+    "apprentice_name": "Valentin della Calza, di Zuanne",
+    "apprentice_origin_name": "Cividale"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2161c980-5585-45bc-880d-977bc118d680",
+    "contract_date": "1715-09-02",
+    "workshop_parish": "San Zulian",
+    "master_name": "Francesco Lemea, quondam Zuane",
+    "apprentice_name": "Antonio Grigori, di Baldissera",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "30b17015-1026-414f-93d1-b707f756fca4",
+    "contract_date": "1716-06-05",
+    "workshop_parish": "San Zulian",
+    "master_name": "Lunardo Zanin",
+    "apprentice_name": "Anzolo Calibreri, di Ottavio",
+    "apprentice_origin_name": "Vittorio Veneto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "206fa0ca-3d84-449a-a227-98eee12d7f3e",
+    "contract_date": "1770-11-29",
+    "workshop_parish": "San Zulian",
+    "master_name": "Cristofolo Batistin",
+    "apprentice_name": "Vallentin Zallivani, di Vettor (quondam Zuanne)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6509f9b9-ac08-45b3-9465-234555fe41eb",
+    "contract_date": "1771-03-21",
+    "workshop_parish": "San Zulian",
+    "master_name": "Cristofolo Batistin",
+    "apprentice_name": "Mattio De Ral, di Piero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "af710400-2376-4534-b4e8-c44246c114dd",
+    "contract_date": "1772-05-30",
+    "workshop_parish": "San Zulian",
+    "master_name": "Paulo Colussi",
+    "apprentice_name": "Paulo Antonio Rizzardini, di Bortolo (quondam Vettor)",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  }
+ ]
+}

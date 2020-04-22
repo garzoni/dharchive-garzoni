@@ -1,0 +1,672 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/306.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b072dbf3-5c94-41ff-9dc0-2067085a0df8",
+    "contract_date": "1575-02-20",
+    "workshop_parish": "San Fantin",
+    "master_name": "Antonio",
+    "apprentice_name": "Antonio, di Andrea",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e6315cbf-9b14-4084-9fb2-bfaa59f50965",
+    "contract_date": "1575-06-23",
+    "workshop_parish": "San Fantin",
+    "master_name": "Domenego, di Iacomo",
+    "apprentice_name": "Giacomo Di Martini, di Sebastian",
+    "apprentice_origin_name": "Udine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "61baa4d5-db4d-47da-b509-e1166aca61a5",
+    "contract_date": "1575-06-30",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bernardo, di Lorenzo",
+    "apprentice_name": "Antonio, di Giacomo (di Antonio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4af52c2b-eb28-4e9d-a71f-6afeba647361",
+    "contract_date": "1575-09-05",
+    "workshop_parish": "San Fantin",
+    "master_name": "Thomaso Di Marcheti",
+    "apprentice_name": "Iseppo Foian, quondam Francesco",
+    "apprentice_origin_name": "Udine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "01917322-58e0-4f1d-b9e0-7b6fd4a83305",
+    "contract_date": "1575-09-19",
+    "workshop_parish": "San Fantin",
+    "master_name": "Andriana; Zuane, di Christophoro",
+    "apprentice_name": "Marieta, quondam Iulio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a4971f76-8252-4c9d-afab-6f32239c59b7",
+    "contract_date": "1575-11-28",
+    "workshop_parish": "San Fantin",
+    "master_name": "Piero, di Lunardo",
+    "apprentice_name": "Zuane De Agnelina, di Lorenzo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a021c236-17c1-453e-8511-10390b4d243f",
+    "contract_date": "1582-06-07",
+    "workshop_parish": "San Fantin",
+    "master_name": "Battista Dai Chasi",
+    "apprentice_name": "Achile, di Giacomo",
+    "apprentice_origin_name": "Bassano del Grappa"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a9af7585-cdfe-4d10-8251-19e36011c169",
+    "contract_date": "1582-07-09",
+    "workshop_parish": "San Fantin",
+    "master_name": "Cristoforo",
+    "apprentice_name": "Giacomo, di Anzolo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6a05c8dd-0341-4fbd-b262-b667630b715e",
+    "contract_date": "1582-10-02",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bortholamio",
+    "apprentice_name": "Battista, di Tomaso",
+    "apprentice_origin_name": "Solto Collina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d117bf91-472f-4968-ad1b-b585bbb90eb8",
+    "contract_date": "1582-10-25",
+    "workshop_parish": "San Fantin",
+    "master_name": "Carllo di Comi, di Anbrosso",
+    "apprentice_name": "Andrea dal Zante, di Marin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e1ae7f55-aa03-439f-861b-f381c749ed5f",
+    "contract_date": "1584-04-13",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bortollo",
+    "apprentice_name": "Zuane di Colto, di Pietro",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d0865cef-a5bc-4b85-bb68-f46c85edb47c",
+    "contract_date": "1584-08-30",
+    "workshop_parish": "San Fantin",
+    "master_name": "Piero Brombilla",
+    "apprentice_name": "Piero de Brombilla, di Baldisera",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4ee0a7c0-e65d-4ef0-8e2b-4056970a97e0",
+    "contract_date": "1584-11-03",
+    "workshop_parish": "San Fantin",
+    "master_name": "Paulo Minor",
+    "apprentice_name": "Stefano, di Giacomo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6c8cfa08-5a94-4f79-882f-227a733142b7",
+    "contract_date": "1592-07-13",
+    "workshop_parish": "San Fantin",
+    "master_name": "Giopo",
+    "apprentice_name": "Rinaldo Bertoldo, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "79fbcf22-efce-440b-bf94-8f11c3d64fb2",
+    "contract_date": "1592-09-05",
+    "workshop_parish": "San Fantin",
+    "master_name": "Andriana",
+    "apprentice_name": "Marin, di Bertollo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f26c3eb1-d9e5-47b7-947d-74414a044a00",
+    "contract_date": "1594-10-10",
+    "workshop_parish": "San Fantin",
+    "master_name": "Giorgio",
+    "apprentice_name": "Anzolo, di Zuane",
+    "apprentice_origin_name": "Lecco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7358f71a-faab-4858-9f3c-f3c4cc33d00e",
+    "contract_date": "1594-10-17",
+    "workshop_parish": "San Fantin",
+    "master_name": "Ieronimo Farian",
+    "apprentice_name": "Zuane, di Tomaso",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2bc89f6b-60ea-4dd0-a6d7-157ecec2d834",
+    "contract_date": "1597-03-22",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bertollo",
+    "apprentice_name": "Michiel, di Gerolamo (di Marcho)",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "681760a7-3641-436c-85e9-d6b65e57001f",
+    "contract_date": "1597-07-14",
+    "workshop_parish": "San Fantin",
+    "master_name": "Anzolla",
+    "apprentice_name": "Marina",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c6b297b0-5e45-475a-8564-9445108bba57",
+    "contract_date": "1597-07-16",
+    "workshop_parish": "San Fantin",
+    "master_name": "Anzola",
+    "apprentice_name": "Betta, quondam Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ce4e9d3d-e8a3-4279-a6a9-081d27cbe2b3",
+    "contract_date": "1597-11-07",
+    "workshop_parish": "San Fantin",
+    "master_name": "Cristofollo, di Francesco",
+    "apprentice_name": "Piero de Rado, di Pasqualin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9566763a-271f-4e7c-8b9f-39ae907bc296",
+    "contract_date": "1598-06-10",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bertollo",
+    "apprentice_name": "Menego, di Zamaria",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5610f167-24bc-4acc-b703-14706e5a5b18",
+    "contract_date": "1598-09-05",
+    "workshop_parish": "San Fantin",
+    "master_name": "Zamaria Di Arigoni, quondam Bernardo",
+    "apprentice_name": "Zamaria Masel, quondam Bernardo",
+    "apprentice_origin_name": "Bovegno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "93bba0a5-a123-45cb-8c35-ac2eb9fcaa58",
+    "contract_date": "1598-11-28",
+    "workshop_parish": "San Fantin",
+    "master_name": "Fiorian",
+    "apprentice_name": "Bastian Frezza, di Toni",
+    "apprentice_origin_name": "Verzegnis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "79f5ade4-b4a9-4671-8ad8-791e65b7e634",
+    "contract_date": "1599-08-18",
+    "workshop_parish": "San Fantin",
+    "master_name": "Piero",
+    "apprentice_name": "Bernardin di Zeci, di Cristofollo",
+    "apprentice_origin_name": "Valle San Martino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "58ef59a5-0579-4f40-aa0d-bdacfd226661",
+    "contract_date": "1609-11-04",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bertollo",
+    "apprentice_name": "Simon dal monego, quondam Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b6f6482b-9cd1-4692-94c5-b30100e0690f",
+    "contract_date": "1610-06-21",
+    "workshop_parish": "San Fantin",
+    "master_name": "Pasqualin",
+    "apprentice_name": "Francesco di Savelli, di Bernardo",
+    "apprentice_origin_name": "Sedrina"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e4d1251d-01b5-4091-a55b-725f1c61917e",
+    "contract_date": "1610-06-30",
+    "workshop_parish": "San Fantin",
+    "master_name": "Giacomo Maria Veronesi",
+    "apprentice_name": "Susanna Landucci",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8f77598d-1660-4ab1-89bb-e24b6e29c223",
+    "contract_date": "1620-06-09",
+    "workshop_parish": "San Fantin",
+    "master_name": "Agustin Roi",
+    "apprentice_name": "Nadal Nait, quondam Lunardo",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6f16dc2c-a73e-46da-87d7-727cbf057c60",
+    "contract_date": "1620-10-01",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bernardo Forchi",
+    "apprentice_name": "Antonio Faesti",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7738d976-c182-4d70-bde9-23433533086d",
+    "contract_date": "1621-01-08",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bernardo Mar",
+    "apprentice_name": "Battista, di Giacomo (di Lauro)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "048441ec-8324-4576-a5cd-bbc7ce14073f",
+    "contract_date": "1621-05-12",
+    "workshop_parish": "San Fantin",
+    "master_name": "Francesco, quondam Alesio",
+    "apprentice_name": "Antonio Carara, di Bortolamio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "77064895-8164-4cc5-95bf-a64ea7967141",
+    "contract_date": "1622-03-31",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bernardo Maro",
+    "apprentice_name": "Zuane, di Giacomo",
+    "apprentice_origin_name": "Lago di Como"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0bb0b05e-a476-4247-8fff-3267e3988375",
+    "contract_date": "1622-06-16",
+    "workshop_parish": "San Fantin",
+    "master_name": "Zuane, quondam Gotardo",
+    "apprentice_name": "Antonio dalla Attore, di Marco",
+    "apprentice_origin_name": "Vittorio Veneto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d53972ad-4674-4bb4-b075-73a1519bd749",
+    "contract_date": "1622-07-04",
+    "workshop_parish": "San Fantin",
+    "master_name": "Agustin Roi",
+    "apprentice_name": "Leonardo Macolin, quondam Zuane",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6a627dc0-ab20-47a8-beba-f7994d0c7f96",
+    "contract_date": "1625-07-28",
+    "workshop_parish": "San Fantin",
+    "master_name": "Zuane, di Gottardo; Bernardin",
+    "apprentice_name": "Agustin Bonamin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "59d51cbf-69ee-4f5f-9819-b4bc3a2b2dbf",
+    "contract_date": "1625-12-23",
+    "workshop_parish": "San Fantin",
+    "master_name": "Piero Di Polli",
+    "apprentice_name": "Giacomo Chinapo, quondam Domenego",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "42d4658c-89d5-4584-8e03-379438d9409e",
+    "contract_date": "1626-02-22",
+    "workshop_parish": "San Fantin",
+    "master_name": "Paulo Brustolin",
+    "apprentice_name": "Christofolo Quierna?, di Gaudentio",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d089f384-9124-4dba-8a84-5fa6e8c0c161",
+    "contract_date": "1626-10-17",
+    "workshop_parish": "San Fantin",
+    "master_name": "Franceschina",
+    "apprentice_name": "Lunardo, quondam Giovanni",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5144c16d-4251-4750-807d-60f489cb93e4",
+    "contract_date": "1632-05-18",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bernardo",
+    "apprentice_name": "Toni Bruneto, di Matio",
+    "apprentice_origin_name": "Noventa di Piave"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "187453b5-7843-419b-be9c-a99697fb6fec",
+    "contract_date": "1645-08-03",
+    "workshop_parish": "San Fantin",
+    "master_name": "Francesco Fadi",
+    "apprentice_name": "Bernardin Rizzo, di Piero",
+    "apprentice_origin_name": "Grado"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8d3713f4-492c-428c-972a-d49425bb96e6",
+    "contract_date": "1647-06-06",
+    "workshop_parish": "San Fantin",
+    "master_name": "Paulo Brustolin",
+    "apprentice_name": "Bortolo Alverin, di Gasparo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d58d52b2-277e-449d-bd25-f09c065c1e4f",
+    "contract_date": "1647-08-27",
+    "workshop_parish": "San Fantin",
+    "master_name": "Piero, di Vicenzo",
+    "apprentice_name": "Anzolo Bolzanin, di Antonio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a5668b72-74c1-4632-a35b-3dd274392a27",
+    "contract_date": "1654-04-11",
+    "workshop_parish": "San Fantin",
+    "master_name": "Piero Antonio Fovanso",
+    "apprentice_name": "Battista Raso, di Giacomo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "378fa599-c952-48d6-8053-11ff542b6168",
+    "contract_date": "1656-02-26",
+    "workshop_parish": "San Fantin",
+    "master_name": "Bortolo Martini, quondam Battista",
+    "apprentice_name": "Zuane , di Lorenzo",
+    "apprentice_origin_name": "Casale sul Sile"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e1c06841-5b59-46f5-9dee-640c23e2d087",
+    "contract_date": "1657-04-17",
+    "workshop_parish": "San Fantin",
+    "master_name": "Mattio",
+    "apprentice_name": "Piero Girotto, quondam Rocho",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "88d09b05-b933-47a2-88b7-a1a187954429",
+    "contract_date": "1657-07-07",
+    "workshop_parish": "San Fantin",
+    "master_name": "Francesco Gambino",
+    "apprentice_name": "Francesco Subieto, di Zuane",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0c2efb9f-fa85-44f4-a1b4-299ca3f21a0a",
+    "contract_date": "1659-05-12",
+    "workshop_parish": "San Fantin",
+    "master_name": "Steffano Curti",
+    "apprentice_name": "Piero Nondio, quondam Zuanne",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "aafdc299-8c61-4f76-b269-ed64fd453f10",
+    "contract_date": "1659-07-04",
+    "workshop_parish": "San Fantin",
+    "master_name": "Zuane",
+    "apprentice_name": "Anzolo, di Bernardo (di Nardo)",
+    "apprentice_origin_name": "Agordo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "21eb9b56-386e-40cb-90eb-f21ee23825d9",
+    "contract_date": "1659-08-02",
+    "workshop_parish": "San Fantin",
+    "master_name": "Zuan Maria Panciera, quondam Mattio",
+    "apprentice_name": "Polonio Bailo, di Lorenzo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "102a1572-d245-4c6e-9e47-226c7035349e",
+    "contract_date": "1664-12-17",
+    "workshop_parish": "San Fantin",
+    "master_name": "Carlo Zuccharello",
+    "apprentice_name": "Antonio Cantin, quondam Zuanne",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e3342416-e4a3-4f36-a23b-41cfe81886ab",
+    "contract_date": "1669-01-03",
+    "workshop_parish": "San Fantin",
+    "master_name": "Mattio Panciera, di Bortolomio",
+    "apprentice_name": "Piero Panciera, di Bortolomio",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fa911e6a-a596-4f46-8ed4-da62658fa873",
+    "contract_date": "1671-05-22",
+    "workshop_parish": "San Fantin",
+    "master_name": "Francesco Centinelli",
+    "apprentice_name": "Zuanne Dazzon, di Zuanne",
+    "apprentice_origin_name": "Svizzera"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "435ec234-f4cb-407d-bf6b-9bde5a5d4659",
+    "contract_date": "1713-10-20",
+    "workshop_parish": "San Fantin",
+    "master_name": "Nicol\u00f2 Ferari",
+    "apprentice_name": "Zuane Moro, di Antonio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7ba462ac-1ac5-4dfe-81bb-2e74571820e7",
+    "contract_date": "1732-08-30",
+    "workshop_parish": "San Fantin",
+    "master_name": "Marco Griselin",
+    "apprentice_name": "Bortolo Paretoner, di Isepo",
+    "apprentice_origin_name": "Bassano del Grappa"
+   }
+  }
+ ]
+}

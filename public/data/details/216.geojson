@@ -1,0 +1,11 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/216.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": []
+}

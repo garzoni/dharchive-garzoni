@@ -1,0 +1,720 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/299.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f798b77f-db2e-4888-8837-98a22ab7210a",
+    "contract_date": "1575-08-17",
+    "workshop_parish": "San Salvador",
+    "master_name": "Iacomo Dale Madonne",
+    "apprentice_name": "Michiel, quondam Agnolo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0a459cb5-1d29-47a4-a28d-75c739af84b7",
+    "contract_date": "1575-09-05",
+    "workshop_parish": "San Salvador",
+    "master_name": "Antonio, di Symon",
+    "apprentice_name": "Aurelio, quondam Nicol\u00f2",
+    "apprentice_origin_name": "Ferrara"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cfe47423-25fd-40a2-8eb1-45e06324df75",
+    "contract_date": "1575-09-22",
+    "workshop_parish": "San Salvador",
+    "master_name": "Marco",
+    "apprentice_name": "Battista Nadal, quondam Zan",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8a8c4f0a-7e6b-4761-9382-66e62403109a",
+    "contract_date": "1575-10-12",
+    "workshop_parish": "San Salvador",
+    "master_name": "Zorzi, di Thomaso",
+    "apprentice_name": "Zuane Biondello, quondam Piero",
+    "apprentice_origin_name": "Bagnol"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c3ac0125-962d-4bdb-ae6a-6f7a277c5eee",
+    "contract_date": "1576-03-08",
+    "workshop_parish": "San Salvador",
+    "master_name": "Alvise Palazzuol",
+    "apprentice_name": "Nadalin De Bailo, quondam Pase",
+    "apprentice_origin_name": "Trento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "05698126-bee4-4448-ac45-e5667bf0a884",
+    "contract_date": "1582-01-04",
+    "workshop_parish": "San Salvador",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Battista, di Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2a0a9e08-a772-47ed-9e33-1a4e1d8326a3",
+    "contract_date": "1582-01-04",
+    "workshop_parish": "San Salvador",
+    "master_name": "Nadal",
+    "apprentice_name": "Zaneto, di Zamaria",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1a4b36dc-c52e-44a5-8c5d-b13893855fa6",
+    "contract_date": "1582-01-12",
+    "workshop_parish": "San Salvador",
+    "master_name": "Girardo Belinger",
+    "apprentice_name": "Rafael Di Rubani, di Lauro",
+    "apprentice_origin_name": "Marostica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "128ade3f-b81b-4208-893f-0e362ce8c2c8",
+    "contract_date": "1582-11-29",
+    "workshop_parish": "San Salvador",
+    "master_name": "Antonio Magiocho",
+    "apprentice_name": "Cristofollo, quondam Alvise",
+    "apprentice_origin_name": "Pederobba"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a16272a7-deb9-4b03-baa4-de90e9975775",
+    "contract_date": "1584-03-06",
+    "workshop_parish": "San Salvador",
+    "master_name": "Carllo",
+    "apprentice_name": "Sannin, di Nicoll\u00f2",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "490da14b-ea6e-41fa-b10a-c1626a267c03",
+    "contract_date": "1592-05-12",
+    "workshop_parish": "San Salvador",
+    "master_name": "Luca",
+    "apprentice_name": "Piero Antonio Parioza, di Vicenzo (quondam Piero)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "61942936-0873-447e-84cb-bc66dfd9ab47",
+    "contract_date": "1592-07-15",
+    "workshop_parish": "San Salvador",
+    "master_name": "Zuan Antonio di Basi",
+    "apprentice_name": "Zuan Battista Colona, quondam Domenico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1550f9ba-902c-417d-a11a-5e6991bd613b",
+    "contract_date": "1592-08-31",
+    "workshop_parish": "San Salvador",
+    "master_name": "Piero",
+    "apprentice_name": "Menego, di Isepo",
+    "apprentice_origin_name": "Santa Maria Val M\u00fcstair"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1b2b03f3-fa90-409f-bb70-d3fdeffdaa04",
+    "contract_date": "1592-09-09",
+    "workshop_parish": "San Salvador",
+    "master_name": "Battista",
+    "apprentice_name": "Domenego, quondam Andrea",
+    "apprentice_origin_name": "Este"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2142a573-e968-40ca-beda-07a7d2d171ff",
+    "contract_date": "1594-06-03",
+    "workshop_parish": "San Salvador",
+    "master_name": "Domenico Melini",
+    "apprentice_name": "Piero Marini, quondam Cristofolo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e64e9e1b-7626-4209-a8dc-fb6506b80834",
+    "contract_date": "1595-04-19",
+    "workshop_parish": "San Salvador",
+    "master_name": "Dioniso",
+    "apprentice_name": "Antonio, quondam Francesco",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a061ef27-8a30-4e7a-b5a8-0c736b9ddbe2",
+    "contract_date": "1595-05-29",
+    "workshop_parish": "San Salvador",
+    "master_name": "Piero",
+    "apprentice_name": "Arman, quondam Ruberto",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dc66ffe0-5db9-4da6-891f-b37a97118113",
+    "contract_date": "1596-07-27",
+    "workshop_parish": "San Salvador",
+    "master_name": "Salvador Belli",
+    "apprentice_name": "Giacomo Forcacino, quondam Alvise",
+    "apprentice_origin_name": "Faenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f6964bfd-0600-4336-ac29-c6aa5206d4bb",
+    "contract_date": "1596-08-03",
+    "workshop_parish": "San Salvador",
+    "master_name": "Domenico Melini",
+    "apprentice_name": "Antonio Gagio, di Rinaldo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fea76698-0632-4aeb-953f-66b0cbc9e96b",
+    "contract_date": "1597-12-03",
+    "workshop_parish": "San Salvador",
+    "master_name": "Bertollomio",
+    "apprentice_name": "Marcho Carlinia, di Gasparo (quondam Marco)",
+    "apprentice_origin_name": "Este"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f085f6c8-a205-4d52-b1d2-011b16315ef1",
+    "contract_date": "1598-04-07",
+    "workshop_parish": "San Salvador",
+    "master_name": "Zorzi Rota",
+    "apprentice_name": "Domenico, quondam Bertolomio",
+    "apprentice_origin_name": "Almenno San Salvatore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a5f0c312-2136-46c3-827a-85b80b174baf",
+    "contract_date": "1599-04-20",
+    "workshop_parish": "San Salvador",
+    "master_name": "Norio",
+    "apprentice_name": "Scipion Pichio, di Bernardin",
+    "apprentice_origin_name": "Pesaro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "07d5b733-fbec-4ec0-94c4-33c802564d9d",
+    "contract_date": "1599-05-11",
+    "workshop_parish": "San Salvador",
+    "master_name": "Iseppo, quondam Raffael",
+    "apprentice_name": "Zamaria, quondam Bastian",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9c3d979e-8ee1-42b6-953f-1976b99344f7",
+    "contract_date": "1599-08-17",
+    "workshop_parish": "San Salvador",
+    "master_name": "Zamaria",
+    "apprentice_name": "Menego, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0f7e4446-9e8b-4a03-9657-179e4fe4c0c8",
+    "contract_date": "1606-05-22",
+    "workshop_parish": "San Salvador",
+    "master_name": "Zuanne Antonio Boza",
+    "apprentice_name": "Zuanne Antonio  Oseletto, quondam Tomaso",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "024bdf67-b141-4646-9a0b-0759c9fbddea",
+    "contract_date": "1609-06-11",
+    "workshop_parish": "San Salvador",
+    "master_name": "Batista, quondam Giacomo",
+    "apprentice_name": "Piero Di Bianchi, quondam Rinaldo",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2f7586f1-bc4d-4389-8f86-e90f613be6e7",
+    "contract_date": "1609-06-26",
+    "workshop_parish": "San Salvador",
+    "master_name": "Antonio",
+    "apprentice_name": "Zuane Ferante, quondam Simon",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "10e104aa-a551-49ec-a2d2-b6f6da4a8866",
+    "contract_date": "1620-06-16",
+    "workshop_parish": "San Salvador",
+    "master_name": "Cristoffolo Rigola",
+    "apprentice_name": "Cristoforo, di Beneto",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a6b7fb18-7cc0-4ac0-87ff-d0faed7d50d9",
+    "contract_date": "1621-02-28",
+    "workshop_parish": "San Salvador",
+    "master_name": "Pietro Antonio Donadoni",
+    "apprentice_name": "Francesco di Zanchi, di Paullo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9b91ea3c-f6e6-4e0f-a4a4-cad3237c845f",
+    "contract_date": "1621-05-24",
+    "workshop_parish": "San Salvador",
+    "master_name": "Gioane Faido",
+    "apprentice_name": "Paulo Bondoni, di Pietro",
+    "apprentice_origin_name": "Brescia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d31db5d5-91cf-4ad4-8d0f-b8b943a3193b",
+    "contract_date": "1621-08-09",
+    "workshop_parish": "San Salvador",
+    "master_name": "Bernardo Golino",
+    "apprentice_name": "Pietro di Ferari, di Bettin",
+    "apprentice_origin_name": "Ardesio"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9ae830c7-43d7-4822-b327-f738f0ec7795",
+    "contract_date": "1621-08-27",
+    "workshop_parish": "San Salvador",
+    "master_name": "Zuan Pietro Delo",
+    "apprentice_name": "Zuan Battista Cagliari, quondam Adamo",
+    "apprentice_origin_name": "Sal\u00f2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e4a21e1e-9f80-4029-8714-3f1831ddadb8",
+    "contract_date": "1621-10-12",
+    "workshop_parish": "San Salvador",
+    "master_name": "Guerin Bertoldo",
+    "apprentice_name": "Giacomo Galecioli, quondam Lazaro",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a713201e-61cf-4357-adaf-2f73d4a3a8fe",
+    "contract_date": "1622-05-06",
+    "workshop_parish": "San Salvador",
+    "master_name": "Giacomo Lindicus",
+    "apprentice_name": "Gasparo Ieverle, di Rigo",
+    "apprentice_origin_name": "Germania"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1db9b228-fcfd-4a6a-a750-c8779f90d34e",
+    "contract_date": "1622-06-27",
+    "workshop_parish": "San Salvador",
+    "master_name": "Dario Fitieli, quondam Giovan Battista",
+    "apprentice_name": "Zuane, di Isepo (di Steffano)",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a0cc5ac9-2412-4150-810b-e900a5053f02",
+    "contract_date": "1625-08-12",
+    "workshop_parish": "San Salvador",
+    "master_name": "Francesco Martini",
+    "apprentice_name": "Hippolito Marcheti, di Pietro",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8b1a8c35-8f93-4269-b057-8d16aa55a00e",
+    "contract_date": "1625-11-24",
+    "workshop_parish": "San Salvador",
+    "master_name": "Antonio Sierta",
+    "apprentice_name": "Gielmo Petrosina, quondam Virgilio",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "57e76fc2-5d28-40c4-9054-581be6ba38ce",
+    "contract_date": "1626-01-05",
+    "workshop_parish": "San Salvador",
+    "master_name": "Francesco Martini",
+    "apprentice_name": "Giacomo Rasmo, quondam Giovanni",
+    "apprentice_origin_name": "Como"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f8f3018f-db20-4737-8123-0d1aeb48624d",
+    "contract_date": "1626-06-10",
+    "workshop_parish": "San Salvador",
+    "master_name": "Cristoforo Rigola",
+    "apprentice_name": "Santo Querini, di Battista",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ee650910-8873-4f18-a042-1da67d7e7959",
+    "contract_date": "1644-01-30",
+    "workshop_parish": "San Salvador",
+    "master_name": "Domenego Tasca",
+    "apprentice_name": "Vetor Di Franchi, di Rocco",
+    "apprentice_origin_name": "Feltre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0a2f9589-cd53-405c-bb9c-a46bb24bc4fc",
+    "contract_date": "1644-06-21",
+    "workshop_parish": "San Salvador",
+    "master_name": "Filippo Bressanin",
+    "apprentice_name": "Zuane Battista Di Rossi, di Pietro",
+    "apprentice_origin_name": "Rovigo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fc4104b0-0ad5-42fa-9472-a13f75551708",
+    "contract_date": "1645-05-15",
+    "workshop_parish": "San Salvador",
+    "master_name": "Filippo Bressanin",
+    "apprentice_name": "Olivier Ruopel, quondam Bernardo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "300f60f4-aeef-4970-84a5-c706834d710d",
+    "contract_date": "1645-07-20",
+    "workshop_parish": "San Salvador",
+    "master_name": "Giovan Battista Boardo",
+    "apprentice_name": "Marco Arcon, di Andrea",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3942dee9-4a57-4f19-92f8-85f9b9265988",
+    "contract_date": "1646-08-13",
+    "workshop_parish": "San Salvador",
+    "master_name": "Isabetta Alberti",
+    "apprentice_name": "Agostin Cartirati, di Batta",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "70222b66-2a78-47fc-980f-276c947f5a4d",
+    "contract_date": "1646-08-13",
+    "workshop_parish": "San Salvador",
+    "master_name": "Pasqualin Bezzi",
+    "apprentice_name": "Giacomo Bassanello, quondam Battista",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "15c265f5-3a01-423d-92e9-523b54e4d1e0",
+    "contract_date": "1647-02-26",
+    "workshop_parish": "San Salvador",
+    "master_name": "Piero Tanto",
+    "apprentice_name": "Piero Guarana, di Antonio",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "65175d92-1cad-4d70-8914-7dc01477d150",
+    "contract_date": "1647-08-22",
+    "workshop_parish": "San Salvador",
+    "master_name": "Martino Mambrini, quondam Agostin",
+    "apprentice_name": "Steffano Negrisuolo, di Valerio",
+    "apprentice_origin_name": "Pontelongo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1626d06b-39ca-4058-9a86-18cad339e38f",
+    "contract_date": "1647-10-05",
+    "workshop_parish": "San Salvador",
+    "master_name": "Pasqualin Bezzi",
+    "apprentice_name": "Francesco Malinignano, di Polo",
+    "apprentice_origin_name": "Lendinara"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dc4110b5-5765-4741-912f-e42036273e3e",
+    "contract_date": "1653-03-26",
+    "workshop_parish": "San Salvador",
+    "master_name": "Paulo, quondam Menego",
+    "apprentice_name": "Andrea Beri, quondam Battista",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "55512f26-74b3-4a57-a518-58dea9152962",
+    "contract_date": "1657-05-28",
+    "workshop_parish": "San Salvador",
+    "master_name": "Francesco Grassi",
+    "apprentice_name": "Piero Zanchi, di Marssilio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c1b4a55a-03eb-426e-bb51-450fe4fc957f",
+    "contract_date": "1657-06-20",
+    "workshop_parish": "San Salvador",
+    "master_name": "Zuane",
+    "apprentice_name": "Battista Garbin, quondam Daniel",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9208c72e-7cec-46c2-9f95-6cf53de6c0d7",
+    "contract_date": "1658-06-12",
+    "workshop_parish": "San Salvador",
+    "master_name": "Paolo",
+    "apprentice_name": "Andrea Picolo, di Menego",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3e39bed9-e5f4-4372-a632-9d17c55fa469",
+    "contract_date": "1662-01-15",
+    "workshop_parish": "San Salvador",
+    "master_name": "Francesco Nemaleo",
+    "apprentice_name": "Silvano Lucatello, di Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "383d930b-0bfa-4a28-b87f-9daae7c0a158",
+    "contract_date": "1662-10-23",
+    "workshop_parish": "San Salvador",
+    "master_name": "Antonio Bonaciol",
+    "apprentice_name": "Andrea Gropillo, di Bastian",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "69185b72-bc08-4e40-b6e1-fc781288baa2",
+    "contract_date": "1664-03-01",
+    "workshop_parish": "San Salvador",
+    "master_name": "Agostin Polueto?",
+    "apprentice_name": "Baldissera Padas, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1bb39b42-a9a1-4511-9384-0b5ebb6ebf1f",
+    "contract_date": "1670-06-02",
+    "workshop_parish": "San Salvador",
+    "master_name": "Francesco Bianchini",
+    "apprentice_name": "Zuanne, di Mattio (di Toni)",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0735f828-e632-4eed-9344-ad9f5862ab7a",
+    "contract_date": "1681-12-01",
+    "workshop_parish": "San Salvador",
+    "master_name": "Clemente  Nascosi",
+    "apprentice_name": "Antonio D'Avanzo, di Baldisera",
+    "apprentice_origin_name": "Vittorio Veneto"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d9a6503b-6b07-40ab-b488-deb69124ae0f",
+    "contract_date": "1682-11-18",
+    "workshop_parish": "San Salvador",
+    "master_name": "Ventura Longa",
+    "apprentice_name": "Anzolo Casseti, di Nadal",
+    "apprentice_origin_name": "Dolo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "41d8f241-3d88-4a91-a083-24d39439bbda",
+    "contract_date": "1769-06-09",
+    "workshop_parish": "San Salvador",
+    "master_name": "Giovanni Battista Picoli",
+    "apprentice_name": "Andrea Ziponi, di Giovanni Battista",
+    "apprentice_origin_name": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "paidBy": {
+            "label": {
+                "en": "Paid by"
+            },
+            "default": "grz:MasterPayer",
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "_choiceList": {
+                "listQName": "grz:PayerList",
+                "keyProperty": "qualified_name"
+            },
+            "propertyOrder": 2
+        },
+        "paidInGoods": {
+            "label": {
+                "en": "Paid in Goods"
+            },
+            "type": "boolean",
+            "propertyOrder": 3
+        },
+        "periodization": {
+            "label": {
+                "en": "Periodization"
+            },
+            "default": "grz:WholePeriod",
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "_choiceList": {
+                "listQName": "grz:PeriodizationList",
+                "keyProperty": "qualified_name"
+            },
+            "propertyOrder": 4
+        },
+        "period": {
+            "label": {
+                "en": "Specific Period"
+            },
+            "type": "string",
+            "propertyOrder": 5
+        },
+        "currencyUnit": {
+            "label": {
+                "en": "Currency Unit"
+            },
+            "default": "grz:Ducati",
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "_choiceList": {
+                "listQName": "grz:CurrencyUnit",
+                "keyProperty": "qualified_name",
+                "labelProperty": "label"
+            },
+            "propertyOrder": 6
+        },
+        "moneyInformation": {
+            "label": {
+                "en": "Money Information"
+            },
+            "type": "string",
+            "propertyOrder": 7
+        },
+        "partialAmount": {
+            "label": {
+                "en": "Partial Amount"
+            },
+            "type": "number",
+            "propertyOrder": 8
+        },
+        "totalAmount": {
+            "label": {
+                "en": "Total Amount"
+            },
+            "type": "number",
+            "propertyOrder": 9
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea",
+            "propertyOrder": 10
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "paidInGoods"
+    ],
+    "annotationRules": {
+        "semanticTags": {
+            "allowMultiple": false,
+            "allowAdditions": false,
+            "lists": [
+                {
+                    "qualifiedName": "grz:FinancialConditionMentionTagList",
+                    "itemType": "dhc:SemanticTag"
+                }
+            ]
+        }
+    }
+}

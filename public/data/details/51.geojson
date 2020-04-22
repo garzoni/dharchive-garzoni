@@ -1,0 +1,276 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/51.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1e72111d-47da-49cc-92a7-6a5c922f19d0",
+    "contract_date": "1575-08-17",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Gasparo",
+    "apprentice_name": "Marco, di Bastian",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "83ec83c0-d764-4f4c-874d-3b69431ac264",
+    "contract_date": "1584-04-11",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Cristofollo",
+    "apprentice_name": "Francesco, quondam Pietro",
+    "apprentice_origin_name": "Lecco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2949a8ff-b7ba-4b06-a33a-4028d6cb4898",
+    "contract_date": "1594-07-04",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Cristoforo",
+    "apprentice_name": "Zuane Angelo, quondam Francesco",
+    "apprentice_origin_name": "Chies d\u2019Alpago"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "59077e17-bd45-4dbf-afbe-69207fc47583",
+    "contract_date": "1596-07-10",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Domenico",
+    "apprentice_name": "Valerio, di Gerolamo",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c07a8db4-bfc1-4b51-8e02-c780e759bfad",
+    "contract_date": "1598-03-07",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Zuane",
+    "apprentice_name": "Zuane Piero, di Lorenzo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8c7f835d-32c1-4d1f-a538-dc9a8e532ec1",
+    "contract_date": "1606-07-03",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Menego, di Zamaria",
+    "apprentice_name": "Anzollo, di Antonio (di Martin)",
+    "apprentice_origin_name": "San Daniele"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8ecdac85-74e6-4123-a860-e19308670963",
+    "contract_date": "1609-11-14",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Domenico Manzoni, quondam Giacomo",
+    "apprentice_name": "Antonio, di Zuane (di Antonio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "97e3f8b5-6297-4802-8b3e-fe9456fbfb80",
+    "contract_date": "1610-03-22",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Marco",
+    "apprentice_name": "Bortolomo, di Antonio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e9c1702a-45e4-47df-9e5c-1321073a75f1",
+    "contract_date": "1620-01-13",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Giovanni Maria",
+    "apprentice_name": "Giovanni Paulo, di Nicol\u00f2",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b2b48671-e1b9-4033-941f-e4c046e34c0d",
+    "contract_date": "1621-08-26",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Domenico Marzoni, di Giacomo",
+    "apprentice_name": "Vidal Marzoni, di Pietro",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d263153a-4f07-4485-88a6-89253874d372",
+    "contract_date": "1621-10-02",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Paulo",
+    "apprentice_name": "Paulo Pratter, di Gasparo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fa03294c-67eb-4fd9-b358-0ad908a53083",
+    "contract_date": "1621-10-23",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Giovane Negroni",
+    "apprentice_name": "Gioseffo Gualtier, di Oratio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c85e77c3-1106-4625-8200-8348809c730b",
+    "contract_date": "1625-06-03",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Gerolamo Martinelli",
+    "apprentice_name": "Antonio Simonati, di Giacomo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "02635b86-b42c-4c3f-b2e0-e3cc59cbb440",
+    "contract_date": "1625-07-15",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Zan Pietro ?",
+    "apprentice_name": "Pompeo Costantini, quondam Gasparo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4fba4c52-3131-4601-9b61-22f65e6fbe0a",
+    "contract_date": "1626-01-29",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Anzolo",
+    "apprentice_name": "Domenico Gallantino, quondam Battista",
+    "apprentice_origin_name": "Pernumia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3c53cb59-2291-43fe-bba2-79200d284bc4",
+    "contract_date": "1626-06-18",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Anzolo Straolino",
+    "apprentice_name": "Baldisaro Selerado?, di Biasio",
+    "apprentice_origin_name": "Valle del But"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d488f5d3-b4ac-4609-85c7-2743caa08499",
+    "contract_date": "1626-11-24",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Gioani Orlandi",
+    "apprentice_name": "Gioseffo Di Verdi, quondam Michiel",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b8ae4105-50a0-4d79-b8bd-051ab9a4260f",
+    "contract_date": "1664-09-24",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Lunardo, di Orlando",
+    "apprentice_name": "Iseppo Vido, di Lunardo",
+    "apprentice_origin_name": "Tolmezzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2c69cad9-5e2b-46d0-96c3-a250bac69b35",
+    "contract_date": "1670-02-18",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Domenico Santonio",
+    "apprentice_name": "Battista Santonio, di Domenico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "678ebfeb-3ce8-4887-88da-d214f1fb53bc",
+    "contract_date": "1670-02-18",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Domenico Santonio",
+    "apprentice_name": "Francesco Santonio, di Domenico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "236f4172-a023-455a-86fe-4944d1e09f86",
+    "contract_date": "1670-02-23",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Lunardo D'Orlando",
+    "apprentice_name": "Zuanne Marin, di Bortolamio",
+    "apprentice_origin_name": "Loria"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7e70cc32-4c81-4ef1-8863-587a8a220630",
+    "contract_date": "1712-10-10",
+    "workshop_parish": "San Simeon Grande",
+    "master_name": "Pietro Pasquin",
+    "apprentice_name": "Pietro Bilian, di Zorzi",
+    "apprentice_origin_name": "Cavazzo Carnico"
+   }
+  }
+ ]
+}

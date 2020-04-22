@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "label": "@multilingualLabel"
+    },
+    "additionalProperties": false,
+    "required": ["qualifiedName", "label"]
+}

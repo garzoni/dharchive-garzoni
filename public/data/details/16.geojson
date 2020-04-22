@@ -1,0 +1,24 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/16.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b15b5ec2-ea39-4c3a-ac6f-60f0d6f35d1b",
+    "contract_date": "1591-01-14",
+    "workshop_parish": null,
+    "master_name": "Fioravante Pratto, et sui heredi",
+    "apprentice_name": "Battista, di Andrea (di Adamo)",
+    "apprentice_origin_name": "Bordano"
+   }
+  }
+ ]
+}

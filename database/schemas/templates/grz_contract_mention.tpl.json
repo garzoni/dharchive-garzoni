@@ -1,0 +1,40 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "date": "@date",
+        "onMultiplePages": {
+            "label": {
+                "en": "On Multiple Pages"
+            },
+            "type": "boolean"
+        },
+        "hasMargin": {
+            "label": {
+                "en": "Has Margin"
+            },
+            "type": "boolean"
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea"
+        },
+        "relatedContract": {
+            "label": {
+                "en": "Related Contract"
+            },
+            "@uuid": {}
+        },
+        "mediaWikiReference": {
+            "label": {
+                "en": "MediaWiki Reference"
+            },
+            "type": "string"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["date", "onMultiplePages", "hasMargin"]
+}

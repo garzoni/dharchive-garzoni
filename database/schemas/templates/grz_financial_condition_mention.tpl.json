@@ -1,0 +1,76 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "paidBy": {
+            "label": {
+                "en": "Paid by"
+            },
+            "default": "grz:MasterPayer",
+            "@grzPayer": {}
+        },
+        "paidInGoods": {
+            "label": {
+                "en": "Paid in Goods"
+            },
+            "type": "boolean"
+        },
+        "periodization": {
+            "label": {
+                "en": "Periodization"
+            },
+            "default": "grz:WholePeriod",
+            "@grzPeriodization": {}
+        },
+        "period": {
+            "label": {
+                "en": "Specific Period"
+            },
+            "type": "string"
+        },
+        "currencyUnit": {
+            "label": {
+                "en": "Currency Unit"
+            },
+            "default": "grz:Ducati",
+            "@grzCurrencyUnit": {}
+        },
+        "moneyInformation": {
+            "label": {
+                "en": "Money Information"
+            },
+            "type": "string"
+        },
+        "partialAmount": {
+            "label": {
+                "en": "Partial Amount"
+            },
+            "type": "number"
+        },
+        "totalAmount": {
+            "label": {
+                "en": "Total Amount"
+            },
+            "type": "number"
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["paidInGoods"],
+    "annotationRules": {
+        "semanticTags": {
+            "allowMultiple": false,
+            "allowAdditions": false,
+            "lists": [{
+                "qualifiedName": "grz:FinancialConditionMentionTagList",
+                "itemType": "dhc:SemanticTag"
+            }]
+        }
+    }
+}

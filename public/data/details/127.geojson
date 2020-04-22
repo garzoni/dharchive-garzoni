@@ -1,0 +1,816 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/127.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5849a6ea-aa45-48f7-9d41-4450d187cc0b",
+    "contract_date": "1575-07-08",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Piero, di Symon",
+    "apprentice_name": "Zuane Peresin, quondam Andrea",
+    "apprentice_origin_name": "Motta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e314c862-be60-4337-a4d2-bf66aef78e8e",
+    "contract_date": "1575-09-22",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Pasqualin Zago",
+    "apprentice_name": "Piero Battello, quondam Battista",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f4c568eb-4ea5-4f64-a855-4006b2857caf",
+    "contract_date": "1582-09-10",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Rinaldo de Manzon",
+    "apprentice_name": "Zamaria, quondam Giacomo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f0bd6b04-6b47-4fd3-b39b-4ad77dbbcede",
+    "contract_date": "1582-09-22",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Marsilio",
+    "apprentice_name": "Giacomo, di Zuane",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "89469a0f-028c-4709-811b-49ee08824052",
+    "contract_date": "1583-04-13",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Pauolo, di Battista",
+    "apprentice_name": "Zan Battista, quondam Zan Giacomo",
+    "apprentice_origin_name": "Feltre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9cd4a882-e32a-4733-865f-9e5989ab5f43",
+    "contract_date": "1583-04-18",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Tomio, di Zamaria",
+    "apprentice_name": "Antonio, quondam Bastian",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c707d2c5-e470-4a80-8fab-fea77bf6beda",
+    "contract_date": "1583-09-01",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Marsilio",
+    "apprentice_name": "Andrea, di Filippo",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "71f7e308-1fea-4d5c-8b92-090387977dee",
+    "contract_date": "1584-08-07",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Zamaria",
+    "apprentice_name": "Cristan, di Gasparo",
+    "apprentice_origin_name": "Castello"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9139bf81-3894-4888-b1b3-667e03be7654",
+    "contract_date": "1584-10-31",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Francesco, di Gasparo",
+    "apprentice_name": "Mattio, di Domenico",
+    "apprentice_origin_name": "Udine"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a442537e-e1ee-454c-bff7-38cbae51e61c",
+    "contract_date": "1584-12-05",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Gasparo, di Nicol\u00f2",
+    "apprentice_name": "Biasio da Riva, quondam Zorzi",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "95ed52ac-004f-4227-bcd9-8041b388bfa6",
+    "contract_date": "1591-08-22",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Nadalin",
+    "apprentice_name": "Piero, di Tomaso",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b98ba241-b638-435b-95f3-473626a63748",
+    "contract_date": "1592-01-19",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Zuane, di Pasin",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ffaa5bd-b256-4670-8400-1cc806e340ec",
+    "contract_date": "1592-07-06",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Rinaldo",
+    "apprentice_name": "Antonio, quondam Battista",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5321779c-18d9-4616-a4b3-6532a00965bf",
+    "contract_date": "1594-06-28",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Paolo Moreti",
+    "apprentice_name": "Zuane Battista, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "89a115d8-423a-4a2a-8291-4f28017cddb7",
+    "contract_date": "1594-09-05",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Piero",
+    "apprentice_name": "Lorenzo, di Anzollo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "05cf0dbd-6366-4649-996f-cb973368cdcd",
+    "contract_date": "1596-02-25",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Bertollo",
+    "apprentice_name": "Andrea, quondam Andrea",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ab448f21-01ac-4054-9b4c-be486b4cf2e1",
+    "contract_date": "1596-06-18",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Antonio, e frateli",
+    "apprentice_name": "Bortollo, di Zuane",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3f872484-1a4d-4f84-8f64-78189919c4fd",
+    "contract_date": "1596-07-10",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Antonio",
+    "apprentice_name": "Isepo, quondam Zuanne Piero",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "302837eb-377e-4f59-aae9-6e9f1eb6c7da",
+    "contract_date": "1596-10-03",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Nadalin",
+    "apprentice_name": "Menego Di Meneghi, quondam Marco",
+    "apprentice_origin_name": "Ponte di Piave"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1f7f9a73-f25e-4ec9-b3a3-e37f4eeddf0e",
+    "contract_date": "1597-02-14",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Ciprian",
+    "apprentice_name": "Zuane, quondam Polonio",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "427b2b1c-ec96-4f8c-a1cd-28676688657f",
+    "contract_date": "1598-07-30",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Lorenzo Bignuol",
+    "apprentice_name": "Piero, di Zuane Antonio",
+    "apprentice_origin_name": "Oneta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ea3933ff-356c-4b84-8a04-cbbcc3b2b273",
+    "contract_date": "1598-08-12",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Baldisera",
+    "apprentice_name": "Menego Tovanella, di Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "993183ab-2470-48bf-a53f-7aaa2c28df9c",
+    "contract_date": "1598-09-02",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Paulo Moreti",
+    "apprentice_name": "Fiorin, di Rocho",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d8eab1bb-df90-49b3-96be-483f11d5f865",
+    "contract_date": "1598-12-16",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Giacomo, di Zuane",
+    "apprentice_name": "Nicoletto, di Giacomo (di Florian)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d86674c1-3696-4240-a393-2da02aca89c0",
+    "contract_date": "1599-06-12",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Fedrigo",
+    "apprentice_name": "Luca, quondam Balzertina",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6dbb9bfa-9fd3-41f7-9e8d-7db968283974",
+    "contract_date": "1599-07-05",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Antonio Parmesan",
+    "apprentice_name": "Menego Semolin, di Matio (di Battista)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5288e106-3945-4080-9ccf-c9dc824c18e3",
+    "contract_date": "1606-07-07",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Zuane, quondam Paullo",
+    "apprentice_name": "Gasparo, quondam Martin",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1f783786-1fc9-4f87-82f7-f17b923cd854",
+    "contract_date": "1606-08-31",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Paulo Moreti",
+    "apprentice_name": "Anzollo, quondam Tenbella",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "44b51158-469b-4ae3-b3eb-e8fafd238394",
+    "contract_date": "1610-06-30",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Piero",
+    "apprentice_name": "Marzello, di Francesco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5927b82e-c319-4789-8130-31c4335c017e",
+    "contract_date": "1620-06-11",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Zuan Maria",
+    "apprentice_name": "Bortolo, di Zuane",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "102a4b4c-1348-49c6-9f66-17f9166eedfe",
+    "contract_date": "1620-09-11",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Giacomo",
+    "apprentice_name": "Battista, di Domenico",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a95631f4-900a-4201-bdce-932d0aabaf50",
+    "contract_date": "1620-12-16",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Giacomo",
+    "apprentice_name": "Francesco, di Giacomo",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "42c69d64-08cf-45d1-a1ec-03d571f1f2e0",
+    "contract_date": "1621-04-15",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Nicol\u00f2",
+    "apprentice_name": "Tomio, di Antonio",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a9de3c93-1ef0-423c-b213-5af12191750d",
+    "contract_date": "1621-05-22",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Battista",
+    "apprentice_name": "Donato Patrich, quondam Donato",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "60c6c584-3e77-4410-9e30-b59682523f18",
+    "contract_date": "1621-08-27",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Zuan Maria",
+    "apprentice_name": "Fermo Negroni, di Francesco",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5a61ccb8-4c7c-485b-b075-738e13a051fd",
+    "contract_date": "1621-12-14",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Bortolo, quondam Andrea",
+    "apprentice_name": "Zuane de Cre, di Francesco",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3440715e-ca1e-42f3-919b-2af05c9054cd",
+    "contract_date": "1622-10-14",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Giacomo",
+    "apprentice_name": "Antonio Maria Antonello, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ab0571b2-bd49-4cd1-b2e3-12e4e01525e5",
+    "contract_date": "1622-10-29",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Bartolomeo, quondam Andrea",
+    "apprentice_name": "Domenico Barban, quondam Bortolo",
+    "apprentice_origin_name": "Camposampiero"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fb96c705-6f5d-4177-9604-ef15a9f18635",
+    "contract_date": "1625-09-23",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Zuane, quondam Dionesio",
+    "apprentice_name": "Giovanni Valesella, di Iseppo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "695fd7e0-a8dc-49e9-ab4f-8504e689420c",
+    "contract_date": "1625-11-10",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Zuanne, di Bortolo",
+    "apprentice_name": "Giovanni Maria Toresan, di Mattio",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0dd276e3-7109-490c-b87b-8225e78d2002",
+    "contract_date": "1625-11-24",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Battista",
+    "apprentice_name": "Gasparo, di Domenico",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "781319b3-85fd-44e8-987e-44c8f023680e",
+    "contract_date": "1626-04-27",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Baldi",
+    "apprentice_name": "Anzolo Spada, di Bastian",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a3f64165-7864-47df-8068-9ba95f914c42",
+    "contract_date": "1626-10-21",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Pietro Coretto",
+    "apprentice_name": "Giacoo Perla, quondam Nicol\u00f2",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "263a4d77-bcac-4bc2-be82-f3923f98eeb2",
+    "contract_date": "1632-01-04",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Gioseffo Trafego",
+    "apprentice_name": "Domenico Bissa, quondam Gioani",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "86b8f7bb-4807-41d3-9e3c-de3eea69da6e",
+    "contract_date": "1632-06-07",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Bortolo",
+    "apprentice_name": "Simon, quondam Bernardo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "099ce2fe-0e24-4f5b-a67c-d5e250cbddc3",
+    "contract_date": "1632-07-06",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Ferigo Nobeloni",
+    "apprentice_name": "Francesco, di Zuane",
+    "apprentice_origin_name": "Castion"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "18d5d6b6-9c96-4dbc-9395-1a598a588664",
+    "contract_date": "1632-07-06",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Andrea, quondam Domenego",
+    "apprentice_name": "Lodovico Pechiera, di Gerolemo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4cb061ce-5cd4-47b3-b2fe-3779248405ef",
+    "contract_date": "1644-06-25",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Bernardini Di Muti",
+    "apprentice_name": "Berto Sonela, di Zuane",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7f69e467-d82f-4de7-b11b-b9898e4de5f9",
+    "contract_date": "1645-04-20",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Antonio, quondam Zuane",
+    "apprentice_name": "Zuane Vialcingo, di Piero",
+    "apprentice_origin_name": "Caorle"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "abe6ac05-3fb4-470e-9d54-d58ed0dc8a4a",
+    "contract_date": "1645-04-20",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Antonio, quondam Zuane",
+    "apprentice_name": "Valerio da Col, quondam Mattio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0ef91ec9-913e-4c86-bf62-c2ec0bd3227b",
+    "contract_date": "1647-08-27",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Zacharia Tognon, quondam Antonio",
+    "apprentice_name": "Antonio Birlinetto, quondam Piero",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c4ec74fd-0855-402a-98ea-07e79777a7b6",
+    "contract_date": "1657-01-11",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Zuane Battista Chiopetto",
+    "apprentice_name": "Giulio Volani, quondam Nadalin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7ebcae86-125e-4097-baa0-b0f739dfb916",
+    "contract_date": "1657-11-27",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Francesco ?",
+    "apprentice_name": "Giacomo, di Domenico",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ab485163-1dff-43c3-b0e7-721662f0ffa6",
+    "contract_date": "1657-12-17",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Francesco",
+    "apprentice_name": "Vicenzo Di Zori, di Paolo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d4bc7065-d3d2-4a07-9dd5-164ad5af4162",
+    "contract_date": "1659-01-24",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Francesco Papin",
+    "apprentice_name": "Zuane Togiella, di Paulo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f41db932-335a-4be0-ba0e-fa6757dd8f14",
+    "contract_date": "1662-02-09",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Mattio",
+    "apprentice_name": "Zuane Battista, di Gaspario (quondam Piero)",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a730fd9a-6a6a-4f2e-a1d8-bfefb263b4f1",
+    "contract_date": "1664-05-07",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Tomaso",
+    "apprentice_name": "Zulian Desoraroi, di Marco",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "84a06a8c-b223-4feb-b4f4-16c35a48ccda",
+    "contract_date": "1664-07-09",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Santo Castellaro",
+    "apprentice_name": "Iseppo Coian, quondam Paulo",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "afe88fb1-acf7-4fa6-bc53-4452e50ff7ee",
+    "contract_date": "1664-07-09",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Santo Castellaro",
+    "apprentice_name": "Antonio Nero, di Bernardo",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f85a7250-b65c-4517-8fcf-8af880438eed",
+    "contract_date": "1664-08-25",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Tomaso",
+    "apprentice_name": "Giacomo De Pian, di Zorzi",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3610e111-0fbd-4585-8167-34af59219407",
+    "contract_date": "1669-02-20",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Tomaso",
+    "apprentice_name": "Battista Frural?, di Antonio",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bc056ec6-7d67-4b30-b9da-55304f6d3311",
+    "contract_date": "1670-02-16",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Tomaso Cassara",
+    "apprentice_name": "Menego, quondam Bernardin",
+    "apprentice_origin_name": "San Tom\u00e0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "040c1fbc-6718-4251-bfaf-304ba8420c94",
+    "contract_date": "1671-03-21",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Anzolo Arnolfi",
+    "apprentice_name": "Zuane Madoneta, di Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "010af4d8-5ca2-4eb7-9995-3046a50f8329",
+    "contract_date": "1671-06-08",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Bortolo Pelegrini",
+    "apprentice_name": "Gasparo Trescara, di Bernardin",
+    "apprentice_origin_name": "Vicenza"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a4384b99-fd83-4f8f-929a-363cc0e9e301",
+    "contract_date": "1682-05-14",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Giovanni Battista Nazari",
+    "apprentice_name": "Iseppo Picchion, di Michiel",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8415e34b-cb54-4a85-979c-59fcc33da8b6",
+    "contract_date": "1682-08-17",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Zaccaria Chicao",
+    "apprentice_name": "Giacomo Lucon, di Luca (quondam Felippo)",
+    "apprentice_origin_name": "Giudecca"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a70598a5-7819-4762-aa5f-e028f9e3394a",
+    "contract_date": "1712-02-07",
+    "workshop_parish": "San Trovaso",
+    "master_name": "Battista Bedena",
+    "apprentice_name": "Iseppo Ergavello, di Bernardo",
+    "apprentice_origin_name": null
+   }
+  }
+ ]
+}

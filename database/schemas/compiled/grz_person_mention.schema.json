@@ -1,0 +1,413 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": {
+            "label": {
+                "en": "Qualified Name"
+            },
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "options": {
+                "hidden": true
+            },
+            "propertyOrder": 1
+        },
+        "name": {
+            "label": {
+                "en": "Name"
+            },
+            "type": "object",
+            "properties": {
+                "forename": {
+                    "label": {
+                        "en": "Forename"
+                    },
+                    "type": "string",
+                    "propertyOrder": 1
+                },
+                "surname": {
+                    "label": {
+                        "en": "Surname"
+                    },
+                    "type": "string",
+                    "propertyOrder": 2
+                },
+                "patronymic1": {
+                    "label": {
+                        "en": "Patronymic 1"
+                    },
+                    "type": "string",
+                    "propertyOrder": 3
+                },
+                "quondam1": {
+                    "label": {
+                        "en": "Quondam 1"
+                    },
+                    "type": "boolean",
+                    "propertyOrder": 4
+                },
+                "patronymic2": {
+                    "label": {
+                        "en": "Patronymic 2"
+                    },
+                    "type": "string",
+                    "propertyOrder": 5
+                },
+                "quondam2": {
+                    "label": {
+                        "en": "Quondam 2"
+                    },
+                    "type": "boolean",
+                    "propertyOrder": 6
+                },
+                "collectiveName": {
+                    "label": {
+                        "en": "Collective Name"
+                    },
+                    "type": "string",
+                    "propertyOrder": 7
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "forename",
+                "quondam1",
+                "quondam2"
+            ],
+            "propertyOrder": 2
+        },
+        "age": {
+            "label": {
+                "en": "Age"
+            },
+            "type": "string",
+            "propertyOrder": 3
+        },
+        "gender": {
+            "label": {
+                "en": "Gender"
+            },
+            "default": "grz:Male",
+            "type": "string",
+            "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+            "_choiceList": {
+                "listQName": "grz:GenderList",
+                "keyProperty": "qualified_name"
+            },
+            "propertyOrder": 4
+        },
+        "geoOrigin": {
+            "label": {
+                "en": "Geographical Origin"
+            },
+            "type": "object",
+            "properties": {
+                "transcript": {
+                    "label": {
+                        "en": "Transcript"
+                    },
+                    "type": "string",
+                    "minLength": 1,
+                    "propertyOrder": 1
+                },
+                "standardForm": {
+                    "label": {
+                        "en": "Standard Form"
+                    },
+                    "type": "string",
+                    "minLength": 1,
+                    "propertyOrder": 2
+                },
+                "sestiere": {
+                    "label": {
+                        "en": "Sestiere"
+                    },
+                    "type": "string",
+                    "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                    "_choiceList": {
+                        "listQName": "grz:Sestriere",
+                        "keyProperty": "qualified_name",
+                        "labelProperty": "name"
+                    },
+                    "propertyOrder": 3
+                },
+                "parish": {
+                    "label": {
+                        "en": "Parish"
+                    },
+                    "type": "string",
+                    "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                    "_choiceList": {
+                        "listQName": "grz:Parish",
+                        "keyProperty": "qualified_name",
+                        "labelProperty": "name",
+                        "minCharacters": 2
+                    },
+                    "propertyOrder": 4
+                },
+                "type": {
+                    "label": {
+                        "en": "Location Type"
+                    },
+                    "type": "string",
+                    "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                    "_choiceList": {
+                        "listQName": "grz:LocationTypeList",
+                        "keyProperty": "qualified_name"
+                    },
+                    "propertyOrder": 5
+                }
+            },
+            "options": {
+                "collapsed": true
+            },
+            "additionalProperties": false,
+            "propertyOrder": 5
+        },
+        "professions": {
+            "label": {
+                "en": "Professions"
+            },
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "transcript": {
+                        "label": {
+                            "en": "Transcript"
+                        },
+                        "type": "string",
+                        "minLength": 1,
+                        "propertyOrder": 1
+                    },
+                    "standardForm": {
+                        "label": {
+                            "en": "Standard Form"
+                        },
+                        "type": "string",
+                        "minLength": 1,
+                        "propertyOrder": 2
+                    },
+                    "worksFor": {
+                        "label": {
+                            "en": "Works for"
+                        },
+                        "type": "string",
+                        "propertyOrder": 3
+                    }
+                },
+                "additionalProperties": false
+            },
+            "options": {
+                "collapsed": false
+            },
+            "uniqueItems": true,
+            "propertyOrder": 6
+        },
+        "workshop": {
+            "label": {
+                "en": "Workshop"
+            },
+            "type": "object",
+            "properties": {
+                "insigna": {
+                    "label": {
+                        "en": "Insigna"
+                    },
+                    "type": "string",
+                    "propertyOrder": 1
+                },
+                "site": {
+                    "label": {
+                        "en": "Site"
+                    },
+                    "type": "string",
+                    "propertyOrder": 2
+                },
+                "sestiere": {
+                    "label": {
+                        "en": "Sestiere"
+                    },
+                    "type": "string",
+                    "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                    "_choiceList": {
+                        "listQName": "grz:Sestriere",
+                        "keyProperty": "qualified_name",
+                        "labelProperty": "name"
+                    },
+                    "propertyOrder": 3
+                },
+                "parish": {
+                    "label": {
+                        "en": "Parish"
+                    },
+                    "type": "string",
+                    "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                    "_choiceList": {
+                        "listQName": "grz:Parish",
+                        "keyProperty": "qualified_name",
+                        "labelProperty": "name",
+                        "minCharacters": 2
+                    },
+                    "propertyOrder": 4
+                }
+            },
+            "options": {
+                "collapsed": true
+            },
+            "additionalProperties": false,
+            "propertyOrder": 7
+        },
+        "charge": {
+            "label": {
+                "en": "Charge"
+            },
+            "type": "string",
+            "propertyOrder": 8
+        },
+        "chargeLocation": {
+            "label": {
+                "en": "Charge Location"
+            },
+            "type": "object",
+            "properties": {
+                "transcript": {
+                    "label": {
+                        "en": "Transcript"
+                    },
+                    "type": "string",
+                    "minLength": 1,
+                    "propertyOrder": 1
+                },
+                "standardForm": {
+                    "label": {
+                        "en": "Standard Form"
+                    },
+                    "type": "string",
+                    "minLength": 1,
+                    "propertyOrder": 2
+                },
+                "sestiere": {
+                    "label": {
+                        "en": "Sestiere"
+                    },
+                    "type": "string",
+                    "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                    "_choiceList": {
+                        "listQName": "grz:Sestriere",
+                        "keyProperty": "qualified_name",
+                        "labelProperty": "name"
+                    },
+                    "propertyOrder": 3
+                },
+                "parish": {
+                    "label": {
+                        "en": "Parish"
+                    },
+                    "type": "string",
+                    "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                    "_choiceList": {
+                        "listQName": "grz:Parish",
+                        "keyProperty": "qualified_name",
+                        "labelProperty": "name",
+                        "minCharacters": 2
+                    },
+                    "propertyOrder": 4
+                }
+            },
+            "options": {
+                "collapsed": true
+            },
+            "additionalProperties": false,
+            "propertyOrder": 9
+        },
+        "residence": {
+            "label": {
+                "en": "Residence"
+            },
+            "type": "object",
+            "properties": {
+                "transcript": {
+                    "label": {
+                        "en": "Transcript"
+                    },
+                    "type": "string",
+                    "minLength": 1,
+                    "propertyOrder": 1
+                },
+                "standardForm": {
+                    "label": {
+                        "en": "Standard Form"
+                    },
+                    "type": "string",
+                    "minLength": 1,
+                    "propertyOrder": 2
+                },
+                "sestiere": {
+                    "label": {
+                        "en": "Sestiere"
+                    },
+                    "type": "string",
+                    "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                    "_choiceList": {
+                        "listQName": "grz:Sestriere",
+                        "keyProperty": "qualified_name",
+                        "labelProperty": "name"
+                    },
+                    "propertyOrder": 3
+                },
+                "parish": {
+                    "label": {
+                        "en": "Parish"
+                    },
+                    "type": "string",
+                    "pattern": "^[a-z]{1,10}:[A-Za-z]{1}[A-Za-z0-9(),_.]+$",
+                    "_choiceList": {
+                        "listQName": "grz:Parish",
+                        "keyProperty": "qualified_name",
+                        "labelProperty": "name",
+                        "minCharacters": 2
+                    },
+                    "propertyOrder": 4
+                }
+            },
+            "options": {
+                "collapsed": true
+            },
+            "additionalProperties": false,
+            "propertyOrder": 10
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea",
+            "propertyOrder": 11
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "name",
+        "gender"
+    ],
+    "annotationRules": {
+        "entities": {
+            "allowMultiple": false,
+            "allowAdditions": true,
+            "types": [
+                "grz:Person"
+            ]
+        },
+        "semanticTags": {
+            "allowMultiple": false,
+            "allowAdditions": false,
+            "lists": [
+                {
+                    "qualifiedName": "grz:PersonMentionTagList",
+                    "itemType": "dhc:SemanticTag"
+                }
+            ]
+        }
+    }
+}

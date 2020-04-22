@@ -1,0 +1,1440 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/262.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f9de6206-bf6a-4106-b5d6-447929c335c6",
+    "contract_date": "1575-06-09",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zaneto; Baldissera",
+    "apprentice_name": "Francesco De Garla (di Zuane)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d41c4ec8-be9f-4c2e-bc2a-5186cce6ec0d",
+    "contract_date": "1575-06-10",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Paulo Cargan, di Nicol\u00f2",
+    "apprentice_name": "Marchi\u00f2, quondam Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "dc1e93a1-77af-4f06-a2a4-549c9a973030",
+    "contract_date": "1575-06-20",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Iacomo Bembo",
+    "apprentice_name": "Battista Padoan, di Iacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cfa48ebc-838a-4826-a579-0148f70b0c1c",
+    "contract_date": "1575-07-23",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Lunardo Ghidetto, di Iacomo",
+    "apprentice_name": "Giacomo, di Zuane",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0d4e3563-3bc0-4e97-8b47-157b99c4f354",
+    "contract_date": "1575-09-26",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Francesco, di Marco",
+    "apprentice_name": "Diana, quondam Salvador",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "df21ddde-2bc9-49f1-85dd-1aeee199f014",
+    "contract_date": "1575-11-04",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Paulo Dalla Veste",
+    "apprentice_name": "Antonio, di Bortholo",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ba2ec474-2641-4e74-be55-4224ad81f68a",
+    "contract_date": "1575-12-02",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Piero, di Iacomo",
+    "apprentice_name": "Piero, di Gelmin",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "620245de-9145-49fa-9489-1d4fc1333b25",
+    "contract_date": "1575-12-05",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane Cerchier, di Alessandro",
+    "apprentice_name": "Francesco Mascotto, quondam Mathio",
+    "apprentice_origin_name": "Fossalta di Piave"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "eb7e6d3e-a01d-4ae5-82f1-ef433e91f326",
+    "contract_date": "1582-01-03",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane, di Andrea",
+    "apprentice_name": "Matio, quondam Andrea",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fb15739c-51d2-4a2b-829d-dc84738b11a6",
+    "contract_date": "1582-08-20",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Cristofolo",
+    "apprentice_name": "Andrea, quondam Antonio",
+    "apprentice_origin_name": "Peschiera del Garda"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ad7a8ed9-a3e9-41a7-8422-61bc8231de6a",
+    "contract_date": "1582-08-31",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Marchio, di Betin",
+    "apprentice_name": "Lazaro, di Cristofolo ",
+    "apprentice_origin_name": "Olmo al Brembo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0e487afa-9902-4b73-aa57-dd7dfb45bca8",
+    "contract_date": "1582-10-20",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Liberar",
+    "apprentice_name": "Vespisian, quondam Giulio",
+    "apprentice_origin_name": "Mantova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "87b36231-ad5d-425d-badd-0b59f7275bfe",
+    "contract_date": "1582-10-25",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Domenico",
+    "apprentice_name": "Gerolamo, di Nicollo",
+    "apprentice_origin_name": "Piove"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7c201c4f-fea1-4d6f-bdf0-8f336d5e2434",
+    "contract_date": "1582-11-12",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Paullo, di Nicollo",
+    "apprentice_name": "Zuane, di Tomaso",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fb07709a-e0ca-4198-ac7a-c8c1e55e1a67",
+    "contract_date": "1582-12-09",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane, di Andrea",
+    "apprentice_name": "Giacomo, quondam Michiel",
+    "apprentice_origin_name": "Trento"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "318bf8fc-3620-4c16-ac46-79f4c99b0f43",
+    "contract_date": "1583-03-21",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Baldisera Di Michielli",
+    "apprentice_name": "Andrea Di Castagni, di Bernardo",
+    "apprentice_origin_name": "Lecco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "05954b0c-8bb5-4601-8048-c0483cf91f2e",
+    "contract_date": "1583-03-31",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Cristofollo Dalle Veste",
+    "apprentice_name": "Giacomo, quondam Menego",
+    "apprentice_origin_name": "Gambugliano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "2f04b027-910f-4e29-ab2a-5dbb800f61ab",
+    "contract_date": "1583-06-27",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Battista, di Cristofollo",
+    "apprentice_name": "Pasqual, quondam Girolamo",
+    "apprentice_origin_name": "San Don\u00e0 di Piave"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "75dee7f8-0ed2-4ad9-b405-44330cfc3130",
+    "contract_date": "1583-11-22",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Cabriel",
+    "apprentice_name": "Faustin di raveli, di LOrenzo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "68abeb0e-d83e-4197-bda5-da6df13c86aa",
+    "contract_date": "1583-11-26",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Candio",
+    "apprentice_name": "Gualtio, di Zuane",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8b2fe55e-1b9a-4d79-a7e8-afaa5f701be8",
+    "contract_date": "1584-03-02",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Vangelista",
+    "apprentice_name": "Cesaro, di Lazaro",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0da2a74a-2bd4-4e7b-95b3-195e5eb9a5fc",
+    "contract_date": "1584-03-19",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Lorenzo Lisandro",
+    "apprentice_name": "Cristofollo Zopa, di Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9ef897a9-3986-408e-bdb5-709ff96710f9",
+    "contract_date": "1584-08-13",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Vanzelista",
+    "apprentice_name": "Daniel Scoto, di Zorzi",
+    "apprentice_origin_name": "Mandello del Lario"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1b39f462-d2c3-4fdf-8f78-3cc049c52615",
+    "contract_date": "1592-01-11",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Domenico",
+    "apprentice_name": "Mario, di Giacomo",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7210c06d-40ac-4e03-a365-827c99b04d94",
+    "contract_date": "1592-02-15",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Gasparo",
+    "apprentice_name": "Isepo, quondam Antonio (quondam Bortollo)",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bedb6f3f-6ddc-4ec3-85a6-1561ecac6047",
+    "contract_date": "1592-02-17",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Baldisera",
+    "apprentice_name": "Antonio Arigon, di Erculle",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "76171ce6-1446-4a55-bac2-f02f2402eb91",
+    "contract_date": "1592-04-15",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Domenego",
+    "apprentice_name": "Alvise, di Anzolo",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "17ea0939-8a6d-452f-96e4-c0bd11fed85f",
+    "contract_date": "1592-06-23",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Domenico",
+    "apprentice_name": "Francesco, di Alvise (quondam Antonio)",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c6e89533-2158-491a-b025-aa632f4cb9c7",
+    "contract_date": "1592-07-24",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Alisso",
+    "apprentice_name": "Lorenzo de Mandel, di Martin",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e587a4c4-3674-4323-abf5-1c5a279aabde",
+    "contract_date": "1592-07-28",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Battista, quondam Zuane",
+    "apprentice_name": "Zuane, di Giacomo (di Benedeto Francescho)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e4d955c7-0f76-49d9-b1d4-fa513289a929",
+    "contract_date": "1592-08-27",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane",
+    "apprentice_name": "Lunardo, quondam Toni",
+    "apprentice_origin_name": "Vigonovo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bd61a8c1-ae1d-4799-8f48-4cc7cdd47151",
+    "contract_date": "1592-11-12",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Isepo",
+    "apprentice_name": "Urban, di Zusto",
+    "apprentice_origin_name": "Valle del But"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "63f15607-70a5-4015-86f9-9b029d6fc53a",
+    "contract_date": "1593-03-31",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Nadalin, di Zuane",
+    "apprentice_name": "Francesco Maria, quondam Simon",
+    "apprentice_origin_name": "Feltre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "421beb74-3b15-43be-a0e0-7c10184313be",
+    "contract_date": "1594-02-04",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Vetor",
+    "apprentice_name": "Piero, quondam Simon",
+    "apprentice_origin_name": "Arco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ebbebb12-3485-4e61-9e8c-69b44a596f1a",
+    "contract_date": "1594-06-30",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Domenico",
+    "apprentice_name": "Michele, di Giacomo",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8d699b95-d872-407e-9037-5c8db57ef3b9",
+    "contract_date": "1594-09-05",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane",
+    "apprentice_name": "Nicol\u00f2 Dal Gambara, quondam Battista",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ac01d16d-fcf0-41c0-82f7-6a5ca0225384",
+    "contract_date": "1594-10-17",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Bertollo",
+    "apprentice_name": "Michiel Rosso, quondam Geronimo",
+    "apprentice_origin_name": "?rivacrolla"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fe2d456e-09c1-4df2-9d99-276ebb96ff62",
+    "contract_date": "1597-03-20",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Domenico, quondam Gerolamo",
+    "apprentice_name": "Zuane, di Zanetto",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "917e622b-cb09-4a5b-ad4a-06956b032054",
+    "contract_date": "1597-09-22",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Liberal, di Pollo",
+    "apprentice_name": "Menego, di Gerolamo",
+    "apprentice_origin_name": "Nogia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "875b133a-d07d-4f9c-86ca-06eb470cebe7",
+    "contract_date": "1597-09-27",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Piero Rasali, quondam Lorenzo",
+    "apprentice_name": "Piero, quondam Felippo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d36c3b5e-3ff3-4ce3-9af6-c0f8ab142c93",
+    "contract_date": "1598-03-07",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Costanzo, di Bertolomio",
+    "apprentice_name": "Francesco, di Bertollo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "57bd451a-229a-472c-bfd2-e8ab2f6c89bb",
+    "contract_date": "1598-05-07",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Paulo, di Domenico",
+    "apprentice_name": "Gasparo, quondam Bertollo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "60f604c3-12b6-4d65-b850-0dbfb89a30e1",
+    "contract_date": "1598-10-24",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Cesaro Pinconi, di Piero Antonio",
+    "apprentice_name": "Bortolamio Dalban, di Piero",
+    "apprentice_origin_name": "Burano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6a30584b-5f42-450e-86ca-b85733057e6f",
+    "contract_date": "1598-11-17",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Pietro Bespa",
+    "apprentice_name": "Menego Tosato, di Anzolo (di Antonio)",
+    "apprentice_origin_name": "Cologna Veneta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "872643b9-581b-46f1-be14-2efbd492c9c9",
+    "contract_date": "1598-12-02",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Matio Bombarda",
+    "apprentice_name": "Zuane Giacomo di Rossi, di Alberto",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9efd2532-4a72-4c30-a076-d246ad1f69d5",
+    "contract_date": "1599-03-10",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Vetor",
+    "apprentice_name": "Marco, di Nicol\u00f2",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "cbd3c805-1c5e-41cd-86cd-4713fd573a59",
+    "contract_date": "1599-06-03",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Fioran",
+    "apprentice_name": "Zuanne, quondam Paulo (di Mattio)",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5b4bcbfa-6558-443c-b718-d6debd83cf8d",
+    "contract_date": "1599-06-08",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Lorenzo",
+    "apprentice_name": "Piero, quondam Lorenzo",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "11cca6ca-fd9e-4120-b9ad-92c2c0aeaa89",
+    "contract_date": "1599-06-18",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Domenico",
+    "apprentice_name": "Zuane Pasquon, quondam Daniel",
+    "apprentice_origin_name": "Portogruaro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3d26075f-58d3-4ecc-aed5-df792d0a6df7",
+    "contract_date": "1599-07-05",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Nadalin",
+    "apprentice_name": "Nicolo Pagnon, di Andrea",
+    "apprentice_origin_name": "Loria"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4fd096a8-2c64-4e51-93eb-5a83676cf89c",
+    "contract_date": "1606-05-22",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zamaria Rizzo, di Lissandro",
+    "apprentice_name": "Nicollo Paga, di Zampiero",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c94b88ea-fbaa-4202-bcc9-fab7ace8785a",
+    "contract_date": "1606-05-23",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Paullo, di Livio",
+    "apprentice_name": "Borthollo Rizzato, di Zamaria",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "51bc495d-1bd3-4f6d-b377-cd08637ed6cc",
+    "contract_date": "1606-06-09",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Domenego",
+    "apprentice_name": "Batista, di Giacomo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0b60cbdc-ad14-4612-866c-196a06f9a99e",
+    "contract_date": "1606-07-08",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Paullo",
+    "apprentice_name": "Pasqualin, di Berto",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "497c6f2c-7498-43e2-9501-47683e43eb0b",
+    "contract_date": "1606-10-14",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Paullo",
+    "apprentice_name": "Menegho Frezza, di Candio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "35ce1d15-1732-45d0-8603-c6f724223aac",
+    "contract_date": "1606-10-16",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Antonio Albertini",
+    "apprentice_name": "Tomio Maruocho, di Antonio",
+    "apprentice_origin_name": "Noale"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "caeb06a3-74b9-40c9-9b42-922b3b651ed0",
+    "contract_date": "1606-10-25",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zamaria Rizzo",
+    "apprentice_name": "Ambroso De Lobin, quondam Ambroso",
+    "apprentice_origin_name": "Svizzera"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c7dac2bf-f8d7-4b7d-8aaa-848b7bb38d33",
+    "contract_date": "1606-11-04",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Orlando Suboldi",
+    "apprentice_name": "Simon, di Iseppo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5508143a-aa4b-43d9-b3bb-2df3cb0dfcd0",
+    "contract_date": "1609-01-26",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane",
+    "apprentice_name": "Battista, di Piero",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6ce55fe1-e07e-4aeb-8679-41d402eb9dae",
+    "contract_date": "1609-06-30",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Lunardo Pastor",
+    "apprentice_name": "Zuane Battista, di Nadal",
+    "apprentice_origin_name": "Latisana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "256928b4-bb73-4179-89f3-3363ed94019c",
+    "contract_date": "1609-12-16",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Angelo",
+    "apprentice_name": "Polonio, di Battista (di Polonio)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ae82eea8-2ef7-4f1c-9588-e7d52d308e2d",
+    "contract_date": "1620-11-24",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Bortollo di Carchi",
+    "apprentice_name": "Gerolemo Tiepolo, di Lorenzo",
+    "apprentice_origin_name": "Oderzo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "018263a2-05e0-4d54-a6d4-d81787e5612e",
+    "contract_date": "1621-02-21",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane",
+    "apprentice_name": "Alberto, di Adamo",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e14b56e3-ce9a-46a7-b924-2af620f06df6",
+    "contract_date": "1621-02-26",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Costantin Paoni",
+    "apprentice_name": "Marchioro Giacobi, di Simon",
+    "apprentice_origin_name": "Cadore"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4f34540c-7b34-4ff9-8738-e146cd613831",
+    "contract_date": "1621-07-03",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Pietro",
+    "apprentice_name": "Paullo Mistruzo, di Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e7b2cffe-d51c-414d-bac2-c00c9bc22cc5",
+    "contract_date": "1621-09-17",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zorzi di Negri, quondam Zuane",
+    "apprentice_name": "Bortolo Drimani, quondam Gerolimo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "00d8c380-a63f-4721-93f0-1de47693559c",
+    "contract_date": "1621-12-01",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Allisandro",
+    "apprentice_name": "Agostino, di Dorigo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ad1c3337-4f1a-45db-921a-b471c50a65aa",
+    "contract_date": "1622-03-10",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuanne Celardo, quondam Baldissera",
+    "apprentice_name": "Daniel Celardo, di Lorenzo",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "067bd85c-e8f7-432e-926f-b59fbe5f4d4b",
+    "contract_date": "1622-04-01",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane, quondam Dorigo",
+    "apprentice_name": "Simon Conso, di Fiorin",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f3172b55-13b9-4807-a25e-270f35fa40bc",
+    "contract_date": "1622-04-18",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Pietro Stainer",
+    "apprentice_name": "Tomaso, quondam Giacomo (di Pietro)",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "fdc094f4-0611-4a40-90ce-5a3276b0e196",
+    "contract_date": "1622-06-17",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane",
+    "apprentice_name": "Giacomo, di Domenego",
+    "apprentice_origin_name": "Livinallongo del Col di Lana"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d6bdb78a-3cab-4aec-8aee-5c4155d89e6f",
+    "contract_date": "1622-09-05",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Benetto",
+    "apprentice_name": "Battista di Alberti, quondam Vido",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ae324ef6-b5cd-43af-9bc1-cc4fb3283088",
+    "contract_date": "1622-11-29",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Benetto",
+    "apprentice_name": "Zan Antonio Fadinelli, di Paulo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "693956fb-c13e-491b-a48e-80213c88dc44",
+    "contract_date": "1625-07-10",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Allessandro Di Tosi",
+    "apprentice_name": "Francesco, quondam Mattio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "433b8e31-98e4-42de-8ef6-e4ad0eba21d7",
+    "contract_date": "1625-08-11",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Bortolo",
+    "apprentice_name": "Dorigo Di Marchi, quondam Marco",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7cee1606-1fad-4fc5-a3fd-1bc7335290ef",
+    "contract_date": "1625-12-01",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Pietro Pischiuta, quondam Nicol\u00f2",
+    "apprentice_name": "Camillo Di Hercolini, di Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a63d689d-322c-44f2-bf8c-dab50e628173",
+    "contract_date": "1626-01-11",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane Notpeder, di Dorigo",
+    "apprentice_name": "Domenico Boldano?, di Pietro",
+    "apprentice_origin_name": "Chiavenna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1d128f31-b3d5-4321-a1d8-84b9970f68e2",
+    "contract_date": "1626-03-14",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Francesco, quondam Francesco",
+    "apprentice_name": "Andrea, di Steffano (quondam Angiolo)",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "33ca04ff-66b6-49ba-9fa6-175c94c19d58",
+    "contract_date": "1626-03-16",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Piero",
+    "apprentice_name": "Gioseffo Cardinal, quondam Steffano",
+    "apprentice_origin_name": "Lucca"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8464d25a-cb67-4382-866c-51191a37ba10",
+    "contract_date": "1626-06-13",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Pietro, quondam Nicol\u00f2",
+    "apprentice_name": "Lorenzo Tamasia, quondam Andrea",
+    "apprentice_origin_name": "Concordia Sagittaria"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4ef18432-ab86-461e-a3bb-2167a18bdc68",
+    "contract_date": "1627-03-12",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zan Maria; Cristoffolo",
+    "apprentice_name": "Cristoffolo Venturello, quondam Antonio",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "da76f77a-750a-4fb7-9463-627089f3f94b",
+    "contract_date": "1627-04-07",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Coradin, di Steffano",
+    "apprentice_name": "Pietro, di Thomaso (di Pietro)",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "26e2d632-bda9-4ad3-9afd-3b2872d2b279",
+    "contract_date": "1627-04-20",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Bonetto",
+    "apprentice_name": "Girolemo Carrara, di Bernardo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "d15fc1e9-7731-4dde-bf79-86311989d6e0",
+    "contract_date": "1632-03-20",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Piero",
+    "apprentice_name": "Carlo Cagnolin, quondam Francesco",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7ac46175-e581-4586-bbd0-2fcb49473b59",
+    "contract_date": "1632-07-13",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Bortolo Di Zanchi",
+    "apprentice_name": "Giacomo Berna, quondam Gasparo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9bd0a044-aca4-4516-b972-6e36db14e6b7",
+    "contract_date": "1632-08-23",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Lorenzzo",
+    "apprentice_name": "Nadalin, quondam Gasparo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e38ebb16-3cce-42fa-8497-a2f49060ab74",
+    "contract_date": "1632-10-20",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Bortolomio Dai Chiodi",
+    "apprentice_name": "Giacomo Di Lunardi, quondam Lunardo",
+    "apprentice_origin_name": "Friuli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "1d6c418f-b93b-465b-b277-d88086b27db3",
+    "contract_date": "1644-06-16",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Maddalena",
+    "apprentice_name": "Michiel, quondam Piero",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7dbe4752-7fff-4a64-8f96-b7bfcf8dffac",
+    "contract_date": "1644-07-08",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Piero Cornolti",
+    "apprentice_name": "Iseppo Del Pezz, quondam Iseppo",
+    "apprentice_origin_name": "Zogno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f0c236f4-f121-4e01-af50-f22a1d82f03b",
+    "contract_date": "1644-11-17",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Pietro",
+    "apprentice_name": "Menego Pischiuta, quondam Andrea",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "3b6a7fbd-e352-41cc-a7e7-9dfdd69632ea",
+    "contract_date": "1645-09-28",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane Salunidor",
+    "apprentice_name": "Zuane Falcon, di Anzolo",
+    "apprentice_origin_name": "Carnia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "967eabb9-6d49-481d-9a23-34b45e38f99c",
+    "contract_date": "1647-01-23",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Antonio  Astori ",
+    "apprentice_name": "Zuane Buranello, di Alban",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4f96f394-d3df-4bd5-9017-86ad34be95a3",
+    "contract_date": "1653-03-13",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Lunardo Barifaldo, quondam Anzolo",
+    "apprentice_name": "Domenego, di Franco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "6784cad7-8b4c-463b-863c-a9cd1d537a3b",
+    "contract_date": "1656-09-11",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Domenego",
+    "apprentice_name": "Valentin, quondam Lunardo",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "bbd24353-78b5-4b5b-b8a9-fdc2dab7b392",
+    "contract_date": "1657-01-02",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Battista Gritti",
+    "apprentice_name": "Bernardini Garbaini, quondam Zamaria",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "211f762e-df37-43bf-b87a-50162c662fb4",
+    "contract_date": "1657-01-11",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Bernardo",
+    "apprentice_name": "Iseppo Zanco, di Bernardo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "9a36437c-8398-4240-8f03-82b7e620715a",
+    "contract_date": "1657-06-18",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Piero",
+    "apprentice_name": "Felippo Gennarini, di Battista",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "04904462-f956-4165-8759-e01b58dbe880",
+    "contract_date": "1657-09-13",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Piero",
+    "apprentice_name": "Zuane Fedrici, quondam Marco",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e469c1ba-258c-47b6-ba54-4cbc8e5bff43",
+    "contract_date": "1658-05-13",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Agostin  Gasparin",
+    "apprentice_name": "Gasparo Luna, quondam Francesco",
+    "apprentice_origin_name": "Piove di Sacco"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5c70370d-2f28-4cac-af2e-ef304cb890ed",
+    "contract_date": "1658-10-22",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Antonio di Negri",
+    "apprentice_name": "Gregorio Cortalta, quondam Christophoro",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "b4c193ff-d543-4a74-a54a-79889257f44d",
+    "contract_date": "1658-12-01",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Giacomo",
+    "apprentice_name": "Zuanne Carletti, di Carlo",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "76da9d48-e294-4be5-8559-a2b2013c5d81",
+    "contract_date": "1659-05-08",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Giacomo Zanchi",
+    "apprentice_name": "Roco Mazzoco, di Agostin",
+    "apprentice_origin_name": "Piove"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "026cd84e-6197-4f1f-8cd4-d82594494ee4",
+    "contract_date": "1662-01-12",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Carlo Rifon",
+    "apprentice_name": "Piero Rubin, di Bortolamio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "8c5ba277-7d83-408d-97d1-88239d132ce7",
+    "contract_date": "1662-04-13",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Lunardo",
+    "apprentice_name": "Giacomo, di Domenico",
+    "apprentice_origin_name": "Burano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "5706ad35-c065-479d-aa47-36649eee3f88",
+    "contract_date": "1662-04-22",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Agostin",
+    "apprentice_name": "Francesco Gasparini, di Antonio",
+    "apprentice_origin_name": "Mirano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "669bfa68-b61e-4a36-901b-7d427c2fa799",
+    "contract_date": "1663-10-02",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane",
+    "apprentice_name": "Piero, di Zuane Maria",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "49130b6c-257b-40d2-92ad-da746e1a488a",
+    "contract_date": "1664-04-17",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Pietro Pischiuta",
+    "apprentice_name": "Rocho Giavani, quondam Antonio",
+    "apprentice_origin_name": "Conegliano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "a76b57a0-c4ed-4808-b2c1-606c65c5e9e4",
+    "contract_date": "1664-05-02",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane Flumian",
+    "apprentice_name": "Giacomo Paruzzo?, di Bastian",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "0446d3bf-bb73-4dbc-849b-200fc9cf9c23",
+    "contract_date": "1664-07-11",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Scipion Monaci, di Agostin",
+    "apprentice_name": "Piero, di Lorenzo Nicodemo",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "95a2d9d7-9bcd-4378-9335-d1505c12fa53",
+    "contract_date": "1664-10-14",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Venturin Venturini?",
+    "apprentice_name": "Anzolo Molinari, di Zuane",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "debc689c-f7b8-41e9-ac3c-f983ba706a8b",
+    "contract_date": "1665-04-20",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Giacomo",
+    "apprentice_name": "Giacomo  Bienzo, di Antonio",
+    "apprentice_origin_name": "Grigioni"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "4de050dc-8949-4582-9424-7b0988ba697a",
+    "contract_date": "1671-05-11",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuan Maria Carara",
+    "apprentice_name": "Francesco Patti, di Bernardo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "ee866ccb-a595-4106-80cd-f2c908077d25",
+    "contract_date": "1671-06-30",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Piero Baraciol",
+    "apprentice_name": "Giacomo Pacisa, di Gasparo",
+    "apprentice_origin_name": "Padova"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "f87d4a42-7708-4e4b-8d69-b15dda42f23a",
+    "contract_date": "1671-07-21",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuanne Fumian",
+    "apprentice_name": "Antonio Battisteti, di Don\u00e0",
+    "apprentice_origin_name": "Conegliano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7ab02de5-dc0b-4719-9eec-1c3bcf8dea24",
+    "contract_date": "1681-05-06",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Antonio Dell'Era",
+    "apprentice_name": "Zuane Battista Conti, quondam Dionisio",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "e31e6a47-0b39-474c-8597-57ec8ec8b259",
+    "contract_date": "1682-05-23",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Zuane Fattorini",
+    "apprentice_name": "Francesco Femazza, di Antonio",
+    "apprentice_origin_name": "Belluno"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "43037162-c82c-47b5-bd4f-f0a0f7d15359",
+    "contract_date": "1710-10-01",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Santo Balbiani",
+    "apprentice_name": "Antonio Cargasach",
+    "apprentice_origin_name": "Milano"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "25b8c269-1f5f-43d7-8068-ea8283e59be4",
+    "contract_date": "1712-04-07",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Santo Parma",
+    "apprentice_name": "Anzolo Longhini, di Matio",
+    "apprentice_origin_name": "Venezia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "c3798ba1-8595-486b-8a33-e02421641bb9",
+    "contract_date": "1712-10-21",
+    "workshop_parish": "San Barnaba",
+    "master_name": "Pietro Brusi",
+    "apprentice_name": "Francesco Rota, di Carlo",
+    "apprentice_origin_name": "Bergamo"
+   }
+  }
+ ]
+}

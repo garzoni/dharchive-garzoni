@@ -1,0 +1,84 @@
+{
+ "type": "FeatureCollection",
+ "name": "/output/details/309.geojson",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "31587cc9-9d23-4e2d-8d87-00487101c6bd",
+    "contract_date": "1606-06-01",
+    "workshop_parish": "San Boldo",
+    "master_name": "Lissandro Laudello?, di Piero",
+    "apprentice_name": "Giacomo, di Piero",
+    "apprentice_origin_name": "Mestre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7388cc7e-f0db-4bfb-a3c7-d9f3978a79ca",
+    "contract_date": "1620-06-16",
+    "workshop_parish": "San Boldo",
+    "master_name": "Zuane de Mestrini",
+    "apprentice_name": "Zuan Antonio Fasuol, quondam Gerolemo",
+    "apprentice_origin_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "330f8f61-7e4b-466f-a302-f4e0c9521ee1",
+    "contract_date": "1621-11-22",
+    "workshop_parish": "San Boldo",
+    "master_name": "Michiel",
+    "apprentice_name": "Giacomo di Otti, di Giovan Battista",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "64caee24-ad67-4e54-a94c-82a15bb4c87c",
+    "contract_date": "1622-11-28",
+    "workshop_parish": "San Boldo",
+    "master_name": "Michiel",
+    "apprentice_name": "Bortolo di Togni, di Francesco",
+    "apprentice_origin_name": "Trentino"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "68096246-9a11-4325-a5d0-873e1da0b5b3",
+    "contract_date": "1644-11-28",
+    "workshop_parish": "San Boldo",
+    "master_name": "Antonio Belotto",
+    "apprentice_name": "Piero Cardeneal, di Battista",
+    "apprentice_origin_name": "Bergamo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "contract_id": "7e2b6bb2-3532-4156-ae04-b254d3d850dd",
+    "contract_date": "1742-07-18",
+    "workshop_parish": "San Boldo",
+    "master_name": "Matio Panciera",
+    "apprentice_name": "Carlo Panciera, di Valerio",
+    "apprentice_origin_name": "Val di Zoldo"
+   }
+  }
+ ]
+}

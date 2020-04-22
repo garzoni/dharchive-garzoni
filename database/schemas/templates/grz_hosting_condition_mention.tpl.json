@@ -1,0 +1,58 @@
+{
+    "type": "object",
+    "properties": {
+        "qualifiedName": "@qualifiedName",
+        "paidInGoods": {
+            "label": {
+                "en": "Paid in Goods"
+            },
+            "type": "boolean"
+        },
+        "paidBy": {
+            "label": {
+                "en": "Paid by"
+            },
+            "default": "grz:MasterPayer",
+            "@grzPayer": {}
+        },
+        "applicationRule": "@grzApplicationRule",
+        "periodization": {
+            "label": {
+                "en": "Periodization"
+            },
+            "default": "grz:WholePeriod",
+            "@grzPeriodization": {}
+        },
+        "period": {
+            "label": {
+                "en": "Specific Period"
+            },
+            "type": "string"
+        },
+        "clothingType": {
+            "label": {
+                "en": "Type of Clothing"
+            },
+            "type": "string"
+        },
+        "details": {
+            "label": {
+                "en": "Additional Information"
+            },
+            "type": "string",
+            "format": "textarea"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["paidInGoods"],
+    "annotationRules": {
+        "semanticTags": {
+            "allowMultiple": false,
+            "allowAdditions": false,
+            "lists": [{
+                "qualifiedName": "grz:HostingConditionMentionTagList",
+                "itemType": "dhc:SemanticTag"
+            }]
+        }
+    }
+}
