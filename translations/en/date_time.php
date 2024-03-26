@@ -2,11 +2,11 @@
 
 return [
     'date'          => [
-        'full'      => '%A, %B %e, %G',
-        'long'      => '%B %e, %G',
-        'medium'    => '%b %e, %G',
-        'short'     => '%m/%d/%G',
-        'standard'  => '%G-%m-%d',
+        'full'      => 'EEEE, MMMM d, y',
+        'long'      => 'MMMM d, y',
+        'medium'    => 'MMM d, y',
+        'short'     => 'M/d/y',
+        'standard'  => 'y-MM-dd',
     ],
     'expression'    => [
         'now'   => 'just now',
@@ -21,18 +21,18 @@ return [
         'year'      => 'year|years',
     ],
     'time'          => [
-        'full'      => '%H:%M:%S %Z',
-        'long'      => '%H:%M:%S %Z',
-        'medium'    => '%H:%M:%S',
-        'short'     => '%H:%M',
-        'standard'  => '%H:%M:%S',
+        'full'      => 'HH:mm:ss z',
+        'long'      => 'HH:mm:ss z',
+        'medium'    => 'HH:mm:ss',
+        'short'     => 'HH:mm',
+        'standard'  => 'HH:mm:ss',
     ],
     'timestamp'     => [
-        'full'      => '%A, %B %e, %G at %H:%M:%S %Z',
-        'long'      => '%B %e, %G at %H:%M:%S %Z',
-        'medium'    => '%b %e, %G, %H:%M:%S',
-        'short'     => '%m/%d/%G %H:%M',
-        'standard'  => '%G-%m-%d %H:%M:%S',
+        'full'      => 'EEEE, MMMM d, y \'at\' HH:mm:ss z',
+        'long'      => 'MMMM d, y \'at\' HH:mm:ss z',
+        'medium'    => 'MMM d, y, HH:mm:ss',
+        'short'     => 'MM/dd/y HH:mm',
+        'standard'  => 'y-MM-dd HH:mm:ss',
     ],
 ];
 
