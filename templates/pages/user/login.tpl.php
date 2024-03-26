@@ -55,7 +55,6 @@
                 </div>
             </div>
             <div class="ui error message"></div>
-            <?php /*
             <div class="ui horizontal divider">
                 Or
             </div>
@@ -63,7 +62,6 @@
                 Continue as a Guest
                 <i class="user outline icon"></i>
             </div>
-            */ ?>
         </form>
     </div>
 </div>
@@ -73,17 +71,13 @@
 <script>
     $(document).ready(function() {
         var guestLoginButton = $('#guest-login-button'),
-            errorMessages = JSON.parse('<?php echo json_encode(
-            $this->session->getMessages('error'));
-            ?>'),
+            errorMessages = JSON.parse('<?php echo json_encode($this->session->getMessages('error'));?>'),
             loginForm = $('.ui.form');
-        <?php /*
         guestLoginButton.on('click', function () {
             loginForm.find('input[name="login-uid"]').val('guest');
             loginForm.find('input[name="password"]').val('q87I2AXRpt4I');
             loginForm.submit();
         });
-        */ ?>
         loginForm.form({
             fields: {
                 email: {
