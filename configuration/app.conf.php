@@ -11,7 +11,7 @@ return new Repository(call_user_func(function()
         'app_name'      => 'Garzoni',
         'app_version'   => '2.0',
         'protocol'      => 'https',
-        'domain'        => 'garzoni.dhlab.epfl.ch',
+        'domain'        => 'garzoni.org',
         'timezone'      => 'Europe/Zurich',
         'charset'       => 'utf-8',
         'owner'         => 'Garzoni Project',
@@ -20,7 +20,7 @@ return new Repository(call_user_func(function()
     // Environment
     switch (ENVIRONMENT) {
         case 'development':
-            $settings['domain'] = 'garzoni-dev.dhlab.epfl.ch';
+            $settings['domain'] = 'dev.garzoni.org';
             $settings['env'] = [
                 'display_errors'        => true,
                 'error_reporting'       => E_ALL,
