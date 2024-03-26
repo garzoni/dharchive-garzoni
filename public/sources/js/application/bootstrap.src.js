@@ -67,4 +67,16 @@ $(document).ready(function() {
         transition: 'fade in',
         duration: 1000
     });
+
+    document.addEventListener('contextmenu', function(e) {
+        if (e.target.tagName === 'IMG' || e.target.tagName === 'CANVAS') {
+          e.preventDefault();
+        }
+    });
+
+    document.addEventListener('dragstart', function (e) {
+      if (e.target.tagName === 'IMG') {
+        e.preventDefault();
+      }
+    });
 });
