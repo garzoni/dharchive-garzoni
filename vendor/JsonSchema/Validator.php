@@ -34,16 +34,12 @@ class Validator extends BaseConstraint
      * Both the php object and the schema are supposed to be a result of a json_decode call.
      * The validation works as defined by the schema proposal in http://json-schema.org.
      *
-     * Note that the first argument is passwd by reference, so you must pass in a variable.
-     *
-     * {@inheritdoc}
+     * Note that the first argument is passed by reference, so you must pass in a variable.
      */
     public function validate(&$value, $schema = null, $checkMode = null)
     {
-        // make sure $schema is an object
-        if (is_array($schema)) {
-            $schema = self::arrayToObjectRecursive($schema);
-        }
+        // reset errors prior to validation
+        $this->reset();
 
         // set checkMode
         $initialCheckMode = $this->factory->getConfig();
@@ -74,6 +70,8 @@ class Validator extends BaseConstraint
 
     /**
      * Alias to validate(), to maintain backwards-compatibility with the previous API
+     *
+     * @deprecated
      */
     public function check($value, $schema)
     {
@@ -82,6 +80,8 @@ class Validator extends BaseConstraint
 
     /**
      * Alias to validate(), to maintain backwards-compatibility with the previous API
+     *
+     * @deprecated
      */
     public function coerce(&$value, $schema)
     {
