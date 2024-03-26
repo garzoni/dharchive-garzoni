@@ -36,8 +36,8 @@ class ApcCache extends Model
      */
     public function getStatistics(): array
     {
-        $smaInfo = apc_sma_info() ?: [] ;
-        $cacheInfo = apc_cache_info('user') ?: [];
+        $smaInfo = apcu_sma_info() ?: [] ;
+        $cacheInfo = apcu_cache_info() ?: [];
 
         if (empty($smaInfo) || empty($cacheInfo)) {
             return [];
@@ -123,7 +123,6 @@ class ApcCache extends Model
             $this->text->get('cache.server_address') => $info['server_address'],
             $this->text->get('cache.server_software') => $info['server_software'],
             $this->text->get('cache.php_version') => $info['php_version'],
-            $this->text->get('cache.apc_version') => $info['apc_version'],
             $this->text->get('cache.shared_memory_size') => $memorySize,
             $this->text->get('cache.free_shared_memory') => $freeMemory,
             $this->text->get('cache.used_shared_memory') => $usedMemory,
@@ -182,7 +181,6 @@ class ApcCache extends Model
         $cacheInfo = new Map([
             $this->text->get('cache.start_time') => $startTime,
             $this->text->get('cache.uptime') => $uptime,
-            $this->text->get('cache.time_to_live') => $info['time_to_live'],
             $this->text->get('cache.slots') => $info['slot_count'],
             $this->text->get('cache.cached_items') => $itemCount,
             $this->text->get('cache.requests') => $requestCount,
@@ -199,7 +197,7 @@ class ApcCache extends Model
      */
     public function getItems(string $prefix = null): Table
     {
-        $info = apc_cache_info('user') ?: [];
+        $info = apcu_cache_info() ?: [];
 
         if (empty($info) || !isset($info['cache_list'])) {
             return new Table();

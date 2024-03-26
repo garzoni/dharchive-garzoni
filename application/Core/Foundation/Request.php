@@ -585,7 +585,7 @@ class Request
 		$requestUri = $this->getRequestUri();
 
 		$secure = empty($_SERVER['HTTPS'])
-            ? '' : ($_SERVER['HTTPS'] === 'on') ? 's' : '';
+            ? '' : (($_SERVER['HTTPS'] === 'on') ? 's' : '');
 		$protocol = strtolower($_SERVER['SERVER_PROTOCOL']);
 		$protocol = substr(
             $protocol, 0,
