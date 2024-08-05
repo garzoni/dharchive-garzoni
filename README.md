@@ -19,5 +19,5 @@ Copyright (C) 2019 The Garzoni team.
 
 #### License
 
-This software is released under the MIT License.
+This program is provided as open source under the [GNU Affero General Public License](https://github.com/impresso/impresso-pyindexation/blob/master/LICENSE) v3 or later.
 
