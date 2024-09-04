@@ -116,7 +116,8 @@ foreach ($filters as &$table) {
             <p>In practice, the main search is the Contract one, the two others are additional.</p>
             <p>In (1) the basic unit of search is the Contract. When combined, filters act at the level of contract which means that two Person Mention filters, with one specifying the role Master and a profession <em>p</em>, and the other specifying the Role Apprentice and a gender <em>g</em>, will retrieve Contracts that contain both a Master with profession <em>p</em> and an apprentice with gender <em>g</em>.</p>
             <p>For a demonstration of the Faceted Search, you can watch this video:</p>
-            <iframe width="640" height="360" src="https://tube.switch.ch/embed/8775fd07" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+             <!-- <iframe width="640" height="360" src="https://tube.switch.ch/embed/8775fd07" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+            <iframe id="kmsembed-0_c45qoupe" width="608" height="402" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_c45qoupe/uiConfId/23448972/pbc/49179/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Garzoni Project - Data Exploration Illustration"></iframe>
 
             <h3>Fuzzy and Exact Match</h3>
             <p>For searchable filters, i.e. when it is possible to type in to look for a specific value or to add one, fuzzy and exact matches are supported:</p>
